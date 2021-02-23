@@ -182,7 +182,7 @@
   },
   {
     "Address": "6041 CADILLAC AVE RM A 1ST FLR, LOS ANGELES, CA 90034",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -3526,14 +3526,21 @@
   },
   {
     "Affiliation": "John Muir",
+    "Appointment scheduling instructions": [
+      "the hospital contacts patients who are eligible as appointments become available"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T19:04:11.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T19:27:13.000Z",
+    "Latest report notes": [
+      "No vaccines at all at this hospital."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.9129635,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.0412154,
@@ -17913,7 +17920,7 @@
   },
   {
     "Address": "2175 Market Street, San Francisco, CA 94114",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -19666,7 +19673,7 @@
   },
   {
     "Address": "10000 W Washington Blvd\nCulver City, CA 90232",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Appointment scheduling instructions": [
       null
     ],
@@ -24772,7 +24779,7 @@
   },
   {
     "Address": "9400 EAST ROSECRANS BLVD, BELLFLOWER, CA 90706",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24786,8 +24793,15 @@
   {
     "Address": "550 16th St Room 1200, San Francisco, CA 94158",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:30:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.767109,
@@ -32339,7 +32353,7 @@
   },
   {
     "Address": "559 Clay Street 1st Floor, San Francisco, CA 94111",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -33829,7 +33843,7 @@
     "id": "recHw8SHilzbKe5Ws"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "UCSF",
     "Appointment scheduling instructions": [
       "MYCHART"
     ],
@@ -37161,7 +37175,7 @@
   },
   {
     "Address": "110 Sutter Street 6th Floor, San Francisco, CA 94104",
-    "Affiliation": "Sutter",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -38365,7 +38379,7 @@
     "id": "recKPWsJYrfUM2qFK"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Appointment scheduling instructions": [
       "(650) 498 9000 or via myhealth account with Stanford Health Care"
     ],
@@ -39336,7 +39350,7 @@
   },
   {
     "Address": "535 Mission Street Suite 100, San Francisco, CA 94105",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Appointment scheduling instructions": [
       "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area"
     ],
@@ -40930,7 +40944,7 @@
   },
   {
     "Address": "9985 SIERRA AVENUE 1ST FLOOR, FONTANA, CA 92335",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -41459,6 +41473,7 @@
     "id": "recMFaHFK6jDKXNZi"
   },
   {
+    "Affiliation": "Walgreens",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -46053,7 +46068,7 @@
   },
   {
     "Address": "98 Gough Street, San Francisco, CA 94102",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -47174,7 +47189,7 @@
   },
   {
     "Address": "4131 GEARY BLVD STE 101, SAN FRANCISCO, CA 94118",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "Appointment scheduling instructions": [
       null
     ],
@@ -49142,7 +49157,7 @@
   },
   {
     "Address": "9961 SIERRA AVENUE, FONTANA, CA 92335",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -52883,7 +52898,7 @@
   },
   {
     "Address": "9985 SIERRA AVENUE 1 3RD FLR, FONTANA, CA 92335",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -58947,10 +58962,21 @@
   {
     "Address": "Rose Avenue Clinic (Indoor. Babies R Us Building)\n2340 N Rose Ave, Oxnard, CA 93030",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:24:45.000Z",
+    "Latest report notes": [
+      "As per the county, this is a first-dose clinic with appointments via the county website. When last checked (Feb 23), there was availability for Feb 23 through Feb 27.\n\nEligibility:\n\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.21247,
     "Location Type": "Super Site",
     "Longitude": -119.15964,
@@ -59959,10 +59985,21 @@
   {
     "Address": "1401 Maricopa Hwy, Ojai, CA 93023",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:26:28.000Z",
+    "Latest report notes": [
+      "When last checked (Feb 23), there was availability for Feb 26 and Feb 27.\n\nEligibility:\n\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.44243,
     "Location Type": "Super Site",
     "Longitude": -119.26589,
@@ -66115,7 +66152,7 @@
   },
   {
     "Address": "5601 DE SOTO AVE ROOM O, WOODLAND HILLS, CA 91367",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -66508,7 +66545,7 @@
   },
   {
     "Address": "3885 24th Street, San Francisco, CA 94114",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -69470,7 +69507,7 @@
   },
   {
     "Address": "2518 Mission College Blvd #101, Santa Clara, CA 95054",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Appointment scheduling instructions": [
       "2/08 www.stanfordhealthcare.org.  schedule appointment at www.myhealth.com"
     ],
@@ -69926,7 +69963,7 @@
   },
   {
     "Address": "900 Veterans BLVD Suite 150\nRedwood City, CA 94063\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Appointment scheduling instructions": [
       null
     ],
@@ -69941,7 +69978,7 @@
     "Latitude": 37.49008387649289,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.22807390192439,
-    "Name": "One Medical at Redwood City",
+    "Name": "OneMedical at Redwood City",
     "id": "recc7vNLjGlfjWZ4u"
   },
   {
@@ -70705,7 +70742,7 @@
   },
   {
     "Address": "1011 BALDWIN PARK BLVD 1ST FLOOR, BALDWIN PARK, CA 91706",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "Appointment scheduling instructions": [
       null
     ],
@@ -73706,7 +73743,7 @@
   },
   {
     "Address": "580 Valencia Street, San Francisco, CA 94110",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -76798,7 +76835,7 @@
     "id": "recfyhhTSMfFXXxKc"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Availability Info": [
       "No: only vaccinating health care workers"
     ],
@@ -78468,7 +78505,7 @@
   },
   {
     "Address": "1285 4th Street, San Francisco, CA 94158",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -78812,7 +78849,7 @@
   },
   {
     "Address": "875 Blake Wilbur Drive, Suite CC1102, Palo Alto, CA 94305",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Appointment scheduling instructions": [
       null
     ],
@@ -79990,7 +80027,7 @@
   },
   {
     "Address": "501 2nd Street Suite 415, San Francisco, CA 94107",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -80091,7 +80128,7 @@
   },
   {
     "Address": "1300 Crane Street, Menlo Park, CA 94025 ",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -80890,7 +80927,7 @@
     "id": "reci6ccuhbcqEDHzL"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "UCSF",
     "Availability Info": [
       "No: only vaccinating health care workers"
     ],
@@ -81079,7 +81116,7 @@
   },
   {
     "Address": "840 Irving Street, San Francisco, CA 94122",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -82015,7 +82052,7 @@
   },
   {
     "Address": "3490 California Street Suite 203, San Francisco, CA 94118",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -82848,7 +82885,7 @@
   },
   {
     "Address": "9000 Ming Avenue, Bakersfield, CA 93311",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Von's Pharmacy",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -83300,7 +83337,7 @@
   },
   {
     "Address": "2410 California Street, San Francisco, CA 94115",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -91444,7 +91481,7 @@
   },
   {
     "Address": "2450 Ashby Avenue, Berkeley, CA, 94705",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Sutter",
     "Appointment scheduling instructions": [
       null
     ],
@@ -91889,7 +91926,7 @@
   },
   {
     "Address": "Two Embarcadero Center Lobby Level, San Francisco, CA 94111",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -92493,7 +92530,7 @@
   },
   {
     "Address": "1823 Union Street, San Francisco, CA 94123",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -93907,8 +93944,12 @@
   {
     "Address": "15555 Main St Ste D8, Hesperia, CA 92345",
     "Affiliation": "The Medicine Shoppe",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:31:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.423217,
@@ -94566,7 +94607,7 @@
     "id": "recplCjfp19nYyxgF"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "UCSF",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -95947,7 +95988,7 @@
   },
   {
     "Address": "4150 N 1st St , San Jose CA 95134",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Carbon Health",
     "Appointment scheduling instructions": [
       "Appointments via https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine"
     ],
@@ -96649,7 +96690,7 @@
   },
   {
     "Address": "5555 W Las Positas Blvd, Pleasanton, CA 94588",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Stanford Health Care",
     "Appointment scheduling instructions": [
       "online thru:  https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html to your Myhealth portal. If you do not have internet access you can call 650-498-9000"
     ],
@@ -99660,7 +99701,7 @@
   },
   {
     "Address": "1033 THIRD STREET, SAN RAFAEL, CA 94901",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "Appointment scheduling instructions": [
       null
     ],
@@ -99673,7 +99714,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.971907,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.528043,
     "Name": "Kaiser Permanente Downtown San Rafael Medical Offices",
     "id": "recsSdKLo9Ku5C9QL"
@@ -99770,7 +99811,7 @@
     "id": "recsYY9KzFRG2dd8z"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "UCSF",
     "Appointment scheduling instructions": [
       "MyChart "
     ],
@@ -102270,10 +102311,21 @@
   {
     "Address": "Ventura County Office of Education (Indoor)\n5100 Adolfo Rd Camarillo, CA 93012",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:27:12.000Z",
+    "Latest report notes": [
+      "When last checked (Feb 23), there was availability for Feb 25 through Feb 27.\n\nEligibility:\n\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.21626,
     "Location Type": "Super Site",
     "Longitude": -119.00044,
@@ -102400,7 +102452,7 @@
   },
   {
     "Address": "201 Spear Street Suite 230, San Francisco, CA 94105",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -102822,7 +102874,7 @@
   },
   {
     "Address": "595 Castro Street, San Francisco, CA 94114",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "OneMedical",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -106864,7 +106916,7 @@
     "id": "recwZPo0tFQoy2qEp"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Von's Pharmacy",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -110364,7 +110416,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:03:32.000Z",
+    "Latest report": "2021-02-23T19:24:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7815,
