@@ -13488,12 +13488,15 @@
   {
     "Address": "22555 MISSION BVLD, HAYWARD, CA 94541",
     "Affiliation": "Lucky Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:47.000Z",
+    "Latest report": "2021-02-23T23:41:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.671964,
@@ -16900,6 +16903,19 @@
     "Longitude": -118.589646,
     "Name": "Kaiser Permanente Woodland Hills Medical Center",
     "id": "rec97CKWV7ingZgGg"
+  },
+  {
+    "Address": "105 Durian St. \nVista, CA 92083",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.19279947207471,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.27232973087013,
+    "Name": "Vista Community Clinic- Durian Pediatrics",
+    "id": "rec97hCnGonXgS1Fa"
   },
   {
     "Address": "1477 South San Jacinto Ave., San Jacinto, CA 92583",
@@ -39417,19 +39433,16 @@
     "Address": "40101 MONTEREY AVE, RANCHO MIRAGE, CA 92270",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "albertsons.com/covidclinic"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T18:24:54.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T23:47:38.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.75591,
     "Location Type": "Pharmacy",
     "Longitude": -116.392305,
@@ -73914,13 +73927,16 @@
     "Address": "10912 Katella Ave, Anaheim, CA 92804",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:25.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:50:26.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.801313,
     "Location Type": "Pharmacy",
     "Longitude": -117.942136,
@@ -79423,14 +79439,21 @@
   {
     "Address": "57590 29-Palms Highway, Yucca Valley, CA 92284",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T20:22:27.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:51:23.000Z",
+    "Latest report notes": [
+      "1/16: Location is \"booked up until October\"; county website will be able to identify available locations"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.1268637,
     "Location Type": "Pharmacy",
     "Longitude": -116.4104196,
@@ -89752,12 +89775,15 @@
   {
     "Address": "1893 W Malvern Ave, Fullerton CA, 92833",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
+    "Latest report": "2021-02-23T23:46:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8799,
@@ -105269,14 +105295,21 @@
   {
     "Address": "1301 E 17TH ST, SANTA ANA, CA 92705",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:18.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:43:11.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.760404,
     "Location Type": "Pharmacy",
     "Longitude": -117.851323,
@@ -110432,11 +110465,11 @@
     "Address": "22633 SAVI RANCH PKWY, YORBA LINDA, CA 92887",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
+    "Latest report": "2021-02-23T23:52:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.875725,
