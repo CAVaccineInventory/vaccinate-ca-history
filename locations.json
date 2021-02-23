@@ -14421,6 +14421,12 @@
     "id": "rec7n8BHX9toDvynZ"
   },
   {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "rec7nHXCuSYRR61V0"
+  },
+  {
     "Address": "3833 W Caldwell Ave suite B\nVisalia, CA",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -103092,6 +103098,26 @@
     "Longitude": -118.96643,
     "Name": "Mono County Civic Center",
     "id": "recugIZcbO4AKQzVO"
+  },
+  {
+    "Address": "750 W 10th St, Gilroy, CA 95020",
+    "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "Santa Clara County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T05:20:57.000Z",
+    "Latest report notes": [
+      "Currently vaccinating individuals aged 65 or above who live in Santa Clara County, or who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics.\n\nFor appointments after 2/28, also vaccinating Santa Clara county residents who work in Education and Childcare, Emergency Services, and Food and Agriculture including those working in a restaurant.\n\nAppointments can be booked here: https://vax.sccgov.org/gilroyhs. When checked on 2/22, no appointments were available."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 36.997342,
+    "Longitude": -121.575711,
+    "Name": "Gilroy High School",
+    "id": "recugPd0JvpWsgGuG"
   },
   {
     "Address": "6325 ROSEMEAD BLVD, SAN GABRIEL, CA 91775",
