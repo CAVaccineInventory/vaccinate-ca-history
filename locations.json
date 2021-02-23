@@ -6064,9 +6064,22 @@
     "id": "rec3MBe8aPwKesVo8"
   },
   {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Address": "26540 Vista Rd., Helendale, CA 92342",
+    "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T01:45:26.000Z",
+    "Latest report notes": [
+      "There will be a one-day clinic at this site, on Tuesday 2/23/21 for people 65 and older only. You can register for 1st Dose Appointments at https://www.calvax.org/reg/2769900821. As of Feb 22, appointments were still available.\n\nFor information about future vaccination clinics, please see https://sbcovid19.com/vaccine/locations/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.73543,
+    "Longitude": -117.32917,
+    "Name": "Helendale – Community Services District Building",
     "id": "rec3Mi5xk8cEExm0q"
   },
   {
