@@ -36686,12 +36686,15 @@
   {
     "Address": "7981 E STOCKTON BLVD, SACRAMENTO, CA 95823",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T06:15:42.000Z",
+    "Latest report": "2021-02-23T22:12:36.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.468475,
@@ -39216,20 +39219,14 @@
   {
     "Address": "79795 HWY 111, LA QUINTA, CA 92253",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/coronavirus "
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
-    "Latest report notes": [
-      "Appointments can only be made online through the county website. "
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T22:03:01.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.704342,
     "Location Type": "Pharmacy",
     "Longitude": -116.273004,
@@ -41663,10 +41660,21 @@
   {
     "Address": "3724 CRENSHAW BLVD, LOS ANGELES, CA 90016",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:23:43.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.019348,
     "Location Type": "Pharmacy",
     "Longitude": -118.334684,
@@ -65462,16 +65470,20 @@
     "Address": "2235 HAYES ST, SAN FRANCISCO, CA 94117",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "These appointments are scheduled internally"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:03.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T22:12:04.000Z",
+    "Latest report notes": [
+      "The appointments at this location are scheduled internally for existing patients."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.772785,
     "Location Type": "Pharmacy",
     "Longitude": -122.452914,
@@ -68118,7 +68130,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:03:34.000Z",
+    "Latest report": "2021-02-23T22:02:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.562237,
@@ -70165,14 +70177,23 @@
   {
     "Address": "1051 W BURBANK BLVD, BURBANK, CA 91506",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T06:36:47.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T22:19:36.000Z",
+    "Latest report notes": [
+      "Feb 23: Vaccine eligibility based on county guidelines \nFeb 23: Please bring ID to show eligible county residency or employment "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.185739,
     "Location Type": "Pharmacy",
     "Longitude": -118.324045,
@@ -77142,15 +77163,13 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T19:32:27.000Z",
+    "Latest report": "2021-02-23T22:21:34.000Z",
     "Latest report notes": [
-      "Feb. 19: Pharmacist today said appointments are only available to county residents\nFeb. 15: They have vaccine. Sign up at Walgreens.com under covid vaccine link. If they are full, check every day (he thought they might be 3 days out today, but wasn't sure). Do not need to be a county resident.\n"
+      "This location is scheduling appointments through its website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.553051,
@@ -90709,10 +90728,21 @@
   {
     "Address": "15740 WOODRUFF AVE, BELLFLOWER, CA 90706",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:25:04.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.889949,
     "Location Type": "Pharmacy",
     "Longitude": -118.116676,
@@ -92098,16 +92128,13 @@
     "Address": "555 CARMEL RANCHO CENTER, CARMEL, CA 93923",
     "Affiliation": "Lucky Pharmacy",
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: appointment required"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T17:50:25.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T22:17:54.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 36.542815,
     "Location Type": "Pharmacy",
     "Longitude": -121.905805,
@@ -93971,12 +93998,12 @@
       "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:46:28.000Z",
+    "Latest report": "2021-02-23T22:23:21.000Z",
     "Latest report notes": [
       "This location is only scheduling vaccines through their website."
     ],
@@ -101921,14 +101948,15 @@
     "Address": "4701 WHITNEY AVENUE, CARMICHAEL, CA 95608",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "online at https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+      " https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T02:00:26.000Z",
+    "Latest report": "2021-02-23T22:18:26.000Z",
     "Latest report notes": [
       "Website to schedule vaccinations: https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
@@ -105500,8 +105528,12 @@
   {
     "Address": "9308 B TELEPHONE RD, VENTURA, CA 93004",
     "Affiliation": "The Medicine Shoppe",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:04:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.270689,
