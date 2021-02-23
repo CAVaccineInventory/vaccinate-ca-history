@@ -6,7 +6,7 @@ fetch_and_diff () {
     local commit_txt="$1.commit.txt"
     cp $json $json_old
     curl -s $url | jq .content > $json
-    csv-diff $json_old $json --format=json --key=id > $commit_txt
+    csv-diff $json_old $json --format=json --singular=item --plural=items --key=id > $commit_txt
 }
 
 add_and_commit () {
