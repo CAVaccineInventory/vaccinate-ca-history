@@ -13509,6 +13509,31 @@
     "id": "rec7Q5VkmEvjoRKF4"
   },
   {
+    "Address": "27400 CA-18, Lake Arrowhead, CA 92352",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T15:13:47.000Z",
+    "Latest report notes": [
+      "As per the County, there was a first-dose clinic on Feb 22nd for 65+.\n\nSuggest to check the website regularly as new events are added."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.231812,
+    "Location Type": "Super Site",
+    "Longitude": -117.210472,
+    "Name": "Rim of the World High School - supersite",
+    "id": "rec7QmOZXMduUbMt9"
+  },
+  {
     "Address": "38750 TRADE CENTER DR STE G, PALMDALE, CA 93551",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -53569,25 +53594,26 @@
   },
   {
     "Address": "16453 Bear Valley Rd., Hesperia, CA 92345",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "Appointments via https://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/"
     ],
     "Availability Info": [
+      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T22:02:31.000Z",
+    "Latest report": "2021-02-23T15:18:07.000Z",
     "Latest report notes": [
-      "Feb 18\nGo to sbcovid19.com or call (909) 387-3911 to schedule an appointment.\n\n"
+      "When last checked (Feb 23) there were appointments available from Feb 25 through Feb 27th for 65+.\n\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.47013119999999,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -117.3044264,
-    "Name": "Hesperia Health Center",
+    "Name": "Hesperia Health Center - supersite",
     "id": "recT4TdJaGKcWIUzS"
   },
   {
