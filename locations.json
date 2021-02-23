@@ -2450,18 +2450,19 @@
     "Address": "480 MCKINLEY ST, CORONA, CA 92879",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/COVID-19-Vaccine"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:57:54.000Z",
+    "Latest report": "2021-02-23T20:39:53.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through the county website. Only vaccinating county residents or those employed within Riverside County."
+      "Feb 23: Vaccinating according to county guidelines for Tier 1.\nFeb 23: Eligible County residents or those employed within Riverside County, please bring your ID with you to show that you live in the county."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.886811,
