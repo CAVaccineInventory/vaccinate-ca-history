@@ -3525,7 +3525,7 @@
     "id": "rec29k1ZUd9P7L1Ss"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "John Muir",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -6794,11 +6794,11 @@
     "Address": "1718 SOQUEL AVENUE, SANTA CRUZ, CA 95062",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:27.000Z",
+    "Latest report": "2021-02-23T19:18:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.980872,
@@ -22224,7 +22224,7 @@
     "id": "recBzlcPQERkuaWU4"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "John Muir",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -35277,7 +35277,7 @@
   },
   {
     "Address": "4141 Geary Blvd, SAN FRANCISCO, CA 94118",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kaiser",
     "Appointment scheduling instructions": [
       "kpdoc.org/covid19vaccineinfo or by calling 866 454 8855"
     ],
@@ -50159,7 +50159,7 @@
     "id": "recRBdTdTSzXtkVsi"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "John Muir",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -67972,12 +67972,15 @@
   {
     "Address": "27702 CROWN VALLEY PKWY SUITE B, LADERA RANCH, CA 92694",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:35:50.000Z",
+    "Latest report": "2021-02-23T19:03:34.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.562237,
@@ -75787,7 +75790,7 @@
   },
   {
     "Address": "2500 Milvia St, Berkeley, CA 94704\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "John Muir",
     "Appointment scheduling instructions": [
       "myhealthonline.sutterhealth.org"
     ],
@@ -101537,20 +101540,14 @@
   {
     "Address": "1208 West Imola Avenue, NAPA, CA 94559",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:59:30.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T19:19:19.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 38.281888,
     "Location Type": "Pharmacy",
     "Longitude": -122.289145,
@@ -108401,18 +108398,18 @@
     "Address": "260 Spruce St, Gridley CA, 95948",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "cvs.com/coronavirus"
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: coming soon",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T01:45:09.000Z",
+    "Latest report": "2021-02-23T19:04:23.000Z",
     "Latest report notes": [
-      "Feb 11: This location will be vaccinating Friday through Mondays. Currently taking appointments for 65+ (if there are appt's available to be scheduled). Check cvs.com/coronavirus for more information."
+      "This location is scheduling appointments through its website."
     ],
     "Latest report yes?": 1,
     "Latitude": 39.3675,
@@ -110359,12 +110356,15 @@
   {
     "Address": "12444 Beach Boulevard, Stanton CA, 90680",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:35.000Z",
+    "Latest report": "2021-02-23T19:03:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7815,
