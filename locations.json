@@ -30792,16 +30792,16 @@
     "Address": "2201 W REDONDO BEACH BLVD, GARDENA, CA 90247",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.ralphs.com/health "
+      "They'll call current patients"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-23T18:05:05.000Z",
     "Latest report notes": [
       null
     ],
@@ -94429,11 +94429,11 @@
     "Address": "1006 W WABASH AVE, EUREKA, CA 95501",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Humboldt County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:13:43.000Z",
+    "Latest report": "2021-02-23T18:05:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.79227,
