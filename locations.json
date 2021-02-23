@@ -7757,6 +7757,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 38.6640385,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.7947824,
     "Name": "Dignity Health (Woodland) ",
     "id": "rec4CRRjYKgQHv8oZ"
@@ -13716,7 +13717,7 @@
   },
   {
     "Address": "2415 W VINE ST ST 104-B, LODI, CA 95242",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -15574,7 +15575,7 @@
     "id": "rec8TJEFtIe80kWkz"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -27705,7 +27706,7 @@
   },
   {
     "Address": "801 11th Street, Lakeport, CA 95453",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -41569,7 +41570,7 @@
   },
   {
     "Address": "525 Oregon Street, Vallejo, CA 94590",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -43302,12 +43303,15 @@
   {
     "Address": "1517 West Braden Court\nOrange, CA 92868",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: only vaccinating staff"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-21T21:26:18.000Z",
+    "Latest report": "2021-02-23T19:48:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.797252,
@@ -51076,7 +51080,7 @@
   },
   {
     "Address": "220 W. Stockton St., Sonora, CA 95370",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -51089,7 +51093,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.982747,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.386258,
     "Name": "ADVENTIST HEALTH SONORA - STOCKTON ST.",
     "id": "recRi5eaPHGN5mKZj"
@@ -51436,7 +51440,7 @@
   },
   {
     "Address": "2615 Chester Avenue\nBakersfield, CA 93301",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -59595,7 +59599,7 @@
     "id": "recWMmespc1W1wtLr"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -75276,7 +75280,7 @@
   },
   {
     "Address": "1100 Magellan Drive, Tehachapi, CA. 93561",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       "(661) 771-8400 (Call Monday to Thursday: 10AM - 2PM)"
     ],
@@ -81919,7 +81923,7 @@
   },
   {
     "Address": "1509 Wilson Terrace WEST TOWER Rm 4B13, Glendale, CA 91206",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -81929,7 +81933,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.150808,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.230007,
     "Name": "ADVENTIST HEALTH GLENDALE",
     "id": "recifbMObqQKN3oUC"
@@ -82430,7 +82434,7 @@
   },
   {
     "Address": "3 Marcela Drive Suite B, Willits, CA 95490",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
@@ -82443,7 +82447,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.389814,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -123.338991,
     "Name": "Adventist Health Howard Memorial",
     "id": "recj1jklQ0g6HY84a"
@@ -88732,12 +88736,13 @@
   },
   {
     "Address": "1100 Magellan Drive, Tehachapi, CA 93561",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.1474419,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4504364,
     "Name": "Adventist Health Tehachapi Valley (1100 Magellan Drive)",
     "id": "recmXeTLMwsDIt01Q"
@@ -90101,12 +90106,13 @@
   },
   {
     "Address": "1401 Garces Hwy, Delano, CA 93215",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.7622854,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2392519,
     "Name": "Adventist Health Delano",
     "id": "recnIqRnOxT1n45Qz"
@@ -90855,7 +90861,7 @@
   },
   {
     "Address": "15630 18th Avenue, Clearlake, CA 95422\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
       null
     ],
