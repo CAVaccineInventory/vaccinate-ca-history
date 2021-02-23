@@ -1889,6 +1889,19 @@
     "id": "rec0yihyQ0NTIJ1n3"
   },
   {
+    "Address": "201 S. Harbor Boulevard, \nLa Habra, CA 90631",
+    "Affiliation": "Vista Community Clinic",
+    "County": "Orange County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.93077322574748,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.9339234864169,
+    "Name": "Vista Community Clinic- The Gary Center, S. Harbour Blvd",
+    "id": "rec0z2haETLJvOiM8"
+  },
+  {
     "Address": "1340 S Beach Blvd, LA HABRA, CA 90631",
     "Affiliation": "Walmart",
     "Availability Info": [
@@ -9284,12 +9297,15 @@
   {
     "Address": "23716 EL TORO RD, LAKE FOREST, CA 92630",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:00.000Z",
+    "Latest report": "2021-02-23T23:28:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.616788,
@@ -12259,10 +12275,21 @@
   {
     "Address": "4251 Crenshaw Blvd.\nLos Angeles, CA 90008",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T23:28:41.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.00709148478838,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.33507480386884,
@@ -16524,11 +16551,11 @@
     "Address": "16400 Beach Blvd, Westminster CA, 92683",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-23T23:36:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7258,
@@ -24017,14 +24044,20 @@
   {
     "Address": "2050 Glenoaks Blvd, San Fernando, CA 91340",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:35.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:37:45.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.298726,
     "Location Type": "Pharmacy",
     "Longitude": -118.438071,
@@ -24308,6 +24341,19 @@
     "Longitude": -117.489869,
     "Name": "A 1 Care Pharmacy",
     "id": "recCyPnQqeIIAQ4Z6"
+  },
+  {
+    "Address": "1000 Vale Terrace Drive \nVista CA 92084",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.20992659335683,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.22883188854249,
+    "Name": "Vista Community Clinic- Vale Terrace",
+    "id": "recCyY1qRleps73Ya"
   },
   {
     "Address": "1490 Mason St, San Francisco, CA 94133",
@@ -31167,14 +31213,14 @@
     "Address": "17900 NEWHOPE ST, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:26:33.000Z",
+    "Latest report": "2021-02-23T23:25:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.703358,
@@ -104611,15 +104657,12 @@
   {
     "Address": "191 E YORBA LINDA BLVD, PLACENTIA, CA 92870",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T01:03:58.000Z",
+    "Latest report": "2021-02-23T23:39:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.888061,
@@ -112868,15 +112911,16 @@
     "Address": "6939 LINDA VISTA ROAD, SAN DIEGO, CA 92111",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid-19"
+      "riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T00:02:30.000Z",
+    "Latest report": "2021-02-23T23:35:57.000Z",
     "Latest report notes": [
       null
     ],
@@ -113162,12 +113206,15 @@
   {
     "Address": "24500 Alicia Pkwy, Mission Viejo CA, 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
+    "Latest report": "2021-02-23T23:33:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6063,
