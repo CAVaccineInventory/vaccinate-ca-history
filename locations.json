@@ -27239,15 +27239,12 @@
   {
     "Address": "650 GATEWAY CTR DR, SAN DIEGO, CA 92102",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:24.000Z",
+    "Latest report": "2021-02-23T21:10:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.712583,
@@ -38621,11 +38618,11 @@
     "Address": "1445 R ST, MERCED, CA 95340",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:35:50.000Z",
+    "Latest report": "2021-02-23T21:16:19.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.302998,
@@ -60681,11 +60678,11 @@
     "Address": "5101 BUSINESS CENTER DR, FAIRFIELD, CA 94534",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Solano County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:35:50.000Z",
+    "Latest report": "2021-02-23T21:08:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.215431,
