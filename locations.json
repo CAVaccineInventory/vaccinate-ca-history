@@ -149,7 +149,7 @@
     "id": "rec03PQ19zVqwhaa4"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -283,7 +283,7 @@
   },
   {
     "Address": "26001 Briggs Road, Menifee, CA 92585",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 80+"
     ],
@@ -1053,7 +1053,7 @@
   },
   {
     "Address": "46350 Arabia Street, Indio, CA 92504",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 80+"
     ],
@@ -2882,7 +2882,7 @@
   },
   {
     "Address": "101 Arbuckle Ct, Weaverville, CA 96093",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -3059,6 +3059,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3852826,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0215195,
     "Name": "OMNI Family Health - H Street",
     "id": "rec1rbbHBHpD72Mxh"
@@ -4550,7 +4551,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.407548,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.020323,
     "Name": "Omni Family Health (210 North Chester Ave)",
     "id": "rec2azKHY3PUbEz6i"
@@ -12296,7 +12297,7 @@
   },
   {
     "Address": "2751 Napa Valley Corporate Dr B, Napa, CA 94558",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       null
     ],
@@ -14644,7 +14645,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.593371,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.349912,
     "Name": "Omni Family Health (2101 7Th St)",
     "id": "rec7uiB2dSt0dO82e"
@@ -14738,7 +14739,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.694799,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.16813,
     "Name": "SHARP CORONADO HOSPITAL AND HEALTHCARE CENTER",
     "id": "rec7xyFp31MZb8h3m"
@@ -17036,7 +17037,7 @@
   },
   {
     "Address": "100 Mesa Rd, Irvine, CA 92697",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       null
     ],
@@ -17867,7 +17868,7 @@
   },
   {
     "Address": "2198 Riverside Ave, Paso Robles, CA 93446-1330",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment calendar currently full"
@@ -18554,7 +18555,7 @@
   },
   {
     "Address": "1 Fire Authority Road, Irvine, CA 92602",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -18564,6 +18565,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7475408,
+    "Location Type": "Super Site",
     "Longitude": -117.7671932,
     "Name": "Orange County Fire Authority (OCFA) Irvine fire station",
     "id": "recABx7fHI2q2KPqd"
@@ -21843,7 +21845,7 @@
     "id": "recBnT4RkGeMWxLLy"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "2/08 Must make an appointment at https://www.othena.com. Do not go without  an appointment. Be patient, it may take a few days before they call you back. Will only take people that live or work in Orange County."
     ],
@@ -21858,7 +21860,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.8120918,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -117.9189742,
     "Name": "Super Site - Disney Land - Toy Story Parking Lot",
     "id": "recBoGJuyGYlM1zzG"
@@ -28525,6 +28527,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.1341606,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4524064,
     "Name": "OMNI Family Health - Tehachapi",
     "id": "recFQoYUvN2IRL1bF"
@@ -28554,6 +28557,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3994523,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.465943,
     "Name": "OMNI Family Health - Buttonwillow",
     "id": "recFSl5TpU16aWRk6"
@@ -29308,7 +29312,7 @@
   },
   {
     "Address": "11798 Foothill Blvd, Lake View Terrace, CA 91342",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "When appointments are available, you can schedule an appointment here: https://carbonhealth.com/covid-19-vaccines/los-angeles"
     ],
@@ -30097,7 +30101,7 @@
   },
   {
     "Address": "830 Scenic, Modesto CA 95350",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -30196,6 +30200,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3384129,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0516977,
     "Name": "OMNI Family Health - Stine Rd",
     "id": "recGEQciPhZileLjx"
@@ -30461,7 +30466,7 @@
   },
   {
     "Address": "3535 N Cornelia Ave, Fresno, CA 93722",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Call (800) 492-4227"
     ],
@@ -30692,13 +30697,14 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.7675963,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2494782,
     "Name": "OMNI Family Health - Delano Fremont",
     "id": "recGRNHthUrO4i84m"
   },
   {
     "Address": "8001 Frost Street, San Diego, CA 92123",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
@@ -36404,7 +36410,7 @@
   },
   {
     "Address": "800 Main St, Tulelake, CA 96134",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -37267,7 +37273,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 35.509248,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.281913,
     "Name": "OMNI FAMILY HEALTH",
     "id": "recJjMsoivV2inyzD"
@@ -39771,7 +39777,7 @@
   },
   {
     "Address": "367 N. Magnolia Avenue, El Cajon, 92020",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: appointment required",
@@ -41122,7 +41128,7 @@
   },
   {
     "Address": "1385 E. Janss Rd\nThousand Oaks CA, 91362",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -41917,7 +41923,7 @@
   },
   {
     "Address": "825 Imperial Beach Blvd, Imperial Beach, 91932",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: appointment required",
@@ -42582,6 +42588,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.317244,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0820374,
     "Name": "OMNI Family Health - White Lane",
     "id": "recMsgrWKpa6y95I3"
@@ -44577,7 +44584,7 @@
   },
   {
     "Address": "1 University Drive, Aliso Viejo, CA 92656",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Schedule through Othena: https://othena.com/"
     ],
@@ -46284,6 +46291,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3670751,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1102127,
     "Name": "OMNI Family Health - Brimhall",
     "id": "recP7gXtPD1djxbRy"
@@ -49855,7 +49863,7 @@
   },
   {
     "Address": "1712 Fairlane Rd, Yreka, CA 96097",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -50040,7 +50048,7 @@
   },
   {
     "Address": "1121 S Chance Ave, Fresno, CA 93702",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Online via MyTurn https://myturn.ca.gov\n\nFresno County residents who do not have internet access can call MyTurn at 1-833-422-4255 to sign up for a notification for when it’s their turn to get vaccinated against COVID-19. MyTurn operators speak English and Spanish, with an ability to add a third-party operator in 254 languages. "
     ],
@@ -51753,7 +51761,7 @@
   },
   {
     "Address": "300 La Fonda Ave, Santa Cruz, CA 95062",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "Santa Cruz County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -52104,7 +52112,7 @@
   },
   {
     "Address": "1845 Strand Way, Coronado, CA 92118",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Feb 09: Register here: https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html"
     ],
@@ -56299,7 +56307,7 @@
   },
   {
     "Address": "3600 Norbridge Ave, Castro Valley, CA 94546",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Scheduling second dose only"
@@ -56782,7 +56790,7 @@
   },
   {
     "Address": "1235 K Street, San Diego, CA 92101",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
@@ -56800,7 +56808,7 @@
   },
   {
     "Address": "55 Frida Kahlo Way, San Francisco, CA 94112",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "San Francisco",
     "Has Report": 1,
     "Latest report": "2021-02-15T00:15:40.000Z",
@@ -56855,7 +56863,7 @@
   },
   {
     "Address": "1150 W. 10 Street, 1150 W. 10 Street\nCorona, CA 92882",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 80+"
     ],
@@ -57450,7 +57458,7 @@
   },
   {
     "Address": "4425 Titan Trail\nHemet, CA 92545",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "https://www.rivcoph.org/COVID-19-Vaccine-with-Registration"
     ],
@@ -57625,7 +57633,7 @@
   },
   {
     "Address": "565 Broadway, Chula Vista, CA 91910",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Feb 09: Register here: https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html"
     ],
@@ -58277,7 +58285,7 @@
   },
   {
     "Address": "690 Oxford St, Chula Vista, CA 91911",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
@@ -60336,7 +60344,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.29625,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.054436,
     "Name": "Omni Family Health (4600 Panama Ln Suite 102B)",
     "id": "recWoZtl1hbdBSh8I"
@@ -61321,7 +61329,7 @@
   },
   {
     "Address": "1346 Saratoga Dr\nSan Mateo, CA 94403",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "San Mateo County",
     "Has Report": 1,
     "Latest report": "2021-02-06T17:50:00.000Z",
@@ -61928,6 +61936,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3653436,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0562661,
     "Name": "OMNI Family Health - California Ave",
     "id": "recXf3JFwSXkqERGg"
@@ -62153,7 +62162,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.8018877,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2294641,
     "Name": "Apple Urgent Care",
     "id": "recXlYD8xpmvV2AuA"
@@ -65050,18 +65059,17 @@
     "Address": "5212 WEST WALNUT AVENUE, VISALIA, CA 93277",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "ritea.id/california"
+      "https://www.riteaid.com/pharmacy/apt-scheduler"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Yes: appointment required"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:56:28.000Z",
+    "Latest report": "2021-02-23T20:00:51.000Z",
     "Latest report notes": [
-      "65+ and healthcare workers are eligible for vaccination. All appointments are currently filled through mid-March.\n"
+      "Feb 23: 65+ and healthcare workers are eligible for vaccination. All appointments are currently filled through mid-March.  Must be booked online at: https://www.riteaid.com/pharmacy/covid-qualifier\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.313613,
@@ -65663,7 +65671,7 @@
   },
   {
     "Address": "2575 Paloma St, Pasadena, CA 91107",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       null
     ],
@@ -66734,6 +66742,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.407229,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0204426,
     "Name": "OMNI Family Health - North Chester",
     "id": "recaFQc5OybFYPLKf"
@@ -71087,6 +71096,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3917529,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1098376,
     "Name": "OMNI Family Health - Rosedale",
     "id": "reccglS8vLXGyRyzk"
@@ -78073,7 +78083,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.257554,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.380037,
     "Name": "BORREGO COMMUNITY HEALTH FOUNDATION",
     "id": "recgYIbrMX6fFFXbj"
@@ -78439,7 +78449,7 @@
   },
   {
     "Address": "3177 Ocean View Blvd, San Diego, CA 92113",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: appointment required",
@@ -84640,7 +84650,7 @@
   },
   {
     "Address": "1628, 2095 Jerrold Ave # 212, San Francisco, CA 94124",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -87609,7 +87619,7 @@
     "id": "recm0UOH6VngRVasT"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Vaccinating seniors 80+. Appointments for February can be made here: https://www.rivcoph.org/COVID-19-Vaccine-with-Registration"
     ],
@@ -87621,6 +87631,7 @@
     "Latest report": "2021-02-05T06:48:52.000Z",
     "Latest report yes?": 1,
     "Latitude": 33.7670092,
+    "Location Type": "Super Site",
     "Longitude": -117.0183523,
     "Name": "Tahquitz High School ",
     "id": "recm1fPvQFrmvvPm8"
@@ -89311,6 +89322,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.5939055,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3495816,
     "Name": "OMNI Family Health - Wasco",
     "id": "recmwBFZaHpHrsh8W"
@@ -89564,7 +89576,7 @@
   },
   {
     "Address": "1435 North Oak Street, Calistoga, 94515",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "Napa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -90939,7 +90951,7 @@
   },
   {
     "Address": "500 Diamond Drive, Lake Elsinore, CA 92530",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 80+"
     ],
@@ -91072,7 +91084,7 @@
   },
   {
     "Address": "11001 College Trail, Truckee, CA 96161",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Schedule here: https://www.tfhd.com/covid-19-vaccine-scheduling"
     ],
@@ -92594,6 +92606,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2964485,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0542788,
     "Name": "OMNI Family Health - Panama Lane",
     "id": "reconkTAVGQt4DcUO"
@@ -92968,7 +92981,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.084486,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.256591,
     "Name": "Gateways Hospital",
     "id": "recoyxFN82uXjgsV7"
@@ -95295,7 +95308,7 @@
   },
   {
     "Address": "2500 S. C Street \nOxnard CA, 93033\n(tent in the parking lot)",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -98836,17 +98849,18 @@
     "Address": "836 ORANGE AVENUE, CORONADO, CA 92118",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/apt-scheduler"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:06:38.000Z",
+    "Latest report": "2021-02-23T19:53:50.000Z",
     "Latest report notes": [
-      null
+      "Feb 23: Earliest next appointment available in Mar 6; appts need to be made online at https://www.riteaid.com/pharmacy/apt-scheduler"
     ],
     "Latest report yes?": 1,
     "Latitude": 32.688264,
@@ -103735,7 +103749,7 @@
   },
   {
     "Address": "10 W Harbor Blvd. Ventura 93001",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -104974,7 +104988,7 @@
   },
   {
     "Address": "747 Howard Street, San Francisco, CA 94103",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -106939,7 +106953,7 @@
   },
   {
     "Address": "9001 Wakarusa St., La Mesa, 91942",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Feb 09: Register here: https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html"
     ],
@@ -107869,6 +107883,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.4912126,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2602667,
     "Name": "OMNI Family Health - Shafter",
     "id": "recx6SwSDEtAxz8vc"
@@ -110365,7 +110380,7 @@
   },
   {
     "Address": "Napa Valley Expo, 575 3rd Street, Napa CA 94559",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Go to https://www.countyofnapa.org/3096/COVID-19-Vaccines and click on \"vaccine interest form\""
     ],
@@ -112806,7 +112821,7 @@
   },
   {
     "Address": "140 East 12th St, National City, CA 91950",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: appointment required",
