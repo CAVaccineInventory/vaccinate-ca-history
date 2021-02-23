@@ -59890,16 +59890,20 @@
   {
     "Address": "2401 Waterman Blvd, FAIRFIELD, CA 94534",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Solano County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-23T20:48:07.000Z",
     "Latest report notes": [
-      null
+      "Feb 23: Vaccine eligibility is based on Solano County guidelines, please bring ID to show county residency.  "
     ],
     "Latest report yes?": 1,
     "Latitude": 38.27213,
