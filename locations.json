@@ -12846,10 +12846,21 @@
   {
     "Address": "1344 W Redondo Beach Blvd, GARDENA, CA 90247",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T18:19:23.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.891098,
     "Location Type": "Pharmacy",
     "Longitude": -118.299562,
@@ -26929,22 +26940,14 @@
   {
     "Address": "844 BLOSSOM HILL ROAD, SAN JOSE, CA 95123",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T01:45:39.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T18:25:33.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.25017,
     "Location Type": "Pharmacy",
     "Longitude": -121.856033,
@@ -27487,12 +27490,12 @@
       "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:53:34.000Z",
+    "Latest report": "2021-02-23T18:07:26.000Z",
     "Latest report notes": [
       null
     ],
@@ -49745,15 +49748,12 @@
   {
     "Address": "17008 13th St, Huron, CA 93234",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:26.000Z",
+    "Latest report": "2021-02-23T18:22:28.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.208114,
@@ -58887,6 +58887,19 @@
     "Longitude": -122.472737,
     "Name": "WALGREENS #2005",
     "id": "recW0nytqDO0THGi4"
+  },
+  {
+    "Address": "Rose Avenue Clinic (Indoor. Babies R Us Building)\n2340 N Rose Ave, Oxnard, CA 93030",
+    "Affiliation": "County",
+    "County": "Ventura County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.21247,
+    "Location Type": "Super Site",
+    "Longitude": -119.15964,
+    "Name": "Rose Avenue Clinic - Supersite",
+    "id": "recW1NuzYmDnZxja5"
   },
   {
     "Address": "349 E Main St Ste 101, Alhambra, CA 91801",
@@ -101747,18 +101760,18 @@
     "Address": "12700 DAY ST, MORENO VALLEY, CA 92553",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/COVID-19-Vaccine "
+      "To schedule at this location through the county website, go to https://rivcoph.org/costco"
     ],
     "Availability Info": [
-      "Yes: coming soon",
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
       "Yes: restricted to county residents"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T02:11:47.000Z",
+    "Latest report": "2021-02-23T18:20:21.000Z",
     "Latest report notes": [
-      "Feb 09 - are getting more this week - she recommends checking tomorrow (2/10/2021)- they expect to have appointments available for Weds and Thurs "
+      "This location is scheduling appointments through the county website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.935696,
@@ -107090,16 +107103,20 @@
     "Address": "211 Eastmoor Ave, Daly City, CA 94015",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "415-391-9686"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:09.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T18:13:21.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments by calling their main call center."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.685019,
     "Location Type": "Pharmacy",
     "Longitude": -122.478358,
