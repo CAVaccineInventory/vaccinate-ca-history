@@ -12564,7 +12564,7 @@
   },
   {
     "Address": "14845 Ventura Blvd, Sherman Oaks, CA 91403",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Pavilions",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -17350,7 +17350,7 @@
   },
   {
     "Address": "10230 Artesia Blvd Ste 101, BELLFLOWER, CA 90706",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "The Medicine Shoppe",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -24428,10 +24428,20 @@
   {
     "Address": "11800 ARTESIA BLVD, ARTESIA, CA 90701",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:37:46.000Z",
+    "Latest report notes": [
+      "There are no appointments at this time and the respondent did not know how far out they go. The website walgreens.com will take them to the government site to find the nearest location to the individual. In addition to vaccinating those 65 and over, they are vaccinating teachers and health care workers and other frontline workers. She was not sure about other essential workers. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.872413,
     "Location Type": "Pharmacy",
     "Longitude": -118.081868,
@@ -26106,7 +26116,7 @@
   },
   {
     "Address": "3850 VALLEY CENTRE DR, SAN DIEGO, CA 92130",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Pavilions",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -26114,7 +26124,7 @@
     "Latitude": 32.938987,
     "Location Type": "Pharmacy",
     "Longitude": -117.231159,
-    "Name": "PAVILLIONS PHARMACY #2119",
+    "Name": "PAVILIONS PHARMACY #2119",
     "id": "recE5KV4AROuY1ZAJ"
   },
   {
@@ -27910,7 +27920,7 @@
   },
   {
     "Address": "321 Golf Club Rd\nPleasant Hill, CA \n94523",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Complete the vaccination appointment request form found at: https://www.coronavirus.cchealth.org/get-vaccinated.\n\nEligible residents who have difficulty using the form or have no internet access can request an appointment by calling (833) 829-2626."
     ],
@@ -32086,7 +32096,7 @@
   },
   {
     "Address": "960 E Ojai Ave, OJAI, CA 93023",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "The Medicine Shoppe",
     "Appointment scheduling instructions": [
       null
     ],
@@ -42801,7 +42811,7 @@
   },
   {
     "Address": "AMPLA HEALTH MAGALIA MEDICAL 14137 Lakeridge Circle Magalia, CA 95954\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "AmplaHealth",
     "Appointment scheduling instructions": [
       "They are calling their Ampli patients"
     ],
@@ -42818,7 +42828,7 @@
     "Latitude": 39.8193668343616,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.5909905724594,
-    "Name": "AmpliHealth Clinic - Magalia Medical",
+    "Name": "AmplaHealth Clinic - Magalia Medical",
     "id": "recN56u07iasHVglN"
   },
   {
@@ -51179,7 +51189,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.875494642642074,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.06998450132295,
     "Name": "Contra Costa Health Services - Vaccination Site - OptumServe Clinic",
     "id": "recRlxUhb8LP8HgZC"
@@ -54327,18 +54337,18 @@
     "Address": "4708 MANZANITA AVENUE, CARMICHAEL, CA 95608",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "la county"
+      "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-23T19:41:08.000Z",
     "Latest report notes": [
-      null
+      "Feb 23: Administering vaccines but have currently have a long waitlist (~1 month) that they are working to clear through.  When they take appointments they anticipate only doing so online at: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.649737,
@@ -55160,7 +55170,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.01635453227113,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -121.81238207248488,
     "Name": "Contra Costa Health Services - Vaccination Site - Nick Rodriguez Community Center",
     "id": "recTpOlSVmU2Wkm6M"
@@ -55969,7 +55979,7 @@
   },
   {
     "Address": "11030 W JEFFERSON BLVD, CULVER CITY, CA 90230",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Pavilions",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -57028,7 +57038,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.95529405850195,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.33864007248575,
     "Name": "Contra Costa Health Services - Vaccination Site - West County Health Center",
     "id": "recUrdTLWYc5AAMKa"
@@ -64520,6 +64530,31 @@
     "id": "recZ6LJCa9XPSLQMp"
   },
   {
+    "Address": "Rio Oso Community Hall\n760 – 4th Ave., Rio Oso 95674",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments are required and can be made by calling (530) 822-5985 or visiting https://cw.calvax.org/reg/9961610322\n\nWaiting List: https://www.surveymonkey.com/r/YubaSutterVax022521"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents",
+      "Vaccinating essential workers"
+    ],
+    "County": "Sutter County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:36:35.000Z",
+    "Latest report notes": [
+      "County announced a new first-dose event to take place on Feb 25th with second doses on March 25th.\n\nWhen last checked (Feb 23rd), appointments for Feb 25th were still available.\n\nEligibility:\nResidents of Rio Oso, Nicolaus, East Nicolaus and Pleasant Grove who meet the following criteria are eligible: \n\n• Phase 1A - Direct healthcare workers and residents of long-term care facilities \n• Phase 1B - Food/Ag, Education/Childcare and Emergency Service Workers who are 50 years and older \n• Persons aged 65 years older "
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 38.96081,
+    "Location Type": "Super Site",
+    "Longitude": -121.53812,
+    "Name": "South Sutter Community Vaccination Clinic - supersite",
+    "id": "recZ6MawhTPnQauZo"
+  },
+  {
     "Address": "13703 Burbank Blvd, Van Nuys, CA 91401",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -65258,7 +65293,7 @@
   },
   {
     "Address": "1702 FREEDOM BLVD, FREEDOM, CA 95019",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kmart",
     "Appointment scheduling instructions": [
       null
     ],
@@ -69428,7 +69463,7 @@
   },
   {
     "Address": "4009 NORTH MARKS AVE, FRESNO, CA 93722",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "The Medicine Shoppe",
     "Appointment scheduling instructions": [
       null
     ],
@@ -84391,7 +84426,7 @@
   },
   {
     "Address": "111 W MCKNIGHT WAY, GRASS VALLEY, CA 95949",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kmart",
     "Appointment scheduling instructions": [
       null
     ],
@@ -91084,7 +91119,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.00650431866053,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -121.86962614364901,
     "Name": "Contra Costa Health Services - Vaccination Site -Pittsburg Health Center",
     "id": "recnuu99n42NWdNKJ"
@@ -102488,7 +102523,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.00673861874158,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.13277224364894,
     "Name": "Contra Costa Health Services - Vaccination Site - Contra Costa Regional Medical Center",
     "id": "recu9KadrpgkrTcZd"
@@ -104853,7 +104888,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.93665764412188,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.34394024364988,
     "Name": "Contra Costa Health Services - Vaccination Site -  Richmond Memorial Auditorium",
     "id": "recvWoUKHWKMO4PHX"
@@ -106130,7 +106165,7 @@
   },
   {
     "Address": "610 WEST KETTLEMAN LANE, LODI, CA 95240",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
       null
     ],
@@ -106266,8 +106301,12 @@
   {
     "Address": "2611 E THOMPSON BLVD SUITE 103, VENTURA, CA 93003",
     "Affiliation": "The Medicine Shoppe",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T19:32:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.272947,
@@ -108863,7 +108902,7 @@
   },
   {
     "Address": "2600 Mission Bell Dr\nSan Pablo, CA \n94806",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "\nFeb. 11: Complete the vaccination appointment request form found at: https://www.coronavirus.cchealth.org/get-vaccinated.\n\nEligible residents who have difficulty using the form or have no internet access can request an appointment by calling (833) 829-2626."
     ],
