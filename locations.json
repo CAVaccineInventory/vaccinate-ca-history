@@ -1022,14 +1022,21 @@
   {
     "Address": "15990 BROOKHURST ST, Fountain Valley, CA 92708",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:16:56.000Z",
+    "Latest report notes": [
+      "2/23/21 - Appointments are currently being scheduled between the hours of 9am-5pm at this location. They are scheduled to get vaccines in tomorrow and they are booked up until Friday 2/26. They may have appointment availability after that, but recommended going online to check eligibility and appointment availability. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.730499,
     "Location Type": "Pharmacy",
     "Longitude": -117.95442,
@@ -1153,12 +1160,15 @@
   {
     "Address": "2500 E IMPERIAL HWY, BREA, CA 92821",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:53.000Z",
+    "Latest report": "2021-02-23T23:09:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.909638,
@@ -1591,17 +1601,18 @@
     "Address": "211 EAST 17TH STREET, COSTA MESA, CA 92627",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "riteaid.com/covid19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:37:35.000Z",
+    "Latest report": "2021-02-23T23:06:09.000Z",
     "Latest report notes": [
-      null
+      "Feb 23: Currently no available appointments -- delays in shipping due to the weather"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.634565,
@@ -2040,14 +2051,14 @@
     "Address": "869 Newville Rd, Orland CA, 95963",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      null
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Glenn County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T23:49:54.000Z",
+    "Latest report": "2021-02-23T23:07:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.7486,
@@ -5984,14 +5995,14 @@
     "Address": "2315 Stockton Blvd Rm 1P175, Sacramento, CA 95817",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "www.luckysupermarket.com"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:17.000Z",
+    "Latest report": "2021-02-23T23:19:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.554597,
@@ -17582,12 +17593,15 @@
   {
     "Address": "1016 BAYSIDE DRIVE, NEWPORT BEACH, CA 92660",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:08.000Z",
+    "Latest report": "2021-02-23T23:04:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.610455,
@@ -36264,19 +36278,16 @@
     "Address": "3207 CROW CANYON PLACE CROW CANYON COMMONS, SAN RAMON, CA 94583",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "www.caronavarious.cchealth.org "
+      "https://www.cvs.com/store-locator/details-directions/8898"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T23:11:44.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.776374,
     "Location Type": "Pharmacy",
     "Longitude": -121.971086,
@@ -40166,14 +40177,20 @@
   {
     "Address": "5785 N 1ST STREET, Fresno, CA 93710",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:20:13.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.822507,
     "Location Type": "Pharmacy",
     "Longitude": -119.772513,
@@ -40751,18 +40768,19 @@
     "Address": "1325 6TH STREET, NORCO, CA 92860",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/COVID-19-Vaccine"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T22:22:41.000Z",
+    "Latest report": "2021-02-23T23:02:13.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through the county website."
+      "This location is only scheduling appointments through the county website.\nVaccine eligibility based on county guidelines"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.938944,
@@ -49796,15 +49814,12 @@
   {
     "Address": "9882 Adams Ave, Huntington Beach CA, 92646",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:52:37.000Z",
+    "Latest report": "2021-02-23T23:01:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6722,
@@ -50086,15 +50101,12 @@
   {
     "Address": "11000 GARDEN GROVE BLVD, GARDEN GROVE, CA 92843",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:51:06.000Z",
+    "Latest report": "2021-02-23T23:17:43.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.772702,
@@ -58960,16 +58972,15 @@
     "Address": "8640 SIERRA COLLEGE BLVD, ROSEVILLE, CA 95661",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "www.coronavirus.cchealth.org"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-23T23:09:34.000Z",
     "Latest report notes": [
       null
     ],
@@ -59743,18 +59754,18 @@
     "Address": "7300 Alameda St., Walnut Park CA, 90255",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      null
+      "https://www.cvs.com/store-locator/details-directions/8898"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment calendar currently full",
+      "Yes: appointment required",
       "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T22:49:35.000Z",
+    "Latest report": "2021-02-23T23:02:21.000Z",
     "Latest report notes": [
-      "Feb 11: Vaccine available for healthcare workers. Schedule appointment through CVS website:  https://www.cvs.com/immunizations/covid-19-vaccine"
+      "Feb 23: Vaccine available for 65+ and health care workers.\n\nFeb 11: Vaccine available for healthcare workers. Schedule appointment through CVS website: https://www.cvs.com/immunizations/covid-19-vaccine"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.9736,
@@ -59821,7 +59832,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:07:17.000Z",
+    "Latest report": "2021-02-23T23:15:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.866938,
@@ -60452,8 +60463,15 @@
   {
     "Address": "11126 PALMS BOULEVARD, LOS ANGELES, CA 90034",
     "Affiliation": "The Medicine Shoppe",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/8898"
+    ],
+    "Availability Info": [
+      "No: location permanently closed"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T23:14:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.019502,
@@ -65897,12 +65915,15 @@
   {
     "Address": "811 AVENIDA TALEGA, SAN CLEMENTE, CA 92673",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
+    "Latest report": "2021-02-23T23:12:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.462292,
@@ -68073,11 +68094,11 @@
     "Address": "8509 Irvine Center Drive, Irvine, CA 92618",
     "Affiliation": "Rite-Aid",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
+    "Latest report": "2021-02-23T23:23:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.646319,
@@ -72472,6 +72493,19 @@
     "id": "recdHf8wUySIbMxeh"
   },
   {
+    "Address": "4700 North River Road \nOceanside, CA 92057",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.24584996533612,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.30930581737812,
+    "Name": "Vista Community Clinic-North River",
+    "id": "recdIqppigJ6LwG0J"
+  },
+  {
     "Address": "14437 Ventura Blvd, Sherman Oaks, CA 91423",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -73333,11 +73367,11 @@
     "Address": "33961 DOHENY PARK RD, SAN JUAN CAPISTRANO, CA 92675",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
+    "Latest report": "2021-02-23T23:13:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.469763,
@@ -85929,8 +85963,15 @@
   {
     "Address": "6801 Hollywood Blvd Ste 132, Los Angeles, CA 90028",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/8898"
+    ],
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T23:05:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.102287,
@@ -89385,14 +89426,21 @@
   {
     "Address": "1991 MOUNTAIN BOULEVARD, OAKLAND, CA 94611",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:35:05.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T23:02:26.000Z",
+    "Latest report notes": [
+      "Feb 23 -- In short term, no available appointments due to shipping delays from weather"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.827332,
     "Location Type": "Pharmacy",
     "Longitude": -122.210582,
@@ -97469,12 +97517,15 @@
   {
     "Address": "3750 Barranca Pkwy, Irvine CA, 92606",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
+    "Latest report": "2021-02-23T23:23:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6854,
@@ -101080,6 +101131,19 @@
     "Longitude": -123.0178016,
     "Name": "Alexander Valley Healthcare",
     "id": "rectAwiGvJ2JKOnKu"
+  },
+  {
+    "Address": "818 Pier View Way \nOceanside, CA 92054\n\n\n\n",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.198895199284095,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.37768007319704,
+    "Name": "Vista Community Clinic- Pier View",
+    "id": "rectBy7Qg59ERRAKQ"
   },
   {
     "Address": "1000 Skyline Blvd, Avenal, CA 93204",
@@ -109144,12 +109208,15 @@
   {
     "Address": "1121 N HARBOR BLVD, FULLERTON, CA 92832",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:02.000Z",
+    "Latest report": "2021-02-23T23:06:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.88119,
@@ -111604,6 +111671,19 @@
     "Longitude": -118.204367459685,
     "Name": "St. John’s Well Child and Family Center At Lincoln High School",
     "id": "recz2l8olwrHZQpBn"
+  },
+  {
+    "Address": "30195 Fraser Drive\nLake Elsinore, CA 92530",
+    "Affiliation": "Vista Community Clinic",
+    "County": "Riverside County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.68485975028485,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.36823335969463,
+    "Name": "Vista Community Clinic-Lake Elsinore",
+    "id": "recz2zOm9Re1LaILX"
   },
   {
     "Address": "16912 State Highway 14, Mojave, CA 93501",
