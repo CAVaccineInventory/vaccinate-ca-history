@@ -16582,7 +16582,7 @@
     "Address": "3496 CAMINO TASSAJARA RD, DANVILLE, CA 94506",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm "
+      "https://www.coronavirus.cchealth.org/"
     ],
     "Availability Info": [
       "Yes: appointment required",
@@ -74060,7 +74060,7 @@
     "Address": "1978 CONTRA COSTA BLVD, PLEASANT HILL, CA 94523",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "https://www.saccounty.net/COVID-19/Pages/default.aspxÂ \n\nRecommend to make an appointment on the website to receive the vaccines."
+      "https://www.coronavirus.cchealth.org/\n\nRecommend to make an appointment on the website to receive the vaccines."
     ],
     "Availability Info": [
       "Yes: appointment required",
@@ -74070,9 +74070,6 @@
     "County": "Contra Costa County",
     "Has Report": 1,
     "Latest report": "2021-02-12T03:28:41.000Z",
-    "Latest report notes": [
-      null
-    ],
     "Latest report yes?": 1,
     "Latitude": 37.948611,
     "Location Type": "Pharmacy",
