@@ -164,16 +164,20 @@
     "Address": "5562 PHILADELPHIA ST. #110, CHINO, CA 91710",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "https://book.appointment-plus.com/cttercmx/#/"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T22:26:40.000Z",
+    "Latest report notes": [
+      "2/23/21 - Appointments made via the website link above only, no phone appointments. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.034887,
     "Location Type": "Pharmacy",
     "Longitude": -117.683566,
@@ -16218,6 +16222,25 @@
     "Longitude": -117.290419,
     "Name": "Kaiser Permanente Pharmacy #752",
     "id": "rec8m1OgQOZIFfdDK"
+  },
+  {
+    "Address": "20498 Victory Blvd, Los Angeles, CA 91367",
+    "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Los Angeles County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:31:32.000Z",
+    "Latest report notes": [
+      "Currently vaccinating people 65+ and healthcare workers. Appointments can be made at https://carbonhealth.com/covid-19-vaccines. When checked on 2/23, appointments were available for Feb 24 and Feb 25."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.18652,
+    "Longitude": 118.56505,
+    "Name": "Los Angeles Fire Department - Pierce College",
+    "id": "rec8nTpkQQNlBJ7jh"
   },
   {
     "Address": "3350 LA SIERRA AVE, RIVERSIDE, CA 92503",
@@ -49634,20 +49657,18 @@
     "Address": "9450 EAST LAS TUNAS DRIVE, TEMPLE CITY, CA 91780",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Vaccinating essential workers",
-      "Yes: restricted to county residents"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T23:25:59.000Z",
+    "Latest report": "2021-02-23T22:39:55.000Z",
     "Latest report notes": [
-      "Pharmacist suggested Dodger's Stadium as alternate vaccination site.\n\nFeb 19: In addition to 65+, this location is vaccinating health care workers. They have observed cancellations, so checking the website the morning of could let you secure an appointment in less than two weeks time.\n"
+      "Feb 23:  Appointments that were scheduled for the 24th and 25th are getting postponed due to dose availability. \n\n\nPharmacist suggested Dodger's Stadium as alternate vaccination site. Feb 19: In addition to 65+, this location is vaccinating health care workers. They have observed cancellations, so checking the website the morning of could let you secure an appointment in less than two weeks time."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.105408,
@@ -66673,12 +66694,15 @@
   {
     "Address": "6750 STANFORD RANCH RD, ROSEVILLE, CA 95678",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-23T22:40:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.780102,
@@ -71657,10 +71681,20 @@
   {
     "Address": "14102 Ramona Blvd, Baldwin Park, CA 91706",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:30:51.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through the county website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.084693,
     "Location Type": "Pharmacy",
     "Longitude": -117.965581,
@@ -84262,12 +84296,15 @@
   {
     "Address": "2700 Las Positas Rd, LIVERMORE, CA 94551",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.vons.com/pharmacy/covid-19.html"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
+    "Latest report": "2021-02-23T22:39:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.699763,
@@ -95510,8 +95547,15 @@
   {
     "Address": "120 S. Main Street Suite B, Alturas, CA 96101",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Modoc County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T22:29:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.48353,
@@ -95941,15 +95985,17 @@
     "Address": "931 LOMAS SANTA FE DR, SOLANA BEACH, CA 92075",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
+      "https://www.vons.com/pharmacy/covid-19.html"
     ],
     "Availability Info": [
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:17:18.000Z",
+    "Latest report": "2021-02-23T22:32:28.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through their website."
     ],
@@ -109022,14 +109068,20 @@
   {
     "Address": "1815 HERNDON AVE, CLOVIS, CA 93611",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:16:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T22:34:39.000Z",
+    "Latest report notes": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.838217,
     "Location Type": "Pharmacy",
     "Longitude": -119.683466,
