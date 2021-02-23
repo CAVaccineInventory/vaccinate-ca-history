@@ -24392,18 +24392,17 @@
     "Address": "463 NORTH BEDFORD DRIVE, BEVERLY HILLS, CA 90210",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Online at: https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Check appointment availability on https://www.riteaid.com/pharmacy/covid-qualifier "
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Vaccinating essential workers",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T20:25:25.000Z",
+    "Latest report": "2021-02-23T21:37:35.000Z",
     "Latest report notes": [
-      "Feb 15: Appointments are available for 65+ and healthcare workers.  They can be booked online at: https://www.riteaid.com/pharmacy/covid-qualifier\nPharmacist says slots are currently booked thru Mar 6 but encourages people to check in regularly as spots can open up."
+      "Feb 23: Appointments are available for 65+ and healthcare workers ONLY. Must show credentials, which can be found on LA County website. Appointments can be booked online at: https://www.riteaid.com/pharmacy/covid-qualifier \n\nFeb 17: Pharmacist says slots are currently booked thru Mar 6 but encourages people to check in regularly as spots can open up."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.068819,
