@@ -60407,6 +60407,28 @@
     "id": "recWwcVrnyULxornY"
   },
   {
+    "Address": "1600 Market Street, \nSan Francisco, CA 94102",
+    "Appointment scheduling instructions": [
+      "https://www.gohealthuc.com/CAvaccine"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Francisco",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T02:12:14.000Z",
+    "Latest report notes": [
+      "Currentlty vaccinating San Francisco residents who are 65 years and older and San Francisco healthcare workers/community health workers. When checked on Feb 22, appointments were available from Feb 23 to March 1 here: https://www.gohealthuc.com/CAvaccine"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 37.77404,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -122.42102,
+    "Name": "Dignity GoHealth",
+    "id": "recWxCsq6KLbyTtYO"
+  },
+  {
     "Address": "660 S MAIN ST, FORT BRAGG, CA 95437",
     "Affiliation": "Safeway",
     "Availability Info": [
@@ -70705,6 +70727,12 @@
     "id": "reccaHfaMmwGsyzzd"
   },
   {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "reccaeiuCMw6a7Dvg"
+  },
+  {
     "Address": "802 BEVERLY BOULEVARD, MONTEBELLO, CA 90640",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
@@ -80113,14 +80141,23 @@
   {
     "Address": "1099 E HOSPITALITY LN, SAN BERNARDINO, CA 92408",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T06:15:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T01:50:59.000Z",
+    "Latest report notes": [
+      "Feb 22: Started administering vaccines to San Bernardino county residents beginning last week.  Appointments can be made at https://book-costcopharmacy.appointment-plus.com/ctv0z70q/?&e_id=5489#/"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.068029,
     "Location Type": "Pharmacy",
     "Longitude": -117.26307,
