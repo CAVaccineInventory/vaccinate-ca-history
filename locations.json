@@ -1467,7 +1467,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.385534,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.722938,
     "Name": "COMMUNITY HEALTH CENTERS OF AMERICA",
     "id": "rec0imUlBKjKkEdw2"
@@ -3566,7 +3566,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.177681,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.15122,
     "Name": "Community Health Alliance of Pasadena",
     "id": "rec2AJjUChJhbPiLd"
@@ -6075,6 +6075,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.73543,
+    "Location Type": "Super Site",
     "Longitude": -117.32917,
     "Name": "Helendale – Community Services District Building",
     "id": "rec3Mi5xk8cEExm0q"
@@ -6099,7 +6100,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 35.383163,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.968456,
     "Name": "KERN MEDICAL",
     "id": "rec3MnfTcUPnSzmi9"
@@ -8040,6 +8041,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.64086,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.671187,
     "Name": "Ridgecrest Regional Hospital",
     "id": "rec4OAI9fpCfyBrA3"
@@ -8750,6 +8752,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.13564,
+    "Location Type": "Super Site",
     "Longitude": -117.27471,
     "Name": "Operation Collaboration - Carlsbad",
     "id": "rec4q1AXoW8TGaZeQ"
@@ -11704,7 +11707,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.731128,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.850039,
     "Name": "STUDENT HEALTH SVC PHY-CA ST UNIV CHICO",
     "id": "rec6RkHU3Nndqm94w"
@@ -12353,6 +12356,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 35.13321,
+    "Location Type": "Super Site",
     "Longitude": -117.9624,
     "Name": "Adventist Health Tehachapi Valley - California City Mobile Clinic",
     "id": "rec6ooTjOiYvnT3tb"
@@ -12372,7 +12376,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.072434,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.037225,
     "Name": "El Monte Comprehensive Health Center",
     "id": "rec6p8szDYP9HXOaU"
@@ -13394,7 +13398,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.875202,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.22319,
     "Name": "Jacobs Medical Center at UC San Diego Health",
     "id": "rec7L28ppcExY3CPT"
@@ -17440,6 +17444,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3764705,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.9689204,
     "Name": "Universal Urgent Care - Niles",
     "id": "rec9VjKwz4A45iQbf"
@@ -18316,7 +18321,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.55362,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.453367,
     "Name": "U.C.Davis Medical Center",
     "id": "recA2fHbeSy1L80pJ"
@@ -19216,7 +19221,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.026707,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.498603,
     "Name": "Community Health Centers",
     "id": "recAUmcut7x3GbuGZ"
@@ -19990,6 +19995,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3734898,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0459796,
     "Name": "Central Valley Occupational Bakersfield",
     "id": "recArO6ybGmAv8Omj"
@@ -21993,7 +21999,7 @@
   },
   {
     "Address": "208 Park Ave\nSan Fernando, CA 91340",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "No: only vaccinating health care workers"
     ],
@@ -22003,6 +22009,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.281020566164194,
+    "Location Type": "Super Site",
     "Longitude": -118.43303799306965,
     "Name": "Los Angeles Fire Department - San Fernando",
     "id": "recBt7rdKEK5UcAzt"
@@ -24257,6 +24264,7 @@
   },
   {
     "Address": "1490 Mason St, San Francisco, CA 94133",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -24270,7 +24278,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.7971784,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.4117979,
     "Name": "Chinatown Public Health Center",
     "id": "recCzClBuCh4k7qP5"
@@ -25797,7 +25805,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.111539,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.291326,
     "Name": "Inland Behavioral and Health Services, Inc.",
     "id": "recDqx3Q7vtTGudh7"
@@ -26172,7 +26180,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.753727,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.035708,
     "Name": "Byram Healthcare Centers, Inc.",
     "id": "recE5tFcTbrFGqAMq"
@@ -26642,12 +26650,13 @@
     "id": "recEKiWOKhGRXS5lZ"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.364847,
+    "Location Type": "Super Site",
     "Longitude": -122.0233875,
     "Name": "County Clinic - ",
     "id": "recEKxlEYPjVcBcDK"
@@ -27137,7 +27146,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.29357,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.159071,
     "Name": "Clinicas del Camino Real Inc - Ventura",
     "id": "recEYuRRgG1tXSUMK"
@@ -29696,7 +29705,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.929099,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.157999,
     "Name": "RANCHO LOS AMIGOS NATIONAL REHABILITATION CENTER",
     "id": "recFvbjw2i2oWnY4I"
@@ -30328,6 +30337,7 @@
   },
   {
     "Address": "2260 Jimmy Durante Blvd, Del Mar, CA 92014",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment calendar currently full"
@@ -30340,6 +30350,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 32.971832,
+    "Location Type": "Super Site",
     "Longitude": -117.26094,
     "Name": "North Coastal – Scripps Del Mar Fairgrounds Park Super Station",
     "id": "recGJUsAysCfGif1d"
@@ -31104,6 +31115,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.96092,
+    "Location Type": "Super Site",
     "Longitude": -119.11951,
     "Name": "Lee Vining Community Center",
     "id": "recGciknZ32Mjqwa1"
@@ -34262,6 +34274,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3821424,
+    "Location Type": "Pharmacy",
     "Longitude": -119.146344,
     "Name": "Sav-on Pharmacy #377",
     "id": "recI8ChRVVzDXISkg"
@@ -35656,6 +35669,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.6424560546875,
+    "Location Type": "Super Site",
     "Longitude": -118.96397399902344,
     "Name": "Mammoth High School",
     "id": "recIpP85fdz9LhOy6"
@@ -36586,6 +36600,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.84231564,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.76006333,
     "Name": "Sierra Pacific Orthopedics - Spruce Campus",
     "id": "recJOG6IaYRi8ZZlB"
@@ -38137,6 +38152,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 38.25682,
+    "Location Type": "Super Site",
     "Longitude": -119.22945,
     "Name": "Bridgeport Memorial Hall",
     "id": "recKGxyHxklJdcaGO"
@@ -38419,6 +38435,7 @@
   },
   {
     "Address": "1351 24th Ave, San Francisco, CA 94122",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -40843,6 +40860,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 38.51436,
+    "Location Type": "Super Site",
     "Longitude": -119.4799,
     "Name": "Antelope Valley Community Center",
     "id": "recLu4tH6mX6VJyCP"
@@ -41147,7 +41165,6 @@
     "id": "recM1J2BsoRid2v8h"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -41494,6 +41511,7 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Pharmacy",
     "Name": "Walgreens Pharmacy #4559",
     "id": "recMFogi5BI5krqKK"
   },
@@ -41867,6 +41885,7 @@
   },
   {
     "Address": "8727 Van Nuys Blvd., Panorama City, CA 91402",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -43697,6 +43716,7 @@
   },
   {
     "Address": "2700 Manchester Blvd., Inglewood, CA 90305",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -43709,6 +43729,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.959742999999996,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3235924,
     "Name": "Men’s Health Foundation - Inglewood",
     "id": "recNdVnWMXcH2qUPc"
@@ -44360,6 +44381,7 @@
   },
   {
     "Address": "Imperial Valley College, 380 E. Aten Rd. Imperial, CA 92251",
+    "Affiliation": "County",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -44369,6 +44391,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.82913,
+    "Location Type": "Super Site",
     "Longitude": -115.50663,
     "Name": "Imperial County Public Health Department",
     "id": "recO5noF8WzrPasKZ"
@@ -44415,7 +44438,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.02415,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.27394,
     "Name": "H Claude Hudson Comprehensive Health Center",
     "id": "recO6ZsMjosz20tXL"
@@ -45181,6 +45204,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8383519,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7605193,
     "Name": "Sierra Pacific Orthopedics - Herndon Campus",
     "id": "recOYx9VLA5oj3oNN"
@@ -48534,6 +48558,7 @@
   },
   {
     "Address": "1400 East Church Street, Santa Maria, CA 93454",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: vaccinating 75+",
@@ -49839,7 +49864,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.208114,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.102161,
     "Name": "United Health Centers Of The San Joaquin Valley (17008 13Th St)",
     "id": "recQyQiZHp6mowRy7"
@@ -49969,6 +49994,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 32.578768,
+    "Location Type": "Super Site",
     "Longitude": -117.055469,
     "Name": "Border View YMCA",
     "id": "recR2Jwtm0LLcAO0L"
@@ -52682,6 +52708,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.367778,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0949833,
     "Name": "Universal Urgent Care and Occupational Medicine",
     "id": "recSclG6L88S0VHAV"
@@ -52761,6 +52788,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3401952,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0341047,
     "Name": "Ming Primary Care Clinic",
     "id": "recSeL7P5tc2OtpjA"
@@ -53160,6 +53188,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7987849,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.960557,
     "Name": "East Public Health Center - El Cajon",
     "id": "recSsldZZUOpXrR6U"
@@ -53594,7 +53623,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.405669161004944,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.48122106777029,
     "Name": "California Northstate University",
     "id": "recT2bE2Z2tpV1SMS"
@@ -54420,6 +54449,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.819294,
+    "Location Type": "Super Site",
     "Longitude": -118.491871,
     "Name": "Benton Community Center",
     "id": "recTRi5tYtLFJWG0k"
@@ -54833,7 +54863,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.86807155102157,
-    "Location Type": "School",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2644006019142,
     "Name": "UC Berkeley",
     "id": "recTeCcmmNUi0kR89"
@@ -55729,7 +55759,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.98832,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.27376,
     "Name": "HUBERT H HUMPHREY COMP HEALTH CENTER",
     "id": "recU8FmhRl6hYufLs"
@@ -56411,6 +56441,7 @@
   },
   {
     "Address": "9291 Old Redwood Highway #200, Windsor, CA 95492",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -56420,8 +56451,9 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.54959,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.81409,
-    "Name": "Alliance Medical - Somoma",
+    "Name": "Alliance Medical - Sonoma",
     "id": "recUWa8toFP8K8hfo"
   },
   {
@@ -58225,6 +58257,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3792332,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0375328,
     "Name": "Purpose Driven Home Health",
     "id": "recVWXEFq0zdaBdEH"
@@ -59627,6 +59660,7 @@
   },
   {
     "Address": "3146 School Ln, Lemon Grove, CA 91945",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment calendar currently full"
@@ -59639,6 +59673,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 32.739993,
+    "Location Type": "Super Site",
     "Longitude": -117.02942,
     "Name": "Lemon Grove Community Center",
     "id": "recWSA8OLOXAZ8O5g"
@@ -60565,6 +60600,7 @@
   },
   {
     "Address": "1600 Market Street, \nSan Francisco, CA 94102",
+    "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       "https://www.gohealthuc.com/CAvaccine"
     ],
@@ -60698,7 +60734,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.09579,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.29152,
     "Name": "HOLLYWOOD PRESBYTERIAN MEDICAL CENTER",
     "id": "recX0pSbx1qtH6Quf"
@@ -62263,6 +62299,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.376283,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.968669,
     "Name": "Niles Primary Care Clinic",
     "id": "recXq1Q74FdBbnEDQ"
@@ -63331,6 +63368,7 @@
   },
   {
     "Address": "600 North Santa Fe Ave, Vista, CA 92084",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment calendar currently full"
@@ -63343,6 +63381,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.207449,
+    "Location Type": "Super Site",
     "Longitude": -117.245016,
     "Name": "Linda Rhoades Recreation Center",
     "id": "recYR4G2gKzo4kcmK"
@@ -66113,7 +66152,7 @@
   },
   {
     "Address": "755 Font Boulevard, San Francisco, CA 94132",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Book via: https://mhealthsystem.com/safewaycovidsf"
     ],
@@ -66130,7 +66169,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.72292596440037,
-    "Location Type": "School",
+    "Location Type": "Super Site",
     "Longitude": -122.48388141581937,
     "Name": "San Francisco State University - Mashouf Wellness Center (inside MAC Gym)",
     "id": "recZuRVsQRKAvHmy4"
@@ -66289,7 +66328,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.407178,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.94502,
     "Name": "Life Connections Health Center",
     "id": "recZz6E81uUbcnQgc"
@@ -67373,6 +67412,7 @@
   },
   {
     "Address": "155 5th St, San Francisco, CA 94103",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -67385,6 +67425,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.78234,
+    "Location Type": "Super Site",
     "Longitude": -122.40533,
     "Name": "University of the Pacific",
     "id": "recac4q2DNg1HCvp4"
@@ -67948,7 +67989,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.791981,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.249341,
     "Name": "La Clinica de La Raza, Inc",
     "id": "recauLH7Q9ZKNOMCS"
@@ -68465,6 +68506,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3141846,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1286118,
     "Name": "Centric Urgent Care",
     "id": "recbGNurumK0Sxo77"
@@ -69993,6 +70035,7 @@
   },
   {
     "Address": "8280 Santa Monica Blvd., West Hollywood, CA 90069",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -70005,6 +70048,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.0905079,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.36991880000001,
     "Name": "Men's Health Foundation - WeHo",
     "id": "recc6b33Zi3xHGITR"
@@ -71893,7 +71937,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 36.324411,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.648116,
     "Name": "Family Healthcare Network (250 W. Fifth Street)",
     "id": "recd3QLfszvbwczBk"
@@ -75209,6 +75253,7 @@
   },
   {
     "Address": "126 1st Street West, Sonoma, CA 95476",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: restricted to county residents",
       "Yes: vaccinating 70+",
@@ -75222,6 +75267,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 38.29832,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.45714,
     "Name": "Sonoma Valley Community Health Center",
     "id": "recf2ALEyuQcknaep"
@@ -75428,6 +75474,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 38.6271662,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.8644242,
     "Name": "Healdsburg Hospital",
     "id": "recf8qpCj5uq7DmR8"
@@ -77644,6 +77691,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.62975,
+    "Location Type": "Super Site",
     "Longitude": -118.97814,
     "Name": "Mammoth Lakes, Fire Station 2",
     "id": "recgPUkAavjAeulu0"
@@ -79463,6 +79511,7 @@
   },
   {
     "Address": "1030 W Gardena Blvd Gardena, CA 90247",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -79472,6 +79521,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8812618,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2925387,
     "Name": "Angeles Community Health Center",
     "id": "rechFTBM0ALh7fWMR"
@@ -79862,6 +79912,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.593913,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.334878,
     "Name": "Vanguard Medical - Wasco",
     "id": "rechVYCJVsnB4ubg0"
@@ -82217,7 +82268,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.530666,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.291552,
     "Name": "Family Healthcare Network (12586 Avenue 408)",
     "id": "recivK8rW4RtQ7Uxg"
@@ -82940,6 +82991,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3401397,
+    "Location Type": "Pharmacy",
     "Longitude": -119.1057607,
     "Name": "Vons Pharmacy #2420",
     "id": "recjJaFkrO7w2Nv23"
@@ -83181,6 +83233,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4425395,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7590296,
     "Name": "Sansum Clinic",
     "id": "recjPnTkaa7Fd77g0"
@@ -83319,7 +83372,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 35.351532,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.113193,
     "Name": "HINAS MERCY SOUTHWEST",
     "id": "recjStUWtmRw86McU"
@@ -83884,6 +83937,7 @@
   },
   {
     "Address": "500 West Willow St., Long Beach, CA 90806",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required"
@@ -84565,7 +84619,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 36.066048,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.017228,
     "Name": "Family Healthcare Network (65 N Hockett St)",
     "id": "reckGpqshiMx5J1hK"
@@ -85506,7 +85560,7 @@
     "id": "recko6IAMxUk1Vo86"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "Napa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -89052,7 +89106,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.568371,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.074137,
     "Name": "Mecca Health Clinic - Clinicas de Salud del Pueblo, Inc.",
     "id": "recmjqUHPbb3rYTI6"
@@ -90866,7 +90920,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.23565,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.52783,
     "Name": "STUDENT HEALTH CENTER",
     "id": "recnnPTH2HT6vD1bf"
@@ -92646,6 +92700,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 36.32629,
+    "Location Type": "Super Site",
     "Longitude": -119.66401,
     "Name": "Kings County DPH - Hanford",
     "id": "recooi7oJosvni6o8"
@@ -93612,6 +93667,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3553818,
+    "Location Type": "Pharmacy",
     "Longitude": -119.0196122,
     "Name": "Sav-on Pharmacy #0336",
     "id": "recpG4S2PWobkGEeU"
@@ -94043,6 +94099,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2626121,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.9149766,
     "Name": "Lamont Primary Care Clinic",
     "id": "recpP6S6DcJ4qUAtu"
@@ -98002,6 +98059,7 @@
   },
   {
     "Address": "806 South Airport Boulevard San Francisco, CA 94128",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -98015,6 +98073,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.63609,
+    "Location Type": "Super Site",
     "Longitude": -122.39955,
     "Name": "San Francisco International Airport (SFO) – Long Term Parking Garage",
     "id": "recre7ga3c0XhlZ9D"
@@ -98606,7 +98665,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.701096,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.791436,
     "Name": "Elm Community Health Center",
     "id": "recrrQYfLxueDWwuC"
@@ -100524,6 +100583,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.6056822,
+    "Location Type": "Pharmacy",
     "Longitude": -117.6747433,
     "Name": "Sav-on Pharmacy #331",
     "id": "recstXNwHbSC73xOi"
@@ -100743,6 +100803,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.1257269,
+    "Location Type": "Pharmacy",
     "Longitude": -118.4695163,
     "Name": "Sav-on Pharmacy #1347",
     "id": "rect3ZOXw1IEmtZpz"
@@ -100893,6 +100954,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.7981002,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -123.0178016,
     "Name": "Alexander Valley Healthcare",
     "id": "rectAwiGvJ2JKOnKu"
@@ -101658,6 +101720,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3402172,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0339456,
     "Name": "Universal Urgent Care - Ming",
     "id": "rectefEX6bQY2eq2T"
@@ -102445,6 +102508,7 @@
   },
   {
     "Address": "17840 Villa Corta St., La Puente, CA 91744",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -102454,6 +102518,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0169672,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9120846,
     "Name": "East Valley Community Health Center - Villacorta",
     "id": "recu6wWd4EbXgITwW"
@@ -103291,6 +103356,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.64481,
+    "Location Type": "Super Site",
     "Longitude": -118.96643,
     "Name": "Mono County Civic Center",
     "id": "recugIZcbO4AKQzVO"
@@ -103311,6 +103377,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 36.997342,
+    "Location Type": "Super Site",
     "Longitude": -121.575711,
     "Name": "Gilroy High School",
     "id": "recugPd0JvpWsgGuG"
@@ -105610,6 +105677,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3736707,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0260999,
     "Name": "Komoto Medical Pharmacy Bakersfield",
     "id": "recvvILwlbabYccak"
@@ -106985,6 +107053,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.13617139999999,
+    "Location Type": "Pharmacy",
     "Longitude": -118.1895165,
     "Name": "VONS PHARMACY #2858 in Los Angeles County",
     "id": "recwaMu4Yl80NRhso"
@@ -107376,7 +107445,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.06615,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.27088,
     "Name": "Clinica Msr Oscar A Romero",
     "id": "recwlaGXuLgZLS0Dx"
@@ -107584,6 +107653,7 @@
   },
   {
     "Address": "1181 Golden Gate Ave, San Francisco, CA 94115",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -108135,7 +108205,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.308673,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.315412,
     "Name": "Family Healthcare Network (2333 S Mooney Blvd)",
     "id": "recxEmM45CIOdRkUn"
@@ -109289,6 +109359,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.6552319,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.8916441,
     "Name": "Wonderful Center for Health Innovation - Lost Hills",
     "id": "recxoi8WNS27qxLFv"
@@ -109688,9 +109759,11 @@
     "id": "recy3m3rJTXDhzYjl"
   },
   {
+    "Affiliation": "None / Unknown / Unimportant",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
     "Name": "South Medical",
     "id": "recy40U4HXu6hSmQ3"
   },
@@ -110640,7 +110713,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.033941,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.161121,
     "Name": "EDWARD ROYBAL COMP HEALTH CENTER",
     "id": "recyX8v4FCKB8iSo4"
@@ -110841,6 +110914,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.74229,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2410679,
     "Name": "Central Valley Occupational Delano",
     "id": "recyhIdUvNRmXOS8f"
@@ -111430,6 +111504,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3676545,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.095906,
     "Name": "Brimhall Primary Care Clinic",
     "id": "recz5lCz54mKOs1aN"
@@ -112614,6 +112689,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3677824,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0958313,
     "Name": "Universal Urgent Care - Brimhall",
     "id": "reczokgKwadn3Dtfo"
@@ -112839,6 +112915,7 @@
   },
   {
     "Address": "3229 Santa Anita Ave., El Monte, CA 91733",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required"
