@@ -2447,7 +2447,7 @@
     "id": "rec1UI2mKoubwcUht"
   },
   {
-    "Address": "480 MCKINLEY ST, CORONA, CA 92879",
+    "Address": "480 N. MCKINLEY ST, CORONA, CA 92879",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
       "Uses county scheduling system"
@@ -99006,17 +99006,18 @@
     "Address": "5845 EAST LOS ANGELES AVENUE, SIMI VALLEY, CA 93063",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Only scheduling appointments through their website"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:09:37.000Z",
+    "Latest report": "2021-02-23T21:54:55.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "Feb 23: 65+ and healthcare+essential workers only. Must show credentials (ie official paperwork indicating profession)"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.272439,
@@ -109181,16 +109182,16 @@
     "Address": "Enter Gate C - Academy Road, Los Angeles, CA 90012",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "When appointments are available, you can schedule an appointment here: https://carbonhealth.com/covid-19-vaccines/los-angeles"
+      "https://carbonhealth.com/covid-19-vaccines/los-angeles"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T00:22:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T21:59:14.000Z",
+    "Latest report yes?": 1,
     "Latitude": 34.0809498,
     "Location Type": "Super Site",
     "Longitude": -118.2419017,
