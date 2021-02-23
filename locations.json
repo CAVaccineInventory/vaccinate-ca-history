@@ -60965,16 +60965,21 @@
     "Address": " Mendocino High School Gym\n10700 Ford St, Mendocino, CA 95460",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Appointments required via https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics"
+      "Appointments via https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics"
     ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
+      "Vaccinating essential workers"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T10:48:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-23T11:50:56.000Z",
+    "Latest report notes": [
+      "As per County, they are having a first-dose clinic on Feb 23rd for people in all tiers of Phase 1A as well as Agricultural, Food, or Lodging Workers.\n\nWhen last checked (Feb 22), all appointments were full.\n\nHowever County recommends to check their website often as more clinics/dates are added, and eligibility extended to more tiers."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.3082,
     "Location Type": "Super Site",
     "Longitude": -123.80079,
