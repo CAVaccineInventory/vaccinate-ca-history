@@ -7412,10 +7412,21 @@
   {
     "Address": "11003 LAKEWOOD BLVD STE 101, DOWNEY, CA 90241",
     "Affiliation": "The Medicine Shoppe",
+    "Appointment scheduling instructions": [
+      "cvs.com/coronavirus"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T21:25:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.937302,
     "Location Type": "Pharmacy",
     "Longitude": -118.123619,
@@ -39746,12 +39757,15 @@
   {
     "Address": "5401 KATELLA AVE, CYPRESS, CA 90720",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Schedule on RiteAid website"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-23T21:31:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8032,
@@ -44398,19 +44412,16 @@
     "Address": "380 E 17TH STREET, COSTA MESA, CA 92627",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "Schedule on RiteAid website"
     ],
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: appointment required"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T22:43:33.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T21:28:01.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.631354,
     "Location Type": "Pharmacy",
     "Longitude": -117.912729,
@@ -84318,17 +84329,17 @@
     "Address": "387 EAST AVENIDA DE LOS ARBOLES, THOUSAND OAKS, CA 91360",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Schedule on RiteAid website"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T19:14:22.000Z",
+    "Latest report": "2021-02-23T21:22:17.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through its website."
+      "Feb 23: This location is only scheduling appointments through its website. Vaccine is unavailable until Sat, 2/27 due to East Coast storms. "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.218714,
