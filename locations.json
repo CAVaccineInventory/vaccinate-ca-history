@@ -35306,12 +35306,15 @@
   {
     "Address": "4020 Fremont Hub\nFremont, CA 94538\n",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:06.000Z",
+    "Latest report": "2021-02-23T22:42:34.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.54800500759799,
@@ -49788,12 +49791,15 @@
   {
     "Address": "9882 Adams Ave, Huntington Beach CA, 92646",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:49.000Z",
+    "Latest report": "2021-02-23T22:52:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6722,
@@ -56105,6 +56111,19 @@
     "Longitude": -122.079395,
     "Name": "SAFEWAY PHARMACY #0705",
     "id": "recUHVYcEfmjRpo19"
+  },
+  {
+    "Address": "134 Grapevine Road \nVista, CA 92083",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.191657305041595,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.27548635970653,
+    "Name": "Vista Community Clinic-Grapevine",
+    "id": "recUHipWF91LCsOxC"
   },
   {
     "Address": "866 Eastlake Parkway, Chula Vista CA, 91914",
@@ -90585,20 +90604,16 @@
     "Address": "2899 JAMACHA RD, EL CAJON, CA 92019",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "Schedule appointment through Albertsons.com. "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T22:43:22.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 32.739871,
     "Location Type": "Pharmacy",
     "Longitude": -116.938088,
