@@ -26852,20 +26852,16 @@
     "Address": "24325 CRENSHAW BLVD, TORRANCE, CA 90505",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "for appointments go to : lacountypublichealthcovid "
+      "209-545-1385"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: restricted to city residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T00:11:23.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T17:20:20.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.805147,
     "Location Type": "Pharmacy",
     "Longitude": -118.330211,
@@ -107958,20 +107954,16 @@
     "Address": "1291 S VICTORIA BLVD, OXNARD, CA 93030",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "vons.com"
+      "209-545-1385"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:50.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-23T17:23:04.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 34.188347,
     "Location Type": "Pharmacy",
     "Longitude": -119.22211,
