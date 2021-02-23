@@ -80025,15 +80025,9 @@
   {
     "Address": "500 Tully Rd, San Jose, CA 95111",
     "Affiliation": "County",
-    "Appointment scheduling instructions": [
-      "Online at https://vax.sccgov.org/home"
-    ],
-    "Availability Info": [
-      "No: no vaccine inventory"
-    ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T15:40:13.000Z",
+    "Latest report": "2021-02-23T06:27:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3056356,
@@ -90890,22 +90884,24 @@
   },
   {
     "Address": "201 South Rengstorff Ave.\nMountain View, CA 94040",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "www.sccfreevax.org"
+      "Appointments via https://vax.sccgov.org/mvcc"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-09T00:40:30.000Z",
+    "Latest report": "2021-02-23T06:22:21.000Z",
     "Latest report notes": [
-      null
+      "When last checked [Feb 22] appointments were available for Feb 25 through Feb 26th.\n\nEligibility:\nFor appointments before February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (4) below.\n\nFor appointments on or after February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (5) below.\n\n1. healthcare workers who live or work in Santa Clara County; or\n2. residents of Long-Term Care Facilities (LTCF) located in Santa Clara County; or\n3. individuals aged 65 or above who live in Santa Clara County; or\n4. individuals aged 65 or above who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics; or\n5. Residents of Santa Clara County who are at risk of exposure to COVID-19 through their work in:\n- Education and Childcare\n- Emergency Services\n- Food and Agriculture including those working in a restaurant"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.4010264,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Super Site",
     "Longitude": -122.0977455,
     "Name": "Community Services Department - City of Mountain View",
     "id": "recnvLHD02hXKrlXL"
@@ -96099,17 +96095,21 @@
   },
   {
     "Address": "4701 Great America Pkwy\nSanta Clara, CA 95054 ",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "According to Santa Clara County Public Health, this location is offering vaccines. Schedule an appointment at http://sccfreevax.org/"
+      "Appointments via https://vax.sccgov.org/levis"
     ],
     "Availability Info": [
+      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: restricted to county residents"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T23:31:29.000Z",
+    "Latest report": "2021-02-23T06:16:12.000Z",
+    "Latest report notes": [
+      "When last checked [Feb 22] appointments were available for Feb 24 through March 8th.\n\nEligibility:\nFor appointments before February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (4) below.\n\nFor appointments on or after February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (5) below.\n\n1. healthcare workers who live or work in Santa Clara County; or\n2. residents of Long-Term Care Facilities (LTCF) located in Santa Clara County; or\n3. individuals aged 65 or above who live in Santa Clara County; or\n4. individuals aged 65 or above who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics; or\n5. Residents of Santa Clara County who are at risk of exposure to COVID-19 through their work in:\n- Education and Childcare\n- Emergency Services\n- Food and Agriculture including those working in a restaurant"
+    ],
     "Latest report yes?": 1,
     "Latitude": 37.39990663572187,
     "Location Type": "Super Site",
@@ -98228,18 +98228,18 @@
     "Address": "1555 Berger Drive, San Jose, CA 95112",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Book appointments online here: https://vax.sccgov.org/berger"
+      "Appointments via https://vax.sccgov.org/berger"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
       "Yes: appointment required",
+      "Yes: vaccinating 65+",
       "Yes: restricted to county residents"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-06T15:25:55.000Z",
+    "Latest report": "2021-02-23T06:19:39.000Z",
     "Latest report notes": [
-      "\n"
+      "When last checked [Feb 22] appointments were available for Feb 23 through Feb 26th.\n\nEligibility:\nFor appointments before February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (4) below.\n\nFor appointments on or after February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (5) below.\n\n1. healthcare workers who live or work in Santa Clara County; or\n2. residents of Long-Term Care Facilities (LTCF) located in Santa Clara County; or\n3. individuals aged 65 or above who live in Santa Clara County; or\n4. individuals aged 65 or above who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics; or\n5. Residents of Santa Clara County who are at risk of exposure to COVID-19 through their work in:\n- Education and Childcare\n- Emergency Services\n- Food and Agriculture including those working in a restaurant"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.37499,
