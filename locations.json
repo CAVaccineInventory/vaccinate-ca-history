@@ -33624,18 +33624,17 @@
     "Address": "3601 PELANDALE AVE, MODESTO, CA 95356",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "https://sbcovid19.com/ "
+      "209-545-1385"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-23T17:14:11.000Z",
     "Latest report notes": [
-      null
+      "Feb 23 Currently administering COVID19 vaccine to those in Phase 1, those who are 65 years and older as well as law enforcement. Call Savemart location to make appointment for vaccine."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.700421,
@@ -79749,16 +79748,16 @@
     "Address": "5500 Woodruff Ave, LAKEWOOD, CA 90713",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "www.publichealth.lacounty.gov"
+      "https://www.vons.com/pharmacy/covid-19.html"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-23T17:00:29.000Z",
     "Latest report notes": [
       null
     ],
