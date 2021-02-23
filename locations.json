@@ -48311,6 +48311,31 @@
     "id": "recQGJctv4fQRSfwH"
   },
   {
+    "Address": "10801 Sixth Street, Rancho Cucamonga\nCA 91730, USA",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Call (909) 387-3911 or visit http://sbcovid19.com/vaccine to check eligibility and schedule your appointment."
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-23T06:40:07.000Z",
+    "Latest report notes": [
+      "The County are launching a new vaccination site beginning Feb. 23. When last checked (Feb 22), appointments available from Feb 23 through Feb 27.\n\nEligibility:\nOpen to residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education (teachers, support staff providing in-school services), 65+"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.08294,
+    "Location Type": "Super Site",
+    "Longitude": -117.56913,
+    "Name": "Inland Empire Health Plan (IEHP) - supersite",
+    "id": "recQJ87TKIOev7r6L"
+  },
+  {
     "Address": "770 W El Monte Way, DINUBA, CA 93618",
     "Affiliation": "Walmart",
     "Availability Info": [
@@ -80025,11 +80050,21 @@
   {
     "Address": "500 Tully Rd, San Jose, CA 95111",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://vax.sccgov.org/vhctully"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
     "County": "Santa Clara County",
     "Has Report": 1,
     "Latest report": "2021-02-23T06:27:15.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "When last checked [Feb 22] appointments were available for Feb 23 through Feb 26th.\n\nEligibility:\nFor appointments before February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (4) below.\n\nFor appointments on or after February 28, 2021, you must meet any of the Eligibility Criteria in categories (1) – (5) below.\n\n1. healthcare workers who live or work in Santa Clara County; or\n2. residents of Long-Term Care Facilities (LTCF) located in Santa Clara County; or\n3. individuals aged 65 or above who live in Santa Clara County; or\n4. individuals aged 65 or above who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics; or\n5. Residents of Santa Clara County who are at risk of exposure to COVID-19 through their work in:\n- Education and Childcare\n- Emergency Services\n- Food and Agriculture including those working in a restaurant"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.3056356,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.8503011,
