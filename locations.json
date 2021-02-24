@@ -39466,15 +39466,9 @@
   {
     "Address": "1270 East Spruce Avenue\nFresno, CA 93720",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
-    "Availability Info": [
-      "No: no vaccine inventory"
-    ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T20:28:42.000Z",
+    "Latest report": "2021-02-24T15:33:34.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.84231564,
@@ -92462,17 +92456,18 @@
     "Address": "1000 L Street\nModesto CA 95354\nParking will be available at both City-operated garages on 9th & on 10th Street.",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      null
+      "No appointments required - shots offered on First Come, First Served basis."
     ],
     "Availability Info": [
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
-      "Yes: walk-ins accepted"
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T00:01:47.000Z",
+    "Latest report": "2021-02-24T15:43:52.000Z",
     "Latest report notes": [
-      "Feb 9: Important note: This location is currently a one-week clinic ONLY for those who have received their first dose of the  COVD-19 vaccine and have been scheduled to receive their second dose. No first doses given here. \n\nThis clinic operates Feb. 8-Feb 12, 9 am to 5 pm. Eligible people should have received a text message or phone call by Stanislaus County to remind them about their appointments at this clinic.\nFor more information, and additional sites in Stanislaus County, visit: http://schsa.org/coronavirus/vaccine/\n\n\n\n"
+      "As per County website, following events scheduled for this week at this site:\n\nTuesday 2/23/21 ->2nd Dose - Moderna\nThursday 2/25/21 --> 1st Dose Only\n\nTime: 9am-4pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.64233100354019,
