@@ -1318,10 +1318,12 @@
   },
   {
     "Address": "1702 ILLINOIS AVE, PERRIS, CA 92571",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.746925,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.1869021,
     "Name": "SUN CITY MENIFEE DIALYSIS",
     "id": "rec0e6qYtSlQRDFqp"
@@ -3227,10 +3229,12 @@
   },
   {
     "Address": "7880 VALLEY VIEW ST, BUENA PARK, CA 90620",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8479763,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.0271462,
     "Name": "LA PALMA DIALYSIS",
     "id": "rec1o9gn8geVQseCm"
@@ -4713,10 +4717,12 @@
   },
   {
     "Address": "1643 E PALMDALE BLVD, PALMDALE, CA 93550",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.5798573,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.0995599,
     "Name": "PALMDALE REGIONAL",
     "id": "rec2Y9GGdDq9YaSMX"
@@ -5806,10 +5812,12 @@
   },
   {
     "Address": "3660 Park Sierra Dr, Riverside, CA 92505",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9027488,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.4715121,
     "Name": "MAGNOLIA WEST AT HOME",
     "id": "rec314NFQ2hEFcLQr"
@@ -10898,10 +10906,12 @@
   },
   {
     "Address": "1900 OUTLET CENTER DR, OXNARD, CA 93036",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2199577,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.1479503,
     "Name": "OXNARD DIALYSIS",
     "id": "rec5jZBcv8btdgEkE"
@@ -11504,10 +11514,12 @@
   },
   {
     "Address": "26900 Cactus Ave, Moreno Valley, CA 92555",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9106563,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.1932883,
     "Name": "VALLEY VIEW DIALYSIS CENTER",
     "id": "rec61Sudl2oUCUD5Q"
@@ -12023,14 +12035,20 @@
   {
     "Address": "1120 S Anaheim Blvd, Anaheim, CA 92805",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:42:45.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.819348,
     "Location Type": "Pharmacy",
     "Longitude": -117.907791,
@@ -14423,10 +14441,12 @@
   },
   {
     "Address": "15002 Amargosa Rd, Victorville, CA 92394",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.5230214,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.3306592,
     "Name": "VISTA DEL SOL DIALYSIS",
     "id": "rec7Ss8Mh0xWNAPXW"
@@ -19188,14 +19208,21 @@
   {
     "Address": "19501 BEACH BLVD, HUNTINGTON BEACH, CA 92648",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T16:23:03.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:41:38.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.67892,
     "Location Type": "Pharmacy",
     "Longitude": -117.989222,
@@ -19698,10 +19725,12 @@
   },
   {
     "Address": "1150 E LELAND RD, PITTSBURG, CA 94565",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.0082871,
+    "Location Type": "Dialysis clinic",
     "Longitude": -121.8732052,
     "Name": "DELTA VIEW DIALYSIS",
     "id": "recAEFUnGuUO6gJfN"
@@ -31983,10 +32012,12 @@
   },
   {
     "Address": "2135 MONTIEL RD BLDG B, SAN MARCOS, CA 92069",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.131203,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.1178837,
     "Name": "SAN MARCOS DIALYSIS CENTER",
     "id": "recGEHyn3qA1zMXiR"
@@ -34090,14 +34121,20 @@
   {
     "Address": "32900 Pacific Coast Highway, Dana Point CA, 92629",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:51:28.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website. Vaccinations will likely be given through the drive-thru of this location for the convenience and safety of pharmacy staff and patients."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.4861,
     "Location Type": "Pharmacy",
     "Longitude": -117.7233,
@@ -41229,10 +41266,12 @@
   },
   {
     "Address": "30885 DATE PALM DR, CATHEDRAL CITY, CA 92234",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8242923,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.4595078,
     "Name": "CATHEDRAL CITY DIALYSIS",
     "id": "recKn0jN4Io6BVLjF"
@@ -51581,10 +51620,12 @@
   },
   {
     "Address": "721 W First St, Tustin, CA 92780",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7460601,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.8317839,
     "Name": "TUSTIN RANCH DIALYSIS",
     "id": "recQOBczcgv1O2qep"
@@ -54271,7 +54312,7 @@
     "Address": "2055 Tice Valley Blvd\nWalnut Creek, CA 94595 ",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "By calling (833) 829-2626 option 1 - 4 for people with computer access they can visit cchealth.org.\nAppointments may also be made "
+      "By calling (833) 829-2626 option 1 - 4 for people with computer access they can visit cchealth.org.\nAppointments may also be made at https://myoptumserve.com"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
@@ -55772,10 +55813,12 @@
   },
   {
     "Address": "25332 CABOT RD, LAGUNA HILLS, CA 92653",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5944119,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.6747425,
     "Name": "LAGUNA HILLS DIALYSIS",
     "id": "recSXJRg6tlK29sC7"
@@ -56205,10 +56248,12 @@
   },
   {
     "Address": "3380 SAN PABLO DAM RD  STE C-D, SAN PABLO, CA 94803",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.962153,
+    "Location Type": "Dialysis clinic",
     "Longitude": -122.3245379,
     "Name": "EL SOBRANTE DIALYSIS",
     "id": "recSlNBIq1HmNVIrU"
@@ -56985,10 +57030,12 @@
   },
   {
     "Address": "1800 Medical Center Dr STE 150, San Bernardino, CA 92411",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1313164,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.3229917,
     "Name": "SERRANO DIALYSIS",
     "id": "recT4OH8zdU41jTD2"
@@ -60234,10 +60281,12 @@
   },
   {
     "Address": "11161 Magnolia Ave, Riverside, CA 92505",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.902885,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.478612,
     "Name": "Magnolia West Dialysis",
     "id": "recUhdx8IBYS4vTtn"
@@ -65962,12 +66011,15 @@
   {
     "Address": "3901 Portola Pkwy, Irvine, CA 92602",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:52:23.000Z",
+    "Latest report": "2021-02-24T02:48:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.73502,
@@ -65993,16 +66045,19 @@
     "Address": "6075 MAGNOLIA AVENUE, RIVERSIDE, CA 92506",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com or county"
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:59:26.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:52:14.000Z",
+    "Latest report notes": [
+      "Feb 23: Starting vaccinations tomorrow (Wed, Feb 24); They will be vaccinating Wed-Sat each week. Go to: https://www.riteaid.com/pharmacy/covid-qualifier to quickly see if you qualify and to see what slots are available at this location currently."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.959817,
     "Location Type": "Pharmacy",
     "Longitude": -117.392792,
@@ -68173,10 +68228,12 @@
   },
   {
     "Address": "1498 SOUTHGATE AVE  STE 101, DALY CITY, CA 94015",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6752764,
+    "Location Type": "Dialysis clinic",
     "Longitude": -122.476061,
     "Name": "DALY CITY DIALYSIS",
     "id": "recYsPW1IAQtuTQHF"
@@ -72467,10 +72524,12 @@
   },
   {
     "Address": "8275 BRUCEVILLE RD, SACRAMENTO, CA 95823",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.45699,
+    "Location Type": "Dialysis clinic",
     "Longitude": -121.4169902,
     "Name": "SOUTH SACRAMENTO DIALYSIS CENTER",
     "id": "recb5vyAayW18QEsi"
@@ -76928,10 +76987,12 @@
   },
   {
     "Address": "1590 SCENIC AVE, COSTA MESA, CA 92626",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6997405,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.9251748,
     "Name": "COSTA MESA DIALYSIS",
     "id": "recdNDzaoTXeB5cpd"
@@ -96955,10 +97016,12 @@
   },
   {
     "Address": "2666 N Grove Industrial Dr  STE 106, Fresno, CA 93727",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7743757,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.7293472,
     "Name": "ASH TREE DIALYSIS",
     "id": "reco2RhsnnPhdTBzI"
@@ -109513,10 +109576,12 @@
   },
   {
     "Address": "587 N MOUNTAIN AVE, UPLAND, CA 91786",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1011643,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.6711553,
     "Name": "UPLAND COLONIES DIALYSIS",
     "id": "recuaoWN15QyUCpA6"
@@ -116232,10 +116297,12 @@
   },
   {
     "Address": "2263 S Depot St, Santa Maria, CA 93455",
+    "Affiliation": "Davita Dialysys",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9173476,
+    "Location Type": "Dialysis clinic",
     "Longitude": -120.4441315,
     "Name": "Central Coast Kidney Center",
     "id": "recxyhadEJyQQrVME"
@@ -119453,14 +119520,21 @@
   {
     "Address": "4520 BEACH BOULEVARD, BUENA PARK, CA 90621",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:46:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.895159,
     "Location Type": "Pharmacy",
     "Longitude": -117.987776,
