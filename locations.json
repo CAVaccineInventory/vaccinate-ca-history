@@ -192,6 +192,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.576237,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.479131,
     "Name": "SACRAMENTO NATIVE AMERICAN HEALTH CENTER, INC",
     "id": "rec06Hh4BM0v7JI3k"
@@ -3115,6 +3116,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9465726,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3991944,
     "Name": "Planned Parenthood - Riverside Clinic",
     "id": "rec1eSOmL56sltMnE"
@@ -6235,11 +6237,13 @@
   },
   {
     "Address": "330 Montrose Dr, Folsom, CA 95630",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.681136,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1582842,
     "Name": "Vibra Hospital of Sacramento",
     "id": "rec3BMpkjzSaoqImv"
@@ -19741,6 +19745,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8352372,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9181265,
     "Name": "Anaheim Health Center",
     "id": "rec9xvgA0v123YFOc"
@@ -27026,11 +27031,13 @@
   },
   {
     "Address": "1306 Broadway, El Cajon, CA 92021",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8082908,
+    "Location Type": "In-home Senior Care",
     "Longitude": -116.9352914,
     "Name": "Community Eldercare of San Diego dba St. Paul's PACE El Cajon-Nemeth",
     "id": "recDGBxiZoP41qiyT"
@@ -35032,11 +35039,13 @@
   },
   {
     "Address": "317 N El Camino Real  506, Encinitas, CA 92024",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.054823,
+    "Location Type": "Specialist",
     "Longitude": -117.2607252,
     "Name": "Around the World Vaccinations",
     "id": "recHAwnv2YdheuqXW"
@@ -40911,14 +40920,20 @@
   {
     "Address": "72253 TWENTYNINE PALMS HIGHWAY, TWENTYNINE PALMS, CA 92277",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:35.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:41:22.000Z",
+    "Latest report notes": [
+      "first responders and healthcare workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.135313,
     "Location Type": "Pharmacy",
     "Longitude": -116.086796,
@@ -47864,11 +47879,13 @@
   },
   {
     "Address": "1181 Broadway Ste 5, Chula Vista, CA 91911",
+    "Affiliation": "US Renal Care",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6074433,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.0797485,
     "Name": "US Renal Care Chula Vista Broadway",
     "id": "recNlwjES5gK3r7ZB"
@@ -52485,11 +52502,13 @@
   },
   {
     "Address": "12395 El Camino Real, San Diego, CA 92130",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.9432726,
+    "Location Type": "Private Practice",
     "Longitude": -117.2391182,
     "Name": "Amy Witman MD, A Medical Corporation",
     "id": "recQAyMm03LCJDrqJ"
@@ -57245,11 +57264,13 @@
   },
   {
     "Address": "1224 10th Street  205, Coronado, CA 92118",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6847987,
+    "Location Type": "Private Practice",
     "Longitude": -117.1779885,
     "Name": "Asha Devereaux, MD, MPH",
     "id": "recSUkWpCxL1fGB2M"
@@ -57279,6 +57300,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5435035,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4641919,
     "Name": "WellSpace Health Oak Park Community Health Center",
     "id": "recSUvLqitn1IpEQK"
@@ -58248,11 +58270,11 @@
     "Address": "875 E H St, Chula Vista, CA 91910",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:53.000Z",
+    "Latest report": "2021-02-24T20:46:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.637838,
@@ -62128,11 +62150,13 @@
   },
   {
     "Address": "7050 Parkway Drive, La Mesa, CA 91942",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7744754,
+    "Location Type": "Mental Health",
     "Longitude": -117.0440399,
     "Name": "Alvarado Parkway Institute Behavioral Health System",
     "id": "recUllHDEu4Mrg1iq"
@@ -70316,8 +70340,9 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.198228,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2195314,
-    "Name": "CFH Airport",
+    "Name": "Center for Family Health, Oxnard – Airport/Marina",
     "id": "recZ2qOqsmCQuuHCW"
   },
   {
@@ -70843,11 +70868,13 @@
   },
   {
     "Address": "2385 NORTHSIDE DRIVE SUITE 200, SAN DIEGO, CA 92108",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7845171,
+    "Location Type": "Nursing home",
     "Longitude": -117.1253263,
     "Name": "Mission Hospice of San Diego",
     "id": "recZKuPuoOJIM8Ofb"
@@ -71997,12 +72024,15 @@
   {
     "Address": "12470 SEAL BEACH BLVD, SEAL BEACH, CA 90740",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:12.000Z",
+    "Latest report": "2021-02-24T20:43:25.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.781287,
@@ -73419,6 +73449,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5819146,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4636711,
     "Name": "Planned Parenthood Mar Monte - B Street",
     "id": "recaV1dnbFZMC8tfy"
@@ -79927,11 +79958,13 @@
   },
   {
     "Address": "111 Elm St, San Diego, CA 92101",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7237009,
+    "Location Type": "In-home Senior Care",
     "Longitude": -117.1633998,
     "Name": "Community Eldercare of San Diego dba St. Paul's PACE San Diego-Reasner",
     "id": "recdu4zfZELUG9CQG"
@@ -90286,7 +90319,7 @@
   },
   {
     "Address": "470 Chadbourne Rd suite  A, Fairfield, CA 94534",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Ole Health",
     "County": "Solano County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -100341,11 +100374,13 @@
   },
   {
     "Address": "630 L St, Chula Vista, CA 91911",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6162292,
+    "Location Type": "In-home Senior Care",
     "Longitude": -117.0853358,
     "Name": "Community Eldercare of San Diego dba St. Paul's PACE Chula Vista-Akaloa",
     "id": "recoTI1mL9QNXxHg9"
@@ -105553,6 +105588,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6826003,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9203691,
     "Name": "Costa Mesa Health Center",
     "id": "recr6hE6ynOP411m3"
@@ -106661,6 +106697,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.726547,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.163652,
     "Name": "Planned Parenthood of SDRC - Surgical Services",
     "id": "recredU4jDFGw7G9P"
@@ -112820,16 +112857,21 @@
     "Address": "1516 CONSTITUTION BLVD, SALINAS, CA 93905",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      null
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:37.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:37:49.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.699271,
     "Location Type": "Pharmacy",
     "Longitude": -121.620633,
