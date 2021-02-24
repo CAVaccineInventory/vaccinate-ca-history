@@ -932,14 +932,16 @@
   {
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      null
+      "To make an appointment please call (805) 739-3815 or visit: https://sugeni.us/Wg5A"
     ],
     "Availability Info": [
-      "Yes: vaccinating 75+"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T23:33:40.000Z",
+    "Latest report": "2021-02-24T22:16:22.000Z",
     "Latest report notes": [
       "1/30: Appointments for Feb 3 and Feb 5 are available on the registration website: https://www.signupgenius.com/go/10c0d44ada92ea3f8ce9-mrmc3"
     ],
@@ -13135,11 +13137,11 @@
     "Address": "17522 BEACH BLVD, HUNTINGTON BEACH, CA 92647",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:57.000Z",
+    "Latest report": "2021-02-24T22:12:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.707934,
@@ -13169,16 +13171,22 @@
     "Address": "1001 Potrero Ave, Building 30, San Francisco, CA 94110",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      null
+      "https://www.sfdph.org/dph/comupg/oservices/medSvs/SFGH/SFGHPatientVisitor.asp"
     ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Yes: restricted to city residents"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-24T21:54:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:01:50.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.75529,
     "Location Type": "Health department",
     "Longitude": -122.40537,
@@ -16050,12 +16058,15 @@
   {
     "Address": "1875 N. Kraemer Blvd., Placentia CA, 92870",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
+    "Latest report": "2021-02-24T22:08:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.896,
@@ -28971,14 +28982,22 @@
   {
     "Address": "894 OAK VALLEY PARKWAY, BEAUMONT, CA 92223",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "riteaid.com "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T06:36:47.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:16:30.000Z",
+    "Latest report notes": [
+      "Feb-24: you are requested to go through their website and fill the questionnaire and by appointment only"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.947272,
     "Location Type": "Pharmacy",
     "Longitude": -116.999098,
@@ -61060,12 +61079,15 @@
   {
     "Address": "8450 La Palma Ave, BUENA PARK, CA 90620",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
+    "Latest report": "2021-02-24T22:11:39.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.846519,
@@ -65906,11 +65928,11 @@
     "Address": "2246 NEWPORT BLVD, COSTA MESA, CA 92627",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:29.000Z",
+    "Latest report": "2021-02-24T22:07:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.652711,
@@ -73042,12 +73064,15 @@
   {
     "Address": "30192 Town Center Dr, Laguna Niguel, CA 92677",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-21T23:13:51.000Z",
+    "Latest report": "2021-02-24T22:06:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.524634,
@@ -85775,12 +85800,15 @@
   {
     "Address": "1803 South Harbor Blvd, Anaheim CA, 92802",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:35.000Z",
+    "Latest report": "2021-02-24T22:19:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8028,
@@ -89487,10 +89515,21 @@
   {
     "Address": "1276 Halyard Dr, West Sacramento, CA 95691",
     "Affiliation": "Elica Health Centers",
+    "Appointment scheduling instructions": [
+      "(916) 454-2345"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Yolo County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:17:58.000Z",
+    "Latest report notes": [
+      "Can sign up to be a new patient and then get a vaccination appointment."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.5731431,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.5506216,
@@ -93961,11 +94000,11 @@
     "Address": "5961 La Palma Ave, LA PALMA, CA 90623",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:06.000Z",
+    "Latest report": "2021-02-24T22:21:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.846806,
@@ -98944,14 +98983,21 @@
   {
     "Address": "550 S RIVERSIDE AVE, RIALTO, CA 92376",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:22:18.000Z",
+    "Latest report notes": [
+      "Please enter the Pharmacy zip in nearest location to find pharmacy (zip code 92376)"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.09131,
     "Location Type": "Pharmacy",
     "Longitude": -117.370508,
@@ -107582,16 +107628,20 @@
     "Address": "25011 ALESSANDRO BLVD, MORENO VALLEY, CA 92553",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "kroger.com/covidvaccine"
+      "951-485-1116"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T19:28:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:20:53.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.916539,
     "Location Type": "Pharmacy",
     "Longitude": -117.225675,
@@ -107911,8 +107961,12 @@
   {
     "Address": "931 Market Street, Yuba City, CA 95991",
     "Affiliation": "AmplaHealth",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Sutter County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:14:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1449905,
@@ -121828,14 +121882,22 @@
   {
     "Address": "3201 Divisadero St, SAN FRANCISCO, CA 94123",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:11:21.000Z",
+    "Latest report notes": [
+      "Feb 25: Appointments are currently booked but new appointments are added about every 3 days. Currently using Pfizer. ~30 shots/day."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.799288,
     "Location Type": "Pharmacy",
     "Longitude": -122.443029,
@@ -122076,10 +122138,21 @@
   {
     "Address": "695 Oleander Ave, Chico, CA 95926",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
+    ],
     "County": "Butte County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:22:40.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.7348747,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.8418803,
