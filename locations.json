@@ -835,6 +835,7 @@
   },
   {
     "Address": "15400 Los Gatos Blvd, Los Gatos, CA 95032",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -3429,6 +3430,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1775982,
+    "Location Type": "Health department",
     "Longitude": -118.1511103,
     "Name": "Pasadena Health Department",
     "id": "rec1yd4T7mYzn4Luh"
@@ -5806,6 +5808,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1438243,
+    "Location Type": "Health department",
     "Longitude": -121.6366553,
     "Name": "SUTTER COUNTY PUBLIC HEALTH DEPARTMENT",
     "id": "rec30cvoPcfPw54Hi"
@@ -8238,6 +8241,7 @@
   },
   {
     "Address": "455 Plumas Blvd, Yuba City, CA 95991",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -8434,6 +8438,7 @@
   },
   {
     "Address": "2860 Del Paso Rd Ste 100, Sacramento, CA 95834",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -9353,6 +9358,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8075512,
+    "Location Type": "Pharmacy",
     "Longitude": -117.1295906,
     "Name": "Sharp Centralized Hospital Pharmacy",
     "id": "rec4q3pvdfTcE1JLk"
@@ -15450,6 +15456,7 @@
   },
   {
     "Address": "2095 Diamond Blvd Suite B150, Concord, CA 94520",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -16527,6 +16534,12 @@
     "Longitude": -117.216685,
     "Name": "WALMART PHARMACY 10-2094",
     "id": "rec8WSync9jU9l26v"
+  },
+  {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "rec8Xk6kn4SvAKeEm"
   },
   {
     "Address": "745 CLEMENT ST, SAN FRANCISCO, CA 94118",
@@ -18574,6 +18587,7 @@
   },
   {
     "Address": "16911 Willow Glen Rd, Challenge-Brownsville, CA 95919",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -22195,6 +22209,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.079197,
+    "Location Type": "Pharmacy",
     "Longitude": -117.8858471,
     "Name": "Med-Plus Pharmacy COVINA",
     "id": "recBK7cYC8Y9n8iHc"
@@ -24749,6 +24764,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7936031,
+    "Location Type": "Health department",
     "Longitude": -115.5633101,
     "Name": "Imperial County Public Health Department",
     "id": "recCUsBAvROfKpQDM"
@@ -32551,6 +32567,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2744706,
+    "Location Type": "Health department",
     "Longitude": -120.6467927,
     "Name": "San Luis Obispo County Public Health Department",
     "id": "recGRnEiU2uhiKNJ2"
@@ -33446,6 +33463,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5568282,
+    "Location Type": "Pharmacy",
     "Longitude": -121.4228939,
     "Name": "Sacramento State Student Health Services Pharmacy",
     "id": "recGwVbxKZcRn166a"
@@ -35330,6 +35348,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6068873,
+    "Location Type": "Pharmacy",
     "Longitude": -122.0833985,
     "Name": "Kaiser Union City B Pharmacy",
     "id": "recHfj2UhsMhu19wa"
@@ -36565,6 +36584,7 @@
   },
   {
     "Address": "685 Coleman Ave Suite 20, San Jose, CA 95110",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -38015,6 +38035,7 @@
   },
   {
     "Address": "2766 E Bidwell St  600, Folsom, CA 95630",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -47535,6 +47556,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.002259,
+    "Location Type": "Pharmacy",
     "Longitude": -117.945351,
     "Name": "Skilled Nursing Pharmacy",
     "id": "recONVB7As1scD1wF"
@@ -52566,6 +52588,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9879329,
+    "Location Type": "Health department",
     "Longitude": -120.3660892,
     "Name": "Tuolumne County Public Health Department",
     "id": "recQoqWECHVJ6WCm2"
@@ -55688,6 +55711,7 @@
   },
   {
     "Address": "600 Coffee Rd, Modesto, CA 95355",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -63570,6 +63594,7 @@
   },
   {
     "Address": "4010 Foothills Blvd Ste 102, Roseville, CA 95747",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -67392,6 +67417,7 @@
   },
   {
     "Address": "550 B St, Yuba City, CA 95991",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -71718,6 +71744,7 @@
   },
   {
     "Address": "815 Court St Suite 5, Jackson, CA 95642",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -75153,6 +75180,7 @@
   },
   {
     "Address": "497 E Calaveras Blvd, Milpitas, CA 95035",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -76781,6 +76809,7 @@
   },
   {
     "Address": "2055 Town Center Plaza  G130, West Sacramento, CA 95691",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -82350,6 +82379,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6969847,
+    "Location Type": "Health department",
     "Longitude": -121.63615,
     "Name": "Monterey County Health Department, Public Health Bureau",
     "id": "recgIjT26PbMc8uC3"
@@ -93620,6 +93650,7 @@
   },
   {
     "Address": "11795 Education St Suite 100, Auburn, CA 95602",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -100007,6 +100038,7 @@
   },
   {
     "Address": "2720 Low Ct, Fairfield, CA 94534",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -103082,6 +103114,7 @@
   },
   {
     "Address": "2900 Chanticleer Ave, Santa Cruz, CA 95065",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -107947,6 +107980,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8949895,
+    "Location Type": "Pharmacy",
     "Longitude": -122.0527716,
     "Name": "Ridgecrest Pharmacy",
     "id": "recteUnzAdTiP39kR"
@@ -111376,6 +111410,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1064029,
+    "Location Type": "Pharmacy",
     "Longitude": -117.6646473,
     "Name": "ABC PHARMACY",
     "id": "recvVmBjkTuiyE6QM"
@@ -113400,6 +113435,7 @@
   },
   {
     "Address": "12 Cam Encinas, Orinda, CA 94563",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -116496,6 +116532,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.674388,
+    "Location Type": "Health department",
     "Longitude": -120.240907,
     "Name": "Sierra County Public Health Department",
     "id": "recy3U42qm9wFOtyJ"
