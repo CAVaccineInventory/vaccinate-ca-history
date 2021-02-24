@@ -418,6 +418,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9240722,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4323648,
     "Name": "Central Coast Family Care - Office 4",
     "id": "rec0FKV5w8hQ5nEhU"
@@ -446,19 +447,14 @@
     "Address": "14885 Telegraph Rd, LA MIRADA, CA 90638",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
+      "Appointments are daily from 6-7PM and they are made for about 3 days out.\n\nAppointments can be made at the Walgreens website, https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule or the county website: http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83 \n"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T20:01:19.000Z",
-    "Latest report notes": [
-      "This location is only scheduling appointments for county residents and through the Walgreens website."
-    ],
+    "Latest report": "2021-02-24T19:04:24.000Z",
     "Latest report yes?": 1,
     "Latitude": 33.917508,
     "Location Type": "Pharmacy",
@@ -2683,6 +2679,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1926603,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2723059,
     "Name": "Vista Community Clinic-Durian",
     "id": "rec1UK8CsF3JcoOEV"
@@ -5217,14 +5214,14 @@
     "Address": "8440 E CHAPMAN AVE, ORANGE, CA 92869",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:12:18.000Z",
+    "Latest report": "2021-02-24T19:03:28.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.791809,
@@ -6043,6 +6040,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9388781,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.422143,
     "Name": "Central Coast Family Care - Office 2",
     "id": "rec33g3Fd6Tlt6kFy"
@@ -11949,11 +11947,13 @@
   },
   {
     "Address": "101 E REDLANDS BLVD, REDLANDS, CA 92373",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.057437,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1810658,
     "Name": "The Garden Pediatrics Group",
     "id": "rec673fObiI2KXw2t"
@@ -13089,11 +13089,13 @@
   },
   {
     "Address": "36919 Cook St   102, Palm Desert, CA 92211",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7797849,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.3572259,
     "Name": "Younes Medical Center",
     "id": "rec6f9073RZMTzC5P"
@@ -17806,6 +17808,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1913605,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2754366,
     "Name": "Vista Community Clinic-Grapevine",
     "id": "rec8yXrP4tVAK810X"
@@ -18821,6 +18824,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7114837,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1906432,
     "Name": "Neighborhood Healthcare Menifee",
     "id": "rec9WclZVKd372yKX"
@@ -19079,6 +19083,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.95142,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.411648,
     "Name": "Central Coast Family Care - Office 3",
     "id": "rec9gWMsRSHw3pFGA"
@@ -19157,6 +19162,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9400141,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.4531152,
     "Name": "UNICARE COMMUNITY HEALTH CENTER INC -5549 Van Buren Boulevard",
     "id": "rec9jF4TON79kT4TP"
@@ -20578,11 +20584,13 @@
   },
   {
     "Address": "13334 Limonite Ave  Suite 130, Eastvale, CA 92880",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9762005,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5738651,
     "Name": "TotalCare Walk-In Clinic Eastvale",
     "id": "recAOpmJf6pNSaJpQ"
@@ -21926,6 +21934,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care",
     "id": "recB0HvkA49r3iwON"
@@ -22390,11 +22399,13 @@
   },
   {
     "Address": "6405 Day St, Riverside, CA 92507",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9340681,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2800826,
     "Name": "Riverside Medical Clinic - Canyon Springs Campus",
     "id": "recBEOvi1PIbpAoau"
@@ -22858,6 +22869,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7617111,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9704208,
     "Name": "Hemet Family Care Center",
     "id": "recBPPKGvXnM5ijkZ"
@@ -23389,11 +23401,13 @@
   },
   {
     "Address": "7117 Brockton Ave, Riverside, CA 92506",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9432482,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.396033,
     "Name": "Riverside Medical Clinic - Main Campus",
     "id": "recBcJ8Z5HDS2Tllx"
@@ -29581,6 +29595,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1260686,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0680761,
     "Name": "Neighborhood Healthcare Grand",
     "id": "recEf4LAlsZA6UC9v"
@@ -30505,6 +30520,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care - Office 7",
     "id": "recFBDVcDLarYUOdg"
@@ -35335,6 +35351,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.9569463,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0493274,
     "Name": "Neighborhood Healthcare Poway",
     "id": "recHMachfq8Trz3HA"
@@ -36168,11 +36185,13 @@
   },
   {
     "Address": "1310 SAN BERNARDINO RD STE 103, UPLAND, CA 91786",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1020077,
+    "Location Type": "Private Practice",
     "Longitude": -117.6336909,
     "Name": "DR BASIM ABDELKARIM",
     "id": "recHiDtjJ9A750qfI"
@@ -36723,6 +36742,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7181468,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1676961,
     "Name": "One Medical - 1230 Columbia St",
     "id": "recHyBiRSbHVNZTHN"
@@ -37357,12 +37377,15 @@
   {
     "Address": "121 N Beach Ave, Anaheim, CA 92801",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
+    "Latest report": "2021-02-24T19:09:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.833358,
@@ -37866,6 +37889,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.800229,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.952309,
     "Name": "Neighborhood Healthcare El Cajon",
     "id": "recITFMbPr9je7y36"
@@ -43511,16 +43535,20 @@
     "Address": "810 S State College Blvd, ANAHEIM, CA 92806",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "riteaid.com/pharmacy/covid-qualifier"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:55:23.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:15:29.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.831271,
     "Location Type": "Pharmacy",
     "Longitude": -117.888626,
@@ -43761,11 +43789,13 @@
   },
   {
     "Address": "4141 State Street Suite B11, Santa Barbara, CA 93110",
+    "Affiliation": "IHS",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4396896,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7613296,
     "Name": "American Indian Health   Services",
     "id": "recLiJTUd7MTZCKUW"
@@ -43846,11 +43876,13 @@
   },
   {
     "Address": "15791 Bear Valley Rd, Hesperia, CA 92345",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4701935,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3190019,
     "Name": "Dr. Mike's Walk In Clinic   Hesperia",
     "id": "recLm9Ax1mJKBrLGd"
@@ -47194,6 +47226,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8437186,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.5284652,
     "Name": "Palm Springs Family Care Center",
     "id": "recNYnYEclrdcWyLm"
@@ -48452,12 +48485,15 @@
   {
     "Address": "731 South Weir Canyon Road, Anaheim Hills CA, 92808",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:34.000Z",
+    "Latest report": "2021-02-24T19:08:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8611,
@@ -48651,11 +48687,13 @@
   },
   {
     "Address": "351 Felice Dr, Hollister, CA 95023",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Benito County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8532362,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4163828,
     "Name": "San Benito Health Foundation",
     "id": "recORrsgHjP3lcAqj"
@@ -49372,14 +49410,20 @@
   {
     "Address": "2000 E 17TH ST, SANTA ANA, CA 92705",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:14:04.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.758916,
     "Location Type": "Pharmacy",
     "Longitude": -117.838206,
@@ -50576,6 +50620,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.12497,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0918655,
     "Name": "Neighborhood Healthcare Interfaith",
     "id": "recPKVAm1lHLQ17eo"
@@ -51566,14 +51611,14 @@
     "Address": "17099 BROOKHURST STREET, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Sam's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:51:31.000Z",
+    "Latest report": "2021-02-24T19:18:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.715745,
@@ -53483,11 +53528,13 @@
   },
   {
     "Address": "31700 Temecula Pkwy, Temecula, CA 92592",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.4806133,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1066202,
     "Name": "Temecula Valley Hospital",
     "id": "recQi3xrE05KN7YMD"
@@ -56830,6 +56877,7 @@
   },
   {
     "Address": "1136 E Montecito St, Santa Barbara, CA 93103",
+    "Affiliation": "County",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -57069,11 +57117,13 @@
   },
   {
     "Address": "900 University Ave., Riverside, CA 92521",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9737055,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3280644,
     "Name": "UC Riverside Student Health",
     "id": "recSb8aJcBSxhNaco"
@@ -57136,12 +57186,15 @@
   {
     "Address": "16555 Von Karman Ave, Irvine, CA 92606",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
+    "Latest report": "2021-02-24T19:10:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.698776,
@@ -58489,6 +58542,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8611169,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9207665,
     "Name": "Neighborhood Healthcare Lakeside",
     "id": "recT9Jwc0bDt3puQ9"
@@ -59364,6 +59418,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8719417,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2097576,
     "Name": "One Medical - 4505 La Jolla Village Dr",
     "id": "recTbjKRBhr0KqShi"
@@ -60427,11 +60482,13 @@
   },
   {
     "Address": "21634 Retreat Parkway, Temescal Valley, CA 92883",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8050278,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5080872,
     "Name": "Riverside Medical Clinic - Temescal Valley Campus",
     "id": "recU4xVB2yOmHYXSH"
@@ -60954,11 +61011,13 @@
   },
   {
     "Address": "591 McCray St suite 211, Hollister, CA 95023",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Benito County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8505804,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3969184,
     "Name": "Primary Care Associates",
     "id": "recUMe6ghMXwTnScJ"
@@ -62070,17 +62129,6 @@
     "id": "recUvh0T6cT37OC6K"
   },
   {
-    "Address": "4263 California Blvd, Santa Maria, CA 93455",
-    "County": "Santa Barbara County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "Latitude": 34.8807498,
-    "Longitude": -120.4464445,
-    "Name": "Santa Barbara County Juvenile Hall",
-    "id": "recUvjRb3AiVaAyEN"
-  },
-  {
     "Address": "15301 S. San Jose Ave.\nCompton, CA 90221",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -63000,6 +63048,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.0830322,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2669227,
     "Name": "One Medical - 7740 El Camino Real Carlsbad",
     "id": "recVRdBUrdNvPFy6b"
@@ -68006,6 +68055,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5243585,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2659552,
     "Name": "Dignity Health Medical Foundation - Belmont",
     "id": "recY5j8BoddYZkkr8"
@@ -70328,6 +70378,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9917529,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3977449,
     "Name": "Rubidoux Family Care Center",
     "id": "recZIH5cD0nOlAQmW"
@@ -70459,11 +70510,13 @@
   },
   {
     "Address": "1117 E Devonshire Ave, Hemet, CA 92543",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.750347,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.960037,
     "Name": "Hemet Global Medical Center",
     "id": "recZMwLsYLzJUE3Ac"
@@ -73365,6 +73418,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.2456081,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3092608,
     "Name": "Vista Community Clinic-North River Road",
     "id": "recamGhpBwu93KhOa"
@@ -74162,14 +74216,20 @@
   {
     "Address": "591 TRES PINOS RD, HOLLISTER, CA 95023",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "https://www.safeway.com/pharmacy/covid-19.html?cmpid=ps_swy_noc_cov_goo_20210125_71700000078883499_58700006658459542_43700060099199027&gclsrc=aw.ds&&gclid=Cj0KCQiAj9iBBhCJARIsAE9qRtBy43L6cyef18np8XA0GgQi6tCM8_82qpMQxc6ntRHf_bW8Oq0UW1YaAleDEALw_wcB"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Benito County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:19:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.838459,
     "Location Type": "Pharmacy",
     "Longitude": -121.391924,
@@ -74422,6 +74482,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care - Office 5",
     "id": "recbLOB1PflycLi4P"
@@ -75211,6 +75272,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.127863,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0735479,
     "Name": "Neighborhood Healthcare EVP",
     "id": "recbegv2LINyWeJO6"
@@ -75776,6 +75838,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.92596,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9102751,
     "Name": "Banning Family Care Center",
     "id": "recc0MQDzBaRdNItM"
@@ -77085,11 +77148,13 @@
   },
   {
     "Address": "2 West Fern Ave., Redlands, CA 92373",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0503607,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1796274,
     "Name": "Beaver Medical Group - Redlands Main",
     "id": "recce7jBegYF9odXD"
@@ -81331,6 +81396,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8828735,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5134887,
     "Name": "UNICARE COMMUNITY HEALTH CENTER INC -107 N McKinley St",
     "id": "recewtzM5jc8GAD5W"
@@ -82953,6 +83019,7 @@
   },
   {
     "Address": "345 Camino Del Remedio, Santa Barbara, CA 93110",
+    "Affiliation": "County",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -85093,6 +85160,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1286381,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0727663,
     "Name": "Neighborhood Healthcare Elm",
     "id": "recgntcXLjcghzP4v"
@@ -86402,11 +86470,13 @@
   },
   {
     "Address": "2801 Santa Maria Way Suite B, Santa Maria, CA 93455",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9088211,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4344253,
     "Name": "Community Health Centers of the Central Coast, Inc",
     "id": "rechPwcUPa5sVRxbp"
@@ -87781,11 +87851,13 @@
   },
   {
     "Address": "540 N San Jacinto St   P, Hemet, CA 92543",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7553894,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9577407,
     "Name": "Tri-State Community Healthcare Center",
     "id": "reciBtfylMh304ooB"
@@ -89986,6 +90058,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1292677,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0713318,
     "Name": "Neighborhood Healthcare Pediatrics",
     "id": "recjNzd8ljCOCycD3"
@@ -90381,11 +90454,13 @@
   },
   {
     "Address": "6250 Clay St, Riverside, CA 92509",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9749392,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.4619567,
     "Name": "Riverside Medical Clinic - Jurupa",
     "id": "recjVoo1IEImoeo2x"
@@ -90824,6 +90899,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1099222,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2922728,
     "Name": "D Street Medical Center",
     "id": "recjjK81AtE5RKbHQ"
@@ -92809,11 +92885,13 @@
   },
   {
     "Address": "930 Sunnyslope Rd Ste B1 Suite B-1, Hollister, CA 95023",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Benito County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8397957,
+    "Location Type": "Private Practice",
     "Longitude": -121.3855079,
     "Name": "Martin M Bress MD APC",
     "id": "recktRAuz1tiTUhYM"
@@ -97453,11 +97531,13 @@
   },
   {
     "Address": "19314 Jesse Ln, Riverside, CA 92508",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9052257,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3269261,
     "Name": "Riverside Medical Clinic - Mission Grove Campus",
     "id": "recnGHTt5yfNW0G9b"
@@ -99893,11 +99973,13 @@
   },
   {
     "Address": "4343 Market Street STE D, Riverside, CA 92501",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.977486,
+    "Location Type": "Private Practice",
     "Longitude": -117.379458,
     "Name": "Vien D Doan",
     "id": "recodSgFk2e4YjvD2"
@@ -103502,14 +103584,21 @@
   {
     "Address": "8766 NAVAJO RD, SAN DIEGO, CA 92119",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T00:48:12.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:07:22.000Z",
+    "Latest report notes": [
+      "Must be California resident. Offering to heathcare workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.80396,
     "Location Type": "Pharmacy",
     "Longitude": -117.007627,
@@ -107144,6 +107233,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6846088,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3682392,
     "Name": "Vista Community Clinic-Lake Elsinore",
     "id": "recs6GFdnQ511yRBR"
@@ -107761,6 +107851,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5176358,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1693534,
     "Name": "Neighborhood Healthcare Temecula",
     "id": "recsPI7YcJTtV6tjf"
@@ -107875,17 +107966,6 @@
     "Longitude": -122.095061,
     "Name": "COSTCO PHARMACY #143",
     "id": "recsUZi0MnaL40v9X"
-  },
-  {
-    "Address": "2801 Meadow Lark Dr, San Diego, CA 92123",
-    "County": "San Diego County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "Latitude": 32.7941465,
-    "Longitude": -117.1539666,
-    "Name": "Kearny Mesa Juvenile Hall Clinic",
-    "id": "recsUo1Rka8Gnf1zS"
   },
   {
     "Address": "188 Las Tunas Dr., Arcadia CA, 91007",
@@ -108014,11 +108094,11 @@
     "Address": "2700 PARK AVE, TUSTIN, CA 92782",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:41.000Z",
+    "Latest report": "2021-02-24T19:17:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.552129,
@@ -108781,6 +108861,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7008487,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.2232129,
     "Name": "Indio Family Care Center",
     "id": "recsx0x28DF2kEl1D"
@@ -109468,11 +109549,13 @@
   },
   {
     "Address": "12742 Limonite Ave, Eastvale, CA 92880",
+    "Affiliation": "Riverside Medical Clinic",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9742545,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5613126,
     "Name": "Riverside Medical Clinic - Eastvale Campus",
     "id": "rectQfvcFKYaxwT2r"
@@ -111049,6 +111132,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.2306375,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0212491,
     "Name": "Neighborhood Healthcare Pauma",
     "id": "recuFG5QUQdr9BA0J"
@@ -111441,11 +111525,13 @@
   },
   {
     "Address": "2115 Centerpointe Pkwy, Santa Maria, CA 93455",
+    "Affiliation": "County",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9226032,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -120.4299882,
     "Name": "Santa Maria Health Care Center",
     "id": "recuTpyPwmdBOI1Sp"
@@ -112838,11 +112924,13 @@
   },
   {
     "Address": "39755 Date St, Murrieta, CA 92563",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5464465,
+    "Location Type": "Private Practice",
     "Longitude": -117.15415,
     "Name": "Talha Memon MD INC",
     "id": "recvAsYTykQrJDoSt"
@@ -113961,11 +114049,13 @@
   },
   {
     "Address": "15626 Hesperia Rd, Victorville, CA 92395",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.5346287,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2917737,
     "Name": "DR MIKEL WALK IN CLINIC   VICTORVILLE",
     "id": "recvkvghxun8qe594"
@@ -116413,11 +116503,13 @@
   },
   {
     "Address": "58375 Twentynine Palms Highway, Yucca Valley, CA 92284",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1310543,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.3902462,
     "Name": "Hi-Desert Memorial Healthcare District",
     "id": "recwuwsY8zvTpCXYa"
@@ -117818,6 +117910,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.2096447,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2287661,
     "Name": "Vista Community Clinic- Main",
     "id": "recxc8kgcBLMWV9DM"
@@ -120180,6 +120273,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9385589,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3972263,
     "Name": "Riverside Neighborhood Health Center",
     "id": "recyq8o57OjWRdrAm"
@@ -121256,6 +121350,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1986386,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3776672,
     "Name": "Vista Community Clinic-Pier View Way",
     "id": "reczRi12TqLXjm88o"
@@ -121323,11 +121418,13 @@
   },
   {
     "Address": "1600 E Citrus Ave., Suite A  Beaver Advantage, Redlands, CA 92374",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.054901,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.146789,
     "Name": "Beaver Medical Group - Advantage",
     "id": "reczUBASzzGFU2Tvl"
