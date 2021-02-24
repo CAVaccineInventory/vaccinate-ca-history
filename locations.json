@@ -38840,6 +38840,7 @@
     "id": "recJOIFXIor8YX4ja"
   },
   {
+    "Address": "1165 Montgomery Dr \nSanta Rosa, CA 95405",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: no vaccine inventory"
@@ -46896,14 +46897,21 @@
   {
     "Address": "1700 W WHITTIER BOULEVARD, LA HABRA, CA 90631",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:54:08.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website. As of Feb 23, they are expecting their shipment within a week so check the website daily."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.939026,
     "Location Type": "Pharmacy",
     "Longitude": -117.964958,
@@ -54555,14 +54563,22 @@
   {
     "Address": "946 S BROOKHURST ST, ANAHEIM, CA 92804",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T17:30:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:53:41.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.818474,
     "Location Type": "Pharmacy",
     "Longitude": -117.958544,
@@ -91497,14 +91513,14 @@
     "Address": "4541 CAMPUS DR, IRVINE, CA 92612",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T18:59:00.000Z",
+    "Latest report": "2021-02-24T02:58:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.65015,
@@ -96898,14 +96914,14 @@
     "Address": "25533 Marguerite Pkwy, MISSION VIEJO, CA 92692",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "760-997-7800"
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T23:39:35.000Z",
+    "Latest report": "2021-02-24T02:58:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.591142,
