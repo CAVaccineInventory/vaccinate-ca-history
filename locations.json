@@ -799,6 +799,7 @@
   },
   {
     "Address": "24318 HEMLOCK AVE SUITE E1, MORENO VALLEY, CA 92557",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -1143,11 +1144,13 @@
   },
   {
     "Address": "45200 club dr  Suite B, Indian Wells, CA 92210",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.720191,
+    "Location Type": "Private Practice",
     "Longitude": -116.326321,
     "Name": "Daniel Cosgrove, MD",
     "id": "rec0a1Z2Cq2XwTF5Z"
@@ -1963,11 +1966,13 @@
   },
   {
     "Address": "1860 Hamner Ave, Norco, CA 92860",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9091574,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5621274,
     "Name": "Central City Community Health Center, Inc. - Norco",
     "id": "rec0xEwIvQsiouy4z"
@@ -2947,11 +2952,13 @@
   },
   {
     "Address": "362 Third St, Laguna Beach, CA 92651",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5439928,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.7807206,
     "Name": "Laguna Beach Community Clinic, Inc",
     "id": "rec1cAgRe6VhgkvfS"
@@ -3005,11 +3012,13 @@
   },
   {
     "Address": "370 N. Wiget Lane Suite 210, walnut creek, CA 94598",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9298688,
+    "Location Type": "Specialist",
     "Longitude": -122.0271191,
     "Name": "Allergy and Asthma Medical Group of the Bay Area",
     "id": "rec1d3DmHMZOx7dYE"
@@ -4948,11 +4957,13 @@
   },
   {
     "Address": "1300 N Fresno St STE 220, Fresno, CA 93703",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7599815,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7812884,
     "Name": "FAMILY CARE PROVIDERS",
     "id": "rec2a8Z2yK5HNvE16"
@@ -5983,6 +5994,7 @@
   },
   {
     "Address": "12220 Foothill Blvd, Sylmar, CA 91342",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -6152,11 +6164,13 @@
   },
   {
     "Address": "23228 Madero, Mission Viejo, CA 92691",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6259044,
+    "Location Type": "Specialist",
     "Longitude": -117.6798121,
     "Name": "ROYALE MISSION VIEJO",
     "id": "rec39FqIhuzqK3UN7"
@@ -7336,6 +7350,7 @@
   },
   {
     "Address": "5310 Fountain Ave, Los Angeles, CA 90029",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -7808,6 +7823,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97533,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3545505,
     "Name": "Eastside Health Center",
     "id": "rec3oXwidAZOdbsrg"
@@ -8231,11 +8247,13 @@
   },
   {
     "Address": "22675 Alessandro Blvd, Moreno Valley, CA 92553",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9159528,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2674176,
     "Name": "Moreno Valley Family Health Center",
     "id": "rec444Gl7v9kx3bMx"
@@ -8272,11 +8290,13 @@
   },
   {
     "Address": "4011 N Marks Avenue, Fresno, CA 93722",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7944553,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.8457782,
     "Name": "North Marks Medical Clinic",
     "id": "rec46GJfGP2tJqBWX"
@@ -8623,6 +8643,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6542192,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.5250338,
     "Name": "Sutter Walk-In Care - Natomas",
     "id": "rec4HXE5s1DRUjRDL"
@@ -8998,6 +9019,7 @@
   },
   {
     "Address": "32341 Coast Hwy, Laguna Beach, CA 92651",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -9483,11 +9505,13 @@
   },
   {
     "Address": "1750 Wright St, Sacramento, CA 95825",
+    "Affiliation": "Elica Health Centers",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.597757,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4058687,
     "Name": "Elica - Arden Arcade",
     "id": "rec4lOA9vvSYGeen2"
@@ -9584,6 +9608,7 @@
   },
   {
     "Address": "3558 Ruffin Rd Ste 100, San Diego, CA 92123",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -11985,6 +12010,7 @@
   },
   {
     "Address": "1365 S Grand Ave, Glendora, CA 91740",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -13114,6 +13140,7 @@
   },
   {
     "Address": "797 S Arroyo Pkwy, Pasadena, CA 91105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -14270,6 +14297,7 @@
   },
   {
     "Address": "537 W Live Oak St, San Gabriel, CA 91776",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -15294,6 +15322,7 @@
   },
   {
     "Address": "1207 E Florida Ave, Hemet, CA 92543",
+    "Affiliation": "Apple Urgent Care",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -15418,6 +15447,7 @@
   },
   {
     "Address": "158 W College St, Covina, CA 91723",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -16318,6 +16348,7 @@
   },
   {
     "Address": "3140 Long Beach Blvd, Long Beach, CA 90807",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -17459,6 +17490,7 @@
   },
   {
     "Address": "400 E Huntington Dr, Arcadia, CA 91006",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -17676,11 +17708,13 @@
   },
   {
     "Address": "3683 Peralta Boulevard, Fremont, CA 94536",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5595566,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0043094,
     "Name": "On Lok Senior Health Services - Peralta Center",
     "id": "rec8wKJnJ67uzgrWl"
@@ -18318,11 +18352,13 @@
   },
   {
     "Address": "1145 Phelps Ave Suite 104, Coalinga, CA 93210",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.1517661,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.3424191,
     "Name": "Coalinga Valley Health Clinics, Inc.",
     "id": "rec99zJmDq2oGISte"
@@ -19231,6 +19267,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6898738,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.95463,
     "Name": "Family Care Centers - Fountain Valley",
     "id": "rec9hyFS6C2etAaML"
@@ -19513,6 +19550,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5702584,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4660051,
     "Name": "Sacramento Immunization Clinic",
     "id": "rec9sXT80WQfLMukd"
@@ -20129,6 +20167,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8138094,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.4564045,
     "Name": "Centro Medico Cathedral City",
     "id": "recAB9hiWdOz7rjJk"
@@ -20154,11 +20193,13 @@
   },
   {
     "Address": "5500 Irvine Center Drive Health Center, Irvine, CA 92618",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6754033,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.77773,
     "Name": "Irvine Valley College Health and Wellness Center",
     "id": "recABSqN5O3GIiWlu"
@@ -20249,11 +20290,13 @@
   },
   {
     "Address": "10090 Westminster Ave, Garden Grove, CA 92843",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.758967,
+    "Location Type": "Private Practice",
     "Longitude": -117.9535983,
     "Name": "Cam Huong Tran MD",
     "id": "recAEOsJJc5sLgdlX"
@@ -20286,6 +20329,7 @@
   },
   {
     "Address": "41750 Rancho Las Palmas Dr  C4, Rancho Mirage, CA 92270",
+    "Affiliation": "Eisenhower Health",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -20924,6 +20968,7 @@
   },
   {
     "Address": "4190 Chicago Ave, Riverside, CA 92507",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -21798,6 +21843,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.79541,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9701064,
     "Name": "San Jacinto Health Center",
     "id": "recAsjo7AITEAngef"
@@ -21992,6 +22038,7 @@
   },
   {
     "Address": "40285 Winchester Rd  Ste 103, Temecula, CA 92591",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -22283,6 +22330,7 @@
   },
   {
     "Address": "82360 CA-111  suite F, Indio, CA 92201",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -22768,6 +22816,7 @@
   },
   {
     "Address": "281 East Rowland St., Covina, CA 91723",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -22911,6 +22960,7 @@
   },
   {
     "Address": "4500 Brockton Avenue, Suite 203, Riverside, CA 92501",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -23937,6 +23987,7 @@
   },
   {
     "Address": "435 E. Gladstone St, Glendora, CA 91740",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24047,6 +24098,7 @@
   },
   {
     "Address": "1675 N Perris BLVD, Suite G1, Perris, CA 92571",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24939,6 +24991,7 @@
   },
   {
     "Address": "415 S Union Ave, Los Angeles, CA 90017",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24968,6 +25021,7 @@
   },
   {
     "Address": "28237 La Piedra Rd  Building 700, Menifee, CA 92584",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -25063,6 +25117,7 @@
   },
   {
     "Address": "9541 Van Nuys Blvd, Panorama City, CA 91402",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -25400,6 +25455,7 @@
   },
   {
     "Address": "108 La Casa Via Suite 100, Walnut Creek, CA 94598",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -26800,6 +26856,7 @@
   },
   {
     "Address": "17612 17th St, Tustin, CA 92780",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -28231,6 +28288,7 @@
   },
   {
     "Address": "45200 Club Dr suite A, Indian Wells, CA 92210",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -28620,11 +28678,13 @@
   },
   {
     "Address": "4929 E Kings Canyon Rd, Fresno, CA 93727",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7366467,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7305273,
     "Name": "Kings Winery Medical Clinic",
     "id": "recE7Jns6J1RYAiUa"
@@ -29033,12 +29093,14 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9459379,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.4674763,
     "Name": "Arlanza Family Health Center",
     "id": "recEJfVRWVaq9tkdw"
   },
   {
     "Address": "12675 Hesperia Road, Victorville, CA 92395",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -29263,6 +29325,7 @@
   },
   {
     "Address": "16240 Perris Blvd  Suite Q, Moreno Valley, CA 92551",
+    "Affiliation": "Concentra",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -29452,6 +29515,7 @@
   },
   {
     "Address": "505 N La Brea Ave, Los Angeles, CA 90036",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -29824,11 +29888,13 @@
   },
   {
     "Address": "30 E River Park Pl W Ste 440, Fresno, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8589347,
+    "Location Type": "Specialist",
     "Longitude": -119.7877677,
     "Name": "CARDIAC INSTITUTE OF CENTRAL CALIFORNIA A MEDICAL CORPORATION",
     "id": "recEi9WNoTsoe2uKk"
@@ -32470,11 +32536,13 @@
   },
   {
     "Address": "3275 McCall Ave. suite 102, Selma, CA 93662",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.583159,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.611039,
     "Name": "Dr. Ochoa Family Clinic",
     "id": "recG4I7H3ATs44Exp"
@@ -32504,6 +32572,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0889716,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2914768,
     "Name": "Wesley Health Center Vermont",
     "id": "recG4d6zNfsz6CsDx"
@@ -32949,11 +33018,13 @@
   },
   {
     "Address": "2600 Stanwell Drive Suite 120, Concord, CA 94520",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9868808,
+    "Location Type": "In-home Senior Care",
     "Longitude": -122.0476098,
     "Name": "Open House Center",
     "id": "recGIWCAnfN9nL4Hh"
@@ -33083,11 +33154,13 @@
   },
   {
     "Address": "568 E Herndon Ave, Fresno, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8387255,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.7774818,
     "Name": "The Nephrology Group, INC",
     "id": "recGLPkbyRe9w0f64"
@@ -33477,6 +33550,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.4983915,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.1153682,
     "Name": "Centro Medico Oasis",
     "id": "recGV2asJs3xh42eV"
@@ -34257,6 +34331,7 @@
   },
   {
     "Address": "6000 J St  Tschannen Science Bldg, Sacramento, CA 95819",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -35004,6 +35079,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7040104,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9886939,
     "Name": "MemorialCare Medical Group HB Beach",
     "id": "recHBvT3QxZbuNRjJ"
@@ -35958,6 +36034,7 @@
   },
   {
     "Address": "1900 S Longwood Ave, Los Angeles, CA 90016",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -36185,6 +36262,7 @@
   },
   {
     "Address": "3553 Whipple Road, 1st Floor Attn  Jonathan Kim, Union City, CA 94587",
+    "Affiliation": "Kaiser",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -36231,11 +36309,13 @@
   },
   {
     "Address": "9380 Magnolia Ave, Riverside, CA 92503",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9213433,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.4441299,
     "Name": "Magnolia Community Health Center",
     "id": "recHg0rdnt4jfJTLP"
@@ -36728,6 +36808,7 @@
   },
   {
     "Address": "1293 6th St, Coachella, CA 92236",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -36829,11 +36910,13 @@
   },
   {
     "Address": "1333 Bush Street, San Francisco, CA 94109",
+    "Affiliation": "On Lok Senior Health Services",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7886044,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.4190214,
     "Name": "On Lok Senior Health Services - Gee Center",
     "id": "recHxajKKh707LBBy"
@@ -37792,6 +37875,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4210191,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.405392,
     "Name": "SMF-Elk Grove Medical Campus",
     "id": "recIOKzfLAdHduCua"
@@ -38471,6 +38555,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9867681,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.517068,
     "Name": "Troth Street Elementary Clinic",
     "id": "recIhmrHIoYuaA4kV"
@@ -38983,6 +39068,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6561499,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1210696,
     "Name": "Sutter Walk-In Care - Folsom",
     "id": "recIvA3a4bYoZjalG"
@@ -40685,6 +40771,7 @@
   },
   {
     "Address": "25115 Madison Ave, Murrieta, CA 92562",
+    "Affiliation": "Concentra",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -41291,12 +41378,15 @@
   {
     "Address": "3300 S Bristol St, Santa Ana CA, 92704",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:50.000Z",
+    "Latest report": "2021-02-24T20:02:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7028,
@@ -41636,6 +41726,7 @@
   },
   {
     "Address": "1400 W GLENOAKS BLVD, GLENDALE, CA 91201",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -41909,11 +42000,13 @@
   },
   {
     "Address": "1206 E 17th St Ste 101, Santa Ana, CA 92701",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7596805,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8540484,
     "Name": "SERVE THE PEOPLE COMMUNITY HEALTH CENTER",
     "id": "recKb8GdQ1uBxjHgj"
@@ -43048,6 +43141,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7953334,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1249249,
     "Name": "MemorialCare Medical Group LB Bellflower",
     "id": "recLCYGhyLTdUT4Ww"
@@ -43338,6 +43432,7 @@
   },
   {
     "Address": "6700 Sepulveda Blvd, Los Angeles, CA 91411",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -44572,6 +44667,7 @@
   },
   {
     "Address": "3551 W Olympic Blvd, Los Angeles, CA 90019",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -46596,11 +46692,13 @@
   },
   {
     "Address": "2228 Ritchey Street, Santa Ana, CA 92705",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7492873,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8713673,
     "Name": "Orange County Emergency Medical Services",
     "id": "recN9buSlPAsShbTN"
@@ -48715,6 +48813,7 @@
   },
   {
     "Address": "16666 E Johnson Drive Suite C, CITY OF INDUSTRY, CA 91745",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -48773,6 +48872,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8095834,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1874257,
     "Name": "MemorialCare Medical Group LB Spring",
     "id": "recOPLOT0dIARMwOx"
@@ -48910,6 +49010,7 @@
   },
   {
     "Address": "1340 15th St, Santa Monica, CA 90404",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -50030,6 +50131,7 @@
   },
   {
     "Address": "8987 LAUREL CANYON BLVD, SUN VALLEY, CA 91352",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -50831,6 +50933,7 @@
   },
   {
     "Address": "11429 Ventura Blvd, Los Angeles, CA 91604",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -51068,6 +51171,7 @@
   },
   {
     "Address": "1278 latham ave, hemet, CA 92543",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -52317,6 +52421,7 @@
   },
   {
     "Address": "1041 S Main St, Burbank, CA 91506",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -54031,11 +54136,13 @@
   },
   {
     "Address": "5475 E La Palma Ave Suite 100, Anaheim, CA 92807",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8603507,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.7958539,
     "Name": "Sunrise Healthcare Center- Anaheim",
     "id": "recQuMxsQz4dOZchY"
@@ -54418,6 +54525,7 @@
   },
   {
     "Address": "7660 Wyngate St., Tujunga, CA 91042",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -54488,6 +54596,7 @@
   },
   {
     "Address": "2090 Nevada City Hwy, Grass Valley, CA 95945",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Nevada County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -54982,6 +55091,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6430903,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.2004208,
     "Name": "Cento Medico Coachella",
     "id": "recRL4L5JEPTWaSJ9"
@@ -56897,6 +57007,7 @@
   },
   {
     "Address": "3595 Van Buren Boulevard  Suite 101, Riverside, CA 92503",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -56966,6 +57077,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5649809,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4695397,
     "Name": "Dignity Health Medical Foundation Midtown - Family Practice",
     "id": "recSMbnGeaRXyCHEw"
@@ -57062,11 +57174,13 @@
   },
   {
     "Address": "255 W BULLARD SUITE 124, CLOVIS, CA 93612",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8235244,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7153015,
     "Name": "PRIMARY CARE CONSULTANTS, INC., A MEDICAL GROUP",
     "id": "recSTLALDhBMSILmq"
@@ -57159,11 +57273,13 @@
   },
   {
     "Address": "3750 Arlington Ave, Riverside, CA 92506",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9460674,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3990266,
     "Name": "Central Neighborhood Health Foundation Riverside",
     "id": "recSVaXioHtmhM1eQ"
@@ -58017,6 +58133,7 @@
   },
   {
     "Address": "3401 Watkins Dr, Riverside, CA 92507",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -58601,11 +58718,13 @@
   },
   {
     "Address": "307 Placentia Ave Suite 107, Newport Beach, CA 92663",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.62616,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.931504,
     "Name": "SOS Children   Family Health Center",
     "id": "recT6WIBxgmbaYw5n"
@@ -59342,11 +59461,13 @@
   },
   {
     "Address": "34490 Bob Hope Dr., Rancho Mirage, CA 92270",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7982788,
+    "Location Type": "Specialist",
     "Longitude": -116.4050937,
     "Name": "Desert Hematology Oncology Medical Group, Inc.",
     "id": "recTSOZDNHfLdHBEg"
@@ -59427,11 +59548,13 @@
   },
   {
     "Address": "225 30th Street, San Francisco, CA 94131",
+    "Affiliation": "On Lok Senior Health Services",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7420837,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.425194,
     "Name": "On Lok Senior Health Services - 30th Street Center",
     "id": "recTUnvIcJ57opfDp"
@@ -59654,11 +59777,13 @@
   },
   {
     "Address": "1191 Phelps Ave, Coalinga, CA 93210",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.1521337,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.3410283,
     "Name": "COALINGA REGIONAL MEDICAL CENTER",
     "id": "recTckVNJzFKK899g"
@@ -60001,6 +60126,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9758691,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3543088,
     "Name": "Eastside Health Center, Building B",
     "id": "recTnHBvrdSjISst6"
@@ -60505,11 +60631,13 @@
   },
   {
     "Address": "2933 University Ave, Riverside, CA 92507",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9778397,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.365039,
     "Name": "University Community Health Center",
     "id": "recU1i5lyA88Zb00H"
@@ -60533,11 +60661,13 @@
   },
   {
     "Address": "128 N.6th st., Fowler, CA 93625",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.63107,
+    "Location Type": "Private Practice",
     "Longitude": -119.6799287,
     "Name": "Harry Chen MD Inc A Professional Corporation",
     "id": "recU2U4g4ijFledGx"
@@ -61979,11 +62109,13 @@
   },
   {
     "Address": "1110 East Chapman Avenue Suite 100, Orange, CA 92866",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.787549,
+    "Location Type": "Specialist",
     "Longitude": -117.8418578,
     "Name": "Center for Oral Reconstruction   Education",
     "id": "recUlvlYxYVHglcO1"
@@ -62190,6 +62322,7 @@
   },
   {
     "Address": "12627 Studebaker Rd, Norwalk, CA 90650",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -62662,11 +62795,13 @@
   },
   {
     "Address": "451 W Lincoln Ave, Anaheim, CA 92805",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8346052,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9189431,
     "Name": "KCS Health Center",
     "id": "recV8lIQZ0bqoqTUw"
@@ -64875,6 +65010,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9372851,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1292657,
     "Name": "Wesley Health Centers (Downey)",
     "id": "recWO9XMMgYJymfRj"
@@ -65888,11 +66024,13 @@
   },
   {
     "Address": "1955 San Pablo Ave, Oakland, CA 94612",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8098738,
+    "Location Type": "In-home Senior Care",
     "Longitude": -122.2734088,
     "Name": "CEI -San Pablo Clinic",
     "id": "recWuqSlytUdZXCdT"
@@ -66326,11 +66464,13 @@
   },
   {
     "Address": "160 Capp, San Francisco, CA 94110",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7640465,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.418738,
     "Name": "Native American Health Center",
     "id": "recX832zs3kBk4XO2"
@@ -66623,6 +66763,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6794187,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.298833,
     "Name": "DHMF Citrus Heights Family Medicine",
     "id": "recXJ0Ue7F2XpzcDg"
@@ -66942,6 +67083,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1939036,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.3288644,
     "Name": "Borrego Medical Clinic",
     "id": "recXQpV0gxyQRDaXa"
@@ -67443,6 +67585,7 @@
   },
   {
     "Address": "5665 Reseda Blvd, Tarzana, CA 91356",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -67574,6 +67717,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6513816,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1673546,
     "Name": "Dignity Health Medical Foundation Folsom - Family Practice",
     "id": "recXighGjlcYKM9sX"
@@ -67782,6 +67926,7 @@
   },
   {
     "Address": "1810 Fullerton Ave.  Suite 105, Corona, CA 92881",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -68221,6 +68366,7 @@
   },
   {
     "Address": "72757 Fred Waring Dr, Palm Desert, CA 92260",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -68606,6 +68752,7 @@
   },
   {
     "Address": "5001 Commerce Dr, Bakersfield, CA 93309",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -69067,6 +69214,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.870184,
+    "Location Type": "Health department",
     "Longitude": -122.273261,
     "Name": "City of Berkeley",
     "id": "recYUE7OvJos0rkHt"
@@ -70268,11 +70416,13 @@
   },
   {
     "Address": "3701 J St Suite 201 A, Sacramento, CA 95816",
+    "Affiliation": "Elica Health Centers",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5708752,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4567644,
     "Name": "Eiica Health Centers Jst",
     "id": "recZ6r1AN292KtriO"
@@ -70296,11 +70446,13 @@
   },
   {
     "Address": "1081 Market Place Suite 200, San Ramon, CA 94583",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7633113,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9530436,
     "Name": "Tri-Valley Medical Center Inc",
     "id": "recZ8sakbP4mAENJZ"
@@ -72819,6 +72971,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6794187,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.298833,
     "Name": "DHMF Citrus Heights Internal Medicine",
     "id": "recaN7NlXAsP26lDH"
@@ -72882,11 +73035,13 @@
   },
   {
     "Address": "2000 Sierra Rd, Concord, CA 94518",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.952357,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0369495,
     "Name": "La Clinica Monument",
     "id": "recaOhdW7l4e0geJC"
@@ -73001,11 +73156,13 @@
   },
   {
     "Address": "91-275 66th AVE. Suite 200, MECCA, CA 92254",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5683729,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.0742822,
     "Name": "Mecca - Clinicas De Salud Del Pueblo",
     "id": "recaQzetIUiZ0ijNx"
@@ -74360,11 +74517,13 @@
   },
   {
     "Address": "7631 Wyoming Street  108, Westminster, CA 92683",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7617946,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.996147,
     "Name": "Family Choice Medical Group",
     "id": "recb796MR8oLAG3ai"
@@ -75169,11 +75328,13 @@
   },
   {
     "Address": "2405 Shadelands Drive Suite 200, Walnut Creek, CA 94598",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9248678,
+    "Location Type": "Specialist",
     "Longitude": -122.0253844,
     "Name": "Sequoia Surgical Pavilion",
     "id": "recbWuyn2fJQJ06du"
@@ -76285,11 +76446,13 @@
   },
   {
     "Address": "10362 Bolsa Ave., Ste. 110, Westminster, CA 92683",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7443428,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9481124,
     "Name": "BOLSA MEDICAL GROUP",
     "id": "recc7xOcXN6mAqLzu"
@@ -76488,11 +76651,13 @@
   },
   {
     "Address": "1535 TREAT BLVD, WALNUT CREEK, CA 94598",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.926612,
+    "Location Type": "Private Practice",
     "Longitude": -122.049932,
     "Name": "Barry Rotman, MD Inc",
     "id": "reccFEZ1C1RQK79l4"
@@ -77315,6 +77480,7 @@
   },
   {
     "Address": "839 N Highland Springs Ave, Beaumont, CA 92223",
+    "Affiliation": "Beaver Medical Group",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -77366,6 +77532,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7947838,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9628807,
     "Name": "Centro Medico El Cajon",
     "id": "recce6ldvArDkCXbU"
@@ -78184,11 +78351,13 @@
   },
   {
     "Address": "8506 E Chapman Ave, Orange, CA 92869",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.791374,
+    "Location Type": "Private Practice",
     "Longitude": -117.763037,
     "Name": "Alan E Gorenberg MD Inc Orange CA",
     "id": "recd1GEzQrPb05GYR"
@@ -80059,6 +80228,7 @@
   },
   {
     "Address": "12260 Foothill Blvd, Sylmar, CA 91342",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -80286,6 +80456,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6804321,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8865453,
     "Name": "MemorialCare Medical Group Costa Mesa",
     "id": "receEIu2pxF5SJtlz"
@@ -80521,6 +80692,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.930655,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.205548,
     "Name": "JWCH Wesley Health Centers Lynwood",
     "id": "recePr1rYKRKNCl0l"
@@ -80550,6 +80722,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9611718,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.4982109,
     "Name": "Desert Hot Springs Community Health Center Main Campus",
     "id": "receQZB6uhgb2QpJs"
@@ -80622,11 +80795,13 @@
   },
   {
     "Address": "290 N Wayte Ln, Fresno, CA 93701",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7461386,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7830857,
     "Name": "Family HealthCare Network",
     "id": "receSMnEVuEC4U5b6"
@@ -80836,11 +81011,13 @@
   },
   {
     "Address": "4815 Watt Ave, North Highlands, CA 95660",
+    "Affiliation": "Elica Health Centers",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6530408,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3836686,
     "Name": "Elica Health Center - North Highlands",
     "id": "receZ9CoTFXYcvW10"
@@ -81588,11 +81765,13 @@
   },
   {
     "Address": "27791 La Paz Rd, Laguna Niguel, CA 92677",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5594047,
+    "Location Type": "Specialist",
     "Longitude": -117.708989,
     "Name": "HealthySmile 360",
     "id": "recetgTjMCveTz8xV"
@@ -83236,6 +83415,7 @@
   },
   {
     "Address": "22029 Saticoy St, Los Angeles, CA 91303",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -83308,6 +83488,7 @@
   },
   {
     "Address": "28780 Single Oak Dr.  Suite 160, Temecula, CA 92590",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -83539,6 +83720,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5219763,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.6166853,
     "Name": "MemorialCare Medical Group RMV",
     "id": "recfvrG2xIKtYjJ2X"
@@ -83704,14 +83886,21 @@
   {
     "Address": "11096 JEFFERSON BOULEVARD, CULVER CITY, CA 90230",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:08:10.000Z",
+    "Latest report notes": [
+      "Feb. 24: Pharmacist noted that those eligible could register from the LA County website as well as the RiteAid Vaccine scheduling website. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.996378,
     "Location Type": "Pharmacy",
     "Longitude": -118.393916,
@@ -84584,11 +84773,13 @@
   },
   {
     "Address": "72855 Fred Waring Drive Suite A6, Palm Desert, CA 92260",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7280751,
+    "Location Type": "Private Practice",
     "Longitude": -116.3947648,
     "Name": "Desert Medical Advances",
     "id": "recgQlGvP9P3uKaS4"
@@ -84618,6 +84809,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7785371,
+    "Location Type": "Specialist",
     "Longitude": -121.9576944,
     "Name": "San Ramon Endoscopy Center, Inc.",
     "id": "recgR5wqyp6trIRqa"
@@ -84665,11 +84857,13 @@
   },
   {
     "Address": "1518 West La Veta Ave, Orange, CA 92868",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7801663,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8688106,
     "Name": "St. Joseph Satellite Healthcare - Orange",
     "id": "recgTUZhYERG48R7h"
@@ -85014,11 +85208,13 @@
   },
   {
     "Address": "501 S Idaho St Suite 100, La Habra, CA 90631",
+    "Affiliation": "Friends of Family Health Center",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9277966,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9598288,
     "Name": "Friends of Family Health Center - La Habra",
     "id": "recgaZD2xGtcbBuQX"
@@ -85344,6 +85540,7 @@
   },
   {
     "Address": "3825 Durfee Ave, El Monte, CA 91732",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -85989,6 +86186,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9059287,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.0698793,
     "Name": "JWCH Norwalk Health Center",
     "id": "rech3zsGIvJXqp2Vg"
@@ -86345,6 +86543,7 @@
   },
   {
     "Address": "10786 Live Oak Ave, Temple City, CA 91780",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -87190,6 +87389,7 @@
   },
   {
     "Address": "558 Abbott St, Salinas, CA 93901",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -87843,11 +88043,13 @@
   },
   {
     "Address": "568 E HERNDON AVE  STE 101, FRESNO, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8387255,
+    "Location Type": "Private Practice",
     "Longitude": -119.7774818,
     "Name": "NARALA AND MADIREDDY MD A PROFESSIONAL CORPORATION",
     "id": "reci4Fhs7oObhGaRQ"
@@ -87897,12 +88099,15 @@
   {
     "Address": "27982 LA PAZ RD, LAGUNA NIGUEL, CA 92677",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens app or walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
+    "Latest report": "2021-02-24T20:06:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.556621,
@@ -88557,6 +88762,7 @@
   },
   {
     "Address": "22125 Roscoe Blvd, Canoga Park, CA 91304",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -89129,11 +89335,13 @@
   },
   {
     "Address": "4770 N Cedar Ave, Fresno, CA 93726",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8047522,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7538689,
     "Name": "Cedar University Clinic",
     "id": "recijzvQdE01dr8xj"
@@ -89707,6 +89915,7 @@
   },
   {
     "Address": "250 W Artesia St, Pomona, CA 91768",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -90147,11 +90356,13 @@
   },
   {
     "Address": "9862 Chapman Ave., Garden Grove, CA 92841",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7877921,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9607645,
     "Name": "Southland Integrated Services, Inc.",
     "id": "recjK9a7zNmNOLzgT"
@@ -92311,11 +92522,13 @@
   },
   {
     "Address": "9559 Bolsa Avenue Suite D, Westminster, CA 92683",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7451888,
+    "Location Type": "Private Practice",
     "Longitude": -117.9622657,
     "Name": "Dr. Huong Tran Quy",
     "id": "reckTYWrYx6vJhHoH"
@@ -92797,6 +93010,7 @@
   },
   {
     "Address": "1810 Fullerton Avenue Sute 105, Corona, CA 92881",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -93314,6 +93528,7 @@
   },
   {
     "Address": "1625 E Main St Ste 100, El Cajon, CA 92021",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -93448,11 +93663,13 @@
   },
   {
     "Address": "6339 Mack Road, Sacramento, CA 95823",
+    "Affiliation": "Elica Health Centers",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4755455,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4285203,
     "Name": "Elica Health Centers - Mack Road",
     "id": "reckzl589CswRHldJ"
@@ -95024,6 +95241,7 @@
   },
   {
     "Address": "14475 Garden View Lane, Baldwin Park, CA 91706",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -95136,11 +95354,13 @@
   },
   {
     "Address": "275 N El Cielo Rd, Palm Springs, CA 92262",
+    "Affiliation": "Desert Oasis Healthcare",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8262793,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.5114515,
     "Name": "Desert Oasis Healthcare Medical Group",
     "id": "recm0dF3RKlsJCn5p"
@@ -96563,6 +96783,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0739169,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.216592,
     "Name": "UNICARE COMMUNITY HEALTH CENTER INC -2409 N Broadway",
     "id": "recmdXEc4njFRbkMB"
@@ -97011,6 +97232,7 @@
   },
   {
     "Address": "16902 Bundy Avenue, Riverside, CA 92518",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -100318,6 +100540,7 @@
   },
   {
     "Address": "1113 S Main St  Suite A, Corona, CA 92882",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -100569,11 +100792,13 @@
   },
   {
     "Address": "2625 Shadelands Dr, Walnut Creek, CA 94598",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9258765,
+    "Location Type": "Private Practice",
     "Longitude": -122.0214854,
     "Name": "2637 BASS IM  Bernens MD",
     "id": "recop7SMhda462vml"
@@ -101309,6 +101534,7 @@
   },
   {
     "Address": "6120 Vineland Ave, Los Angeles, CA 91606",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -101973,6 +102199,7 @@
   },
   {
     "Address": "1760 Chicago Ave  Suite J3, Riverside, CA 92507",
+    "Affiliation": "Concentra",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -102744,6 +102971,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.0780414,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.6027061,
     "Name": "Julian Medical Clinic",
     "id": "recpljcrY9bHdCCsG"
@@ -103537,16 +103765,18 @@
     "Address": "650 S Zediker Ave, PARLIER, CA 93648",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "559-646-3561"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-09T23:44:12.000Z",
+    "Latest report": "2021-02-24T20:11:42.000Z",
     "Latest report notes": [
-      "02/09 Only vaccinating patients 75 and older presently."
+      "vaccinating 75+ and healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.604949,
@@ -103625,6 +103855,7 @@
   },
   {
     "Address": "31739 Riverside Dr Suite A-1, Lake Elsinore, CA 92530",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -103700,11 +103931,13 @@
   },
   {
     "Address": "7055 N. Chestnut Avenue Suite 106, Fresno, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8390259,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.736515,
     "Name": "Chestnut Pediatrics",
     "id": "recqIO45MpYo36nbr"
@@ -103920,8 +104153,12 @@
   {
     "Address": "33733 Yucaipa Blvd Ste 1, Yucaipa, CA 92399",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T20:19:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.033456,
@@ -104093,6 +104330,7 @@
   },
   {
     "Address": "3656 W Shaw Ave, Fresno, CA 93711",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -104105,11 +104343,13 @@
   },
   {
     "Address": "7471 N Fresno St, Fresno, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8463348,
+    "Location Type": "Specialist",
     "Longitude": -119.7842853,
     "Name": "Baz Allergy, Asthma   Sinus Center",
     "id": "recqVeqCuKMsO9tIM"
@@ -104366,11 +104606,13 @@
   },
   {
     "Address": "3501 Jamboree Road Suite 1200, Newport Beach, CA 92660",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6547368,
+    "Location Type": "Specialist",
     "Longitude": -117.8664865,
     "Name": "DISC Surgery Center at Newport Beach",
     "id": "recqfPz9V6DdKm4Ep"
@@ -104527,6 +104769,7 @@
   },
   {
     "Address": "6425 Miles Ave, Huntington Park, CA 90255",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -106941,6 +107184,7 @@
   },
   {
     "Address": "14040 ASTORIA ST., SYLMAR, CA 91342",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -108287,6 +108531,7 @@
   },
   {
     "Address": "5648 Gotham St, Bell Gardens, CA 90201",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -108899,11 +109144,13 @@
   },
   {
     "Address": "81880 Dr Carreon Blvd, Indio, CA 92201",
+    "Affiliation": "Desert Oasis Healthcare",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7077039,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.2356757,
     "Name": "Desert Oasis Healthcare",
     "id": "recsmUc4nnaC65Tpe"
@@ -109399,17 +109646,20 @@
   },
   {
     "Address": "597 Center Avenue Suite 200A, Martinez, CA 94553",
+    "Affiliation": "County",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9934447,
+    "Location Type": "Health department",
     "Longitude": -122.1181367,
     "Name": "Contra Costa Health Services - Site 2",
     "id": "rect6wwgyMVrctDSL"
   },
   {
     "Address": "9655 Sepulveda Blvd, North Hills, CA 91343",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -109656,17 +109906,20 @@
   },
   {
     "Address": "1649 Van Ness Ave, Fresno, CA 93721",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7411796,
+    "Location Type": "In-home Senior Care",
     "Longitude": -119.7965047,
     "Name": "Sequoia PACE",
     "id": "rectLQm4PrEZafur0"
   },
   {
     "Address": "6485 Day St  Suite 302, Riverside, CA 92507",
+    "Affiliation": "Concentra",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -110328,6 +110581,7 @@
   },
   {
     "Address": "1844 San Miguel Drive  105, Walnut Creek, CA 94596",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -111174,6 +111428,7 @@
   },
   {
     "Address": "7940 Topanga Canyon Blvd, Los Angeles, CA 91304",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -111865,6 +112120,7 @@
   },
   {
     "Address": "13340 Mountain View Rd, Desert Hot Springs, CA 92240",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -111877,6 +112133,7 @@
   },
   {
     "Address": "1303 Mable Ave, Modesto, CA 95355",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -113827,6 +114084,7 @@
   },
   {
     "Address": "954 W. Foothill Blvd  6D, Upland, CA 91786",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -114079,11 +114337,13 @@
   },
   {
     "Address": "1215 E. Chapman Ave, Orange, CA 92866",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7880802,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8406373,
     "Name": "Lestonnac Free Clinic",
     "id": "recvdnU8mcRbIEQEm"
@@ -114303,17 +114563,20 @@
   },
   {
     "Address": "1515 E Alluvial Ave  101, Fresno, CA 93720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8443799,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7560404,
     "Name": "Internal Medicine Specialists Medical Group, Inc.",
     "id": "recvibNml3ARjKs5N"
   },
   {
     "Address": "1499 N. State Street Modular 1540, San Jacinto, CA 92583",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -114625,6 +114888,7 @@
   },
   {
     "Address": "35470 Whitewood Rd, Murrieta, CA 92563",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -114671,11 +114935,13 @@
   },
   {
     "Address": "901 Sunvalley Blvd Suite 100, Concord, CA 94520",
+    "Affiliation": "STAT Med",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.963325,
+    "Location Type": "Urgent care",
     "Longitude": -122.0613282,
     "Name": "STAT Med - Concord",
     "id": "recvx9EiRiy43hqOk"
@@ -114777,6 +115043,7 @@
   },
   {
     "Address": "2070 Century Park East, Los Angeles, CA 90067",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -116923,6 +117190,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0093721,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9607843,
     "Name": "Wesley Health Center Hacienda Heights",
     "id": "recx2uxcppq9iwKKX"
@@ -117282,6 +117550,7 @@
   },
   {
     "Address": "15099 Mission Hills Road, Mission Hills, CA 91345",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -117909,11 +118178,13 @@
   },
   {
     "Address": "1719 W. 17th Street, Santa Ana, CA 92706",
+    "Affiliation": "County",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7623263,
+    "Location Type": "Health department",
     "Longitude": -117.8930028,
     "Name": "Immunization Assistance Program",
     "id": "recxSi8Y8NNT9IKyI"
@@ -117926,6 +118197,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1315837,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0691038,
     "Name": "Centro Medico Escondido",
     "id": "recxSj95KU6tyL6BT"
@@ -117949,11 +118221,13 @@
   },
   {
     "Address": "13152 Newport Ave Suite B, Tustin, CA 92780",
+    "Affiliation": "Friends of Family Health Center",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.747258,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8124239,
     "Name": "Friends of Family Health Center - Tustin",
     "id": "recxT3FLQk8KsArXE"
@@ -118750,6 +119024,7 @@
   },
   {
     "Address": "340 S Alvarado St, Los Angeles, CA 90057",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -118891,14 +119166,21 @@
   {
     "Address": "301 EAST 18TH STREET, OAKLAND, CA 94606",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens app or walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:02:35.000Z",
+    "Latest report notes": [
+      "Currently vaccinating healthcare workers, essential workers, and age 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.799491,
     "Location Type": "Pharmacy",
     "Longitude": -122.25201,
@@ -120145,11 +120427,13 @@
   },
   {
     "Address": "661 W First St Suite G, Tustin, CA 92780",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.746017,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8312209,
     "Name": "Families Together of Orange County",
     "id": "recyZ9VKI4zcoCuzN"
@@ -120773,6 +121057,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5569905,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.6388718,
     "Name": "Anza Community Health Center",
     "id": "recyyrNSiR9QFROzd"
@@ -122138,6 +122423,7 @@
   },
   {
     "Address": "273 E Beverly Blvd, Montebello, CA 90640",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
