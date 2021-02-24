@@ -10452,13 +10452,21 @@
     "Address": "600 W 5th St.,\nSan Bernardino, CA 92410, USA\n",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Appointments via https://www.calvax.org/reg/1252990607"
+      "Appointments via https://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
     "Latest report": "2021-02-24T13:02:45.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "As per the County, this is a 1st Dose mobile clinic scheduled for Wed Feb 24th.\n\nWhen last checked (Feb 24th), there were no appointments left. County recommends checking their website often as more events/locations are added.\n\nhttps://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/\n\nEligibility:\n65+ only"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.10837,
     "Location Type": "Super Site",
     "Longitude": -117.29668,
@@ -46492,18 +46500,19 @@
     "Address": "6162 Rotary Way, Joshua Tree, CA 92252",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Appointments only via https://sbcovid19.com/vaccine/locations"
+      "Appointments only via https://sbcovid19.com/vaccine/locations\nNote: Each date has a specific signup link."
     ],
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T18:53:30.000Z",
+    "Latest report": "2021-02-24T13:05:31.000Z",
     "Latest report notes": [
-      "Appointments only via https://sbcovid19.com/vaccine/locations\nNote: Each date has a specific signup link.. When last checked (Feb 10th) there was availability on Feb 11, 12 and 13.\n\nEligibility: Residents 65+ Only"
+      "When last checked (Feb 24th) there was availability from Feb 24th through Feb 27th.\n\nEligibility:\nOpen to residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education, 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.140781,
@@ -114193,14 +114202,16 @@
     ],
     "Availability Info": [
       "Yes: appointment required",
+      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: restricted to county residents",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T19:23:46.000Z",
+    "Latest report": "2021-02-24T13:09:52.000Z",
     "Latest report notes": [
-      "[Jan 30] As per County portal, appointments for Feb 4th and 5th now available via https://sbcovid19.com/vaccine/locations/"
+      "When last checked (Feb 24th), all appointments were booked through Feb 27th.\n\nCounty recommends checking their website often as more dates/locations are added.\n\nEligibility:\nOpen to residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education, 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.06525,
