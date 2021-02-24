@@ -11105,14 +11105,21 @@
   {
     "Address": "3500 COFFEE RD, MODESTO, CA 95355",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "website or walgreens app"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:26:58.000Z",
+    "Latest report notes": [
+      "started giving vaccines today 02/24. frontline workers, healthcare workers, age 65+, high risk medical conditions"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.690354,
     "Location Type": "Pharmacy",
     "Longitude": -120.974296,
@@ -42001,14 +42008,21 @@
   {
     "Address": "12184 Palmdale Rd, Victorville, CA 92392",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "760-561-7009"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:15.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:33:48.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.507293,
     "Location Type": "Pharmacy",
     "Longitude": -117.398836,
@@ -50724,17 +50738,17 @@
     "Address": "5520 WOODRUFF AVENUE, LAKEWOOD, CA 90713",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:41:33.000Z",
+    "Latest report": "2021-02-24T21:22:31.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "This location is only scheduling appointments through their website. Age 65+ and heathcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.857483,
@@ -106191,12 +106205,15 @@
   {
     "Address": "12840 Beach Blvd, Stanton, CA 90680",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:09.000Z",
+    "Latest report": "2021-02-24T21:31:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.775417,
@@ -109054,12 +109071,15 @@
   {
     "Address": "6300 IRVINE BLVD, IRVINE, CA 92620",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "831-634-1887"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:56.000Z",
+    "Latest report": "2021-02-24T21:25:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.671696,
@@ -118356,14 +118376,20 @@
   {
     "Address": "416 W Olive Ave, Porterville, CA 93257",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:29:57.000Z",
+    "Latest report notes": [
+      "farmworkers, healthcare, and age 65+ are eligible "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.066259,
     "Location Type": "Pharmacy",
     "Longitude": -119.026438,
