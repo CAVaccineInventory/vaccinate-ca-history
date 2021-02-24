@@ -2283,6 +2283,19 @@
     "id": "rec18kXY2bRs9XHcb"
   },
   {
+    "Address": "1350 S. Orange Avenue\nFresno, CA 93702",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Fresno County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.729102252914515,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.7641140596175,
+    "Name": "Orange & Butler Community Health Center",
+    "id": "rec19LFRxuN4zu7MS"
+  },
+  {
     "Address": "102 N JACK TONE RD STE R, RIPON, CA 95366",
     "Affiliation": "Walgreens",
     "Availability Info": [
