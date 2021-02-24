@@ -44249,15 +44249,20 @@
   {
     "Address": "1385 E. Janss Rd\nThousand Oaks CA, 91362",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
+    ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T04:04:56.000Z",
+    "Latest report": "2021-02-24T09:17:36.000Z",
     "Latest report notes": [
-      "More 1st dose vaccine appointments will open on February 16, 2021. The online appointment portal will be available beginning at 7 am at the following link: https://www.venturacountyrecovers.org/vaccine-information/portal/.\nThe registration phone line will also have appointments available beginning at 8 am. The phone line is for those with limited access to the internet. The phone number is 805-477-7161. \nApproximately 6,000 appointments will be available for those in Phase 1A healthcare sector or for those age 65 or older. Appointments had been filled but the County received more allocations from the State which has allowed for more appointments to open. "
+      "When last checked (Feb 24th), there were no appointments left through March 1st.\n\nCounty recommends to check back regularly as more dates/events are added.\n\nEligibility:\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.20103490376719,
@@ -102541,15 +102546,20 @@
   {
     "Address": "2500 S. C Street \nOxnard CA, 93033\n(tent in the parking lot)",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/\n\nThere is also a phone line (805-477-7161) for those with limited access to the internet."
+    ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T04:04:03.000Z",
+    "Latest report": "2021-02-24T09:14:14.000Z",
     "Latest report notes": [
-      "More 1st dose vaccine appointments will open on February 16, 2021. The online appointment portal will be available beginning at 7 am at the following link: https://www.venturacountyrecovers.org/vaccine-information/portal/.\nThe registration phone line will also have appointments available beginning at 8 am. The phone line is for those with limited access to the internet. The phone number is 805-477-7161. \nApproximately 6,000 appointments will be available for those in Phase 1A healthcare sector or for those age 65 or older. Appointments had been filled but the County received more allocations from the State which has allowed for more appointments to open. "
+      "When last checked (Feb 24th), there were no appointments left through March 1st.\n\nCounty recommends to check back regularly as more dates/events are added.\n\nEligibility:\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.17662107392549,
