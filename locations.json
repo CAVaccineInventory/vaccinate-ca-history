@@ -808,6 +808,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9423255,
+    "Location Type": "Urgent care",
     "Longitude": -117.23836,
     "Name": "Moreno Valley Urgent Care Clinic",
     "id": "rec0QU7vTB3JzFL8r"
@@ -2030,6 +2031,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7910821,
+    "Location Type": "Urgent care",
     "Longitude": -117.0212559,
     "Name": "Marque Urgent Care - LM",
     "id": "rec0xgudZAB3N9cI6"
@@ -3374,11 +3376,13 @@
   },
   {
     "Address": "3205 N Lakewood Blvd, Long Beach, CA 90808",
+    "Affiliation": "County",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8025,
+    "Location Type": "Health department",
     "Longitude": -118.1488889,
     "Name": "City of Long Beach Department of Health   Human Services",
     "id": "rec1qfF8ljfdkovjy"
@@ -3504,6 +3508,7 @@
   },
   {
     "Address": "1845 N Fair Oaks Ave, Pasadena, CA 91103",
+    "Affiliation": "County",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -4181,11 +4186,13 @@
   },
   {
     "Address": "922 Bevins Ct, Lakeport, CA 95453",
+    "Affiliation": "County",
     "County": "Lake County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.038097,
+    "Location Type": "Health department",
     "Longitude": -122.922645,
     "Name": "Lake County Health Services Dept. ~ Public Health Division",
     "id": "rec2EeopgB7ZWuz6X"
@@ -5225,11 +5232,13 @@
   },
   {
     "Address": "1445 Paul Bunyan Road Ste B, Susanville, CA 96130",
+    "Affiliation": "County",
     "County": "Lassen County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.4226633,
+    "Location Type": "Health department",
     "Longitude": -120.6491109,
     "Name": "Lassen County Public Health",
     "id": "rec2fUzRrRYOTNdMf"
@@ -5905,6 +5914,7 @@
   },
   {
     "Address": "1445 Veterans Memorial Cir, Yuba City, CA 95993",
+    "Affiliation": "County",
     "County": "Sutter County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -8526,11 +8536,13 @@
   },
   {
     "Address": "10877 Conductor Blvd. Ste 400, Sutter Creek, CA 95685",
+    "Affiliation": "County",
     "County": "Amador County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3648529,
+    "Location Type": "Health department",
     "Longitude": -120.8179473,
     "Name": "Amador County Public Health and Human Services",
     "id": "rec4HLaQXFl1BHdHE"
@@ -8929,6 +8941,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.492757,
+    "Location Type": "Urgent care",
     "Longitude": -117.7352554,
     "Name": "Surfside Urgent Care of Laguna Beach",
     "id": "rec4Uy8iDcTmZEucM"
@@ -10743,6 +10756,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.69138,
+    "Location Type": "Urgent care",
     "Longitude": -121.123476,
     "Name": "MDSTAT Urgent Care Folsom",
     "id": "rec5UGN1metZtiELj"
@@ -11888,6 +11902,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1148582,
+    "Location Type": "Urgent care",
     "Longitude": -117.8739222,
     "Name": "Optum - Glendora Urgent Care",
     "id": "rec665WwOKm2Pyezb"
@@ -13013,6 +13028,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1319691,
+    "Location Type": "Urgent care",
     "Longitude": -118.1475161,
     "Name": "Advanced Urgent Care of Pasadena",
     "id": "rec6dmyJEdLdWbx8k"
@@ -13927,11 +13943,13 @@
   },
   {
     "Address": "351 Tres Pinos Rd., Suite A202, Hollister, CA 95023",
+    "Affiliation": "County",
     "County": "San Benito County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8382034,
+    "Location Type": "Health department",
     "Longitude": -121.396278,
     "Name": "San Benito County Public Health Services",
     "id": "rec77m9BYiUhvIxIS"
@@ -15172,6 +15190,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7473641,
+    "Location Type": "Urgent care",
     "Longitude": -116.959341,
     "Name": "Apple Urgent Care - 1207 E Florida",
     "id": "rec7e3pL4ABZC7P2n"
@@ -19936,11 +19955,13 @@
   },
   {
     "Address": "11545 D Ave, Auburn, CA 95603",
+    "Affiliation": "County",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.9384056,
+    "Location Type": "Health department",
     "Longitude": -121.1044912,
     "Name": "Placer County Public Health",
     "id": "recAA6wiS2l8jRMjQ"
@@ -20058,11 +20079,13 @@
   },
   {
     "Address": "830 Scenic Drive Ste C, Modesto, CA 95350",
+    "Affiliation": "County",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.646421,
+    "Location Type": "Health department",
     "Longitude": -120.9829717,
     "Name": "Stanislaus County Health Services Agency Public Health",
     "id": "recADnujYWzBnPH9O"
@@ -22109,6 +22132,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7151756,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.2275924,
     "Name": "Indio Medical Clinic",
     "id": "recB777Lwid6v3XDg"
@@ -22385,11 +22409,13 @@
   },
   {
     "Address": "251 E. Webster St, Colusa, CA 95932",
+    "Affiliation": "County",
     "County": "Colusa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.2067889,
+    "Location Type": "Health department",
     "Longitude": -121.9998117,
     "Name": "Colusa County Public Health",
     "id": "recBH3pND25xGSaCm"
@@ -22988,11 +23014,13 @@
   },
   {
     "Address": "700 Mountain Ranch Rd Suite C-2, San Andreas, CA 95249",
+    "Affiliation": "County",
     "County": "Calaveras County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.1889613,
+    "Location Type": "Health department",
     "Longitude": -120.6706843,
     "Name": "Calaveras Health and Human Services Agency Public Health Division",
     "id": "recBVTqYcNi9CZ9Gl"
@@ -24742,6 +24770,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0595188,
+    "Location Type": "Nursing home",
     "Longitude": -118.268902,
     "Name": "Angels Nursing Health Center",
     "id": "recCGHBgpcLpI6BiS"
@@ -25165,6 +25194,7 @@
   },
   {
     "Address": "935 Broadway Ave, El Centro, CA 92243",
+    "Affiliation": "County",
     "County": "Imperial County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -25199,6 +25229,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9115815,
+    "Location Type": "Urgent care",
     "Longitude": -122.0438738,
     "Name": "Walnut Creek Urgent Medical Care",
     "id": "recCW7JArbbRQHJLN"
@@ -26596,6 +26627,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7593908,
+    "Location Type": "Urgent care",
     "Longitude": -117.8245872,
     "Name": "Xpress Urgent Care - Tustin",
     "id": "recD9Nu0Lx0vz2hx1"
@@ -27177,6 +27209,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8544146,
+    "Location Type": "Urgent care",
     "Longitude": -117.2022899,
     "Name": "Marque Urgent Care - Gov",
     "id": "recDTEXjuKRzSrHRN"
@@ -27941,6 +27974,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6488059,
+    "Location Type": "Urgent care",
     "Longitude": -116.9648677,
     "Name": "Marque Urgent Care - CV",
     "id": "recDs4iZPSIlzL0T5"
@@ -28244,6 +28278,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5717286,
+    "Location Type": "Urgent care",
     "Longitude": -121.4132035,
     "Name": "MDSTAT Urgent Care Sacramento",
     "id": "recE4GOVp4PNMnISR"
@@ -29048,6 +29083,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8820265,
+    "Location Type": "Urgent care",
     "Longitude": -117.2256097,
     "Name": "Concentra Urgent Care - Moreno Valley",
     "id": "recEQAifLLVFnxQcr"
@@ -30408,6 +30444,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2950413,
+    "Location Type": "Urgent care",
     "Longitude": -119.0560198,
     "Name": "Priority Urgent Care (Panama Lane)",
     "id": "recFBsXKbVqifg7fQ"
@@ -33103,6 +33140,7 @@
   },
   {
     "Address": "2191 Johnson Ave, San Luis Obispo, CA 93401",
+    "Affiliation": "County",
     "County": "San Luis Obispo County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -33715,11 +33753,13 @@
   },
   {
     "Address": "355 Tuolumne St, Vallejo, CA 94590",
+    "Affiliation": "County",
     "County": "Solano County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.1032892,
+    "Location Type": "Health department",
     "Longitude": -122.2389585,
     "Name": "Solano County Public Health",
     "id": "recGjQoOAKIeaaWXA"
@@ -35698,6 +35738,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0396448,
+    "Location Type": "Nursing home",
     "Longitude": -118.3452594,
     "Name": "Crenshaw Nursing Home",
     "id": "recHY5bKc3raLCZp5"
@@ -37940,6 +37981,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7981458,
+    "Location Type": "Urgent care",
     "Longitude": -117.2464092,
     "Name": "Marque Urgent Care - Fan",
     "id": "recIZkzvvMsI6xdLu"
@@ -38498,11 +38540,13 @@
   },
   {
     "Address": "1604 Sunrise Ave, Madera, CA 93638",
+    "Affiliation": "County",
     "County": "Madera County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.9592462,
+    "Location Type": "Health department",
     "Longitude": -120.0362882,
     "Name": "Madera County Department of Public Health",
     "id": "recIpqGkh3oM61YWc"
@@ -40384,6 +40428,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5570527,
+    "Location Type": "Urgent care",
     "Longitude": -117.2023796,
     "Name": "Concentra Urgent Care - Murrieta",
     "id": "recJs37CyteXnkNTh"
@@ -40674,11 +40719,13 @@
   },
   {
     "Address": "529 I Street, Eureka, CA 95501",
+    "Affiliation": "County",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.8018027,
+    "Location Type": "Health department",
     "Longitude": -124.1623897,
     "Name": "Humboldt County Public Health Clinic",
     "id": "recK4Hm2hdiPHrX4F"
@@ -41332,6 +41379,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1672734,
+    "Location Type": "Nursing home",
     "Longitude": -118.2848377,
     "Name": "DREIER'S NURSING CARE CENTER",
     "id": "recKNufFF71yQKvpb"
@@ -45991,11 +46039,13 @@
   },
   {
     "Address": "1600 Los Gamos Drive, Ste 301, San Rafael, CA 94903",
+    "Affiliation": "County",
     "County": "Marin County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.0199089,
+    "Location Type": "Health department",
     "Longitude": -122.5413399,
     "Name": "Marin County Public Health",
     "id": "recMxSelLo9pDhNRI"
@@ -46769,11 +46819,13 @@
   },
   {
     "Address": "24511 W Jayne Ave, Coalinga, CA 93210",
+    "Affiliation": "County",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.1335614,
+    "Location Type": "Health department",
     "Longitude": -120.2401099,
     "Name": "Department of State Hospitals - Coalinga",
     "id": "recNSOh3UTxsHI4jv"
@@ -47492,11 +47544,13 @@
   },
   {
     "Address": "5300 Highway CA-49 North, Mariposa, CA 95338",
+    "Affiliation": "County",
     "County": "Mariposa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.4977924,
+    "Location Type": "Health department",
     "Longitude": -119.9820477,
     "Name": "Mariposa County Public Health",
     "id": "recNsi4zDVcYgsANZ"
@@ -50502,6 +50556,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6810079,
+    "Location Type": "Urgent care",
     "Longitude": -117.9071556,
     "Name": "Family Care Centers - Costa Mesa Urgent Care",
     "id": "recPPbon2kkNLTQC0"
@@ -51561,11 +51616,13 @@
   },
   {
     "Address": "1156 Fremont Blvd, Seaside, CA 93955",
+    "Affiliation": "County",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6014854,
+    "Location Type": "Health department",
     "Longitude": -121.8471651,
     "Name": "Monterey County Health Dept. Seaside Family Health Center",
     "id": "recPyl24Vc2Vbs0Hq"
@@ -53028,11 +53085,13 @@
   },
   {
     "Address": "1221 Fulton St, Fresno, CA 93721",
+    "Affiliation": "County",
     "County": "Fresno County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7362753,
+    "Location Type": "Health department",
     "Longitude": -119.7929918,
     "Name": "Fresno County Department of Public Health",
     "id": "recQZDmfDojWGtIAf"
@@ -53433,6 +53492,7 @@
   },
   {
     "Address": "20111 Cedar Rd N, Sonora, CA 95370",
+    "Affiliation": "County",
     "County": "Tuolumne County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -53991,6 +54051,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.257152,
+    "Location Type": "Nursing home",
     "Longitude": -118.2998343,
     "Name": "North Valley Nursing Center",
     "id": "recR3aKNK038LsNkG"
@@ -54060,6 +54121,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.2376236,
+    "Location Type": "Urgent care",
     "Longitude": -121.0370743,
     "Name": "Yubadocs Urgent Care",
     "id": "recR76kidFgUgtwfx"
@@ -55229,11 +55291,13 @@
   },
   {
     "Address": "1255 Corporate Center Dr, Monterey Park, CA 91754",
+    "Affiliation": "County",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0485906,
+    "Location Type": "Health department",
     "Longitude": -118.165874,
     "Name": "Los Angeles County Fire Department",
     "id": "recRkyoryuk0yhm5b"
@@ -56444,11 +56508,13 @@
   },
   {
     "Address": "51 Industrial Parkway, Weaverville, CA 96093",
+    "Affiliation": "County",
     "County": "Trinity County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.7097105,
+    "Location Type": "Health department",
     "Longitude": -122.9251874,
     "Name": "Trinity County Public Health Branch",
     "id": "recSJWfnwO7KQ4XBy"
@@ -57509,11 +57575,13 @@
   },
   {
     "Address": "1120 S. Dora Street, Ukiah, CA 95482",
+    "Affiliation": "County",
     "County": "Mendocino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1362464,
+    "Location Type": "Health department",
     "Longitude": -123.2109536,
     "Name": "Mendocino County, Health and Human Services Public Health",
     "id": "recStrod8kHlOLVY3"
@@ -60672,6 +60740,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3714472,
+    "Location Type": "Urgent care",
     "Longitude": -119.1461357,
     "Name": "Priority Urgent Care (Allen Road)",
     "id": "recULnw3FnHEh0Sr2"
@@ -61127,6 +61196,7 @@
   },
   {
     "Address": "120 W. Main St. Suite E, Woodland, CA 95695",
+    "Affiliation": "County",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -65738,11 +65808,13 @@
   },
   {
     "Address": "225 37th Ave Room 104, San Mateo, CA 94403",
+    "Affiliation": "County",
     "County": "San Mateo County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5311601,
+    "Location Type": "Health department",
     "Longitude": -122.3007416,
     "Name": "San Mateo County Public Health",
     "id": "recX3uGDibv63AaBK"
@@ -67744,6 +67816,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7282244,
+    "Location Type": "Urgent care",
     "Longitude": -116.3952709,
     "Name": "Palm Desert Urgent Care",
     "id": "recY5BBnYhzW6nfTI"
@@ -72120,11 +72193,13 @@
   },
   {
     "Address": "55 Pacific Ave, San Francisco, CA 94111",
+    "Affiliation": "Carbon Health",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7979799,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3980399,
     "Name": "Carbon Health - Fidi",
     "id": "recaEKRkcbdmSNCr9"
@@ -72742,11 +72817,13 @@
   },
   {
     "Address": "202 Mira Loma Drive, Oroville, CA 95965",
+    "Affiliation": "County",
     "County": "Butte County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.5225417,
+    "Location Type": "Health department",
     "Longitude": -121.5517976,
     "Name": "Public Health Mira Loma",
     "id": "recaXUaKwLQOG6U8G"
@@ -75305,11 +75382,13 @@
   },
   {
     "Address": "10573 E Stockton Blvd, Elk Grove, CA 95624",
+    "Affiliation": "County",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3715216,
+    "Location Type": "Health department",
     "Longitude": -121.356294,
     "Name": "Cosumnes Fire Department",
     "id": "recbrifW94X1rvFhm"
@@ -76113,11 +76192,13 @@
   },
   {
     "Address": "330 Campus Dr., Hanford, CA 93230",
+    "Affiliation": "County",
     "County": "Kings County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3270619,
+    "Location Type": "Health department",
     "Longitude": -119.6643452,
     "Name": "Kings County Department of Public Health",
     "id": "reccJJQy2pdNtSuIQ"
@@ -77564,6 +77645,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7740681,
+    "Location Type": "Urgent care",
     "Longitude": -122.4210478,
     "Name": "Dignity Health GoHealth Urgent Care Market",
     "id": "reccxbHW35IqJER15"
@@ -80952,11 +81034,13 @@
   },
   {
     "Address": "315 Camino Del Remedio Bldg 3 Room 262, Santa Barbara, CA 93110",
+    "Affiliation": "County",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4440141,
+    "Location Type": "Health department",
     "Longitude": -119.7803943,
     "Name": "Santa Barbara County Public Health - Community Health",
     "id": "reces1SjBVkTYTErd"
@@ -83331,11 +83415,13 @@
   },
   {
     "Address": "1150 S K St, Tulare, CA 93274",
+    "Affiliation": "County",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.195594,
+    "Location Type": "Health department",
     "Longitude": -119.3420945,
     "Name": "Tulare County Public Health",
     "id": "recg5tAp94oihoi0O"
@@ -83696,6 +83782,7 @@
   },
   {
     "Address": "1270 Natividad Rd, Salinas, CA 93906",
+    "Affiliation": "County",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -85777,6 +85864,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1063357,
+    "Location Type": "Nursing home",
     "Longitude": -118.0356275,
     "Name": "Baldwin Gardens Nursing Center",
     "id": "rechCGXdUgTZtt8yJ"
@@ -86191,11 +86279,13 @@
   },
   {
     "Address": "400 L street, Crescent City, CA 95531",
+    "Affiliation": "County",
     "County": "Del Norte County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.7546245,
+    "Location Type": "Health department",
     "Longitude": -124.195688,
     "Name": "Del Norte County Health and Human Services-Public Health Branch",
     "id": "rechT9fJePnc9BaLH"
@@ -86617,6 +86707,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6625714,
+    "Location Type": "Urgent care",
     "Longitude": -121.6424109,
     "Name": "Salinas Urgent Care",
     "id": "rechi4udoM2fzJgui"
@@ -88568,11 +88659,13 @@
   },
   {
     "Address": "260 E 15th St, Merced, CA 95341",
+    "Affiliation": "County",
     "County": "Merced County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.2937644,
+    "Location Type": "Health department",
     "Longitude": -120.4711407,
     "Name": "County of Merced Department of Public Health",
     "id": "recil1P0LsqSwxPTT"
@@ -92720,6 +92813,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8094449,
+    "Location Type": "Urgent care",
     "Longitude": -116.919702,
     "Name": "East County Urgent Care",
     "id": "reckw6at5mlg9q6Wn"
@@ -92859,11 +92953,13 @@
   },
   {
     "Address": "1601 E Hazelton Ave, Stockton, CA 95205",
+    "Affiliation": "County",
     "County": "San Joaquin County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9503879,
+    "Location Type": "Health department",
     "Longitude": -121.2684814,
     "Name": "San Joaquin County Public Health Services",
     "id": "reckztY73hmw8RwDV"
@@ -95106,11 +95202,13 @@
   },
   {
     "Address": "1800 Mt Vernon Ave, Bakersfield, CA 93306",
+    "Affiliation": "County",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3836386,
+    "Location Type": "Health department",
     "Longitude": -118.9678837,
     "Name": "Kern Public Health Services Department",
     "id": "recmFaHEufv33BeZ3"
@@ -95201,11 +95299,13 @@
   },
   {
     "Address": "500 Crown Point Cir, Grass Valley, CA 95945",
+    "Affiliation": "County",
     "County": "Nevada County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.2200727,
+    "Location Type": "Health department",
     "Longitude": -121.0316685,
     "Name": "Nevada County Public Health",
     "id": "recmHg3FeVlFPlD6o"
@@ -97398,6 +97498,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.656286,
+    "Location Type": "Urgent care",
     "Longitude": -121.2918416,
     "Name": "MDSTAT Urgent Care Fair Oaks",
     "id": "recnPU9PbERkLNURJ"
@@ -97853,11 +97954,13 @@
   },
   {
     "Address": "441 North Main St, Alturas, CA 96101",
+    "Affiliation": "County",
     "County": "Modoc County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.488061,
+    "Location Type": "Health department",
     "Longitude": -120.543037,
     "Name": "Modoc County Public Health",
     "id": "recnf7laJObSK3YGA"
@@ -100011,11 +100114,13 @@
   },
   {
     "Address": "1860 Walnut Building Bldg C, Red Bluff, CA 96080",
+    "Affiliation": "County",
     "County": "Tehama County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.1701099,
+    "Location Type": "Health department",
     "Longitude": -122.2558909,
     "Name": "Tehama County Health Services Agency Public Health",
     "id": "recotBQ9TNl2nhe6l"
@@ -100655,6 +100760,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1819495,
+    "Location Type": "Nursing home",
     "Longitude": -118.3697341,
     "Name": "Valley Vista Nursing   Transitional Care",
     "id": "recp8REvmK3fhxz82"
@@ -101318,6 +101424,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9953693,
+    "Location Type": "Urgent care",
     "Longitude": -117.3478186,
     "Name": "Concentra Urgent Care - Riverside Chicago Ave",
     "id": "recpNYrs0eZuxICL5"
@@ -103853,6 +103960,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9809497,
+    "Location Type": "Nursing home",
     "Longitude": -118.2195908,
     "Name": "Huntington Park Nursing Center",
     "id": "recql9blls7E2U6p3"
@@ -103966,7 +104074,7 @@
     "id": "recqnADmGmpy5qaj1"
   },
   {
-    "Address": "3110 Kerner Boulevard Suite A, San Rafael, CA 94901",
+    "Address": "3260 Kerner Blvd.\nSan Rafael, CA 94901",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       "Register in-person for yourself (a clinic patient) or an eligible family member (clinic patient) is at Marin Community Clinic's Campus Clinic at 3260 Kerner Blvd., San Rafael each week Monday-Thursday, 1 pm – 3 pm. Date of vaccination will be given at registration. No phone registration available. Only caregivers and people 65+ and older will be scheduled for vaccination at this time."
@@ -103986,7 +104094,7 @@
     "Latitude": 37.958114,
     "Location Type": "Pharmacy",
     "Longitude": -122.50018,
-    "Name": "Marin Community Clinic",
+    "Name": "Marin Community Clinics",
     "id": "recqnNLLfqWDeVjRR"
   },
   {
@@ -107604,6 +107712,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9607069,
+    "Location Type": "Nursing home",
     "Longitude": -118.1664301,
     "Name": "Briarcrest Nursing Center",
     "id": "recsXGfQGPnBCIYdA"
@@ -108982,6 +109091,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9318246,
+    "Location Type": "Urgent care",
     "Longitude": -117.2794385,
     "Name": "Concentra Urgent Care - Riverside Towngate",
     "id": "rectMFGsov3zWxEDz"
@@ -109167,11 +109277,13 @@
   },
   {
     "Address": "810 S Main St, Yreka, CA 96097",
+    "Affiliation": "County",
     "County": "Siskiyou County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.7257551,
+    "Location Type": "Health department",
     "Longitude": -122.6383715,
     "Name": "SISKIYOU COUNTY PUBLIC HEALTH",
     "id": "rectR6b4VL9fpO3Ez"
@@ -116180,6 +116292,7 @@
   },
   {
     "Address": "120 W Main St SUITE E, Woodland, CA 95695",
+    "Affiliation": "County",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -116536,6 +116649,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2826215,
+    "Location Type": "Nursing home",
     "Longitude": -118.4619425,
     "Name": "Ararat Nursing Facility",
     "id": "recxDZpn7qzLUzoIE"
@@ -118300,6 +118414,7 @@
   },
   {
     "Address": "202 Front St, Loyalton, CA 96118",
+    "Affiliation": "County",
     "County": "Sierra County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -120225,6 +120340,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.390995,
+    "Location Type": "Urgent care",
     "Longitude": -119.1103973,
     "Name": "Priority Urgent Care (Calloway Dr.)",
     "id": "recz5V2FK45ykV1s6"
@@ -120375,11 +120491,13 @@
   },
   {
     "Address": "2240 E Gonzales Rd Suite 140, Oxnard, CA 93036",
+    "Affiliation": "County",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2180181,
+    "Location Type": "Health department",
     "Longitude": -119.1469236,
     "Name": "North Oxnard Public Health Clinic",
     "id": "reczC4LLJarGF8m9e"
@@ -121370,6 +121488,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0139373,
+    "Location Type": "Nursing home",
     "Longitude": -118.0939357,
     "Name": "Rio Hondo Subacute and Nursing Center",
     "id": "recziC6nId42YtD62"
@@ -121468,6 +121587,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6898403,
+    "Location Type": "Urgent care",
     "Longitude": -117.9546012,
     "Name": "Family Care Centers - Fountain Valley Urgent Care",
     "id": "reczlpcNhxdVHGzzP"
@@ -121782,11 +121902,13 @@
   },
   {
     "Address": "270 County Hospital Road ste 111, Quincy, CA 95971",
+    "Affiliation": "County",
     "County": "Plumas County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.9520306,
+    "Location Type": "Health department",
     "Longitude": -120.9632392,
     "Name": "Plumas County Public Health Agency",
     "id": "reczx69HiNoUFbIPU"
