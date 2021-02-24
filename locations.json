@@ -1450,6 +1450,7 @@
     "id": "rec0imUlBKjKkEdw2"
   },
   {
+    "Address": "1111 N Nagle St, Alturas, CA 96101",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -1854,12 +1855,15 @@
   {
     "Address": "1340 S Beach Blvd, LA HABRA, CA 90631",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:46.000Z",
+    "Latest report": "2021-02-24T01:58:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.914808,
@@ -5333,12 +5337,15 @@
   {
     "Address": "33601 DEL OBISPO, DANA POINT, CA 92629",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:51.000Z",
+    "Latest report": "2021-02-24T02:05:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.475052,
@@ -8940,12 +8947,15 @@
   {
     "Address": "24167 Paseo De Valencia, Laguna Woods CA, 92637",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
+    "Latest report": "2021-02-24T02:03:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6115,
@@ -11774,18 +11784,11 @@
   {
     "Address": "1001 Potrero Avenue Bldg 30, San Francisco, CA 94110\n",
     "Affiliation": "County",
-    "Availability Info": [
-      "Yes: restricted to city residents",
-      "Yes: vaccinating 65+",
-      "Yes: walk-ins accepted"
-    ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-18T18:14:16.000Z",
-    "Latest report notes": [
-      "Until February 23, walk-in vaccinations are available for San Franciscans age 65 and older at SF General Hospital (1001 Potrero Ave, Building 30).\n\nDrop-in daily, 9am-3pm until Feb. 23 - no appointment needed.\nhttps://twitter.com/SF_DPH/status/1362457060844126220?s=20"
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-24T02:06:32.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.75529,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.40537,
@@ -12221,6 +12224,7 @@
     "id": "rec6tSGP8kfYfqNP5"
   },
   {
+    "Address": "2601 E Chapman Ave\nOrange, CA 92869",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -33706,16 +33710,19 @@
     "Address": "8102 INTERNATIONAL BLVD, OAKLAND, CA 94621",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T23:06:26.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:07:35.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.756148,
     "Location Type": "Pharmacy",
     "Longitude": -122.1801,
@@ -41043,6 +41050,12 @@
     "Longitude": -119.00852,
     "Name": "CSV PMQ Bakersfield Pharmacy",
     "id": "recMSRnfBpv7t3BPF"
+  },
+  {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "recMSTzVRFGEuxS6M"
   },
   {
     "Address": "403 W F STREET, ONTARIO, CA 91762",
@@ -62556,14 +62569,20 @@
   {
     "Address": "14555 VALLEY CENTER DR, VICTORVILLE, CA 92395",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:38.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:54:41.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.515458,
     "Location Type": "Pharmacy",
     "Longitude": -117.318056,
@@ -71426,14 +71445,21 @@
   {
     "Address": "223 W Cole Blvd, Calexico, CA 92231",
     "Affiliation": "Clinica de Salud del Valle de Salinas",
+    "Appointment scheduling instructions": [
+      "(760) 357-2020"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-01-26T01:47:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:51:25.000Z",
+    "Latest report notes": [
+      "They are taking names for a waiting list, and will call you back to set an appointment once they have the vaccine available."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.6948658,
     "Location Type": "Hospital / Clinic",
     "Longitude": -115.5030153,
@@ -76916,14 +76942,14 @@
     "Address": "2300 N Tustin St, ORANGE, CA 92865",
     "Affiliation": "Walmart",
     "Appointment scheduling instructions": [
-      "Call 562-385-8390 to reach the appointment desk or call 562-385-7237 for additional questions."
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:53:38.000Z",
+    "Latest report": "2021-02-24T01:55:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.828073,
@@ -82317,6 +82343,27 @@
     "id": "recjpFb8QtYL7BtTC"
   },
   {
+    "Address": "1993 McKee Rd, San Jose, CA 95133",
+    "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "Santa Clara County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T01:57:50.000Z",
+    "Latest report notes": [
+      "Currently vaccinating individuals aged 65 or above who live in Santa Clara County; or who receive their primary care from Santa Clara Valley Medical Center Hospitals and Clinics. Sign up for appointments here: https://vax.sccgov.org/vhcev.\n\nWhen checked on 2/22, appointments were available Feb 26 - March 9"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 37.364339,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -121.851621,
+    "Name": "Valley Health Center East Valley",
+    "id": "recjpfQxg4KlGRWVZ"
+  },
+  {
     "Address": "28200 Highway 189 Ste N-150, Lake Arrowhead, CA 92352",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -84290,14 +84337,21 @@
   {
     "Address": "1726 Superior Ave, Costa Mesa, CA 92627",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:53:47.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.637096,
     "Location Type": "Pharmacy",
     "Longitude": -117.922272,
@@ -101141,16 +101195,19 @@
     "Address": "8052 WESTMINSTER BLVD, WESTMINSTER, CA 92683",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:50:57.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T02:06:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.758685,
     "Location Type": "Pharmacy",
     "Longitude": -117.988805,
