@@ -50713,14 +50713,21 @@
   {
     "Address": "4495 MACK RD, SACRAMENTO, CA 95823",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:28:12.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.474834,
     "Location Type": "Pharmacy",
     "Longitude": -121.451262,
@@ -51444,14 +51451,22 @@
   {
     "Address": "6150 VAN BUREN BOULEVARD, RIVERSIDE, CA 92503",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:40:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.944143,
     "Location Type": "Pharmacy",
     "Longitude": -117.454246,
@@ -68668,10 +68683,21 @@
   {
     "Address": "1301 Shoreway rd  Suite 100, Belmont, CA 94002",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "(650) 596-7000"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "San Mateo County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:27:05.000Z",
+    "Latest report notes": [
+      "available for patients of Dignity Health Medical Foundation only; 65 years old and older or those in Tier 1B; make an appointment for vaccination through your primary care provider at the Belmont site.  "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.5243585,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2659552,
@@ -72873,10 +72899,22 @@
   {
     "Address": "3109 E Whitmore Ave Ste 200, Ceres, CA 95307",
     "Affiliation": "Golden Valley Health Center",
+    "Appointment scheduling instructions": [
+      "(866) 682-4842"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient",
+      "Yes: restricted to county residents"
+    ],
     "County": "Stanislaus County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:31:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.5950922,
     "Location Type": "Hospital / Clinic",
     "Longitude": -120.9375194,
@@ -73513,10 +73551,20 @@
   {
     "Address": "3569 Round Barn Cir, Santa Rosa, CA 95403",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(866) 682-4842"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Sonoma County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:38:11.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.4798795,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.730031,
@@ -121111,14 +121159,20 @@
   {
     "Address": "15316 NORDHOFF ST, NORTH HILLS, CA 91343",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:35:14.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.235256,
     "Location Type": "Pharmacy",
     "Longitude": -118.465873,
