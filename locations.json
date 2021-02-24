@@ -186,6 +186,7 @@
   },
   {
     "Address": "2020 J St, Sacramento, CA 95811",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -8970,11 +8971,11 @@
     "Address": "27220 HEATHER RIDGE RD, LAGUNA NIGUEL, CA 92677",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:34.000Z",
+    "Latest report": "2021-02-24T20:25:28.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.566698,
@@ -13133,7 +13134,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.75529,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Health department",
     "Longitude": -122.40537,
     "Name": "San Francisco General Hospital Learning Center Bldg 30",
     "id": "rec6dffcu5aXLbXxu"
@@ -20335,6 +20336,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7430803,
+    "Location Type": "Private Practice",
     "Longitude": -116.4101565,
     "Name": "Paul Biskar MD, A Medical Corporation",
     "id": "recAFJ4jZqq5bpXIP"
@@ -20974,6 +20976,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9721755,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3479995,
     "Name": "MOMMY AND ME MEDICAL GROUP INC",
     "id": "recAVBh86ZysXuZFO"
@@ -22044,6 +22047,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5339839,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1498199,
     "Name": "Temecula Valley Primary Care Physicians",
     "id": "recAziP2zzeRquoJ6"
@@ -22966,6 +22970,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9765749,
+    "Location Type": "Specialist",
     "Longitude": -117.383536,
     "Name": "Riverside Cardiology Associates",
     "id": "recBMvBocvOl0nlPv"
@@ -24098,12 +24103,13 @@
   },
   {
     "Address": "1675 N Perris BLVD, Suite G1, Perris, CA 92571",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "TrueCare",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.802696,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2249808,
     "Name": "TrueCare Perris Health Center",
     "id": "recBuDZ9S4astDoK0"
@@ -26687,11 +26693,13 @@
   },
   {
     "Address": "2200 Del Paso Blvd., Sacramento, CA 95815",
+    "Affiliation": "Sacramento Community Clinic",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6098513,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4509823,
     "Name": "Health and Life Organization, Inc DBA Sacramento Community Clinic - Del Paso",
     "id": "recD3yW1mRcqj4a6C"
@@ -28294,6 +28302,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7212336,
+    "Location Type": "Private Practice",
     "Longitude": -116.3265833,
     "Name": "Doriana Cosgrove, MD",
     "id": "recDwqelPMV9LR1Q0"
@@ -29310,11 +29319,11 @@
     "Address": "2050 W Redlands Blvd, REDLANDS, CA 92373",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:25.000Z",
+    "Latest report": "2021-02-24T20:32:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0648,
@@ -33964,14 +33973,20 @@
   {
     "Address": "3232 FOOTHILL BLVD, OAKLAND, CA 94601",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "www.walgreens.com/schedulevaccine.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:35:26.000Z",
+    "Latest report notes": [
+      "Teacher or high risk condition. Can only make an appointment 3 days in advance"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.78382,
     "Location Type": "Pharmacy",
     "Longitude": -122.221587,
@@ -34049,7 +34064,7 @@
   },
   {
     "Address": "45104 10th St W\nLancaster, CA 93534",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "JWCH Institute",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -36814,6 +36829,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6775405,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.1790993,
     "Name": "Santa Rosa del Valle Medical Group",
     "id": "recHw7mapkdBZ57LM"
@@ -38189,11 +38205,13 @@
   },
   {
     "Address": "12442 Limonite Avenue, Suite 205, Eastvale, CA 91752",
+    "Affiliation": "Cucamonga Valley Medical Group",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9749285,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5533215,
     "Name": "CVMG EV",
     "id": "recIW2NZwDqhOvu0o"
@@ -43516,11 +43534,13 @@
   },
   {
     "Address": "3939 J Street Ste 210, Sacramento, CA 95819",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.570305,
+    "Location Type": "Private Practice",
     "Longitude": -121.4539447,
     "Name": "Rebecca G Chinn, MD",
     "id": "recLOh4vkNGud8zNw"
@@ -43640,11 +43660,13 @@
   },
   {
     "Address": "6500 Coyle Avenue, Ste 1, Carmichael, CA 95608",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6677167,
+    "Location Type": "Private Practice",
     "Longitude": -121.3117699,
     "Name": "Lou Nishimura, M.D.",
     "id": "recLTk4RdfEIUTEDN"
@@ -48072,7 +48094,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.80274178506739,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Health department",
     "Longitude": -118.14891025412695,
     "Name": "Long Beach Dept of Health and Human Services",
     "id": "recNvwoujDm5LpAYv"
@@ -51177,6 +51199,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.749582,
+    "Location Type": "Private Practice",
     "Longitude": -116.9588709,
     "Name": "Hemchand kolli MD",
     "id": "recPTdh2cA97uAB5a"
@@ -51756,7 +51779,7 @@
   },
   {
     "Address": "Commerce, CA",
-    "Affiliation": "County",
+    "Affiliation": "Altamed",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -53389,7 +53412,7 @@
   },
   {
     "Address": "522 South San Pedro St.\nLos Angeles, CA 90013\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "JWCH Institute",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -53466,7 +53489,7 @@
   },
   {
     "Address": "5417 Whittier Blvd, Los Angeles, CA 90022",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Altamed",
     "Appointment scheduling instructions": [
       null
     ],
@@ -55360,11 +55383,13 @@
   },
   {
     "Address": "5524 Assembly Ct, Sacramento, CA 95823",
+    "Affiliation": "Sacramento Community Clinic",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4932469,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4392639,
     "Name": "Health and Life Organization Inc. Dba Sacramento Community Clinic - Assembly Cou",
     "id": "recRU5QSv3OuqOwvf"
@@ -56020,11 +56045,13 @@
   },
   {
     "Address": "1611 Creekside Dr.  Suite 102, Folsom, CA 95630",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6704882,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1479682,
     "Name": "Moness Medical Office, PC",
     "id": "recRtElF9eoHCxp1y"
@@ -56446,17 +56473,18 @@
   {
     "Address": "301 E. Olive ave, Porterville, CA 93257",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: walk-ins accepted",
+      "Vaccinating essential workers"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:30:14.000Z",
+    "Latest report notes": [
+      "Farm labor, healthcare, work in education eligible. Wait time usually 45 mins-1 hr"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.06497,
     "Location Type": "Pharmacy",
     "Longitude": -119.012836,
@@ -57245,6 +57273,7 @@
   },
   {
     "Address": "3415 Martin Luther King Jr Blvd, Sacramento, CA 95817",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -58139,6 +58168,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97975,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3710415,
     "Name": "Citrus Towers Multispecialty",
     "id": "recSv1WWEPIWx9h4f"
@@ -64033,11 +64063,13 @@
   },
   {
     "Address": "3030 Explorer Dr, Sacramento, CA 95827",
+    "Affiliation": "Sacramento Community Clinic",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.563409,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.332474,
     "Name": "Sacramento Community Clinic - Explorer",
     "id": "recVqfU9dwYp0olFT"
@@ -67932,6 +67964,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8596412,
+    "Location Type": "Private Practice",
     "Longitude": -117.5510063,
     "Name": "Jessica Basa MD Inc - Barstow Family Care",
     "id": "recXqCNfjLYlg768f"
@@ -70950,7 +70983,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.958746537496914,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Health department",
     "Longitude": -120.03679256798203,
     "Name": "Madera County Department of Social Services",
     "id": "recZP6Q0EEyLtWRvH"
@@ -72037,7 +72070,7 @@
   },
   {
     "Address": "9460 No Name Uno, Gilroy, CA 95020 ",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Bay Area Community Health",
     "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -74339,11 +74372,13 @@
   },
   {
     "Address": "4250 Auburn Blvd., Sacramento, CA 95841",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6434075,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3646515,
     "Name": "BHC Heritage Oaks Hosptial",
     "id": "recb2571E6CtHpFRq"
@@ -77486,6 +77521,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9192952,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9478911,
     "Name": "Beaver Medical Group - Beaumont",
     "id": "recccbmS7hVwOWVWZ"
@@ -83157,11 +83193,13 @@
   },
   {
     "Address": "4617 Freeport Blvd  Suite B, Sacramento, CA 95822",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5332639,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4938987,
     "Name": "Land Park Pediatrics",
     "id": "recfc9ZGtQLaGUdHp"
@@ -83494,6 +83532,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.4994347,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1621055,
     "Name": "Rancho Family Medical Group",
     "id": "recfkapFYqQxlL4L6"
@@ -88593,11 +88632,13 @@
   },
   {
     "Address": "1600 Creekside Drive Suite 2100, Folsom, CA 95630",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6699545,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1473671,
     "Name": "Meena Medical Group",
     "id": "reciL0G9bY1w3PLCC"
@@ -91069,7 +91110,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.83893155733508,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.77748180194159,
     "Name": "Fresno Nephrology Group",
     "id": "recjao9gpjjFURsTb"
@@ -93016,6 +93057,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8597151,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.551197,
     "Name": "Family Health Care of Corona",
     "id": "reckmMGTnADZKKmWp"
@@ -97238,6 +97280,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8761603,
+    "Location Type": "First Responder",
     "Longitude": -117.296464,
     "Name": "Ben Clark Training Center",
     "id": "recmvOkUY0HVv5GfE"
@@ -103861,6 +103904,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6772354,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.3740763,
     "Name": "LAKE ELSINORE CLINICA MEDICA FAMILIAR A MEDICAL CORPORATION",
     "id": "recqGbSlR9EV6CUI0"
@@ -104424,11 +104468,13 @@
   },
   {
     "Address": "3810 Rosin Court Suite 100, SACRAMENTO, CA 95834",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6371134,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4748136,
     "Name": "Peach Tree Health - North Sac",
     "id": "recqYhbO1SkBMm4n4"
@@ -108129,11 +108175,13 @@
   },
   {
     "Address": "5841 Jameson Ct, Carmichael, CA 95608",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6513572,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3286669,
     "Name": "Carmichael Pediatric Medical Group, Inc.",
     "id": "recsHDQjk7nnX71N7"
@@ -108967,11 +109015,13 @@
   },
   {
     "Address": "1611 CREEKSIDE DRIVE STE 104, FOLSOM, CA 95630",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6705153,
+    "Location Type": "Private Practice",
     "Longitude": -121.1479941,
     "Name": "Danesh Medical Office",
     "id": "recskCwJBzub2sXhu"
@@ -111717,11 +111767,13 @@
   },
   {
     "Address": "7275 E Southgate Dr Suite 204, Sacramento, CA 95823",
+    "Affiliation": "Sacramento Community Clinic",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4934681,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4364286,
     "Name": "Health and Life Organization, Inc.  DBA Sacramento Community Clinic - Southgate",
     "id": "recuIIKYRpCCVOvLR"
@@ -114056,11 +114108,13 @@
   },
   {
     "Address": "7 Parkcenter Drive, Suite 100, Sacramento, CA 95825",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sacramento County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5719466,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.4172224,
     "Name": "River Oaks Medical Group",
     "id": "recvTGRzt2xLyQi7v"
