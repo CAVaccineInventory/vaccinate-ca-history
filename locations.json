@@ -111628,12 +111628,15 @@
   {
     "Address": "5005 BALL RD, CYPRESS, CA 90630",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:07:21.000Z",
+    "Latest report": "2021-02-24T03:03:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.816701,
