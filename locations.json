@@ -10449,6 +10449,23 @@
     "id": "rec5L1LhQcAclwP1Z"
   },
   {
+    "Address": "600 W 5th St.,\nSan Bernardino, CA 92410, USA\n",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.calvax.org/reg/1252990607"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T13:02:45.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.10837,
+    "Location Type": "Super Site",
+    "Longitude": -117.29668,
+    "Name": "Fifth Street Senior Center (Mobile)",
+    "id": "rec5L2bSQbl8mRIrE"
+  },
+  {
     "Address": "16040 Harbor Blvd Ste K, Fountain Valley, CA 92708",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -19248,6 +19265,31 @@
     "Longitude": -117.386183,
     "Name": "RAINCROSS PHARMACY",
     "id": "rec9qWZLY4c5STHcj"
+  },
+  {
+    "Address": "14973 Joshua St, Victorville, CA 92394",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T13:01:31.000Z",
+    "Latest report notes": [
+      "When last checked (Feb 24th) there was availability from Feb 24th through Feb 27th. (each date has a specific signup link)\n\nEligibility:\nOpen to residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education, 65+"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.52494,
+    "Location Type": "Super Site",
+    "Longitude": -117.33743,
+    "Name": "Hook Community Center - supersite",
+    "id": "rec9r94SHNCIEEFmT"
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
@@ -44559,8 +44601,12 @@
   {
     "Address": "19047 E MAIN ST, LINDEN, CA 95236",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: location permanently closed"
+    ],
     "County": "San Joaquin County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T12:41:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.020721,
@@ -54929,6 +54975,31 @@
     "Longitude": -118.369933,
     "Name": "PRIORITY CARE PHARMACY",
     "id": "recRbZWBuapyedjCD"
+  },
+  {
+    "Address": "4280 Peyton Dr.\nChino Hills, CA 91709, USA",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T13:00:11.000Z",
+    "Latest report notes": [
+      "As per the County, this is a 1st Dose mobile clinic scheduled for Thursday Feb 25th.\n\nWhen last checked (Feb 24th), there were no appointments left. County recommends checking their website often as more events/locations are added.\n\nhttps://sbcovid19.com/vaccine/locations/san-bernardino-county-health-sites/\n\nEligibility:\n65+ only"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 33.99004,
+    "Location Type": "Super Site",
+    "Longitude": -117.73269,
+    "Name": "McCoy Equestrian Center (Mobile)",
+    "id": "recRcjh5su0aeemC9"
   },
   {
     "Address": "1125 ALHAMBRA BOULEVARD, SACRAMENTO, CA 95816",
