@@ -67395,6 +67395,19 @@
     "id": "recXu71srYFtc1QhM"
   },
   {
+    "Address": "333 Turk St, San Francisco, CA 94102",
+    "County": "San Francisco County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T06:00:17.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 37.782721,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -122.41462,
+    "Name": "Curry Senior Health Center",
+    "id": "recXw1UTSLBFiapRT"
+  },
+  {
     "Address": "1155 W Central Ave Ste 112, Santa Ana, CA 92707",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
