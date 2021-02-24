@@ -29933,6 +29933,19 @@
     "id": "recEtZNLCfZUNp9yW"
   },
   {
+    "Address": "1033 W Las Palmas Ave\nPatterson, CA 95363",
+    "Affiliation": "County",
+    "County": "Stanislaus County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 37.46669,
+    "Location Type": "Super Site",
+    "Longitude": -121.14286,
+    "Name": "Hammon Senior Center - supersite",
+    "id": "recEtdybTrji92eaS"
+  },
+  {
     "Address": "866 W LANCASTER BLVD, LANCASTER, CA 93534",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -84413,6 +84426,19 @@
     "Longitude": -117.9598288,
     "Name": "Friends of Family Health Center - La Habra",
     "id": "recgaZD2xGtcbBuQX"
+  },
+  {
+    "Address": "420 Chicago Avenue, Ste A\nModesto, CA 95351",
+    "Affiliation": "County",
+    "County": "Stanislaus County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 37.62563,
+    "Location Type": "Super Site",
+    "Longitude": -121.01221,
+    "Name": "Neighborhood Center at Marshall Park - OptumServe supersite",
+    "id": "recgagSr7PrL6ZADn"
   },
   {
     "Address": "625 S Fair Oaks Ave Ste 125, Pasadena, CA 91105",
