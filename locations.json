@@ -393,8 +393,12 @@
   {
     "Address": "901 W 7TH ST, OXNARD, CA 93030",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.195587,
@@ -1477,8 +1481,12 @@
   {
     "Address": "1234 S GARFIELD AVE STE 102, ALHAMBRA, CA 91801",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.080342,
@@ -2864,8 +2872,12 @@
   {
     "Address": "410 Cloverleaf Dr, Baldwin Park, CA 91706",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.062072,
@@ -4358,8 +4370,12 @@
   {
     "Address": "800 N STATE COLLEGE BLVD, FULLERTON, CA 92831",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.879942,
@@ -8800,8 +8816,12 @@
   {
     "Address": "7851 Walker St Ste 102, La Palma, CA 90623",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.848341,
@@ -9311,8 +9331,12 @@
   {
     "Address": "330 E. Lambert Road #120, Brea, CA 92821",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.924615,
@@ -10338,8 +10362,12 @@
   {
     "Address": "16040 Harbor Blvd Ste K, Fountain Valley, CA 92708",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.729572,
@@ -11041,8 +11069,12 @@
   {
     "Address": "1304 15TH ST, STE 103, SANTA MONICA, CA 90404",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.02579,
@@ -12611,8 +12643,12 @@
   {
     "Address": "4333 Park Terrace Dr Ste 160, WESTLAKE VILLAGE, CA 91361",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.143915,
@@ -13730,8 +13766,12 @@
   {
     "Address": "563 W WHITTIER BLVD, LA HABRA, CA 90631",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.939262,
@@ -14830,8 +14870,12 @@
   {
     "Address": "7335 Van Nuys Blvd Ste 107, Van Nuys, CA 91405",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.204012,
@@ -18653,8 +18697,12 @@
   {
     "Address": "17332 Von Karman Ave Ste 110, Irvine, CA 92614",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.689598,
@@ -19133,8 +19181,12 @@
   {
     "Address": "296 H St, Chula Vista, CA 91910",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.634246,
@@ -20427,8 +20479,12 @@
   {
     "Address": "1496 Market St, San Francisco, CA 94102",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.776012,
@@ -20593,8 +20649,12 @@
   {
     "Address": "4762 East WHITTIER BLVD, LOS ANGELES, CA 90022",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.021893,
@@ -21855,8 +21915,12 @@
   {
     "Address": "8391 FOLSOM BLVD, SACRAMENTO, CA 95826",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.548249,
@@ -23886,8 +23950,12 @@
   {
     "Address": "4434 Cerritos Ave, Los Alamitos, CA 90720",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.810165,
@@ -24871,8 +24939,12 @@
   {
     "Address": "18541 SHERMAN WAY STE#103, RESEDA, CA 91335",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.201277,
@@ -25211,8 +25283,12 @@
   {
     "Address": "5555 Grossmont Center Dr # A217, La Mesa, CA 91942",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.781574,
@@ -26706,8 +26782,12 @@
   {
     "Address": "8110 Mango Ave Ste 105, Fontana, CA 92335",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.105638,
@@ -27194,8 +27274,12 @@
   {
     "Address": "6255 University Ave Ste A1, San Diego, CA 92115",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.753692,
@@ -27760,8 +27844,12 @@
   {
     "Address": "4900 Rivergrade Road Suite E110, Irwindale, CA 91706",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.102452,
@@ -27965,8 +28053,12 @@
   {
     "Address": "5302 RANCHO ROAD, HUNTINGTON BEACH, CA 92647",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.753727,
@@ -29833,8 +29925,12 @@
   {
     "Address": "25455 BARTON RD STE 111A, LOMA LINDA, CA 92354",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.047415,
@@ -29921,8 +30017,12 @@
   {
     "Address": "4201 Torrance Blvd Ste 210, Torrance, CA 90503",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.838379,
@@ -30466,8 +30566,12 @@
   {
     "Address": "1888 A St, Antioch, CA 94509",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Contra Costa County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.003982,
@@ -31745,8 +31849,12 @@
   {
     "Address": "7910 FROST ST STE 130, SAN DIEGO, CA 92123",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.800663,
@@ -32163,8 +32271,12 @@
   {
     "Address": "1510 S CENTRAL AVE STE 110, GLENDALE, CA 91204",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.127495,
@@ -34205,8 +34317,12 @@
   {
     "Address": "9209 S COLIMA RD STE 1100, Whittier, CA 90605",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.950619,
@@ -35675,8 +35791,12 @@
   {
     "Address": "11504 Santa Monica Blvd, Los Angeles, CA 90025",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.045346,
@@ -35908,8 +36028,12 @@
   {
     "Address": "13701 Beach Blvd Ste A2, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.763233,
@@ -36128,8 +36252,12 @@
   {
     "Address": "766 Lakefield Rd Suite E, Westlake Village, CA 91361",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.156933,
@@ -36344,8 +36472,12 @@
   {
     "Address": "3919 Beverly Blvd Ste 101, Los Angeles, CA 90004",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.076466,
@@ -36448,8 +36580,12 @@
   {
     "Address": "7581 Broadway, Lemon Grove, CA 91945",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.742389,
@@ -36915,8 +37051,12 @@
   {
     "Address": "88 SPEAR ST, SAN FRANCISCO, CA 94105",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.792536,
@@ -37511,8 +37651,12 @@
   {
     "Address": "25025 BLUE RAVINE ROAD, FOLSOM, CA 95630",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.689271,
@@ -37616,8 +37760,12 @@
   {
     "Address": "4917 E KINGS CANYON RD SUITE 102, FRESNO, CA 93727",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.736094,
@@ -37757,8 +37905,12 @@
   {
     "Address": "8883 WESTMINSTER AVE n/a, GARDEN GROVE, CA 92844",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759778,
@@ -37929,8 +38081,12 @@
   {
     "Address": "2705 S. Highland Avenue Pharmacy Suite, Selma, CA 93662",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.572658,
@@ -38107,8 +38263,12 @@
   {
     "Address": "10133 S De Anza Blvd, Cupertino, CA 95014",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.32078,
@@ -38300,8 +38460,12 @@
   {
     "Address": "16928 11TH ST, HURON, CA 93234",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.205668,
@@ -38628,8 +38792,12 @@
   {
     "Address": "785 Oak Grove Rd Ste G2, CONCORD, CA 94518",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Contra Costa County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.937739,
@@ -38918,8 +39086,12 @@
   {
     "Address": "2995 National Avenue, San Diego, CA 92113",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.69573,
@@ -39585,8 +39757,12 @@
   {
     "Address": "4840 SAN JUAN AVENUE, FAIR OAKS, CA 95628",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.652472,
@@ -41896,8 +42072,12 @@
   {
     "Address": "1842 N Tustin St, Orange, CA 92865",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.818782,
@@ -41943,8 +42123,12 @@
   {
     "Address": "255 EAST BONITA AVE BUILDING 1, SUITE 102, POMONA, CA 91767",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.09608,
@@ -43222,8 +43406,12 @@
   {
     "Address": "38900 TRADE CENTER DR, PALMDALE, CA 93551",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.588263,
@@ -44966,8 +45154,12 @@
   {
     "Address": "211 Quarry Rd Ste 108, PALO ALTO, CA 94304",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.441431,
@@ -46428,8 +46620,12 @@
   {
     "Address": "1300 Bush St, San Francisco, CA 94109",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: location permanently closed"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.789113,
@@ -46458,8 +46654,12 @@
   {
     "Address": "3020 FLOYD AVE STE 139, MODESTO, CA 95355",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Stanislaus County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.677673,
@@ -47536,8 +47736,12 @@
   {
     "Address": "110 W HARVARD BLVD STE H, SANTA PAULA, CA 93060",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.345682,
@@ -47549,15 +47753,12 @@
   {
     "Address": "142 W H ST, COLTON, CA 92324",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:06.000Z",
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.067945,
@@ -48044,8 +48245,12 @@
   {
     "Address": "5159 FAIR OAKS BLVD, CARMICHAEL, CA 95608",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.597311,
@@ -48636,15 +48841,12 @@
   {
     "Address": "1939 HIGH ST, SELMA, CA 93662",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:42.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.56798,
@@ -50180,8 +50382,12 @@
   {
     "Address": "4292 KATELLA AVE, LOS ALAMITOS, CA 90720",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.802989,
@@ -50311,8 +50517,12 @@
   {
     "Address": "209 Highland Ave, National City, CA 91950",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.683297,
@@ -51500,8 +51710,12 @@
   {
     "Address": "12677 HESPERIA RD STE 180, VICTORVILLE, CA 92395",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.481612,
@@ -52036,8 +52250,12 @@
   {
     "Address": "4690 Freeport Blvd, Sacramento, CA 95822",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.532511,
@@ -52672,8 +52890,12 @@
   {
     "Address": "1031 E VISTA WAY, VISTA, CA 92084",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.212936,
@@ -53364,8 +53586,12 @@
   {
     "Address": "9262 Bolsa Ave Ste A, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.744494,
@@ -53529,8 +53755,12 @@
   {
     "Address": "615 S Atlantic Blvd, Los Angeles, CA 90022",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.024472,
@@ -53648,8 +53878,12 @@
   {
     "Address": "9014 BOLSA AVE, WESTMINSTER, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7446,
@@ -55658,8 +55892,12 @@
   {
     "Address": "4900 ELK GROVE BLVD, ELK GROVE, CA 95758",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.407264,
@@ -56234,8 +56472,12 @@
   {
     "Address": "10990 WARNER AVE, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.71614,
@@ -56357,8 +56599,12 @@
   {
     "Address": "1333 CASTRO STREET, SAN FRANCISCO, CA 94114",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.750761,
@@ -57007,8 +57253,12 @@
   {
     "Address": "7626 E Chapman Ave Ste C, Orange, CA 92869",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.79434,
@@ -57835,8 +58085,12 @@
   {
     "Address": "3645 Northgate Blvd Ste F, Sacramento, CA 95834",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.631906,
@@ -57979,15 +58233,12 @@
   {
     "Address": "OCEAN AVE 3 NW OF SAN CARLOS, CARMEL, CA 93921",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:42.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.55509,
@@ -60102,8 +60353,12 @@
   {
     "Address": "199 PARNASSUS AVE, SAN FRANCISCO, CA 94117",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.764286,
@@ -60886,8 +61141,12 @@
   {
     "Address": "9746 WESTMINSTER AVE STE D4, GARDEN GROVE, CA 92844",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759112,
@@ -61224,15 +61483,12 @@
   {
     "Address": "821 W 19TH ST, COSTA MESA, CA 92627",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:44.000Z",
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.642868,
@@ -62166,8 +62422,12 @@
   {
     "Address": "10672 Chapman Ave Ste 5, Garden Grove, CA 92840",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.788256,
@@ -63287,15 +63547,12 @@
   {
     "Address": "2720 S. Bristol St. #102, Santa Ana, CA 92704",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:42.000Z",
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.710919,
@@ -63898,8 +64155,12 @@
   {
     "Address": "250 Hospital Cir, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.764158,
@@ -64552,8 +64813,12 @@
   {
     "Address": "7847 LICHEN DRIVE, CITRUS HEIGHTS, CA 95621",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.708505,
@@ -64740,8 +65005,12 @@
   {
     "Address": "1300 N VERMONT AVE, LOS ANGELES, CA 90027",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.09579,
@@ -64973,8 +65242,12 @@
   {
     "Address": "9850 GENESEE AVENUE, LA JOLLA, CA 92037",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.885163,
@@ -66533,8 +66806,12 @@
   {
     "Address": "2707 VIA DE LA VALLE, DEL MAR, CA 92014",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.981133,
@@ -67017,15 +67294,12 @@
   {
     "Address": "77 Casa St Ste 205, San Luis Obispo, CA 93405",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.293072,
@@ -67929,8 +68203,12 @@
   {
     "Address": "100 E MAIN ST, SAN JACINTO, CA 92583",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.78373,
@@ -67966,8 +68244,12 @@
   {
     "Address": "120 S Harbor Blvd Ste B, Santa Ana, CA 92704",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.74456,
@@ -68360,15 +68642,12 @@
   {
     "Address": "12998 Hesperia Rd Ste 102, Victorville, CA 92395",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:29.000Z",
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.487719,
@@ -68449,8 +68728,12 @@
   {
     "Address": "17500 Foothill Blvd Ste a-7a, Fontana, CA 92335",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.107211,
@@ -69331,8 +69614,12 @@
   {
     "Address": "31515 Rancho Pueblo Rd Ste 105, Temecula, CA 92592",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.479013,
@@ -69647,8 +69934,12 @@
   {
     "Address": "7057 FOOTHILL BLVD, TUJUNGA, CA 91042",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.248124,
@@ -69697,8 +69988,12 @@
   {
     "Address": "1834 W LINCOLN AVE STE N, ANAHEIM, CA 92801",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.83196,
@@ -70018,8 +70313,12 @@
   {
     "Address": "4345 E Lowell St Suites C and D, Ontario, CA 91761",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.051994,
@@ -70662,8 +70961,12 @@
   {
     "Address": "3571 N 1st St, San Jose, CA 95134",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.407178,
@@ -72101,8 +72404,12 @@
   {
     "Address": "8342 Garden Grove Blvd Ste 2, Garden Grove, CA 92844",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.773326,
@@ -72315,8 +72622,12 @@
   {
     "Address": "10430 TWIN CITIES ROAD, GALT, CA 95632",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.28975,
@@ -72345,8 +72656,12 @@
   {
     "Address": "17071 VENTURA BLVD STE 100, ENCINO, CA 91316",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.160313,
@@ -73491,8 +73806,12 @@
   {
     "Address": "14411 BROOKHURST AVE STE F, GARDEN GROVE, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.753345,
@@ -75864,8 +76183,12 @@
   {
     "Address": "626 W COLLEGE ST, LOS ANGELES, CA 90012",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0651,
@@ -77983,8 +78306,12 @@
   {
     "Address": "1013 S. CENTRAL AVE, GLENDALE, CA 91204",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.134243,
@@ -78739,8 +79066,12 @@
   {
     "Address": "437 N EUCLID AVE STE B, ONTARIO, CA 91762",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.068048,
@@ -80618,8 +80949,12 @@
   {
     "Address": "1234 WILSHIRE BLVD SUITE 106, LOS ANGELES, CA 90017",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.053287,
@@ -80816,8 +81151,12 @@
   {
     "Address": "7200 Parkway Dr Ste 104, La Mesa, CA 91942",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.77333,
@@ -83012,8 +83351,12 @@
   {
     "Address": "3545 Wilshire Blvd Suite 200, Los Angeles, CA 90010",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.061893,
@@ -83721,8 +84064,12 @@
   {
     "Address": "31654 RANCHO VIEJO RD STE N, SAN JUAN CAPISTRANO, CA 92675",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.503145,
@@ -87767,8 +88114,12 @@
   {
     "Address": "13699 E MANNING AVE STE 105, PARLIER, CA 93648",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.604748,
@@ -87847,8 +88198,12 @@
   {
     "Address": "45 Castro St, San Francisco, CA 94114",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.768239,
@@ -89925,8 +90280,12 @@
   {
     "Address": "2705 W Lincoln Ave, Anaheim, CA 92801",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.832567,
@@ -91318,8 +91677,12 @@
   {
     "Address": "5207 HOLLYWOOD BLVD, LOS ANGELES, CA 90027",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1019,
@@ -91627,8 +91990,12 @@
   {
     "Address": "750 E Main St, Barstow, CA 92311",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.898034,
@@ -91771,8 +92138,12 @@
   {
     "Address": "1100 Van Ness Ave Ste C, San Francisco, CA 94109",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.785993,
@@ -92109,8 +92480,12 @@
   {
     "Address": "4950 SAN BERNARDINO ST #101A, Montclair, CA 91763",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.078566,
@@ -93315,8 +93690,12 @@
   {
     "Address": "3430 TULLY ROAD, MODESTO, CA 95350",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Stanislaus County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.689015,
@@ -94688,15 +95067,12 @@
   {
     "Address": "2339 W Hammer Ln Ste J, Stockton, CA 95209",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.022539,
@@ -95527,8 +95903,12 @@
   {
     "Address": "13756 Victory Blvd, Van Nuys, CA 91401",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.186491,
@@ -96647,8 +97027,12 @@
   {
     "Address": "12555 Garden Grove Blvd Ste 102 STE 102, GARDEN GROVE, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.774835,
@@ -96751,8 +97135,12 @@
   {
     "Address": "18111 NORDHOFF ST, NORTHRIDGE, CA 91330",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.23565,
@@ -97009,8 +97397,12 @@
   {
     "Address": "3518 MARCONI AVENUE, SACRAMENTO, CA 95821",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.616872,
@@ -98363,15 +98755,12 @@
   {
     "Address": "4177 W Shaw Ave Ste 109, Fresno, CA 93722",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:42.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.807986,
@@ -98979,8 +99368,12 @@
   {
     "Address": "1891 Effie Street, Los Angeles, CA 90026",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.084486,
@@ -99168,8 +99561,12 @@
   {
     "Address": "14133 S Vermont Ave, Gardena, CA 90247",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.902667,
@@ -101255,8 +101652,12 @@
   {
     "Address": "6830 STOCKTON BLVD #160, SACRAMENTO, CA 95823",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.502632,
@@ -103015,15 +103416,12 @@
   {
     "Address": "9970 LIVE OAK BLVD, LIVE OAK, CA 95953",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:02.000Z",
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.275686,
@@ -103888,7 +104286,7 @@
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-27T18:20:22.000Z",
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.696373,
@@ -104309,8 +104707,12 @@
   {
     "Address": "1045 ATLANTIC AVE suite 102, LONG BEACH, CA 90813",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.780235,
@@ -105129,8 +105531,12 @@
   {
     "Address": "655 W Ave Q Ste E, Palmdale, CA 93551",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.587473,
@@ -106246,15 +106652,12 @@
   {
     "Address": "95 MONTGOMERY DR, SANTA ROSA, CA 95404",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:10.000Z",
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.442349,
@@ -106754,8 +107157,12 @@
   {
     "Address": "23665 Moulton Pkwy Suite A & C, Laguna Hills, CA 92653",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.620844,
@@ -107010,8 +107417,12 @@
   {
     "Address": "4650 NATOMAS BLVD, SACRAMENTO, CA 95835",
     "Affiliation": "Raley's Pharmacy",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.657323,
@@ -108847,8 +109258,12 @@
   {
     "Address": "6900 RESEDA BLVD UNIT E, RESEDA, CA 91335",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.195863,
@@ -108914,8 +109329,12 @@
   {
     "Address": "32144  AGOURA RD UNIT 101, WESTLAKE VILLAGE, CA 91361",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.148439,
@@ -110179,8 +110598,12 @@
   {
     "Address": "129 S VERMONT AVE, LOS ANGELES, CA 90004",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0718,
@@ -111250,15 +111673,12 @@
   {
     "Address": "103 E HIGHLAND AVE, SAN BERNARDINO, CA 92404",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:47.000Z",
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.135647,
@@ -111455,8 +111875,12 @@
   {
     "Address": "3398 Mission St, SAN FRANCISCO, CA 94110",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.742562,
@@ -112450,8 +112874,12 @@
   {
     "Address": "10225 Austin Dr Ste 103, Spring Valley, CA 91978",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.730305,
@@ -112988,8 +113416,12 @@
   {
     "Address": "505 W Willow St, Long Beach, CA 90806",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.804689,
@@ -113698,8 +114130,12 @@
   {
     "Address": "1339 W GARVEY AVE N, WEST COVINA, CA 91790",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.073645,
@@ -114274,8 +114710,12 @@
   {
     "Address": "123 S Alvarado Street, Los Angeles, CA 90057",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.06615,
@@ -115268,15 +115708,12 @@
   {
     "Address": "2857 Senter Rd Suite A, San Jose, CA 95111",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:04.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.299558,
@@ -116119,8 +116556,12 @@
   {
     "Address": "1220 S CENTRAL AVE STE 103, GLENDALE, CA 91204",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.131423,
@@ -116401,8 +116842,12 @@
   {
     "Address": "2523 E WASHINGTON BLVD, PASADENA, CA 91104",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.169291,
@@ -116431,8 +116876,12 @@
   {
     "Address": "7509 Draper Ave Ste A, La Jolla, CA 92037",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.839975,
@@ -116800,8 +117249,12 @@
   {
     "Address": "1524 POLK STREET, SAN FRANCISCO, CA 94109",
     "Affiliation": "Walgreens",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.791023,
@@ -116893,8 +117346,12 @@
   {
     "Address": "12422 Central Ave, Chino, CA 91710",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.027737,
@@ -117258,15 +117715,12 @@
   {
     "Address": "9580 GARDEN GROVE BLVD SUITE 108, GARDEN GROVE, CA 92844",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:04.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.773001,
@@ -117372,8 +117826,12 @@
   {
     "Address": "401 CRESCENT AVE, AVALON, CA 90704",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.343824,
@@ -117903,8 +118361,12 @@
   {
     "Address": "4420 Vineland Ave, NORTH HOLLYWOOD, CA 91602",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.151064,
@@ -118000,8 +118462,12 @@
   {
     "Address": "8314 WILSHIRE BLVD, BEVERLY HILLS, CA 90211",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.06392,
@@ -118560,8 +119026,12 @@
   {
     "Address": "3270 Tweedy Blvd Ste C, South Gate, CA 90280",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:11:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.944828,
@@ -118974,8 +119444,12 @@
   {
     "Address": "29115 VALLEY CENTER RD STE F, VALLEY CENTER, CA 92082",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.23077,
@@ -119312,15 +119786,12 @@
   {
     "Address": "1039 SUNRISE AVENUE, ROSEVILLE, CA 95661",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
+    "Latest report": "2021-02-24T05:11:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.728737,
@@ -119514,8 +119985,12 @@
   {
     "Address": "10243 Genetic Center Drive, SAN DIEGO, CA 92121",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T05:10:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.90624,
