@@ -11274,14 +11274,20 @@
   {
     "Address": "9215 E HIGHWAY 140, PLANADA, CA 95365",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "209-382-1291"
+    ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T01:21:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:02:14.000Z",
+    "Latest report notes": [
+      "Feb 24 Currently administering COVID19 vaccines to those 65 years of age and older, Agriculture workers, Healthcare workers. Call San Joaquin Drug, they will take your information and an individual will call you back with an appointment."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.295333,
     "Location Type": "Pharmacy",
     "Longitude": -120.320876,
@@ -39459,14 +39465,21 @@
   {
     "Address": "1793 MARLOW ROAD, SANTA ROSA, CA 95401",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:02:16.000Z",
+    "Latest report notes": [
+      "This pharmacy stated that they will likely have them available in two weeks but do not yet and then will be scheduling through the Rite Aid website.   She did tell me that they have vaccines at the Rite Aid on Farmers Lane in Santa Rosa and are scheduling appointments.  "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.45159,
     "Location Type": "Pharmacy",
     "Longitude": -122.752838,
@@ -98709,7 +98722,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T18:43:09.000Z",
+    "Latest report": "2021-02-24T18:02:22.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.911735,
