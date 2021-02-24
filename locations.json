@@ -10139,11 +10139,11 @@
     "Address": "13270 NEWPORT AVE, TUSTIN, CA 92780",
     "Affiliation": "Sav-on Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
+    "Latest report": "2021-02-24T22:23:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.745492,
@@ -14398,7 +14398,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:29:42.000Z",
+    "Latest report": "2021-02-24T22:29:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.786781,
@@ -37801,14 +37801,14 @@
     "Address": "16450 BEACH BLVD, WESTMINSTER, CA 92683",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:44:25.000Z",
+    "Latest report": "2021-02-24T22:28:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.724171,
@@ -41325,14 +41325,21 @@
   {
     "Address": "8030 Imperial Hwy, Downey, CA 90242",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:27:44.000Z",
+    "Latest report notes": [
+      "Appointments are available online, but for this week appointments are fully booked until Friday 02/26/2021"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.923212,
     "Location Type": "Pharmacy",
     "Longitude": -118.151418,
@@ -68540,10 +68547,22 @@
   {
     "Address": "243 Georgia St. Suite B, Vallejo, CA 94590",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(707) 556-8100"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Solano County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:28:26.000Z",
+    "Latest report notes": [
+      "2/24/21: Currently only vaccinating pharmacists and other medical personal in essential workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.1008488,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2590923,
@@ -73304,17 +73323,17 @@
     "Address": "31541 SANTA MARGARITA PARKWAY, RANCHO SANTA MARGARITA, CA 92688",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      null
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:17:24.000Z",
+    "Latest report": "2021-02-24T22:23:25.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "exact site for appointmnets: https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.65026,
@@ -76939,11 +76958,11 @@
     "Address": "1826 W ORANGETHORPE AVE, FULLERTON, CA 92833",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
+    "Latest report": "2021-02-24T22:36:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.85872,
@@ -77623,14 +77642,21 @@
   {
     "Address": "215 N 2ND ST, EL CAJON, CA 92021",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:37.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:27:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.796832,
     "Location Type": "Pharmacy",
     "Longitude": -116.935584,
@@ -78555,14 +78581,19 @@
   {
     "Address": "331 N Pacific Coast Hwy, EL SEGUNDO, CA 90245",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:35:59.000Z",
+    "Latest report notes": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.920438,
     "Location Type": "Pharmacy",
     "Longitude": -118.396536,
@@ -100256,14 +100287,20 @@
   {
     "Address": "1802 S Harbor Blvd, ANAHEIM, CA 92802",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:35:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.802922,
     "Location Type": "Pharmacy",
     "Longitude": -117.914808,
@@ -117791,12 +117828,15 @@
   {
     "Address": "216 WESTLAKE CENTER, DALY CITY, CA 94015",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "(916) 454-2345"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:14.000Z",
+    "Latest report": "2021-02-24T22:24:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.699614,
