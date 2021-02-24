@@ -17346,14 +17346,21 @@
   {
     "Address": "1640 R STREET, MERCED, CA 95340",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "much make an appointment through: walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:42:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.303821,
     "Location Type": "Pharmacy",
     "Longitude": -120.49219,
@@ -42435,10 +42442,20 @@
   {
     "Address": "914 PINE STREET, MOUNT SHASTA, CA 96067",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "(530) 926-7230"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Siskiyou County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:40:23.000Z",
+    "Latest report notes": [
+      "This location is providing second dose appointments only. You can schedule by calling their immunization nurse directly."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 41.3186494,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.3211727,
@@ -81257,14 +81274,22 @@
   {
     "Address": "3680 Crocker Dr, Sacramento, CA 95818",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:38.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:51:02.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through the county website. As of Feb 24, the pharmacist at this location has suggested that appointments have been opened up to educators. Check the website daily as this location has reported frequent cancellations."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.540775,
     "Location Type": "Pharmacy",
     "Longitude": -121.483176,
@@ -108068,12 +108093,15 @@
   {
     "Address": "8985 MIRA MESA BOULEVARD, SAN DIEGO, CA 92126",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
+    "Latest report": "2021-02-24T23:41:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.91387,
@@ -111611,8 +111639,15 @@
   {
     "Address": "795 El Camino Real Lee building A floor, Geriatrics, PALO ALTO, CA 94301",
     "Affiliation": "Palo Alto Medical Foundation",
+    "Appointment scheduling instructions": [
+      "much make an appointment through: walgreens.com"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:45:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.439729,
