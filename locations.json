@@ -35400,10 +35400,21 @@
   {
     "Address": "39500 LibertyStreet\nFremont, CA 94538",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(510) 770-8040"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-23T23:59:23.000Z",
+    "Latest report notes": [
+      "2/23: As of today, shipment of vaccines is en route. Call for updates on availability."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.54916953384593,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.97695903075919,
@@ -35483,12 +35494,15 @@
   {
     "Address": "27470 ALICIA PKWY, LAGUNA NIGUEL, CA 92677",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:21.000Z",
+    "Latest report": "2021-02-24T00:00:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.563467,
@@ -64431,12 +64445,15 @@
   {
     "Address": "1538 E Chapman Ave, Orange, CA 92866",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
+    "Latest report": "2021-02-23T23:56:39.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.787182,
@@ -67429,16 +67446,17 @@
   {
     "Address": "3325 SOUTH BRISTOL STREET BRISTOL PLAZA, SANTA ANA, CA 92704",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T00:47:11.000Z",
+    "Latest report": "2021-02-23T23:59:16.000Z",
+    "Latest report notes": [
+      null
+    ],
     "Latest report yes?": 1,
     "Latitude": 33.703394,
     "Location Type": "Pharmacy",
@@ -87434,6 +87452,19 @@
     "id": "reclfYBYGd2pVUEFY"
   },
   {
+    "Address": "1910 Mission Ave., \nOceanside, CA 92058",
+    "Affiliation": "Vista Community Clinic",
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.20448829266172,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.36567348854265,
+    "Name": "Vista Community Clinic- Mission Pediatric & Family Dentistry",
+    "id": "reclgH3RfIlwthThf"
+  },
+  {
     "Address": "475 W Stetson Ave Ste R, Hemet, CA 92543",
     "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
@@ -90872,11 +90903,11 @@
     "Address": "7878 CRESCENT AVE, BUENA PARK, CA 90620",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:51.000Z",
+    "Latest report": "2021-02-23T23:54:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.839221,
