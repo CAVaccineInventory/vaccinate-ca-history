@@ -34178,14 +34178,22 @@
   {
     "Address": "3520 RIVERSIDE PLAZA, RIVERSIDE, CA 92506",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.mhealthappointments.com/covidappt"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:57:54.000Z",
+    "Latest report notes": [
+      "Feb24: Local County guidelines is followed."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.954947,
     "Location Type": "Pharmacy",
     "Longitude": -117.389737,
@@ -110960,14 +110968,20 @@
   {
     "Address": "3434 HIGH ST, OAKLAND, CA 94619",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:00:53.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website. As of Feb 24, the pharmacist on site suggested that schedules open up daily but fill up quickly, and to check the website each morning for possible appointments."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.785965,
     "Location Type": "Pharmacy",
     "Longitude": -122.196219,
@@ -115388,14 +115402,19 @@
   {
     "Address": "1334 SARATOGA AVENUE, SAN JOSE, CA 95129",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:47.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:54:52.000Z",
+    "Latest report notes": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.299666,
     "Location Type": "Pharmacy",
     "Longitude": -121.981427,
