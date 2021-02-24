@@ -10828,11 +10828,13 @@
   },
   {
     "Address": "16110 E 14th St, San Leandro, CA 94578",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6979816,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1173635,
     "Name": "Tiburcio Vasquez Health Center Inc,",
     "id": "rec5X1ojDYQ9Hjljf"
@@ -13178,14 +13180,21 @@
   {
     "Address": "11822 Gilbert St, Garden Grove, CA 92841",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:23:19.000Z",
+    "Latest report notes": [
+      "As of February 24, this location is expecting their vaccine arrival within the week, It is recommended to check the website every day for appointment availability. This location is only scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.790799,
     "Location Type": "Pharmacy",
     "Longitude": -117.965215,
@@ -19513,11 +19522,13 @@
   },
   {
     "Address": "UCB University Health Services 2222 Bancroft Way, Berkeley, CA 94720",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8678683,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2644006,
     "Name": "UCB University Health Services   Tang Center",
     "id": "rec9xLanA6y9V0WTA"
@@ -23292,12 +23303,15 @@
   {
     "Address": "26762 Portola Pkwy, Foothill Ranch CA, 92610",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-24T18:23:43.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6782,
@@ -25680,6 +25694,7 @@
   },
   {
     "Address": "2124 57th ave, Oakland, CA 94621",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -27577,14 +27592,14 @@
       "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:25:32.000Z",
+    "Latest report": "2021-02-24T18:13:38.000Z",
     "Latest report notes": [
-      null
+      "This location is scheduling appointments through its website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.745527,
@@ -39199,11 +39214,13 @@
   },
   {
     "Address": "700 Adeline St, Oakland, CA 94607",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.804074,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2876304,
     "Name": "West Oakland Health Center",
     "id": "recJE1bZSIYHCk6hX"
@@ -44447,11 +44464,13 @@
   },
   {
     "Address": "7450 International Blvd, Oakland, CA 94621",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7588424,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1855316,
     "Name": "East Oakland Health Center",
     "id": "recM374JayF37nd8D"
@@ -45779,6 +45798,7 @@
   },
   {
     "Address": "9925 International Blvd, Oakland, CA 94603",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -48652,11 +48672,13 @@
   },
   {
     "Address": "1536 E Sixth St, Beaumont, CA 92223",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9299505,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.9530274,
     "Name": "RAI Beaumont",
     "id": "recOV5nCcUoHnzllW"
@@ -52779,11 +52801,13 @@
   },
   {
     "Address": "46767 Monroe St Ste 101, Indio, CA 92201",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7092645,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.2344959,
     "Name": "RAI Indio",
     "id": "recQUB4r83iFS4ZIe"
@@ -58255,15 +58279,12 @@
   {
     "Address": "22451 ANTONIO PARKWAY, RANCHO SANTA MARGARITA, CA 92688",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T19:01:04.000Z",
+    "Latest report": "2021-02-24T18:06:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.634523,
@@ -61045,11 +61066,13 @@
   },
   {
     "Address": "4465 First St, Livermore, CA 94551",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6958234,
+    "Location Type": "Urgent care",
     "Longitude": -121.7422321,
     "Name": "STAT MED Livermore, CA",
     "id": "recUSMd1FX4LPz1kw"
@@ -61436,11 +61459,13 @@
   },
   {
     "Address": "41-501 Corporate Way, Palm Desert, CA 92260",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7468035,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.3627283,
     "Name": "RAI Palm Desert",
     "id": "recUjSzSc5PcMnqlH"
@@ -64882,11 +64907,13 @@
   },
   {
     "Address": "33255 9th St, Union City, CA 94587",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6026417,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.026479,
     "Name": "Tiburcio Vasquez Health Center Inc,",
     "id": "recWbjTzhhfXV1wLT"
@@ -65353,6 +65380,7 @@
   },
   {
     "Address": "3558 Ruffin Rd   Ste 100, San Diego, CA 92123",
+    "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -71610,12 +71638,15 @@
   {
     "Address": "101 W IMPERIAL HIGHWAY, LA HABRA, CA 90631",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
+    "Latest report": "2021-02-24T18:10:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.916821,
@@ -78448,12 +78479,15 @@
   {
     "Address": "19001 BROOKHURST ST, HUNTINGTON BEACH, CA 92646",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
+    "Latest report": "2021-02-24T18:19:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.686381,
@@ -87976,11 +88010,11 @@
     "Address": "3401 Katella Ave, Los Alamitos CA, 90720",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:00.000Z",
+    "Latest report": "2021-02-24T18:06:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8035,
@@ -96189,11 +96223,13 @@
   },
   {
     "Address": "1801 W Valley Blvd STE 204, Alhambra, CA 91803",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0777541,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.1433409,
     "Name": "Fresenius Medical Care San Gabriel Home",
     "id": "recmiiagD5UAN1SZi"
@@ -98498,14 +98534,21 @@
   {
     "Address": "19701 YORBA LINDA BOULEVARD, YORBA LINDA, CA 92886",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:08:08.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.889454,
     "Location Type": "Pharmacy",
     "Longitude": -117.791461,
@@ -98733,11 +98776,13 @@
   },
   {
     "Address": "3081 Teagarden St, San Leandro, CA 94577",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7049834,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1535341,
     "Name": "The Davis Street Community Center, Inc",
     "id": "reco4X12RiYJsZTtt"
@@ -104523,14 +104568,14 @@
     "Address": "603 S Placentia Ave, Fullerton, CA 92831",
     "Affiliation": "Sam's Pharmacy",
     "Appointment scheduling instructions": [
-      "The state will contact you. "
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T22:47:20.000Z",
+    "Latest report": "2021-02-24T18:20:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.866187,
@@ -106015,6 +106060,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8745637,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2683033,
     "Name": "One Medical - 1801 Shattuck Ave",
     "id": "recrk7qX2wrwu9VGP"
@@ -115761,11 +115807,13 @@
   },
   {
     "Address": "44139 Monterey Avenue, Palm Desert, CA 92260",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7283134,
+    "Location Type": "Private Practice",
     "Longitude": -116.3915176,
     "Name": "Acuity Eye Group",
     "id": "recwiW3YAvhgIHFOk"
@@ -115848,11 +115896,13 @@
   },
   {
     "Address": "22331 Mission Blvd, Hayward, CA 94541",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6743188,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.086888,
     "Name": "Tiburcio Vasquez Health Center Inc,",
     "id": "recwlU7AJSZ3PKOz8"
@@ -118303,6 +118353,7 @@
   },
   {
     "Address": "2950 International Blvd, Oakland, CA 94601",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
