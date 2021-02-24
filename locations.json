@@ -2007,9 +2007,14 @@
     "id": "rec0xUpap6dQez711"
   },
   {
+    "Address": "25272 Marguerite Pkwy, Mission Viejo, CA 92692",
+    "Affiliation": "CVS",
+    "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Pharmacy",
+    "Name": "CVS Pharmacy® & Drug Store at 25272 Marguerite Pkwy, Mission Viejo, CA 92692",
     "id": "rec0xZ5EaKnnynfDa"
   },
   {
@@ -10523,7 +10528,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.10837,
-    "Location Type": "Super Site",
+    "Location Type": "Mobile clinic",
     "Longitude": -117.29668,
     "Name": "Fifth Street Senior Center (Mobile)",
     "id": "rec5L2bSQbl8mRIrE"
@@ -19032,7 +19037,7 @@
   },
   {
     "Address": "145 N. Magnolia St.\nWoodlake, CA 93286, USA",
-    "Affiliation": "County",
+    "Affiliation": "Optumserve",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24697,16 +24702,19 @@
     "Address": "1528 E Fremont St, STOCKTON, CA 95205",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "publichealth.lacounty.gov"
+      "209-467-7861"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:33:30.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:38:15.000Z",
+    "Latest report notes": [
+      "No age requirement"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.960699,
     "Location Type": "Pharmacy",
     "Longitude": -121.272428,
@@ -38137,7 +38145,7 @@
   },
   {
     "Address": "249 S. Alta Ave.\nDinuba, CA 93618, USA",
-    "Affiliation": "County",
+    "Affiliation": "Optumserve",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -45430,9 +45438,14 @@
     "id": "recMSRnfBpv7t3BPF"
   },
   {
+    "Address": "638 Camino De Los Mares, San Clemente, CA 92673",
+    "Affiliation": "CVS",
+    "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Pharmacy",
+    "Name": "CVS Pharmacy® & Drug Store at 638 Camino De Los Mares, San Clemente, CA 92673",
     "id": "recMSTzVRFGEuxS6M"
   },
   {
@@ -45486,14 +45499,21 @@
   {
     "Address": "31890 PLAZA DRIVE, SAN JUAN CAPISTRANO, CA 92675",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:32:30.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.496282,
     "Location Type": "Pharmacy",
     "Longitude": -117.660729,
@@ -48304,12 +48324,15 @@
   {
     "Address": "12100 Harbor Blvd, Garden Grove CA, 92840",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
+    "Latest report": "2021-02-24T19:39:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7874,
@@ -54157,7 +54180,7 @@
   },
   {
     "Address": "712 E. Washington St.\nEarlimart, CA 93219, USA",
-    "Affiliation": "County",
+    "Affiliation": "Optumserve",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -55346,7 +55369,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 33.99004,
-    "Location Type": "Super Site",
+    "Location Type": "Mobile clinic",
     "Longitude": -117.73269,
     "Name": "McCoy Equestrian Center (Mobile)",
     "id": "recRcjh5su0aeemC9"
@@ -66298,12 +66321,15 @@
   {
     "Address": "88 E Orangethorpe Ave, Anaheim, CA 92801",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:15:34.000Z",
+    "Latest report": "2021-02-24T19:35:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.857579,
@@ -83480,14 +83506,20 @@
   {
     "Address": "3521 Del Paso Rd, SACRAMENTO, CA 95835",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:37:27.000Z",
+    "Latest report notes": [
+      "Feb 24: Vaccines starting TODAY at this Walgreen's; make appt on website; clinic is in front of store, not drive-thru; be sure to bring your confirmation email and your ID; not sure if there are limitations such as being a city or county resident, so refer to website, per pharmacist"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.656306,
     "Location Type": "Pharmacy",
     "Longitude": -121.541758,
@@ -84850,7 +84882,7 @@
   },
   {
     "Address": "420 Chicago Avenue, Ste A\nModesto, CA 95351",
-    "Affiliation": "County",
+    "Affiliation": "Optumserve",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -92521,7 +92553,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T01:41:18.000Z",
+    "Latest report": "2021-02-24T19:36:25.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.554933,
@@ -109969,7 +110001,7 @@
   },
   {
     "Address": "1900 W. Olive Ave.\nPorterville, CA 93257, USA",
-    "Affiliation": "County",
+    "Affiliation": "Optumserve",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
