@@ -2149,11 +2149,13 @@
   },
   {
     "Address": "3130 Del Monte Blvd, Marina, CA 93933",
+    "Affiliation": "Doctors On Duty",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6858281,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.8009121,
     "Name": "Doctors on Duty- Marina",
     "id": "rec144Mg3gR6tsI4z"
@@ -8643,6 +8645,28 @@
     "id": "rec4HjbEbR6e8Hyv5"
   },
   {
+    "Address": "7371 Hanna St, Gilroy, CA 95020, United States",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "No appointment needed, shots given on first come, first served basis."
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Santa Clara County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T19:54:38.000Z",
+    "Latest report notes": [
+      "As per the County ,Gilroy Senior Center is open today (Feb 24th 9am-3pm) as a drop-in vaccine site.\n\nAll healthcare personnel or those age 65 and over can receive a free vaccine, no appointment needed.\n\nHealth insurance is not required and it does not impact your immigration status."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 37.00484,
+    "Location Type": "Super Site",
+    "Longitude": -121.57332,
+    "Name": "Gilroy Senior Center - supersite",
+    "id": "rec4HjzAYNRjP9CYU"
+  },
+  {
     "Address": "78271 Highway 111, LA QUINTA, CA 92253",
     "Affiliation": "Von's Pharmacy",
     "Availability Info": [
@@ -8661,11 +8685,13 @@
   },
   {
     "Address": "2145 Niles St, Bakersfield, CA 93305",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3762647,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.968325,
     "Name": "Polyclinic Medical Center Inc",
     "id": "rec4JEKqAyXHH99dA"
@@ -9109,12 +9135,15 @@
   {
     "Address": "7201 YORKTOWN AVE, HUNTINGTON BEACH, CA 92648",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:54.000Z",
+    "Latest report": "2021-02-24T19:55:17.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.680957,
@@ -13192,6 +13221,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8079839,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7124446,
     "Name": "Clovis Community Health Center",
     "id": "rec6gr8F45ujDOj9F"
@@ -14574,11 +14604,13 @@
   },
   {
     "Address": "150 Golden Gate Ave Floor 2, San Francisco, CA 94102",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7821992,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.4132138,
     "Name": "St. Anthony Medical Clinic",
     "id": "rec7Nl1EulMmqSMve"
@@ -14904,11 +14936,13 @@
   },
   {
     "Address": "2930 Inland Empire Blvd  Suite 120, Ontario, CA 91764",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0686422,
+    "Location Type": "In-home Senior Care",
     "Longitude": -117.5894793,
     "Name": "Bridge Home Health Services Inland Empire",
     "id": "rec7VQJmXiFZpYber"
@@ -15067,13 +15101,17 @@
     "Address": "5050 San Bernardino St Ste 110, MONTCLAIR, CA 91763",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:58:58.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.077825,
     "Location Type": "Pharmacy",
     "Longitude": -117.695458,
@@ -17935,11 +17973,13 @@
   },
   {
     "Address": "215 W Beamer St, Woodland, CA 95695",
+    "Affiliation": "CommuniCare Health Center",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6843824,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.7938317,
     "Name": "CommuniCare Health Centers - Hansen Family Health Center",
     "id": "rec91ghBJOPKnVzHX"
@@ -21652,11 +21692,13 @@
   },
   {
     "Address": "1227 E Los Angeles Ave, Simi Valley, CA 93065",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2736429,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.7758685,
     "Name": "Sierra Vista Family Medical Clinic",
     "id": "recAogMZbY5LjVtlE"
@@ -21762,11 +21804,13 @@
   },
   {
     "Address": "172 E Grant Ave, Winters, CA 95694",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5261268,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9667358,
     "Name": "Winters Healthcare Foundation Inc.",
     "id": "recAuviAO4C5ukkcb"
@@ -22512,11 +22556,13 @@
   },
   {
     "Address": "7777 Milliken Avenue, Suite 240, Rancho Cucamonga, CA 91730",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1088004,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5557299,
     "Name": "CVMG MIlliken",
     "id": "recBGLv0Yh9kMS46C"
@@ -28236,11 +28282,13 @@
   },
   {
     "Address": "1908 N. Beale Road, Marsyville, CA 95901",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Yuba County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.12753,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.545734,
     "Name": "Harmony Health Medical Clinica and Family Resource Center",
     "id": "recDyCOyJqUhQCVBR"
@@ -29592,6 +29640,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7423019,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7874832,
     "Name": "United Health Centers - Tuolumne",
     "id": "recEav5bjxLoVJymf"
@@ -29875,11 +29924,13 @@
   },
   {
     "Address": "407 E Gilbert St Ste 1, San Bernardino, CA 92404",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1261453,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.275776,
     "Name": "San Bernardino Clinica Medica Familiar DBA",
     "id": "recEm2Q6Rq6GIpzxD"
@@ -30729,11 +30780,13 @@
   },
   {
     "Address": "2051 John Jones Rd, Davis, CA 95616",
+    "Affiliation": "CommuniCare Health Center",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.563708,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.7695775,
     "Name": "CommuniCare Health Centers, Davis Community Clinic",
     "id": "recFGUffimLn67j5v"
@@ -31381,6 +31434,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8234646,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7545023,
     "Name": "United Health Centers - Bullard",
     "id": "recFaF1svfcc8Nwaz"
@@ -33534,6 +33588,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.5766305,
+    "Location Type": "In-home Senior Care",
     "Longitude": -121.8158762,
     "Name": "Central Coast VNA and Hospice, Inc.",
     "id": "recGYJ0LFBKrAfTe1"
@@ -35749,11 +35804,13 @@
   },
   {
     "Address": "1334 E Main St, Santa Paula, CA 93060",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3562652,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0528002,
     "Name": "Santa Paula Medical Clinic",
     "id": "recHUaUNaPJsVnJwU"
@@ -35919,6 +35976,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.5685082,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.5998052,
     "Name": "United Health Centers - Selma Rose",
     "id": "recHYNaH8CypFg6ZU"
@@ -42178,11 +42236,13 @@
   },
   {
     "Address": "1227 Chester Ave, Bakersfield, CA 93301",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3738953,
+    "Location Type": "In-home Senior Care",
     "Longitude": -119.0190589,
     "Name": "Optimal Home Health",
     "id": "recKmFPyANxN1ko7B"
@@ -44409,6 +44469,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7060533,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.559579,
     "Name": "United health Centers - Sanger 7th",
     "id": "recLxAEWIiUqSx9KU"
@@ -46051,6 +46112,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.860718,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.45784,
     "Name": "Sablan Health Center",
     "id": "recMmqZMeSu1GtQXU"
@@ -46579,11 +46641,13 @@
   },
   {
     "Address": "10787 Laurel Street, Rancho Cucamonga, CA 91730",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.105043,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5698637,
     "Name": "Aspen Family Medicine   Geriatrics",
     "id": "recNBMfeLQnU4N8go"
@@ -47612,14 +47676,20 @@
   {
     "Address": "3382 CASTRO VALLEY BLVD, CASTRO VALLEY, CA 94546",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:51:39.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.695851,
     "Location Type": "Pharmacy",
     "Longitude": -122.076736,
@@ -49731,11 +49801,13 @@
   },
   {
     "Address": "5251 Office Park Drive Suite 400, Bakersfield, CA 93309",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3655594,
+    "Location Type": "In-home Senior Care",
     "Longitude": -119.0613698,
     "Name": "Vasinda's Around the Clock Care, Inc.",
     "id": "recOrLcEzhVCOI3d7"
@@ -50191,11 +50263,13 @@
   },
   {
     "Address": "229 7th St, San Francisco, CA 94103",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7775431,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.408618,
     "Name": "South of Market Health Center",
     "id": "recP5SL5fZm937wHC"
@@ -50510,12 +50584,15 @@
   {
     "Address": "1151 South Harbor Blvd, La Habra CA, 90631",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
+    "Latest report": "2021-02-24T19:50:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9177,
@@ -55902,11 +55979,13 @@
   },
   {
     "Address": "1450 Noriega St, San Francisco, CA 94122",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7543153,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.4794556,
     "Name": "North East Medical Services - 1450 Noriega St",
     "id": "recRuDeVKV0L8Y7LA"
@@ -58135,11 +58214,13 @@
   },
   {
     "Address": "1431 Noriega Street, San Francisco, CA 94122",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7539027,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.4791755,
     "Name": "Grace Pacific Medical Associates",
     "id": "recSytHyjJJfbJJuk"
@@ -61520,6 +61601,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6875611,
+    "Location Type": "Health department",
     "Longitude": -121.7950558,
     "Name": "Yolo County HHS Agency OES Building",
     "id": "recUb2F8sWBrOrgCO"
@@ -62308,11 +62390,13 @@
   },
   {
     "Address": "3450 3rd St  bldg 2, STE 2A, San Francisco, CA 94124",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7452368,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3874789,
     "Name": "Bayview Child Health Center",
     "id": "recV07c3mcqHy3ec3"
@@ -68873,6 +68957,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.62907,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.678771,
     "Name": "United Health Centers - Fowler",
     "id": "recYRDikkHjGJLN8o"
@@ -70044,6 +70129,7 @@
   },
   {
     "Address": "3641 West 5th Street, Oxnard, CA 93035",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -71486,6 +71572,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6043417,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.43051,
     "Name": "United Health Centers - Reedley",
     "id": "recZj2lyvlEHX2AUy"
@@ -72229,11 +72316,13 @@
   },
   {
     "Address": "730 Paseo Camarillo, Camarillo, CA 93010",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2205911,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0601024,
     "Name": "Paseo Camarillo Health Center",
     "id": "reca1Zyq4Umd7cNes"
@@ -74947,11 +75036,13 @@
   },
   {
     "Address": "8239 Rochester Ave Suite 120, Rancho Cucamonga, CA 91730",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1085015,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.5559147,
     "Name": "Valiant Medical Group, A Professional Medical Corporation",
     "id": "recbSePKRl0lVc5vJ"
@@ -82002,6 +82093,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8057483,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.771364,
     "Name": "Omni Family Health - First St.",
     "id": "recf79DINFhXXAoUL"
@@ -84520,6 +84612,7 @@
   },
   {
     "Address": "5801 Norris Canyon Rd Suite 220, San Ramon, CA 94583",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Contra Costa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -87948,6 +88041,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8366488,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.8769101,
     "Name": "United Health Centers - Milburn",
     "id": "reci8PaAxgW3Yq5Hw"
@@ -88591,6 +88685,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.2487156,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2756102,
     "Name": "Immunization Clinic",
     "id": "reciSdZCYvGt4XWuD"
@@ -88977,6 +89072,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7287726,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.0605204,
     "Name": "Kerman Health Center",
     "id": "recihi8UoshzsxlZ4"
@@ -89020,11 +89116,13 @@
   },
   {
     "Address": "1276 Halyard Dr, West Sacramento, CA 95691",
+    "Affiliation": "Elica Health Centers",
     "County": "Yolo County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5731431,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.5506216,
     "Name": "Elica - Halyard",
     "id": "recijWY4BaGtVIBWp"
@@ -90831,6 +90929,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7410326,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7881334,
     "Name": "Omni Family Health- Merced St.",
     "id": "recjdpJNbGRltarLM"
@@ -95422,6 +95521,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8378365,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.6665102,
     "Name": "United Health Centers - Clovis",
     "id": "recmD8c2ztIIMy5Ug"
@@ -98097,6 +98197,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7244297,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.0561962,
     "Name": "Kerman Unified School District Community Health Center",
     "id": "recnWZfQ7ZG3RpPXU"
@@ -99080,11 +99181,13 @@
   },
   {
     "Address": "2240 East Gonzales Road  100, Oxnard, CA 93036",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2179617,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1478066,
     "Name": "Magnolia Family Medical Center",
     "id": "reco0nLLg5goByfr4"
@@ -100724,11 +100827,13 @@
   },
   {
     "Address": "1563 Mission Street, San Francisco, CA 94103",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Francisco County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7730613,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.418121,
     "Name": "HealthRight360 - 1563  Mission Street",
     "id": "recoxIe5fGiqdVoMV"
@@ -102349,14 +102454,20 @@
   {
     "Address": "16201 Harbor Blvd, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:53:16.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.727923,
     "Location Type": "Pharmacy",
     "Longitude": -117.921231,
@@ -104409,6 +104520,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6052858,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.1845224,
     "Name": "San Joaquin Health Center",
     "id": "recqkec3z16W39kpE"
@@ -106601,11 +106713,13 @@
   },
   {
     "Address": "501 Lighthouse Ave, Monterey, CA 93940",
+    "Affiliation": "Doctors On Duty",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.612544,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9010241,
     "Name": "Doctors on Duty- Lighthouse",
     "id": "recro4osVnU6CDFbr"
@@ -107240,11 +107354,13 @@
   },
   {
     "Address": "2400 South C Street, Oxnard, CA 93033",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1772163,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1811308,
     "Name": "Las Islas Family Medical Group",
     "id": "recs1kl5fnxJvbKSn"
@@ -110578,11 +110694,13 @@
   },
   {
     "Address": "3204 21st St, Bakersfield, CA 93301",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3790662,
+    "Location Type": "In-home Senior Care",
     "Longitude": -119.0375874,
     "Name": "PURPOSE DRIVEN HOME HEALTH",
     "id": "rectn3ZEOkQeZOreV"
@@ -110869,11 +110987,13 @@
   },
   {
     "Address": "147 N Brent St, Ventura, CA 93003",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2739931,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2599245,
     "Name": "Midtown Medical Group",
     "id": "recty6rgEj4giEOQr"
@@ -115361,6 +115481,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.7431456,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.2351733,
     "Name": "Roseville Immunization Clinic",
     "id": "recwH3gIVDXjLjjlz"
@@ -115916,6 +116037,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.5134379,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.548888,
     "Name": "Kingsburg Community Health Center",
     "id": "recwYhNuNtqlLRav4"
@@ -116274,6 +116396,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9335333,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3595243,
     "Name": "Lifelong William Jenkins Health Center",
     "id": "recwjiJlZh6heVX0N"
@@ -116812,6 +116935,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6782482,
+    "Location Type": "Health department",
     "Longitude": -121.7902362,
     "Name": "Yolo County Office of Emergency Services",
     "id": "recx37zCmdAInpo9o"
@@ -117210,6 +117334,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7930325,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.8782799,
     "Name": "Central Fresno Community Health Center",
     "id": "recxEFrz0BAkVJ4yA"
