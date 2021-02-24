@@ -9569,6 +9569,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6549634,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.9974656,
     "Name": "One Medical - 21034 Pacific Coast Hwy",
     "id": "rec4qnYiEvwWTwOo7"
@@ -15754,6 +15755,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9730802,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0579441,
     "Name": "Sutter Walk-In Care Concord",
     "id": "rec7uSxpfl2g8HImy"
@@ -21427,6 +21429,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.2336856,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.0518555,
     "Name": "Dignity Health Medical Group Sierra Nevada",
     "id": "recAlg9WUAACdSwcA"
@@ -30647,11 +30650,13 @@
   },
   {
     "Address": "737 E Hobsonway, Blythe, CA 92225",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6112821,
+    "Location Type": "Dialysis clinic",
     "Longitude": -114.6049252,
     "Name": "Fresenius Blythe",
     "id": "recFGLNjD0HaacofY"
@@ -33452,6 +33457,7 @@
   },
   {
     "Address": "5 Lower Ragsdale Dr, Monterey, CA 93940",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -33744,11 +33750,13 @@
   },
   {
     "Address": "935 Trancas St STE 1A, Napa, CA 94558",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Napa County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3234504,
+    "Location Type": "Private Practice",
     "Longitude": -122.2950139,
     "Name": "Offices of Drs. Jewell and Ruscheinsky",
     "id": "recGgsYPcTl0FqBCW"
@@ -38436,11 +38444,13 @@
   },
   {
     "Address": "879 Marlborough Ave, Riverside, CA 92507",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9990501,
+    "Location Type": "Ambulance",
     "Longitude": -117.3302459,
     "Name": "AMR Riverside Division",
     "id": "recIlEwAJdTgXK6jl"
@@ -42595,6 +42605,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6841203,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.8118887,
     "Name": "One Medical - 3850 Barranca Pkwy",
     "id": "recL3JsTADGRH9GDd"
@@ -47566,14 +47577,21 @@
   {
     "Address": "2560 W BALL RD, ANAHEIM, CA 92804",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:55:03.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.817189,
     "Location Type": "Pharmacy",
     "Longitude": -117.974379,
@@ -47796,11 +47814,13 @@
   },
   {
     "Address": "280 Sierra College Drive Ste 205, Grass Valley, CA 95945",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Nevada County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.2336455,
+    "Location Type": "Private Practice",
     "Longitude": -121.0516485,
     "Name": "Kuldip Gill MD PC",
     "id": "recNwL3BRnutvxgRu"
@@ -48165,12 +48185,15 @@
   {
     "Address": "19640 BEACH BLVD, HUNTINGTON BEACH, CA 92648",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
+    "Latest report": "2021-02-24T18:49:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.677143,
@@ -58256,11 +58279,13 @@
   },
   {
     "Address": "160 GATEWAY DR Suite 110, Lincoln, CA 95648",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.884771,
+    "Location Type": "Private Practice",
     "Longitude": -121.2916649,
     "Name": "Lincoln Family Practice Associates Inc.",
     "id": "recT53JeKY1uLSG1Y"
@@ -63870,20 +63895,20 @@
   },
   {
     "Address": "International Agri-Center, Tulare\n4500 S. Laspina St, Tulare\n\n",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
-      null
+      "Visit: https://curative.com/sites/25678/vaccine to make your appointment."
     ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
       "Yes: appointment required",
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T19:48:25.000Z",
+    "Latest report": "2021-02-24T18:51:17.000Z",
     "Latest report notes": [
-      "Call the above number and press 2 to be taken to Tulare Co DPH Covid hotline. A person will pickup if you wait. \nIf you are eligible , staff said the quickest way to get an appointment is to call this number each weekday morning. \nIf you are not currently within the eligible groups sign up for a waitlist at  https://covid19.tularecounty.ca.gov/covid-19-vaccine/tulare-county-covid-vaccine-interest-form/  English and Spanish forms available"
+      "Limited vaccination appointments available for a first-dose event on Thursday Feb 25th.\n\nAll vaccinations are by appointment ONLY. No walk-ups.\n\nWhen last checked (Feb 24th), there were appointments still available.\n\nTulare County  Public Health has partnered with Curative to operate this vaccination clinic for those currently eligible age 65+. "
     ],
     "Latest report yes?": 1,
     "Latitude": 36.16559,
@@ -64825,6 +64850,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.7538452,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3111038,
     "Name": "Sutter Walk-In Care - Roseville Foothills",
     "id": "recWXVdNxf8nVcD0H"
@@ -71638,11 +71664,13 @@
   },
   {
     "Address": "6960 Destiny Drive ste 100, Rocklin, CA 95677",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.7781486,
+    "Location Type": "Private Practice",
     "Longitude": -121.2612075,
     "Name": "Placer Private Physicians",
     "id": "recZsd22wapse6r4Y"
@@ -71932,11 +71960,13 @@
   },
   {
     "Address": "3111 Professional Dr, Auburn, CA 95603",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.9403312,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1014199,
     "Name": "Western Sierra Medical Clinic-Auburn",
     "id": "recZzpXM7Iy6RgBxB"
@@ -80235,11 +80265,13 @@
   },
   {
     "Address": "1111 Montalvo Way, Palm Springs, CA 92262",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8379697,
+    "Location Type": "Ambulance",
     "Longitude": -116.5103336,
     "Name": "AMR Palm Springs Division",
     "id": "receQhCrbqk7YIOom"
@@ -88335,6 +88367,7 @@
   },
   {
     "Address": "2751 Napa Valley Corporate Dr Building B, Napa, CA 94558",
+    "Affiliation": "County",
     "County": "Napa County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -91535,11 +91568,13 @@
   },
   {
     "Address": "8316 Foothill Blvd, Sunland, CA 91040",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.259553,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3142088,
     "Name": "Comprehensive Community Health Centers - Sunland",
     "id": "reckG2xEYiFnpQRfy"
@@ -92102,17 +92137,6 @@
     "Longitude": -118.219602,
     "Name": "WALGREENS #7343",
     "id": "reckYpWywB5wTjhHs"
-  },
-  {
-    "Address": "36650 Road 112, Visalia, CA 93291",
-    "County": "Tulare County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "Latitude": 36.4550698,
-    "Longitude": -119.3211954,
-    "Name": "Tulare County Adult Pre-Trial",
-    "id": "reckYzhargIbRKSOr"
   },
   {
     "Address": "17266 SATICOY STREET, VAN NUYS, CA 91406",
@@ -93184,11 +93208,13 @@
   },
   {
     "Address": "3280 Professional Dr, Auburn, CA 95602",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.943855,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1005267,
     "Name": "Auburn Medical Group",
     "id": "recl1x3wpSYkdk3PB"
@@ -95393,6 +95419,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.9447316,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.0989244,
     "Name": "Sutter Health Auburn Pediatrics",
     "id": "recmGJj5z2nyog7jb"
@@ -95569,11 +95596,13 @@
   },
   {
     "Address": "10532 Spenceville Rd, Penn Valley, CA 95946",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Nevada County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1966056,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1779251,
     "Name": "Western Sierra Medical Clinic",
     "id": "recmKseDaW7FHAlod"
@@ -99295,11 +99324,13 @@
   },
   {
     "Address": "15301 Tyler Foote Road, Nevada City, CA 95959",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Nevada County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.3658396,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.0368007,
     "Name": "Sierra Family Health Center",
     "id": "recoHvAIvLf19g453"
@@ -107301,11 +107332,13 @@
   },
   {
     "Address": "258 E. Harvard Blvd., Sant Paula, CA 93060",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Ventura County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3465968,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0680701,
     "Name": "Premiere Santa Paula",
     "id": "recsCQcsB3ywV2KVy"
@@ -107515,11 +107548,13 @@
   },
   {
     "Address": "260 N Palm St, Brea, CA 92821",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Orange County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9224542,
+    "Location Type": "Ambulance",
     "Longitude": -117.9236187,
     "Name": "Premier Medical Transport, Inc. dba Premier Ambulance",
     "id": "recsHx6f4txDGOPth"
@@ -111128,11 +111163,13 @@
   },
   {
     "Address": "208 E Devonshire Ave   2985, Hemet, CA 92543",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Riverside County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7518124,
+    "Location Type": "Ambulance",
     "Longitude": -116.9702234,
     "Name": "AMR Hemet Division",
     "id": "recuKxCPW8XdTPHrD"
@@ -115469,6 +115506,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8766206,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1803192,
     "Name": "Sutter East Bay Medical Foundation Orinda Clinic",
     "id": "recwUyWL9k2DbPlvr"
@@ -121362,11 +121400,13 @@
   },
   {
     "Address": "100 Riggs Ave, Merced, CA 95341",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Merced County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.286024,
+    "Location Type": "Ambulance",
     "Longitude": -120.509667,
     "Name": "Riggs Ambulance",
     "id": "reczWF5ExzqypULoV"
@@ -121844,11 +121884,13 @@
   },
   {
     "Address": "20601 West Paoli Lane, Weimar, CA 95736",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Placer County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.0372351,
+    "Location Type": "Private Practice",
     "Longitude": -120.9755298,
     "Name": "Stallant Health",
     "id": "recznLuZ9jRo6Y9TR"
