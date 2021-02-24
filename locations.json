@@ -67396,11 +67396,18 @@
   },
   {
     "Address": "333 Turk St, San Francisco, CA 94102",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: must be a current patient"
+    ],
     "County": "San Francisco County",
     "Has Report": 1,
     "Latest report": "2021-02-24T06:00:17.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "Vaccinating San Francisco Health Network patients 65 and older. Appointments can be scheduled on MyChart. More information here: https://sfhealthnetwork.org/covid-19-vaccine/"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.782721,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.41462,
