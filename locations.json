@@ -3838,12 +3838,15 @@
   {
     "Address": "26751 PORTOLA PARKWAY, FOOTHILL RANCH, CA 92610",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
+    "Latest report": "2021-02-24T20:51:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.680303,
@@ -13675,12 +13678,15 @@
   {
     "Address": "1630 Ocean Ave, SAN FRANCISCO, CA 94112",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
+    "Latest report": "2021-02-24T20:56:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.724752,
@@ -13712,8 +13718,15 @@
   {
     "Address": "14845 Ventura Blvd, Sherman Oaks, CA 91403",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T20:57:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.152382,
@@ -32412,12 +32425,15 @@
   {
     "Address": "128 S STATE COLLEGE BLVD, ANAHEIM, CA 92806",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "to make an appointment, please visit:  placer.ca.gov"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
+    "Latest report": "2021-02-24T20:52:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.840261,
@@ -54653,11 +54669,11 @@
     "Address": "3601 E FOOTHILL BLVD, PASADENA, CA 91107",
     "Affiliation": "Ralph's Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:41.000Z",
+    "Latest report": "2021-02-24T20:58:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.151255,
@@ -90743,14 +90759,22 @@
   {
     "Address": "2000 MARKET PL DR, MONTEREY PARK, CA 91755",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "for appointments . please visit:  lacounty.gov"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T20:57:31.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.03732,
     "Location Type": "Pharmacy",
     "Longitude": -118.104648,
@@ -111205,7 +111229,7 @@
   },
   {
     "Address": "795 El Camino Real Lee building A floor, Geriatrics, PALO ALTO, CA 94301",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Palo Alto Medical Foundation",
     "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
