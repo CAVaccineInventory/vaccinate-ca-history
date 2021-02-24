@@ -850,6 +850,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.2456011,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9573561,
     "Name": "Sutter Health Palo Alto Medical Foundation Los Gatos Clinic",
     "id": "rec0ROecyRn0l2lhC"
@@ -1195,11 +1196,13 @@
   },
   {
     "Address": "1080 Emeline Avenue Building D, Santa Cruz, CA 95060",
+    "Affiliation": "County",
     "County": "Santa Cruz County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.992486,
+    "Location Type": "Health department",
     "Longitude": -122.017203,
     "Name": "Santa Cruz County Health Services Agency",
     "id": "rec0aNnGF8J888a68"
@@ -1267,11 +1270,13 @@
   },
   {
     "Address": "501 Petaluma Ave, Sebastopol, CA 95472",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sonoma County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3972414,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.8190544,
     "Name": "Sonoma Specialty Hospital",
     "id": "rec0c08eR3hREEDbf"
@@ -1865,12 +1870,15 @@
   {
     "Address": "955 STONY POINT ROAD, Santa Rosa, CA 95407",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "walgreens app, walgreens.com/findcare"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:58.000Z",
+    "Latest report": "2021-02-24T19:27:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.426354,
@@ -4539,6 +4547,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.2743383,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.6686546,
     "Name": "SPMF Petaluma Family Medicine",
     "id": "rec2ObFS84973hk3I"
@@ -4772,12 +4781,15 @@
   {
     "Address": "5695 Alton Pkwy, Irvine, CA 92618",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
+    "Latest report": "2021-02-24T19:29:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.669753,
@@ -8388,6 +8400,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1318175,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.6134333,
     "Name": "Sutter Surgical Hospital -North Valley",
     "id": "rec4CDN4IFPzA09zz"
@@ -9748,14 +9761,20 @@
   {
     "Address": "2417 Sycamore Dr, Simi Valley, CA 93065",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:26:17.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.279902,
     "Location Type": "Pharmacy",
     "Longitude": -118.744252,
@@ -16625,11 +16644,13 @@
   },
   {
     "Address": "1501 Mendocino Avenue Student Health Services, Santa Rosa, CA 95401",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sonoma County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4549178,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.7217098,
     "Name": "Santa Rosa Junior College",
     "id": "rec8Ozh3qqmiNtXxW"
@@ -18934,6 +18955,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.4612454,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.2825034,
     "Name": "Sutter Medical Foundation- Brownsville FP",
     "id": "rec9b5xH2BPeBS7cj"
@@ -19608,6 +19630,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6177597,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.8710382,
     "Name": "SPMF Healdsburg Family Medicine",
     "id": "rec9xh40exJ671JyX"
@@ -21665,11 +21688,13 @@
   },
   {
     "Address": "5580 Calle Real, Goleta, CA 93111",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.441438,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -119.8187248,
     "Name": "Goleta Neighborhood Clinic",
     "id": "recAqbWJax03LgmJO"
@@ -23974,6 +23999,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4950701,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.7496323,
     "Name": "SPMF Mark West Family Medicine",
     "id": "recBuN8bYA5lhsCf0"
@@ -25239,11 +25265,13 @@
   },
   {
     "Address": "504 W Pueblo St STE 302, Santa Barbara, CA 93105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.428382,
+    "Location Type": "Private Practice",
     "Longitude": -119.7246641,
     "Name": "Cristopher Geiler MD",
     "id": "recCTb4ww7MsVrZNo"
@@ -34625,14 +34653,22 @@
   {
     "Address": "101 N BEACH BLVD, LA HABRA, CA 90631",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:20:07.000Z",
+    "Latest report notes": [
+      "They have not been given a timeline as to when they will receive the vaccine."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.931988,
     "Location Type": "Pharmacy",
     "Longitude": -117.967986,
@@ -37345,6 +37381,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3418541,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9111757,
     "Name": "Sutter Walk-In Care San Jose Coleman",
     "id": "recIErDlI6FOWh4Za"
@@ -38353,11 +38390,13 @@
   },
   {
     "Address": "Building 588 MC 7002, Santa Barbara, CA 93106",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4139629,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.848947,
     "Name": "UCSB Student Health",
     "id": "recIhxbYOzD5dS6oX"
@@ -42054,6 +42093,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.3186494,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3211727,
     "Name": "Mercy Medical Center Mt. Shasta",
     "id": "recKiUiRylN8RXv4K"
@@ -43488,11 +43528,13 @@
   },
   {
     "Address": "931 Walnut Ave, Carpinteria, CA 93013",
+    "Affiliation": "County",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3974743,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -119.5169259,
     "Name": "Carpinteria Health Care Center",
     "id": "recLVeJ69zc49ngi4"
@@ -53110,6 +53152,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.5804798,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3942124,
     "Name": "Dignity Health Medical Foundation- North State- Redding",
     "id": "recQVcYr2tUodRCpw"
@@ -56883,6 +56926,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.42723,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -119.6795826,
     "Name": "Franklin Health Care Center",
     "id": "recSSseAA8oTxEo7g"
@@ -56906,6 +56950,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6533586,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.9740508,
     "Name": "Sutter Gould Medical Foundation Main Clinic 600 Coffee Road",
     "id": "recSTq6ukyNC2CltX"
@@ -64630,6 +64675,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.9174472,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.7666941,
     "Name": "Dignity Health Medical Foundation FP Watsonville",
     "id": "recWLaHWAlWNWh112"
@@ -64676,6 +64722,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4386257,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.7449132,
     "Name": "SPMF 131 Stony Circle Family Medicine",
     "id": "recWNq4A0YBolq6YL"
@@ -68038,11 +68085,13 @@
   },
   {
     "Address": "243 Georgia St. Suite B, Vallejo, CA 94590",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Solano County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.1008488,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2590923,
     "Name": "La Clinica Vallejo Medical",
     "id": "recY5UkwMX4nJlLw8"
@@ -68806,6 +68855,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1325101,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.615875,
     "Name": "Sutter Health Sutter Valley Medical Foundation- 550 B Street FP, Yuba City",
     "id": "recYSRjxFphnxsCTN"
@@ -72855,11 +72905,13 @@
   },
   {
     "Address": "3569 Round Barn Cir, Santa Rosa, CA 95403",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Sonoma County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4798795,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.730031,
     "Name": "Vista Family Health Center",
     "id": "recaSZD9Gz4efsNVM"
@@ -73888,11 +73940,13 @@
   },
   {
     "Address": "500 Pasteur Drive, Room J062 ATTN  Main Pharmacy, Palo Alto, CA 94304",
+    "Affiliation": "Stanford Health Care",
     "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.434223,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1767852,
     "Name": "SHC - Emeryville",
     "id": "recawgbqk7ag2lOBR"
@@ -76222,11 +76276,13 @@
   },
   {
     "Address": "600 Nut Tree Rd, Vacaville, CA 95687",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Solano County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3613987,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9489995,
     "Name": "Community Medical Centers, Inc. - 600 Nut Tree",
     "id": "reccDuucZQUrifZGA"
@@ -76731,6 +76787,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.4339808,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.8977996,
     "Name": "Sutter Walk-In Care Milpitas",
     "id": "reccQ6n0eWwMw6clI"
@@ -78381,6 +78438,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5495623,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.5373125,
     "Name": "Sutter Walk-In Care - West Sacramento",
     "id": "recdAFtGeESBw9dVg"
@@ -79379,6 +79437,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3464406,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.6849012,
     "Name": "SPMF Snyder Lane",
     "id": "recdqFUk2avyL6PtO"
@@ -82315,11 +82374,13 @@
   },
   {
     "Address": "515 E Micheltorena St Suite C, Santa Barbara, CA 93103",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4319299,
+    "Location Type": "Private Practice",
     "Longitude": -119.7024388,
     "Name": "Bordofsky, Trautwein, Rubio",
     "id": "recfP3j778dl0GhuN"
@@ -83025,6 +83086,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4440141,
+    "Location Type": "Santa Barbara County Juvenile Hall",
     "Longitude": -119.7803943,
     "Name": "Santa Barbara Health Care Center",
     "id": "recfkGYoWvDu4GWGO"
@@ -89020,11 +89082,13 @@
   },
   {
     "Address": "344 Tully Road, San Jose, CA 95111",
+    "Affiliation": "County",
     "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3032848,
+    "Location Type": "Super Site",
     "Longitude": -121.8538722,
     "Name": "Santa Clara County Fairgrounds",
     "id": "recipcs6zKq0IgCaP"
@@ -89790,11 +89854,13 @@
   },
   {
     "Address": "470 Chadbourne Rd suite  A, Fairfield, CA 94534",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Solano County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.2347584,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0830478,
     "Name": "OLE Health Fairfield (Chadbourne)",
     "id": "recjEa2WWrJfg3EJG"
@@ -90537,11 +90603,13 @@
   },
   {
     "Address": "2219 Bath Street, Santa Barbara, CA 93105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Barbara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.429831,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.721525,
     "Name": "Sansum Diabetes Research Institute",
     "id": "recjZ7xnlZFJe0s2q"
@@ -95287,11 +95355,13 @@
   },
   {
     "Address": "490 Heller Dr., Santa Cruz, CA 95064",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Cruz County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.9995522,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0577115,
     "Name": "UCSC Student Health Center",
     "id": "recmDIpLQaJ9o81oA"
@@ -101982,6 +102052,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.2367966,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.0860462,
     "Name": "Sutter Medical Foundation - Solano",
     "id": "recpZUEDBedqXa6oP"
@@ -105107,6 +105178,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.987682,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9774604,
     "Name": "Sutter Maternity and Surgery Center of Santa Cruz",
     "id": "recr9AUmIjkXE9KUf"
@@ -107193,11 +107265,13 @@
   },
   {
     "Address": "931 Market Street, Yuba City, CA 95991",
+    "Affiliation": "AmplaHealth",
     "County": "Sutter County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1449905,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.6139179,
     "Name": "Ampla Health Yuba City Pediatrics",
     "id": "recs4wqBlGYd2QapZ"
@@ -110579,11 +110653,13 @@
   },
   {
     "Address": "795 El Camino Real Lee building A floor, Geriatrics, PALO ALTO, CA 94301",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.439729,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.160944,
     "Name": "Palo Alto Medical Foundation",
     "id": "rectqQuaOVB3J16Bn"
@@ -111312,12 +111388,15 @@
   {
     "Address": "25622 Crown Valley Pkwy., Ladera Ranch CA, 92694",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:53.000Z",
+    "Latest report": "2021-02-24T19:23:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5638,
@@ -111334,6 +111413,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7949763,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3965232,
     "Name": "One Medical - 4 Embarcadero Center",
     "id": "recuPegJxr8eMcTWv"
@@ -113156,16 +113236,20 @@
   {
     "Address": "6040 TELEGRAPH RD, VENTURA, CA 93003",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-24T19:29:11.000Z",
     "Latest report notes": [
-      "It is good to regularly check the website for appointment openings. "
+      "It is good to regularly check the website for appointment openings."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.276811,
@@ -113699,14 +113783,19 @@
   {
     "Address": "5809 Foothill Blvd, Oakland, CA 94605",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens app, walgreens.com/findcare"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:24:02.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.771805,
     "Location Type": "Pharmacy",
     "Longitude": -122.192354,
@@ -115562,11 +115651,13 @@
   },
   {
     "Address": "29632 Highway 299 East PO Box 228, Round Mountain, CA 96084",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Shasta County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.8038298,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9405893,
     "Name": "Hill Country Community Clinic - Round Mountain",
     "id": "recwURhaUQNdBpI9O"
@@ -119974,11 +120065,13 @@
   },
   {
     "Address": "824 Pine Street, Mount Shasta, CA 96067",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Siskiyou County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.3171592,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.3207302,
     "Name": "McCloud Healthcare Clinic",
     "id": "recyfq1L6b6hCmBfc"
