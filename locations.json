@@ -4334,11 +4334,13 @@
   },
   {
     "Address": "1317 Oakdale Rd  100, Modesto, CA 95355",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.662749,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.957978,
     "Name": "Family First Medical Care",
     "id": "rec2KIDyPfHY3ENdy"
@@ -6118,11 +6120,13 @@
   },
   {
     "Address": "12572 Ave 416 Suite B, Orosi, CA 93647",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.545214,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2921538,
     "Name": "Orosi Rural Health",
     "id": "rec37BWpa415Fpa2f"
@@ -7037,14 +7041,20 @@
   {
     "Address": "100 N Imperial Ave, EL CENTRO, CA 92243",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com or walgreen's app"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:44:35.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.793357,
     "Location Type": "Pharmacy",
     "Longitude": -115.570336,
@@ -7601,11 +7611,13 @@
   },
   {
     "Address": "205 E Davis St, Pixley, CA 93256",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.9682899,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2922757,
     "Name": "Pixley Medical Clinic",
     "id": "rec3hjjgN52rRLKsK"
@@ -8462,6 +8474,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2234423,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3380954,
     "Name": "Altura Centers for Health-Main",
     "id": "rec4Dwirl6rHA6WVC"
@@ -9458,6 +9471,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.5527943,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3945774,
     "Name": "Dinuba Community Health Center",
     "id": "rec4mxaxFVaOLCpnZ"
@@ -13415,7 +13429,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 35.13321,
-    "Location Type": "Super Site",
+    "Location Type": "Mobile clinic",
     "Longitude": -117.9624,
     "Name": "Adventist Health Tehachapi Valley - California City Mobile Clinic",
     "id": "rec6ooTjOiYvnT3tb"
@@ -16062,7 +16076,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.04891,
-    "Location Type": "Super Site",
+    "Location Type": "Mobile clinic",
     "Longitude": -118.16714,
     "Name": "Adventist Health Tehachapi Valley - Mojave Mobile Clinic",
     "id": "rec84jxnGAAj4hT7F"
@@ -16808,7 +16822,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.85751,
-    "Location Type": "Super Site",
+    "Location Type": "Mobile clinic",
     "Longitude": -118.16707,
     "Name": "Adventist Health Tehachapi Valley - Rosamond Mobile Clinic",
     "id": "rec8UrDAjFoDb0CVH"
@@ -32383,12 +32397,15 @@
   {
     "Address": "8880 Valley View St, BUENA PARK, CA 90620",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
+    "Latest report": "2021-02-24T19:48:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.833704,
@@ -32496,11 +32513,13 @@
   },
   {
     "Address": "3335 S. Fairway Street, Visalia, CA 93277",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3008027,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3113436,
     "Name": "Key Medical Group",
     "id": "recG8VHavcDRjoh09"
@@ -37898,11 +37917,13 @@
   },
   {
     "Address": "319 N Church St, Visalia, CA 93291",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3326805,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2914254,
     "Name": "Elite Corporate Medical Services Inc.",
     "id": "recISj08r2U2upve0"
@@ -45345,6 +45366,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2068363,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3686025,
     "Name": "Altura Centers for Health-West",
     "id": "recMRDIJwRgWoICm7"
@@ -45938,6 +45960,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3262465,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2955841,
     "Name": "Omni Family Health -Visalia",
     "id": "recMiyHqzxWAvOUxh"
@@ -47575,11 +47598,13 @@
   },
   {
     "Address": "271 N L St, Dinuba, CA 93618",
+    "Affiliation": "Aria Community Health Center",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.5424248,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3922757,
     "Name": "Aria Community Heath Center - 271 N L St",
     "id": "recNifn5pLM67oIyz"
@@ -56403,11 +56428,13 @@
   },
   {
     "Address": "565 N. Thompson Rd., Tipton, CA 93272",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.0636947,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3124427,
     "Name": "Tipton Medical Clinic",
     "id": "recS9J2aUxbWmdX27"
@@ -57513,6 +57540,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.1957955,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3029356,
     "Name": "Altura Centers for Health-South",
     "id": "recSiZDrbm0YMrugR"
@@ -58341,11 +58369,13 @@
   },
   {
     "Address": "1700 South Court Street Ste B, Visalia, CA 93277",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3150192,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2916086,
     "Name": "Visalia Women's Specialty Medical Group, Inc.",
     "id": "recT4HmI6E0s3ElsA"
@@ -58550,13 +58580,16 @@
     "Address": "298 E LIVE OAK AVE, ARCADIA, CA 91006",
     "Affiliation": "Sav-on Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: walk-ins accepted"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:41:11.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.107609,
     "Location Type": "Pharmacy",
     "Longitude": -118.023469,
@@ -66171,14 +66204,19 @@
   {
     "Address": "2424 N BRAWLEY AVE, FRESNO, CA 93722",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "559-277-5912"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:23.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T19:42:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.772153,
     "Location Type": "Pharmacy",
     "Longitude": -119.861961,
@@ -72301,11 +72339,13 @@
   },
   {
     "Address": "3109 E Whitmore Ave Ste 200, Ceres, CA 95307",
+    "Affiliation": "Golden Valley Health Center",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5950922,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.9375194,
     "Name": "Golden Valley Health Centers - Ceres Whitmore",
     "id": "reca4BWUN4JOJLTMr"
@@ -73198,11 +73238,13 @@
   },
   {
     "Address": "501 N Bridge St, Visalia, CA 93291",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3340567,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2891629,
     "Name": "Family HealthCare Network",
     "id": "recab8Ca1TIaAWwfX"
@@ -73765,6 +73807,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.0927758,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1964328,
     "Name": "Altura Centers for Health-Woodville",
     "id": "recarbDSehX8meYWq"
@@ -73997,12 +74040,15 @@
   {
     "Address": "949 11th St, Lakeport CA, 95453",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "559-277-5912"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: incorrect contact information"
     ],
     "County": "Lake County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:17.000Z",
+    "Latest report": "2021-02-24T19:47:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.0482,
@@ -76013,11 +76059,13 @@
   },
   {
     "Address": "2412 3rd Street, Hughson, CA 95326",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.596082,
+    "Location Type": "Private Practice",
     "Longitude": -120.866492,
     "Name": "Hughson Medical Office",
     "id": "recc54KP6tcVZC8DA"
@@ -77163,11 +77211,13 @@
   },
   {
     "Address": "321 Van Duzen Rd, Mad River, CA 95526",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Trinity County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.4600919,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -123.5298963,
     "Name": "Southern Trinity Health Services- Mad River",
     "id": "reccc6EbyauuMu0Ng"
@@ -87554,11 +87604,13 @@
   },
   {
     "Address": "4150 Patterson Rd, Riverbank, CA 95367",
+    "Affiliation": "Golden Valley Health Center",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7320196,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.9199127,
     "Name": "Golden Valley Health Centers - 4150 Patterson Rd",
     "id": "rechywKoOhZAucDTM"
@@ -93116,11 +93168,13 @@
   },
   {
     "Address": "2611 N Dinuba Blvd, Visalia, CA 93291",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3530236,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2975809,
     "Name": "Visalia Health Care Center",
     "id": "reckvjGvQRYbsdBbI"
@@ -99168,11 +99222,13 @@
   },
   {
     "Address": "4004 S Demaree St, Visalia, CA 93277",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Tulare County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2944379,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.3304341,
     "Name": "HealthWise Medical Clinic- Visalia",
     "id": "reco6FgdlfjSxnY4s"
@@ -100440,11 +100496,13 @@
   },
   {
     "Address": "1320 Celeste Dr, Modesto, CA 95355",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Stanislaus County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6717238,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.9731484,
     "Name": "Family Health Care Medical Group of Modesto",
     "id": "recos7nAm6Jyz1IVx"
@@ -104831,6 +104889,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2133632,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0951714,
     "Name": "Omni Family Health- Lindsay",
     "id": "recqwx40quChiJVTT"
@@ -122225,6 +122284,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2965534,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1547371,
     "Name": "Omni Family Health- Exeter",
     "id": "reczrVyDiMzjqqaSw"
