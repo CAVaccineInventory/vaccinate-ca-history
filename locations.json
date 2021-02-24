@@ -4035,14 +4035,16 @@
     "Address": "955 TAMARACK AVENUE, CARLSBAD, CA 92008",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
+      "https://www.riteaid.com/pharmacy/covid-qualifier; RiteAid website will end up directing those qualified to their county registration website"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:55:27.000Z",
+    "Latest report": "2021-02-24T22:43:15.000Z",
     "Latest report notes": [
       null
     ],
@@ -8766,11 +8768,11 @@
     "Address": "26502 Towne Centre Dr, FOOTHILL RANCH, CA 92610",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-24T22:46:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.679638,
@@ -18079,10 +18081,21 @@
   {
     "Address": "215 W Beamer St, Woodland, CA 95695",
     "Affiliation": "CommuniCare Health Center",
+    "Appointment scheduling instructions": [
+      "(530) 405-2800"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Yolo County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:37:38.000Z",
+    "Latest report notes": [
+      "Please call (530) 405-2800 and press option 9 to make an appointment"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.6843824,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.7938317,
@@ -37287,7 +37300,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-21T00:17:41.000Z",
+    "Latest report": "2021-02-24T22:42:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.721098,
@@ -48200,10 +48213,21 @@
   {
     "Address": "2525 Grand Ave Ste 183, Long Beach, CA 90815",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(562) 570-4053"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to city residents"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:46:25.000Z",
+    "Latest report notes": [
+      "Feb24: Vaccinating only the following:\nHealthcare Workers\nLong Term Care Facility Residents and staff\n65+\nGovernment Emergency Response Workers\nFood or Agriculture Workers\nEducation and Childcare Workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.80274178506739,
     "Location Type": "Health department",
     "Longitude": -118.14891025412695,
@@ -65111,10 +65135,22 @@
   {
     "Address": "575 Auto Center Dr, Watsonville, CA 95076",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "(831) 288-6537"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
+    ],
     "County": "Santa Cruz County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T22:41:06.000Z",
+    "Latest report notes": [
+      "They are giving the covid vaccine but they just stopped due to supply shortage. You can call and schedule an appointment."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.9174472,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.7666941,
@@ -76957,12 +76993,15 @@
   {
     "Address": "1826 W ORANGETHORPE AVE, FULLERTON, CA 92833",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T22:36:55.000Z",
+    "Latest report": "2021-02-24T22:43:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.85872,
@@ -79673,17 +79712,16 @@
     "Address": "8044 LIMONITE AVE, RIVERSIDE, CA 92509",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "www.walgreens.comschedulevaccine "
+      null
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T05:58:36.000Z",
+    "Latest report": "2021-02-24T22:47:08.000Z",
     "Latest report notes": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule, also can call to find out about cancelations!"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.977317,
