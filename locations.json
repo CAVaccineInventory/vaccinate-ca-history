@@ -44989,17 +44989,19 @@
     "Address": "660 BAILEY RD, PITTSBURG, CA 94565",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "coronavirus.cchealth.org/vaccine"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:50.000Z",
+    "Latest report": "2021-02-24T17:37:46.000Z",
     "Latest report notes": [
-      null
+      "Feb 23 Currently administering COVID19 vaccines. Appointment via Contra Costa county website. Http://www.coronavirus.cchealth.org"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.01596,
@@ -104092,7 +104094,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 37.958114,
-    "Location Type": "Pharmacy",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.50018,
     "Name": "Marin Community Clinics",
     "id": "recqnNLLfqWDeVjRR"
