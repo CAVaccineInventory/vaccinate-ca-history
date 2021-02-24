@@ -9850,16 +9850,17 @@
     "Address": "1776 S VICTORIA AVE, VENTURA, CA 93003",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "Visit ralphs.com to find out if you're eligible and how you can make an appoint"
+      "https://www.ralphs.com/i/coronavirus-update/vaccine"
     ],
     "Availability Info": [
-      "Yes: appointment required",
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-24T17:47:48.000Z",
     "Latest report notes": [
       null
     ],
@@ -61892,18 +61893,17 @@
     "Address": "26521 AGOURA RD, CALABASAS, CA 91302",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "Visit http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm to find out if you're eligible for the vaccine and how you can make an appointment. Once appointment slots are available, it will be updated on the website"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:49.000Z",
+    "Latest report": "2021-02-24T17:44:41.000Z",
     "Latest report notes": [
-      null
+      "Feb 24 Currently administering COVID19 vaccines to healthcare workers, long term care facility residents and persons age 65 years and older. Obtain appointment via website vaccinateLAcounty.com"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.144793,
@@ -77575,11 +77575,11 @@
     "Address": "6843 MISSION BLVD, DALY CITY, CA 94014",
     "Affiliation": "Lucky Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
+    "Latest report": "2021-02-24T17:54:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.697706,
@@ -82861,18 +82861,17 @@
     "Address": "9045 WOODCREEK OAKS BLVD, ROSEVILLE, CA 95747",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "http://publichealth.lacounty.gov/\n\nRecommend to make an appointment on the website to received the vaccines."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T05:03:50.000Z",
+    "Latest report": "2021-02-24T17:54:57.000Z",
     "Latest report notes": [
-      null
+      "Feb 24 Currently administering COVID19 vaccine to those who qualify under; Phase 1 all tiers, Phase 1b Tier 1 only.  Appointments are made via Placer county website."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.794019,
