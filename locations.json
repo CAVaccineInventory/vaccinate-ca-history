@@ -1695,11 +1695,13 @@
   },
   {
     "Address": "500 B Street, Scotia, CA 95565",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.482952,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -124.102171,
     "Name": "Southern Trinity Health Services",
     "id": "rec0mBLFkTHc8I6hL"
@@ -2651,6 +2653,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.818126,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2446057,
     "Name": "One Medical - 3850 Grand Avenue",
     "id": "rec1RyVkRLpkbIL6x"
@@ -5720,11 +5723,13 @@
   },
   {
     "Address": "240 N Villa Ave, Willows, CA 95988",
+    "Affiliation": "County",
     "County": "Glenn County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.5222464,
+    "Location Type": "Health department",
     "Longitude": -122.2088693,
     "Name": "GLENN COUNTY HEALTH AND HUMAN SERVICES AGENCY",
     "id": "rec2ugKQV9p4WH2ny"
@@ -6501,11 +6506,13 @@
   },
   {
     "Address": "770 10th St, arcata, CA 95521",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.8699018,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -124.0860803,
     "Name": "HUMBOLDT OPEN DOOR CLINIC",
     "id": "rec3ISh3yJcsl8Ar0"
@@ -8971,6 +8978,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9059879,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3908192,
     "Name": "One Medical - 740 S Allied Way",
     "id": "rec4VhtH0YxQWD9t2"
@@ -9535,6 +9543,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7436465,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1498333,
     "Name": "Lifelong East Oakland Clinic",
     "id": "rec4qUTRGw2yu456d"
@@ -10471,6 +10480,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.7543814,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.2499414,
     "Name": "DELANO COMMUNITY HEALTH CENTER",
     "id": "rec5L1LhQcAclwP1Z"
@@ -11830,12 +11840,15 @@
   {
     "Address": "28311 Marguerite Pkwy B-1, Mission Viejo, CA 92692",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
+    "Latest report": "2021-02-24T18:27:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.551202,
@@ -12733,6 +12746,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0672352,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4070577,
     "Name": "One Medical, 12301 Wilshire Blvd",
     "id": "rec6Su3T8KPhFnxuz"
@@ -16180,6 +16194,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0482763,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2585607,
     "Name": "One Medical - 700 S Flower Street",
     "id": "rec8AkaqeXWgPE8S7"
@@ -17093,6 +17108,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0576863,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4186037,
     "Name": "One Medical - 10250 Santa Monica Blvd",
     "id": "rec8cPsPqPjxJhcGZ"
@@ -17820,11 +17836,13 @@
   },
   {
     "Address": "9802 Stockdale Hwy  103, Bakersfield, CA 93311",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3551758,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.1115129,
     "Name": "Southwest Pediatrics",
     "id": "rec90flljfcqBfWHo"
@@ -18196,12 +18214,15 @@
   {
     "Address": "26932 La Paz Rd, Aliso Viejo CA, 92656",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-24T18:36:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5714,
@@ -18395,11 +18416,13 @@
   },
   {
     "Address": "46896 Highway 1, Big Sur, CA 93920",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.268459,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.8068514,
     "Name": "Big Sur Health Center - Big Sur, CA",
     "id": "rec9J6EcfGEwtgJQB"
@@ -18978,6 +19001,19 @@
     "Longitude": -118.338855,
     "Name": "STOCKER RX PHARMACY",
     "id": "rec9eN8RG5nUnB0Wl"
+  },
+  {
+    "Address": "145 N. Magnolia St.\nWoodlake, CA 93286, USA",
+    "Affiliation": "County",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.41464,
+    "Location Type": "Super Site",
+    "Longitude": -119.09792,
+    "Name": "Woodlake Community Center - Optumserve Supersite",
+    "id": "rec9eykSguxtt58bA"
   },
   {
     "Address": "1215 Plumas St Ste 1201, Yuba City, CA 95991",
@@ -20201,6 +20237,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3215879,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.2430081,
     "Name": "CLINICA DE SALUD DEL VALLE DE SALINAS - Greenfield",
     "id": "recAGQqQh16mKAQTp"
@@ -20893,6 +20930,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.1489371,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.453034,
     "Name": "Taft Community Health Center",
     "id": "recAWV6uk6tlIQ77n"
@@ -22613,11 +22651,13 @@
   },
   {
     "Address": "1441 Constitution Blvd Suite 300, Salinas, CA 93906",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6962997,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.6309426,
     "Name": "Laurel Family Practice",
     "id": "recBK3pr055DZF85g"
@@ -24243,11 +24283,13 @@
   },
   {
     "Address": "9508 Stockdale Hwy. Suite 150, BAKERSFIELD, CA 93311",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3556842,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.108449,
     "Name": "Riverwalk Pediatric Clinic, Inc.",
     "id": "recC2T6nEDXBo2Fog"
@@ -25700,6 +25742,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7698178,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1958708,
     "Name": "Princeton Manor Healthcare Center",
     "id": "recCkTvNzoT8cjN0I"
@@ -27144,11 +27187,13 @@
   },
   {
     "Address": "250 East 18th St 2nd floor, Oakland, CA 94606",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.800222,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.252573,
     "Name": "Frank Kiang Medical Center",
     "id": "recDMvqpw4kyyr6lK"
@@ -27370,11 +27415,13 @@
   },
   {
     "Address": "6470 Pentz Road, Paradise, CA 95969",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Butte County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.770714,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.5792514,
     "Name": "Paradise Medical Group",
     "id": "recDWBgWDmVUSFl3U"
@@ -27872,6 +27919,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3795355,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.9916737,
     "Name": "BAKER STREET VILLAGE COMMUNITY HEALTH CENTER",
     "id": "recDoTZKEBJN9ddTg"
@@ -31407,6 +31455,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6795623,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.6271485,
     "Name": "CLINICA DE SALUD DEL VALLE DE SALINAS - Circle",
     "id": "recFgLdKq3ilxbs7Q"
@@ -31790,11 +31839,13 @@
   },
   {
     "Address": "20430 Hawthorne Blvd, Torrance, CA 90503",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8461675,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.3533363,
     "Name": "US Renal Care Torrance",
     "id": "recFoLFU4YTaA7ewf"
@@ -33412,11 +33463,13 @@
   },
   {
     "Address": "39500 Liberty Street, Fremont, CA 94538",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5489421,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.9769658,
     "Name": "Liberty Clinic",
     "id": "recGYJoWIXfxYvGLM"
@@ -33928,11 +33981,13 @@
   },
   {
     "Address": "1675 Northcrest Dr, Crescent City, CA 95531",
+    "Affiliation": "IHS",
     "County": "Del Norte County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.7753998,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -124.1992334,
     "Name": "UIHS Crescent City Clinic",
     "id": "recGnij8zHlfQ2PfZ"
@@ -34200,11 +34255,13 @@
   },
   {
     "Address": "5200 N. Lake Road, Merced, CA 95343",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Merced County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3660652,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4224179,
     "Name": "Student Health Center University of California, Merced",
     "id": "recGzNAAphhhnCq6D"
@@ -35695,6 +35752,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3533307,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0054545,
     "Name": "CENTRAL BAKERSFIELD COMMUNITY HEALTH CENTER",
     "id": "recHWS5PRXMssyStI"
@@ -38007,6 +38065,19 @@
     "Longitude": -117.2464092,
     "Name": "Marque Urgent Care - Fan",
     "id": "recIZkzvvMsI6xdLu"
+  },
+  {
+    "Address": "249 S. Alta Ave.\nDinuba, CA 93618, USA",
+    "Affiliation": "County",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.53811,
+    "Location Type": "Super Site",
+    "Longitude": -119.39533,
+    "Name": "Dinuba Veterans Memorial Building - OptumServe supersite",
+    "id": "recIZoxl1XCgvmOHU"
   },
   {
     "Address": "1330 W COVINA BLVD, SAN DIMAS, CA 91773",
@@ -45322,6 +45393,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0927353,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3782587,
     "Name": "One Medical - 8570  W Sunset Blvd",
     "id": "recMT6ijLxAo4KCQa"
@@ -45804,6 +45876,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7432252,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.1699349,
     "Name": "Roots Community Health Center",
     "id": "recMlr21C40pKOXrF"
@@ -46524,11 +46597,13 @@
   },
   {
     "Address": "2426 BUHNE STREET, EUREKA, CA 95501",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.7857188,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -124.1406164,
     "Name": "MOBILE HEALTH SERVICES",
     "id": "recNJHIBjyq6zn6dq"
@@ -47622,6 +47697,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2195493,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.1313271,
     "Name": "CLINICA DE SALUD DEL VALLE DE SALINAS- King City",
     "id": "recNuEEV6OPrGCjk8"
@@ -48708,6 +48784,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.016505,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4920898,
     "Name": "One Medical, 525 Broadway",
     "id": "recOVpvVifodFCznY"
@@ -52479,6 +52556,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3768933,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.9177803,
     "Name": "EAST NILES COMMUNITY HEALTH CENTER",
     "id": "recQKooZzvjT6sCkS"
@@ -53101,11 +53179,13 @@
   },
   {
     "Address": "432A W. J Street, Tehachapi, CA 93561",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.1353016,
+    "Location Type": "Private Practice",
     "Longitude": -118.454489,
     "Name": "Centric Health - Susan Hall, M.D.",
     "id": "recQY7j3pexObXbxv"
@@ -53747,6 +53827,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2085078,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.8394284,
     "Name": "ARVIN COMMUNITY HEALTH CENTER",
     "id": "recQvTaaIbG7gNxb3"
@@ -53960,6 +54041,19 @@
     "Longitude": -118.160308,
     "Name": "WECARE PHARMACY",
     "id": "recQzSKmNMKJQ83Zp"
+  },
+  {
+    "Address": "712 E. Washington St.\nEarlimart, CA 93219, USA",
+    "Affiliation": "County",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 35.88477,
+    "Location Type": "Super Site",
+    "Longitude": -119.26868,
+    "Name": "Earlimart Veterans Memorial Building- Optumserve Supersite",
+    "id": "recQzWGs1w0J28a9r"
   },
   {
     "Address": "1005 E Washington Blvd Suite A, Los Angeles, CA 90021",
@@ -63915,6 +64009,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3940755,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0071815,
     "Name": "Dignity Health Medical Foundation Bakersfield",
     "id": "recW3LcBACSbil5Ay"
@@ -64974,11 +65069,13 @@
   },
   {
     "Address": "11150 CA-1, Point Reyes Station, CA 94956",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Marin County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.0673997,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.8045465,
     "Name": "West Marin Medical Center",
     "id": "recWg624zZ2jmgKtC"
@@ -68689,6 +68786,7 @@
   },
   {
     "Address": "2100 Martin Luther King Jr Way, Berkeley, CA 94704",
+    "Affiliation": "County",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -73033,6 +73131,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3534287,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.765746,
     "Name": "Sutter Health Jackson Family Medicine",
     "id": "recadfPAgKFJZM0na"
@@ -74867,6 +74966,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8038847,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.2694449,
     "Name": "LifeLong  TRUST Health Center",
     "id": "recbZ0e4SK9QN8tvh"
@@ -77838,6 +77938,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3393596,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4673508,
     "Name": "DIGNITY HEALTH MEDICAL FOUNDATION- MERCED",
     "id": "recd3DRhFM4JqBXFq"
@@ -89384,6 +89485,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3548538,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0204494,
     "Name": "FAMILY HEALTH CENTER",
     "id": "recj7T7QMy6Qm1mHG"
@@ -89972,6 +90074,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.6423881,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.667737,
     "Name": "Ridgecrest Community Health Center",
     "id": "recjQjSlYTKt5vAq3"
@@ -94379,6 +94482,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3967924,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0086268,
     "Name": "34TH STREET COMMUNITY HEALTH CENTER",
     "id": "recloaxCr7ZXsW7TE"
@@ -95128,13 +95232,16 @@
     "Address": "662 E Boronda Rd, Salinas CA, 93906",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T18:33:13.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.7144,
     "Location Type": "Pharmacy",
     "Longitude": -121.6251,
@@ -95298,6 +95405,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9452671,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.5216853,
     "Name": "One Medical - 350 Bon Air Center",
     "id": "recmGK65urhl9FCOi"
@@ -95781,11 +95889,13 @@
   },
   {
     "Address": "101 West Coast Rd, Redway, CA 95560",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.1168397,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -123.8132042,
     "Name": "Redwoods Rural Health Center, Inc.",
     "id": "recmTnUSc3apU9m4g"
@@ -95809,11 +95919,13 @@
   },
   {
     "Address": "559 E Alisal Street, Salinas, CA 93905",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6741341,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.6359706,
     "Name": "Alisal Health Center",
     "id": "recmUkmzt1PjVdZr0"
@@ -95909,12 +96021,15 @@
   {
     "Address": "1250 E CHAPMAN AVE, FULLERTON, CA 92831",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:49.000Z",
+    "Latest report": "2021-02-24T18:30:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.873562,
@@ -97093,11 +97208,13 @@
   },
   {
     "Address": "2700 Dolbeer St Pharmacy Services, Eureka, CA 95501",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Humboldt County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.7841025,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -124.1423323,
     "Name": "St. Joseph Hospital",
     "id": "recnAd6UU7DBh4TgG"
@@ -102076,12 +102193,15 @@
   {
     "Address": "3030 Harbor Blvd Ste A, Costa Mesa CA, 92626",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-24T18:42:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6825,
@@ -105048,11 +105168,13 @@
   },
   {
     "Address": "600 Main Street, Soledad, CA 93960",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Monterey County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.4331582,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.3239915,
     "Name": "Soledad Medical Clinic",
     "id": "recrHK72wiskKmud2"
@@ -107568,11 +107690,13 @@
   },
   {
     "Address": "275 Hospital Dr, Ukiah, CA 95482",
+    "Affiliation": "Adventist Health",
     "County": "Mendocino County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.1530652,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -123.2028906,
     "Name": "Adventist Health Ukiah Valley",
     "id": "recsNKDJPL6dTfEVS"
@@ -109434,6 +109558,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0672352,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4070577,
     "Name": "One Medical - 9725 Wilshire Blvd",
     "id": "rectUSGseu99ExORH"
@@ -109649,6 +109774,19 @@
     "Longitude": -118.200143,
     "Name": "Walmart Pharmacy 10-5689",
     "id": "rectbp3sYW8Z9s6eB"
+  },
+  {
+    "Address": "1900 W. Olive Ave.\nPorterville, CA 93257, USA",
+    "Affiliation": "County",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.06636,
+    "Location Type": "Super Site",
+    "Longitude": -119.05956,
+    "Name": "Porterville Veterans Memorial Building - Optumserve Supersite",
+    "id": "rectcWdxsxlw2KyH3"
   },
   {
     "Address": "210 MT HERMON RD, SCOTTS VALLEY, CA 95066",
@@ -116897,6 +117035,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.00823,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.5446971,
     "Name": "One Medical - 1004 Northgate Dr",
     "id": "recxFnPPScY3AY0aM"
@@ -118359,6 +118498,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7791958,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.228121,
     "Name": "Native American Health Center, Oakland",
     "id": "recxzvFfjov120fER"
@@ -119024,6 +119164,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3325558,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.0384417,
     "Name": "SOUTH BAKERSFIELD COMMUNITY HEALTH CENTER",
     "id": "recyGqIk4SZhyFhCL"
@@ -119807,6 +119948,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7672618,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.7593871,
     "Name": "CLINICA DE SALUD DEL VALLE DE SALINAS - Castroville",
     "id": "recyivqaLS8jwYM77"
@@ -120970,11 +121112,13 @@
   },
   {
     "Address": "695 Oleander Ave, Chico, CA 95926",
+    "Affiliation": "County",
     "County": "Butte County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.7348747,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -121.8418803,
     "Name": "BCPH Clinic Chico",
     "id": "reczO5kYlWS73k1I9"
@@ -121741,11 +121885,13 @@
   },
   {
     "Address": "3260 Kerner Blvd, San Rafael, CA 94901",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Marin County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9609909,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -122.5015025,
     "Name": "Marin Community Clinic - San Rafael Campus",
     "id": "reczpQNZoHfKSAvPy"
