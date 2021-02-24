@@ -83591,17 +83591,19 @@
     "Address": "9045 WOODCREEK OAKS BLVD, ROSEVILLE, CA 95747",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "to make an appointment, please visit:  placer.ca.gov"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T17:54:57.000Z",
+    "Latest report": "2021-02-24T20:46:56.000Z",
     "Latest report notes": [
-      "Feb 24 Currently administering COVID19 vaccine to those who qualify under; Phase 1 all tiers, Phase 1b Tier 1 only.  Appointments are made via Placer county website."
+      "teachers are also eligible "
     ],
     "Latest report yes?": 1,
     "Latitude": 38.794019,
