@@ -2660,14 +2660,21 @@
   {
     "Address": "4949 GOSFORD RD, BAKERSFIELD, CA 93313",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:53:25.000Z",
+    "Latest report notes": [
+      "The pharmacist said you could also make an appointment by calling 1-800-Walgreens"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.309823,
     "Location Type": "Pharmacy",
     "Longitude": -119.092804,
@@ -13161,9 +13168,15 @@
   {
     "Address": "1001 Potrero Ave, Building 30, San Francisco, CA 94110",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      null
+    ],
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-24T02:06:32.000Z",
+    "Latest report": "2021-02-24T21:54:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.75529,
@@ -55213,14 +55226,21 @@
   {
     "Address": "1550 HAMILTON AVENUE, SAN JOSE, CA 95125",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:53:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.293622,
     "Location Type": "Pharmacy",
     "Longitude": -121.911889,
@@ -94827,14 +94847,20 @@
   {
     "Address": "1690 E GRAND AVENUE, ARROYO GRANDE, CA 93420",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "ritea.id/california "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:51:38.000Z",
+    "Latest report notes": [
+      "healthcare workers and age 65+ older. go to ritea.id/california to register"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.121519,
     "Location Type": "Pharmacy",
     "Longitude": -120.608318,
@@ -101860,12 +101886,15 @@
   {
     "Address": "141 Lakewood Center Mall, Lakewood CA, 90712",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "ritea.id/california "
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T19:31:24.000Z",
+    "Latest report": "2021-02-24T21:56:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8527,
@@ -120533,10 +120562,21 @@
   {
     "Address": "860 Harbour Way S Ste E, Richmond, CA 94804",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "844-792-2739"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Contra Costa County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T21:54:20.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.919826,
     "Location Type": "Pharmacy",
     "Longitude": -122.359916,
