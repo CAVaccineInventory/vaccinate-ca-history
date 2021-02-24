@@ -40002,11 +40002,19 @@
   {
     "Address": "1270 East Spruce Avenue\nFresno, CA 93720",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: walk-ins accepted",
+      "Yes: restricted to county residents",
+      "Yes: restricted to city residents"
+    ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T15:33:34.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:49:13.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.84231564,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.76006333,
@@ -67806,7 +67814,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:18:29.000Z",
+    "Latest report": "2021-02-24T22:51:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.748521,
@@ -96804,16 +96812,20 @@
     "Address": "2750 PINOLE VALLEY RD, PINOLE, CA 94564",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:31.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T22:52:38.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.995115,
     "Location Type": "Pharmacy",
     "Longitude": -122.285848,
