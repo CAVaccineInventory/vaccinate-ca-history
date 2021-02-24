@@ -85311,8 +85311,15 @@
   {
     "Address": "2196 S SAVIERS RD MISSION VILLAGE SHOPPING CENTER, OXNARD, CA 93033",
     "Affiliation": "The Medicine Shoppe",
+    "Appointment scheduling instructions": [
+      "760-561-7009"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T21:38:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.178566,
@@ -108498,10 +108505,20 @@
   {
     "Address": "275 Hospital Dr, Ukiah, CA 95482",
     "Affiliation": "Adventist Health",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Mendocino County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T21:42:36.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.1530652,
     "Location Type": "Hospital / Clinic",
     "Longitude": -123.2028906,
