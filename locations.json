@@ -6572,10 +6572,21 @@
   {
     "Address": "770 10th St, arcata, CA 95521",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(707) 826-8610"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Humboldt County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:07:19.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 40.8699018,
     "Location Type": "Hospital / Clinic",
     "Longitude": -124.0860803,
@@ -48536,14 +48547,14 @@
     "Address": "380 E 17TH STREET, COSTA MESA, CA 92627",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "Schedule on RiteAid website"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T21:28:01.000Z",
+    "Latest report": "2021-02-24T23:08:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.631354,
@@ -49121,8 +49132,15 @@
   {
     "Address": "351 Felice Dr, Hollister, CA 95023",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.mhealthappointments.com/covidappt"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Benito County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:14:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8532362,
@@ -50275,8 +50293,15 @@
   {
     "Address": "Arrillaga Center at 341 Galvez Street, Stanford",
     "Affiliation": "Stanford Health Care",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:14:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.429983,
@@ -53553,10 +53578,22 @@
   {
     "Address": "1755 Court St., Redding, CA 96001",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "(530) 247-8800"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient",
+      "Yes: restricted to county residents"
+    ],
     "County": "Shasta County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:22:20.000Z",
+    "Latest report notes": [
+      "This location only for patients of Dignity Health, and presently only taking second dose appointments"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 40.5804798,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.3942124,
@@ -55362,14 +55399,14 @@
     "Address": "900 S HARBOR BLVD, FULLERTON, CA 92832",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://book-costcopharmacy.appointment-plus.com/d0bm29vq/?e_id=5515#/"
+      "https://www.mhealthappointments.com/covidappt"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T01:24:51.000Z",
+    "Latest report": "2021-02-24T23:03:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.862532,
@@ -57153,8 +57190,15 @@
   {
     "Address": "2241 MICHAEL DRIVE, NEWBURY PARK, CA 91320",
     "Affiliation": "The Medicine Shoppe",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Ventura County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:25:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.182126,
@@ -71178,11 +71222,22 @@
   {
     "Address": "1626 Sunrise Avenue, Madera, CA 93638",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Madera County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T13:34:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:16:43.000Z",
+    "Latest report notes": [
+      "This location is only scheduling appointments for Madera County residents and those who work in Madera County. As of Feb 24, they are accommodating persons over the age of 50 who actively work in agriculture/food service or emergency services, and licensed childcare providers/educators of any age. This location is only scheduling appointments through the county website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.958746537496914,
     "Location Type": "Health department",
     "Longitude": -120.03679256798203,
@@ -94054,8 +94109,15 @@
   {
     "Address": "3280 Professional Dr, Auburn, CA 95602",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.mhealthappointments.com/covidappt"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Placer County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:24:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.943855,
@@ -98102,8 +98164,15 @@
   {
     "Address": "2700 Dolbeer St Pharmacy Services, Eureka, CA 95501",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/covidvaccine"
+    ],
+    "Availability Info": [
+      "No: only vaccinating staff"
+    ],
     "County": "Humboldt County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:07:22.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.7841025,
@@ -108146,10 +108215,21 @@
   {
     "Address": "2145 MARKET ST, SAN FRANCISCO, CA 94114",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:23:04.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.766625,
     "Location Type": "Pharmacy",
     "Longitude": -122.429511,
@@ -113552,16 +113632,21 @@
     "Address": "1420 E Roseville Pkwy Ste 130, Roseville, CA 95661",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "myremedyrx.com"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:25:16.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.761179,
     "Location Type": "Pharmacy",
     "Longitude": -121.249167,
@@ -121489,14 +121574,21 @@
   {
     "Address": "12120 New Airport Rd, Auburn, CA 95603",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/covidvaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:01:31.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.932522,
     "Location Type": "Pharmacy",
     "Longitude": -121.089905,
