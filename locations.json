@@ -10804,6 +10804,26 @@
     "id": "rec67dT1eqbixCkRF"
   },
   {
+    "Address": "7944 Birmingham Dr, San Diego, CA 92123",
+    "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Diego County",
+    "Has Report": 1,
+    "Latest report": "2021-02-24T01:43:53.000Z",
+    "Latest report notes": [
+      "Appointments for persons 65 years of age or older and individuals that fall in Phase 1a are available here:\nhttps://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#OP\n\nWhen checked on 2/23, appointments were available for Feb 27 and Feb 28."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 32.797615,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -117.153366,
+    "Name": "Sharp Memorial Hospital Knollwood Building",
+    "id": "rec68ILHWG7xEgt7g"
+  },
+  {
     "Address": "111 W Washington Ave, ESCONDIDO, CA 92025",
     "Affiliation": "Walgreens",
     "Availability Info": [
@@ -20933,18 +20953,17 @@
     "Address": "11961 VALLEY VIEW STREET, GARDEN GROVE, CA 92845",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/Covid-19"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-24T01:02:06.000Z",
     "Latest report notes": [
-      null
+      "This location is scheduling appointments through the county website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.789074,
@@ -21334,12 +21353,15 @@
   {
     "Address": "18080 Imperial Hwy., Yorba Linda CA, 92886",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9591"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:42.000Z",
+    "Latest report": "2021-02-24T01:14:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8927,
@@ -26290,14 +26312,20 @@
   {
     "Address": "2321 Hawthorne Blvd, Redondo Beach, CA 90278",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:20:16.000Z",
+    "Latest report notes": [
+      "Feb 23:  Will start administering vaccines at this location beginning Feb 24.  Staff and residents of long term care facilities, 65+, food workers, healthcare workers.  Book at: https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.873425,
     "Location Type": "Pharmacy",
     "Longitude": -118.352999,
@@ -31684,12 +31712,15 @@
   {
     "Address": "951 AVENIDA PICO, SAN CLEMENTE, CA 92673",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
+    "Latest report": "2021-02-24T01:37:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.45533,
@@ -33192,14 +33223,22 @@
   {
     "Address": "3000 S BRISTOL ST, SANTA ANA, CA 92704",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:34:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.707144,
     "Location Type": "Pharmacy",
     "Longitude": -117.885903,
@@ -34032,14 +34071,22 @@
   {
     "Address": "11900 BEACH BLVD, STANTON, CA 90680",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:12.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:19:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.789752,
     "Location Type": "Pharmacy",
     "Longitude": -117.992798,
@@ -34511,20 +34558,11 @@
   {
     "Address": "4141 Geary Blvd, SAN FRANCISCO, CA 94118",
     "Affiliation": "Kaiser",
-    "Appointment scheduling instructions": [
-      "kpdoc.org/covid19vaccineinfo or by calling 866 454 8855"
-    ],
-    "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
-    ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-03T21:17:24.000Z",
-    "Latest report notes": [
-      "Feb 03 yes, they do- online or call 866 454 8855 to make an appointment online kpdoc.org/covid19vaccineinfo"
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-24T01:49:13.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.780782,
     "Location Type": "Pharmacy",
     "Longitude": -122.463724,
@@ -36841,12 +36879,15 @@
   {
     "Address": "24382 MUIRLANDS BLVD, LAKE FOREST, CA 92630",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
+    "Latest report": "2021-02-24T01:20:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.628188,
@@ -39472,15 +39513,15 @@
     "Address": "13822 BROOKHURST STREET, GARDEN GROVE, CA 92843",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier "
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:43:07.000Z",
+    "Latest report": "2021-02-24T01:33:36.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through their website."
     ],
@@ -40166,12 +40207,15 @@
   {
     "Address": "1610 SAN MIGUEL DRIVE, NEWPORT BEACH, CA 92660",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:16.000Z",
+    "Latest report": "2021-02-24T01:03:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.613088,
@@ -46515,6 +46559,19 @@
     "id": "recPnZC6oBpxnlODe"
   },
   {
+    "Address": "Commerce, CA",
+    "Affiliation": "County",
+    "County": "Los Angeles County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.022396604252855,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -118.15341437773031,
+    "Name": "Altamed-Los Angeles",
+    "id": "recPns4QkB3Vrh1Bp"
+  },
+  {
     "Address": "6767 WESTMINSTER BOULEVARD, WESTMINSTER, CA 92683",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
@@ -48620,16 +48677,20 @@
     "Address": "6012 WARNER AVE, HUNTINGTON BEACH, CA 92647",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      " http://ritea.id/california"
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T19:40:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:49:36.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.715079,
     "Location Type": "Pharmacy",
     "Longitude": -118.023536,
@@ -56670,12 +56731,15 @@
   {
     "Address": "26531 Aliso Creek Rd, Aliso Viejo, CA 92656",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:42.000Z",
+    "Latest report": "2021-02-24T01:07:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.577209,
@@ -59011,12 +59075,15 @@
   {
     "Address": "1201 E YORBA LINDA BLVD, PLACENTIA, CA 92870",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:46.000Z",
+    "Latest report": "2021-02-24T01:16:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.88923,
@@ -61614,12 +61681,15 @@
   {
     "Address": "2291 W MALVERN AVE, FULLERTON, CA 92833",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:00:58.000Z",
+    "Latest report": "2021-02-24T01:41:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.878538,
@@ -63480,12 +63550,15 @@
   {
     "Address": "2000 W WHITTIER BLVD, LA HABRA, CA 90631",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-24T01:49:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.940007,
@@ -63967,16 +64040,20 @@
     "Address": "30842 S Pacific Coast, Highway, Pacific Coast Highway And Wesley, Laguna Beach CA, 92651",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "RITE AID OR COUNTY"
+      "https://www.cvs.com/store-locator/details-directions/9591"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-21T20:20:06.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T01:09:05.000Z",
+    "Latest report notes": [
+      "Feb 21: Currently not offering the vaccine at this location."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.5158,
     "Location Type": "Pharmacy",
     "Longitude": -117.7556,
@@ -72052,12 +72129,15 @@
   {
     "Address": "390 N. Brea Blvd, Brea CA, 92821",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-24T01:24:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9245,
@@ -72912,12 +72992,15 @@
   {
     "Address": "1020 Irvine Avenue, Newport Beach CA, 92660",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-24T01:11:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6287,
@@ -73065,14 +73148,16 @@
       "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T19:27:42.000Z",
+    "Latest report": "2021-02-24T01:09:27.000Z",
     "Latest report notes": [
-      "This location is only scheduling through their website."
+      "Feb 23:  Book online at https://www.riteaid.com/pharmacy/covid-qualifier\n\n\nThis location is only scheduling through their website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.727024,
@@ -73639,12 +73724,15 @@
   {
     "Address": "2595 E Imperial Hwy, BREA, CA 92821",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
+    "Latest report": "2021-02-24T01:39:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.913168,
@@ -77528,15 +77616,12 @@
   {
     "Address": "23072 ALICIA PKWY, MISSION VIEJO, CA 92692",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:54:56.000Z",
+    "Latest report": "2021-02-24T01:01:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.62469,
@@ -80039,12 +80124,15 @@
   {
     "Address": "13331 BEACH BLVD, WESTMINSTER, CA 92683",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
+    "Latest report": "2021-02-24T01:30:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.767516,
@@ -80346,12 +80434,15 @@
   {
     "Address": "30251 MURRIETA RD, MENIFEE, CA 92584",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "(530) 538-3379"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:53.000Z",
+    "Latest report": "2021-02-24T01:06:17.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.684411,
@@ -82662,6 +82753,12 @@
     "id": "reck7UHLPNpZiuYvN"
   },
   {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "reck8nN8LE7qUu3WY"
+  },
+  {
     "Address": "5901 W OLYMPIC BLVD SUITE 103, LOS ANGELES, CA 90036",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -83397,14 +83494,14 @@
     "Address": "8891 ATLANTA AVE, HUNTINGTON BEACH, CA 92646",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-21T18:30:37.000Z",
+    "Latest report": "2021-02-24T01:38:22.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.658293,
@@ -87993,12 +88090,15 @@
   {
     "Address": "440 N Euclid St, ANAHEIM, CA 92801",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
+    "Latest report": "2021-02-24T01:28:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.83637,
@@ -92748,12 +92848,15 @@
   {
     "Address": "5203 WEST WALNUT AVE, VISALIA, CA 93277",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T23:46:07.000Z",
+    "Latest report": "2021-02-24T01:24:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.311216,
