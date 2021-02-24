@@ -16213,12 +16213,15 @@
   {
     "Address": "121 E EL CAMINO REAL, MOUNTAIN VIEW, CA 94040",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
+    "Latest report": "2021-02-24T21:47:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.379016,
