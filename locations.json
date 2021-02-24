@@ -48034,18 +48034,18 @@
     "Address": "450 East A Street\nOakdale, California 95361",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      null
+      "No appointments required - shots offered on First Come, First Served Basis."
     ],
     "Availability Info": [
       "Yes: restricted to county residents",
-      "Yes: walk-ins accepted",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T21:38:58.000Z",
+    "Latest report": "2021-02-24T15:49:55.000Z",
     "Latest report notes": [
-      "Feb 10: 1st Dose Only: Friday 2/12/21 Time: 9am-4pm Walk-ins accepted Forms available: http://schsa.org/coronavirus/vaccine/; estimated 500 doses will be available."
+      "As per County website, following events scheduled for this week at this site:\n\nTuesday 2/23/21 ->2nd Dose - Moderna\nFriday 2/26/21 --> 1st Dose Only\n\nTime: 9am-4pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.77350747520138,
@@ -92456,7 +92456,7 @@
     "Address": "1000 L Street\nModesto CA 95354\nParking will be available at both City-operated garages on 9th & on 10th Street.",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "No appointments required - shots offered on First Come, First Served basis."
+      "No appointments required - shots offered on a First Come, First Serve basis."
     ],
     "Availability Info": [
       "Yes: restricted to county residents",
@@ -92465,9 +92465,9 @@
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T15:43:52.000Z",
+    "Latest report": "2021-02-24T15:39:42.000Z",
     "Latest report notes": [
-      "As per County website, following events scheduled for this week at this site:\n\nTuesday 2/23/21 ->2nd Dose - Moderna\nThursday 2/25/21 --> 1st Dose Only\n\nTime: 9am-4pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
+      "As per County website, following events scheduled for this week at this site:\n\nTuesday 2/23/21 ->2nd Dose - Moderna\nThursday 2/25/21-> 1st Dose Only\n\nTime: 9am-5pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.64233100354019,
@@ -121628,15 +121628,19 @@
   {
     "Address": "1 University Cir, Turlock, California 95382",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "No appointments required - shots are on a first come, first served basis."
+    ],
     "Availability Info": [
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T19:39:17.000Z",
+    "Latest report": "2021-02-24T15:52:25.000Z",
     "Latest report notes": [
-      "Feb 10: This second-dose only clinic takes place Thursday, Feb. 11 at Fitzpatrick Arena on campus. \nEntrance off Geer Road.\nParking in Lot 8 across from arena.\n\nThe county notes: \"Please bring your vaccine card with you!\nYou will be receiving a reminder phone call or text message two days before you are due for your shot.\""
+      "As per County website, following events scheduled for this week at this site:\n\nTuesday 2/23/21 ->2nd Dose - Moderna\nWednesday 2/24/21->1st & 2nd Doses\n\nTime: 9am-5pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.52597003583506,
