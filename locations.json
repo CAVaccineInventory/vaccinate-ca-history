@@ -20256,6 +20256,7 @@
     "id": "recAJAD0a19lXsBYj"
   },
   {
+    "Address": "7300 N. Fresno St. \nFresno 93720",
     "Affiliation": "Kaiser",
     "County": "Fresno County",
     "Has Report": 0,
@@ -78886,6 +78887,19 @@
     "id": "recdmSVsA3bIrwgAx"
   },
   {
+    "Address": "1303 E. Herndon Ave.\nFresno, California 93720",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Fresno County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.83551989699455,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.76548488659601,
+    "Name": "St Agnes Medical Center",
+    "id": "recdmrrZdggZhV8fH"
+  },
+  {
     "Address": "2222 COLORADO BLVD, LOS ANGELES, CA 90041",
     "Affiliation": "Walgreens",
     "Availability Info": [
@@ -90189,6 +90203,19 @@
     "Longitude": -121.78018297539289,
     "Name": "Dignity Health Medical Foundation - Woodland and Davis",
     "id": "recjaLcmyKT0qXlOP"
+  },
+  {
+    "Address": "568 E. Herndon Ave, Suite 201\nFresno, California 93720",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Fresno County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.83893155733508,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.77748180194159,
+    "Name": "Fresno Nephrology Group",
+    "id": "recjao9gpjjFURsTb"
   },
   {
     "Address": "1902 Marengo St Ste 105, Los Angeles, CA 90033",
