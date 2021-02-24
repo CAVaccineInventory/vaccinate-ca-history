@@ -1745,10 +1745,21 @@
   {
     "Address": "2633 ATLANTIC AVE, LONG BEACH, CA 90806",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      null
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T21:06:56.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.805087,
     "Location Type": "Pharmacy",
     "Longitude": -118.185335,
@@ -9252,14 +9263,22 @@
   {
     "Address": "291 MCCRAY STREET, Hollister, CA 95023",
     "Affiliation": "Lucky Pharmacy",
+    "Appointment scheduling instructions": [
+      "831-634-1887"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "San Benito County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:20:26.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.852889,
     "Location Type": "Pharmacy",
     "Longitude": -121.397683,
@@ -9575,15 +9594,15 @@
     "Address": "260 S LA BREA AVE, LOS ANGELES, CA 90036",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.ralphs.com/i/coronavirus-update/vaccine"
+      "sb.covid19.com"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T23:11:11.000Z",
+    "Latest report": "2021-02-24T21:15:04.000Z",
     "Latest report notes": [
       null
     ],
@@ -26305,12 +26324,15 @@
   {
     "Address": "333 El Camino Real, SAN BRUNO, CA 94066",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:00:56.000Z",
+    "Latest report": "2021-02-24T21:12:48.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.620363,
@@ -60401,12 +60423,15 @@
   {
     "Address": "2655 EL CAMINO REAL, TUSTIN, CA 92782",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
+    "Latest report": "2021-02-24T21:17:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.728186,
@@ -62094,12 +62119,15 @@
   {
     "Address": "617 W 7th St Ste 100, Los Angeles, CA 90017",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "sb.covid19.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
+    "Latest report": "2021-02-24T21:13:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.04779,
@@ -98417,13 +98445,17 @@
     "Address": "10355 WICKLOW WAY, Jackson, CA 95642",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Amador County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:49:15.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T21:19:34.000Z",
+    "Latest report notes": [
+      "No phone call appointments, need to book on walmart.com and expect stock around mid-March"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.360103,
     "Location Type": "Pharmacy",
     "Longitude": -120.807325,
@@ -100346,19 +100378,16 @@
     "Address": "111 East Avenue 26, Los Angeles, CA 90031",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "sb.covid19.com"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T19:25:02.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-24T21:02:58.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 34.076703,
     "Location Type": "Pharmacy",
     "Longitude": -118.215452,
