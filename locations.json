@@ -29935,10 +29935,21 @@
   {
     "Address": "1033 W Las Palmas Ave\nPatterson, CA 95363",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "No appointments required, shots on a first-come, first-served basis."
+    ],
+    "Availability Info": [
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
+    ],
     "County": "Stanislaus County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T16:08:03.000Z",
+    "Latest report notes": [
+      "As per County website, following events scheduled for this week at this site:\n\nFriday 2/26/21->1st & 2nd Doses\nTime: 9am-4pm\n\nEligibility:\nPhase 1A and 1B including:\n- Individuals 65 & older\n- Individuals Aged in 50 and over in sectors:\n--Agriculture and food\n--Education and childcare\n--Emergency services\n\nMore info at http://schsa.org/coronavirus/vaccine/"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.46669,
     "Location Type": "Super Site",
     "Longitude": -121.14286,
@@ -73203,6 +73214,19 @@
     "Longitude": -118.036482,
     "Name": "California Specialty Pharmacy",
     "id": "recanclmf0MJWqVr4"
+  },
+  {
+    "Address": "372 W. Cypress Avenue\nReedley, CA 93654",
+    "Affiliation": "Adventist Health",
+    "County": "Fresno County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.60861214891967,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.45181919823793,
+    "Name": "Adventist Health Reedley",
+    "id": "recancwQmomlaECEV"
   },
   {
     "Address": "28505 HESPERIAN BLVD, HAYWARD, CA 94545",
