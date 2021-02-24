@@ -230,10 +230,12 @@
   },
   {
     "Address": "415 S Garfield Ave, Alhambra, CA 91801",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0904351,
+    "Location Type": "Nursing home",
     "Longitude": -118.1240722,
     "Name": "Alhambra Healthcare   Wellness Centre",
     "id": "rec07UF9CrOmOM8rR"
@@ -1331,10 +1333,12 @@
   },
   {
     "Address": "15100 Prairie Ave, Lawndale, CA 90260",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8945105,
+    "Location Type": "Nursing home",
     "Longitude": -118.343626,
     "Name": "Lawndale Healthcare and Wellness Center",
     "id": "rec0ecUeWnW4Bt6ug"
@@ -1678,10 +1682,12 @@
   },
   {
     "Address": "4585 N Figueroa St, Los Angeles, CA 90065",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0982391,
+    "Location Type": "Nursing home",
     "Longitude": -118.2061053,
     "Name": "Montecito Heights Health and Wellness Center",
     "id": "rec0nd1eLcTJ3BKtn"
@@ -1987,6 +1993,7 @@
   },
   {
     "Address": "6136 Lake Murray Blvd, La Mesa, CA 91942",
+    "Affiliation": "Marque Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -2589,6 +2596,7 @@
   },
   {
     "Address": "3850 grand avenue, Oakland, CA 94610",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -2694,10 +2702,12 @@
   },
   {
     "Address": "1550 N Park Ave, Pomona, CA 91768",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0742044,
+    "Location Type": "Nursing home",
     "Longitude": -117.7541744,
     "Name": "Park Ave HC and WC",
     "id": "rec1WbJA4USdjFNlK"
@@ -3014,6 +3024,7 @@
   },
   {
     "Address": "3772 Tibbetts St, Riverside, CA 92506",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -4355,10 +4366,12 @@
   },
   {
     "Address": "950 S Flower St, Inglewood, CA 90301",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9506583,
+    "Location Type": "Nursing home",
     "Longitude": -118.3471329,
     "Name": "Centinela Skilled Nursing and Wellness Center",
     "id": "rec2Mt2F0lTdtFAsP"
@@ -6734,10 +6747,12 @@
   },
   {
     "Address": "12023 Lakewood Blvd, Downey, CA 90242",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9265476,
+    "Location Type": "Nursing home",
     "Longitude": -118.1311623,
     "Name": "Lakewood Healthcare Center",
     "id": "rec3S5SzdHcU1c8rs"
@@ -8812,6 +8827,7 @@
   },
   {
     "Address": "740 S Allied Way Suite D, El Segundo, CA 90245",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -9365,6 +9381,7 @@
   },
   {
     "Address": "10700 MACARTHUR BLVD 2nd Floor, Oakland, CA 94605",
+    "Affiliation": "Lifelong Medical care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -9388,6 +9405,7 @@
   },
   {
     "Address": "21034 Pacific Coast Hwy Level 2, Suite C230, Huntington Beach, CA 92648",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -10550,6 +10568,7 @@
   },
   {
     "Address": "1360 East Natoma Street, Folsom, CA 95630",
+    "Affiliation": "MDSTAT Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -11265,10 +11284,12 @@
   },
   {
     "Address": "2635 Honolulu Ave, Montrose, CA 91020",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2097817,
+    "Location Type": "Nursing home",
     "Longitude": -118.2366103,
     "Name": "Montrose Springs Skilled Nursing and Wellness Center",
     "id": "rec5vcEf87PJWlroU"
@@ -12495,6 +12516,7 @@
   },
   {
     "Address": "12301 Wilshire Blvd, Los Angeles, CA 90025",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -15895,6 +15917,7 @@
   },
   {
     "Address": "700 S Flower Street Suite 2340, Los Angeles, CA 90017",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -16625,6 +16648,7 @@
   },
   {
     "Address": "1045 N Lake Ave, Pasadena, CA 91104",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -16799,6 +16823,7 @@
   },
   {
     "Address": "10250 Santa Monica Blvd Suite  1280, Los Angeles, CA 90067",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -18480,6 +18505,7 @@
   },
   {
     "Address": "26926-B Cherry Hills Boulevard, Menifee, CA 92586",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -18782,6 +18808,7 @@
   },
   {
     "Address": "18785 Brookhurst St Suite 200, Fountain Valley, CA 92708",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -19211,6 +19238,7 @@
   },
   {
     "Address": "303 W. Lincoln Ave.,  105, Anaheim, CA 92805",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -20501,6 +20529,7 @@
   },
   {
     "Address": "1100 4th St., Taft, CA 93268",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -22387,6 +22416,7 @@
   },
   {
     "Address": "880 N State St, Hemet, CA 92543",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -26741,6 +26771,7 @@
   },
   {
     "Address": "4085 Governor Dr, San Diego, CA 92122",
+    "Affiliation": "Marque Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -27491,6 +27522,7 @@
   },
   {
     "Address": "2315 Otay Lakes Rd, Chula Vista, CA 91914",
+    "Affiliation": "Marque Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -27785,6 +27817,7 @@
   },
   {
     "Address": "391 Howe Avenue, Sacramento, CA 95825",
+    "Affiliation": "MDSTAT Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -28995,6 +29028,7 @@
   },
   {
     "Address": "1001 E. Grand Ave., Escondido, CA 92025",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -29892,6 +29926,7 @@
   },
   {
     "Address": "4821 Panama Ln Suite A-C, Bakersfield, CA 93313",
+    "Affiliation": "Priority Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -34181,6 +34216,7 @@
   },
   {
     "Address": "17762 Beach Blvd, Huntington Beach, CA 92647",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -34639,6 +34675,7 @@
   },
   {
     "Address": "13010 Poway Rd., Poway, CA 92064",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -36000,6 +36037,7 @@
   },
   {
     "Address": "1230 Columbia St Suite 100, San Diego, CA 92101",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -36430,10 +36468,12 @@
   },
   {
     "Address": "5125 Monte Vista Street, Los Angeles, CA 90042",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.108512,
+    "Location Type": "Nursing home",
     "Longitude": -118.2018099,
     "Name": "Highland Park Skilled Nursing   Wellness Centre, LLC",
     "id": "recIAmrNoT6J0qabo"
@@ -37117,6 +37157,7 @@
   },
   {
     "Address": "855 E Madison Ave, El Cajon, CA 92020",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -37315,6 +37356,7 @@
   },
   {
     "Address": "4490 Fanuel St, San Diego, CA 92109",
+    "Affiliation": "Marque Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -38574,10 +38616,12 @@
   },
   {
     "Address": "6070 W Pico Blvd, Los Angeles, CA 90035",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0525512,
+    "Location Type": "Nursing home",
     "Longitude": -118.3728634,
     "Name": "Country Villa Terrace Nursing Center",
     "id": "recJGNF5RvML4FcVd"
@@ -41758,6 +41802,7 @@
   },
   {
     "Address": "3850 Barranca Pkwy Suite KL, Irvine, CA 92606",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -42037,6 +42082,7 @@
   },
   {
     "Address": "2110 N Bellflower Blvd, Long Beach, CA 90815",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -43419,10 +43465,12 @@
   },
   {
     "Address": "11510 Imperial Highway, Norwalk, CA 90650",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9168152,
+    "Location Type": "Nursing home",
     "Longitude": -118.0877988,
     "Name": "Norwalk Skilled Nursing",
     "id": "recLx37ytyfT2evBZ"
@@ -43646,10 +43694,12 @@
   },
   {
     "Address": "3515 Overland Ave, Los Angeles, CA 90034",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.024094,
+    "Location Type": "Nursing home",
     "Longitude": -118.411565,
     "Name": "Country Villa South",
     "id": "recM2VkGX0oGVE1Bg"
@@ -43781,10 +43831,12 @@
   },
   {
     "Address": "1267 SAN GABRIEL BL, ROSEMEAD, CA 91770",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0429335,
+    "Location Type": "Nursing home",
     "Longitude": -118.0885845,
     "Name": "MONTEREY HEALTHCARE   WELLNESS CENTRE",
     "id": "recM6rh7yA06hcE5k"
@@ -44497,6 +44549,7 @@
   },
   {
     "Address": "8570  W Sunset Blvd Suite 1.5, West Hollywood, CA 90069",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -44930,6 +44983,7 @@
   },
   {
     "Address": "311 W Noble Ave, Visalia, CA 93277",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -46258,6 +46312,7 @@
   },
   {
     "Address": "1515 N Sunrise Way, Palm Springs, CA 92262",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -47603,6 +47658,7 @@
   },
   {
     "Address": "450 E. Spring Street  1, Long Beach, CA 90806",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -47821,6 +47877,7 @@
   },
   {
     "Address": "525 Broadway, Santa Monica, CA 90401",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -49577,6 +49634,7 @@
   },
   {
     "Address": "550 W. Washington Ave, Escondido, CA 92027",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -49691,6 +49749,7 @@
   },
   {
     "Address": "1190 Baker St,  100, Costa Mesa, CA 92626",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -56475,10 +56534,12 @@
   },
   {
     "Address": "855 N Fairfax Ave, Los Angeles, CA 90046",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0869946,
+    "Location Type": "Nursing home",
     "Longitude": -118.3616588,
     "Name": "Country Villa Wilshire",
     "id": "recSqwA7nlcRGoTe6"
@@ -57307,6 +57368,7 @@
   },
   {
     "Address": "10039 Vine Street., Lakeside, CA 92040",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -58176,6 +58238,7 @@
   },
   {
     "Address": "4505 La Jolla Village Dr Ste C5, San Diego, CA 92122",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -59690,6 +59753,7 @@
   },
   {
     "Address": "1345 Allen Rd Suite 300, Bakersfield, CA 93314",
+    "Affiliation": "Priority Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -61763,6 +61827,7 @@
   },
   {
     "Address": "7740 El Camino Real Suite F, Carlsbad, CA 92009",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -68971,6 +69036,7 @@
   },
   {
     "Address": "5256 Mission Boulevard, Riverside, CA 92509",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -71558,6 +71624,7 @@
   },
   {
     "Address": "201 29th Street Suite B, Sacramento, CA 95816",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -72096,10 +72163,12 @@
   },
   {
     "Address": "115 Bridge Street, San Gabriel, CA 91775",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1029437,
+    "Location Type": "Nursing home",
     "Longitude": -118.1130625,
     "Name": "Ivy Creek Healthcare   Wellness Centre",
     "id": "recaoCRWsDB2Hf93z"
@@ -73525,6 +73594,7 @@
   },
   {
     "Address": "386 14th Street, Oakland, CA 94612",
+    "Affiliation": "Lifelong Medical care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -73737,6 +73807,7 @@
   },
   {
     "Address": "728 E. Valley Parkway, Escondido, CA 92025",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -74297,6 +74368,7 @@
   },
   {
     "Address": "3055 W Ramsey St, Banning, CA 92220",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -78453,6 +78525,7 @@
   },
   {
     "Address": "722 Baker St, Costa Mesa, CA 92626",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -79306,6 +79379,7 @@
   },
   {
     "Address": "400 W. 30th Street, Los Angeles, CA 90007",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -79648,10 +79722,12 @@
   },
   {
     "Address": "1001 S Osage Ave, Inglewood, CA 90301",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9508648,
+    "Location Type": "Nursing home",
     "Longitude": -118.3459665,
     "Name": "Osage Healthcare and wellness centre",
     "id": "receri0wTDmJWtiIo"
@@ -80230,6 +80306,7 @@
   },
   {
     "Address": "4844 N First St. Ste 101, Fresno, CA 93726",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -81655,6 +81732,7 @@
   },
   {
     "Address": "30492 Gateway Pl, Mission Viejo, CA 92694",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -83472,6 +83550,7 @@
   },
   {
     "Address": "460 N. Elm St., Escondido, CA 92025",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -88307,6 +88386,7 @@
   },
   {
     "Address": "426 N Date St, Escondido, CA 92025",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -88426,6 +88506,7 @@
   },
   {
     "Address": "1133 Chelsea St, Ridgecrest, CA 93555",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -88902,6 +88983,7 @@
   },
   {
     "Address": "2505 Merced St, Fresno, CA 93721",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -93661,6 +93743,7 @@
   },
   {
     "Address": "350 Bon Air Center suite 200, greenbrae, CA 94904",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -95889,6 +95972,7 @@
   },
   {
     "Address": "4948 San Juan Avenue, Fair Oaks, CA 95628",
+    "Affiliation": "MDSTAT Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -102537,10 +102621,12 @@
   },
   {
     "Address": "12121 Santa Monica Blvd, Los Angeles, CA 90025",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0403137,
+    "Location Type": "Nursing home",
     "Longitude": -118.4642395,
     "Name": "Country Villa Westwood",
     "id": "recqqCQeEUmO6k80u"
@@ -102737,6 +102823,7 @@
   },
   {
     "Address": "860 Rd 214, Lindsay, CA 93247",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -102999,6 +103086,7 @@
   },
   {
     "Address": "1520 Nutmeg Pl Suite 101, Costa Mesa, CA 92626",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -104095,6 +104183,7 @@
   },
   {
     "Address": "2017 First Ave, San Diego, CA 92101",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -104297,6 +104386,7 @@
   },
   {
     "Address": "1801 Shattuck Ave Suite A, Berkeley, CA 94709",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -105819,6 +105909,7 @@
   },
   {
     "Address": "41840 Enterprise Cir N, Temecula, CA 92590",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -106824,6 +106915,7 @@
   },
   {
     "Address": "47923 Oasis St, Indio, CA 92201",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -107619,6 +107711,7 @@
   },
   {
     "Address": "9725 Wilshire Blvd, Beverly Hills, CA 90212",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -109038,6 +109131,7 @@
   },
   {
     "Address": "28477 Lizard Rocks Rd, Valley Center, CA 92082",
+    "Affiliation": "Neighborhood Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -109232,6 +109326,7 @@
   },
   {
     "Address": "4 Embarcadero Center Lobby level, San Francisco, CA 94111",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -109459,10 +109554,12 @@
   },
   {
     "Address": "6071 York Blvd, Los Angeles, CA 90042",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1178577,
+    "Location Type": "Nursing home",
     "Longitude": -118.1868338,
     "Name": "York Healthcare   Wellness Centre",
     "id": "recuUr9REAatzcB03"
@@ -109698,6 +109795,7 @@
   },
   {
     "Address": "5903 N Figueroa St, Los Angeles, CA 90042",
+    "Affiliation": "Planned Parenthood",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -113919,6 +114017,7 @@
   },
   {
     "Address": "150 Harbour Way, Richmond, CA 94801",
+    "Affiliation": "Lifelong Medical care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -114962,6 +115061,7 @@
   },
   {
     "Address": "1004 Northgate Dr, San Rafael, CA 94903",
+    "Affiliation": "OneMedical",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -117047,10 +117147,12 @@
   },
   {
     "Address": "3002 Rowena Ave., Los Angeles, CA 90039",
+    "Affiliation": "Rockport Healthcare",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1083062,
+    "Location Type": "Nursing home",
     "Longitude": -118.2699328,
     "Name": "COUNTRY VILLA LOS FELIZ",
     "id": "recyGNzbA6QkH37CQ"
@@ -118007,6 +118109,7 @@
   },
   {
     "Address": "7140 Indiana Ave, Riverside, CA 92504",
+    "Affiliation": "Riverside University Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -118401,6 +118504,7 @@
   },
   {
     "Address": "3409 Calloway Drive Unit 101, Bakersfield, CA 93312",
+    "Affiliation": "Priority Urgent Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -119626,6 +119730,7 @@
   },
   {
     "Address": "18785 Brookhurst St Suite 101, Fountain Valley, CA 92708",
+    "Affiliation": "MemorialCare Health Service",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -119784,6 +119889,7 @@
   },
   {
     "Address": "1110 W Visalia Rd Ste 102, Exeter, CA 93221",
+    "Affiliation": "Omni Family Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
