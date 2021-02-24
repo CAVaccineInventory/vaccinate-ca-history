@@ -405,6 +405,7 @@
   },
   {
     "Address": "355 Daniel Dr  105, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -2624,6 +2625,7 @@
   },
   {
     "Address": "105 Durian St, Vista, CA 92083",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -3204,10 +3206,12 @@
   },
   {
     "Address": "1801 Holser Walk Suite 310, Oxnard, CA 93036",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2204218,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.1571152,
     "Name": "Fresenius Kidney Care Oxnard",
     "id": "rec1mFFeCV2NPnhDr"
@@ -4449,6 +4453,7 @@
   },
   {
     "Address": "1383 N McDowell Blvd Suite 150, Petaluma, CA 94954",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -5807,10 +5812,12 @@
   },
   {
     "Address": "2339 W Valley Blvd, Alhambra, CA 91803",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0773575,
+    "Location Type": "Nursing home",
     "Longitude": -118.1494516,
     "Name": "Royal Gardens Healthcare",
     "id": "rec30MRs9Lfku98GP"
@@ -5864,6 +5871,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2809469,
+    "Location Type": "Nursing home",
     "Longitude": -118.4030485,
     "Name": "Sylmar Health   Rehabilitation",
     "id": "rec31dAs3MlNq9odD"
@@ -5930,6 +5938,7 @@
   },
   {
     "Address": "915 E Stowell Rd,  B, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -7194,6 +7203,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0949258,
+    "Location Type": "Nursing home",
     "Longitude": -118.3050817,
     "Name": "Fountain View Subacute and Nursing Center",
     "id": "rec3aLHM5JR152zFI"
@@ -8606,10 +8616,12 @@
   },
   {
     "Address": "1220 Huntington Dr, Duarte, CA 91010",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1379826,
+    "Location Type": "Nursing home",
     "Longitude": -117.978795,
     "Name": "Monrovia Post Acute",
     "id": "rec4OW0tqn6FvNcNj"
@@ -9287,6 +9299,7 @@
   },
   {
     "Address": "888 N Alta Ave, Dinuba, CA 93618",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -10313,6 +10326,7 @@
   },
   {
     "Address": "425 Del Sol Pkwy, Delano, CA 93215",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -12406,10 +12420,12 @@
   },
   {
     "Address": "5401 Fountain Ave., Los Angeles, CA 90029",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.095104,
+    "Location Type": "Nursing home",
     "Longitude": -118.3071203,
     "Name": "Hollywood Premier Healthcare Center",
     "id": "rec6PudAdMLQsRFAy"
@@ -12911,6 +12927,7 @@
   },
   {
     "Address": "180 W Shaw Ave  Suite B, Clovis, CA 93612",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -13951,6 +13968,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1005619,
+    "Location Type": "Nursing home",
     "Longitude": -118.1076722,
     "Name": "Live Oak Rehabilitation Center",
     "id": "rec7Cq7gpvMrrxEFK"
@@ -15079,6 +15097,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.08713,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.891739,
     "Name": "Mohan Dialysis Center of Covina",
     "id": "rec7hwlaAVpEAeTRv"
@@ -15468,10 +15487,12 @@
   },
   {
     "Address": "6737 N Willow Ave, Fresno, CA 93710",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8348246,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.7305167,
     "Name": "Fresenius Fresno North",
     "id": "rec7uORZu08VMzw32"
@@ -15969,6 +15990,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8137607,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.1890323,
     "Name": "LONG BEACH QUEST DIALYSIS CENTER",
     "id": "rec8AzDcSm9Yvo9El"
@@ -17100,6 +17122,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1307665,
+    "Location Type": "Nursing home",
     "Longitude": -118.0465105,
     "Name": "Huntington Drive Health and Rehabilitation Center",
     "id": "rec8nO7wS15S5HrcO"
@@ -17459,10 +17482,12 @@
   },
   {
     "Address": "5400 Fountain Ave., Los Angeles, CA 90029",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0946366,
+    "Location Type": "Nursing home",
     "Longitude": -118.30707,
     "Name": "Palazzo Post Acute",
     "id": "rec8xXMkuafT0q1Wv"
@@ -17510,6 +17535,7 @@
   },
   {
     "Address": "134 Grapevine Rd, Vista, CA 92083",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -17770,10 +17796,12 @@
   },
   {
     "Address": "1413 6th St, Coachella, CA 92236",
+    "Affiliation": "Kidney Institutes of the Desert",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.67843,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.1775417,
     "Name": "Coachella Kidney Institutes",
     "id": "rec95qUxoeszNYzju"
@@ -18744,6 +18772,7 @@
   },
   {
     "Address": "220 E Palisades   104, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -18819,6 +18848,7 @@
   },
   {
     "Address": "5549 Van Buren Boulevard, Riverside, CA 92503",
+    "Affiliation": "Unicare Community Health Center",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -19061,6 +19091,7 @@
   },
   {
     "Address": "1201 Alhambra Blvd Suite 300, Sacramento, CA 95816",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -19228,6 +19259,7 @@
   },
   {
     "Address": "717 Center St, Healdsburg, CA 95448",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -19802,10 +19834,12 @@
   },
   {
     "Address": "508 Contra Costa Blvd Suite D, Pleasant Hill, CA 94523",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.980647,
+    "Location Type": "Dialysis clinic",
     "Longitude": -122.0681807,
     "Name": "Fresenius Kidney Care - Concord",
     "id": "recAExdnj1sZOtBci"
@@ -19846,6 +19880,7 @@
   },
   {
     "Address": "808 Oak Ave, Greenfield, CA 93927",
+    "Affiliation": "Clinica de Salud del Valle de Salinas",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -21019,6 +21054,7 @@
   },
   {
     "Address": "280 Sierra College Drive Suite 120, Grass Valley, CA 95945",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -21507,6 +21543,7 @@
   },
   {
     "Address": "821 E Chapel St Ste 203, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -21590,10 +21627,12 @@
   },
   {
     "Address": "242 Harvard Blvd, Santa Paula, CA 93060",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3463372,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.0684429,
     "Name": "Fresenius Kidney Care Santa Paula",
     "id": "recB2soKPjEVE5Hd9"
@@ -23391,6 +23430,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1144444,
+    "Location Type": "Nursing home",
     "Longitude": -117.8563889,
     "Name": "Gladstone Care and Rehabilitation Center",
     "id": "recBsWIG7eo5XTVhI"
@@ -23505,6 +23545,7 @@
   },
   {
     "Address": "34 Mark West Springs Rd 3rd floor Ste. 310, Santa Rosa, CA 95403",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -24495,6 +24536,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2438209,
+    "Location Type": "Nursing home",
     "Longitude": -118.4504403,
     "Name": "Panorama Gardens Nursing and Rehabilitation",
     "id": "recCJWyiQmNvpZNud"
@@ -24938,10 +24980,12 @@
   },
   {
     "Address": "12831 Maclay St, Sylmar, CA 91342",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.304675,
+    "Location Type": "Nursing home",
     "Longitude": -118.412931,
     "Name": "Maclay Healthcare Center",
     "id": "recCZSemL8BJPLJ8R"
@@ -27401,6 +27445,7 @@
   },
   {
     "Address": "1015 Baker St  4, Bakersfield, CA 93305",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -28236,10 +28281,12 @@
   },
   {
     "Address": "43576 Washington St, La Quinta, CA 92253",
+    "Affiliation": "Kidney Institutes of the Desert",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.732025,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.3029615,
     "Name": "La Quinta Kidney Center",
     "id": "recED3HQRYkPkyFpK"
@@ -28392,6 +28439,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4814927,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.2902182,
     "Name": "Desert Cities Dialysis",
     "id": "recEJoZD8QNsGFSH0"
@@ -28801,6 +28849,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0804987,
+    "Location Type": "Nursing home",
     "Longitude": -118.3442223,
     "Name": "La Brea Rehabilitation Center",
     "id": "recEW0rcRRnpDrwbY"
@@ -28977,6 +29026,7 @@
   },
   {
     "Address": "2630 Tuolumne St, Fresno, CA 93721",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -29916,6 +29966,7 @@
   },
   {
     "Address": "821 E Chapel Suite 103, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -30713,6 +30764,7 @@
   },
   {
     "Address": "1780 E Bullard Ave, Fresno, CA 93710",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -30856,6 +30908,7 @@
   },
   {
     "Address": "950 Circle Dr, SALINAS, CA 93905",
+    "Affiliation": "Clinica de Salud del Valle de Salinas",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -31765,6 +31818,7 @@
   },
   {
     "Address": "954 N Vermont Ave, Los Angeles, CA 90029",
+    "Affiliation": "JWCH Institute",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -34261,10 +34315,12 @@
   },
   {
     "Address": "18876 Van Buren Boulevard Suite 101, Riverside, CA 92508",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8876533,
+    "Location Type": "Urgent care",
     "Longitude": -117.3329544,
     "Name": "Riverside Urgent Care",
     "id": "recHCX6q554IB4HEi"
@@ -34760,10 +34816,12 @@
   },
   {
     "Address": "39000 Bob Hope Dr  Probst Suite 103, Rancho Mirage, CA 92270",
+    "Affiliation": "Kidney Institutes of the Desert",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.761595,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.4066788,
     "Name": "Kidney Institutes at Eisenhower Medical Center",
     "id": "recHPrHhdNqMGkeeT"
@@ -35095,6 +35153,7 @@
   },
   {
     "Address": "301 Brundage Ln, Bakersfield, CA 93304",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -35169,6 +35228,7 @@
   },
   {
     "Address": "1201 Rose Ave, Selma, CA 93662",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -36941,6 +37001,7 @@
   },
   {
     "Address": "8170 Laguna Blvd. Suite 220, Elk Grove, CA 95758",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -41234,6 +41295,7 @@
   },
   {
     "Address": "914 PINE STREET, MOUNT SHASTA, CA 96067",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -42380,6 +42442,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1925011,
+    "Location Type": "Nursing home",
     "Longitude": -118.4648996,
     "Name": "California Healthcare and Rehabilitation Center",
     "id": "recLM7bSAXhYY4m4m"
@@ -43477,6 +43540,7 @@
   },
   {
     "Address": "1570 7th St, Sanger, CA 93657",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -43587,6 +43651,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.052857,
+    "Location Type": "Nursing home",
     "Longitude": -118.3171739,
     "Name": "Alcott Rehabilitation Hospital",
     "id": "recLzp9nXqybX79lT"
@@ -44229,10 +44294,12 @@
   },
   {
     "Address": "7700 Imperial Hwy   R, Downey, CA 90242",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9262225,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.1577531,
     "Name": "FRESENIUS KIDNEY CARE LYNWOOD",
     "id": "recMKkolUjbaLJDAn"
@@ -45068,6 +45135,7 @@
   },
   {
     "Address": "927 O St, Firebaugh, CA 93622",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -46809,6 +46877,7 @@
   },
   {
     "Address": "122 E San Antonio Dr, King City, CA 93930",
+    "Affiliation": "Clinica de Salud del Valle de Salinas",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -47693,10 +47762,12 @@
   },
   {
     "Address": "81-715 Dr Carreon Blvd, Indio, CA, USA Dr Carreon Blvd, Indio, CA 92201",
+    "Affiliation": "Kidney Institutes of the Desert",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7070253,
+    "Location Type": "Dialysis clinic",
     "Longitude": -116.2387999,
     "Name": "Kidney Institutes of the Desert",
     "id": "recOQ97NwRPOO5MJK"
@@ -47797,6 +47868,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.025158,
+    "Location Type": "Nursing home",
     "Longitude": -118.48557,
     "Name": "Beachwood Post-Acute and Rehab",
     "id": "recOUmRtIYC00HDm1"
@@ -48899,6 +48971,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.232548,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.4048156,
     "Name": "Laurel Canyon Dialysis",
     "id": "recOyLI4Onydrrjmk"
@@ -49686,6 +49759,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1398403,
+    "Location Type": "Nursing home",
     "Longitude": -118.3798489,
     "Name": "Studio City Rehabilitation Center",
     "id": "recPL5AOXgontdKkn"
@@ -51152,6 +51226,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.162609,
+    "Location Type": "Nursing home",
     "Longitude": -118.311773,
     "Name": "Burbank Healthcare and Rehabilitation Center",
     "id": "recQ9gNU63PajXLlX"
@@ -51608,6 +51683,7 @@
   },
   {
     "Address": "7800 Niles St, Bakersfield, CA 93306",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -52082,6 +52158,7 @@
   },
   {
     "Address": "1755 Court St., Redding, CA 96001",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -52848,6 +52925,7 @@
   },
   {
     "Address": "1305 Bear Mountain Blvd, Arvin, CA 93203",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -55606,6 +55684,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9170494,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.4434204,
     "Name": "MK DIalysis Center at Riverside DBA Van Buren Dialysis Center",
     "id": "recSKb9hh7yBUx2x3"
@@ -55663,6 +55742,7 @@
   },
   {
     "Address": "3000 Q St, Sacramento, CA 95816",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -58582,10 +58662,12 @@
   },
   {
     "Address": "4345 Arden Way, Sacramento, CA 95864",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5965304,
+    "Location Type": "Urgent care",
     "Longitude": -121.3628741,
     "Name": "Urgent Care Now - Arden",
     "id": "recTke6xmOi14Ae8f"
@@ -58939,10 +59021,12 @@
   },
   {
     "Address": "3801 Las Posas Rd  Suite 103, Camarillo, CA 93010",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.242056,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.019476,
     "Name": "Fresenius Kidney Care Camarillo",
     "id": "recTvW1fvIs4vi2AY"
@@ -60794,6 +60878,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9164811,
+    "Location Type": "Nursing home",
     "Longitude": -118.0998901,
     "Name": "Intercommunity Healthcare and Rehabilitation center",
     "id": "recUsZcwFrITH4MLH"
@@ -61388,10 +61473,12 @@
   },
   {
     "Address": "222 Pesetas Ln, Santa Barbara, CA 93110",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4435502,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.7580227,
     "Name": "Fresenius Kidney Care Santa Barbara",
     "id": "recVBqIOWUi1WObe2"
@@ -62852,6 +62939,7 @@
   },
   {
     "Address": "3838 San Dimas St Suite A-200, Bakersfield, CA 93301",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -63397,6 +63485,7 @@
   },
   {
     "Address": "575 Auto Center Dr, Watsonville, CA 95076",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -63441,6 +63530,7 @@
   },
   {
     "Address": "131-B Stony Cir, Santa Rosa, CA 95401",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -63451,6 +63541,7 @@
   },
   {
     "Address": "8530 Firestone Blvd, Downey, CA 90241",
+    "Affiliation": "JWCH Institute",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -64114,10 +64205,12 @@
   },
   {
     "Address": "1181 N Mt Vernon Ave, Colton, CA 92324",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0772561,
+    "Location Type": "Urgent care",
     "Longitude": -117.3148889,
     "Name": "Colton Urgent Care Center",
     "id": "recWmHJ6IUZq5RO1h"
@@ -65152,6 +65245,7 @@
   },
   {
     "Address": "7115 Greenback Ln 3rd Floor, Citrus Heights, CA 95621",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -65977,6 +66071,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1739539,
+    "Location Type": "Nursing home",
     "Longitude": -118.5358006,
     "Name": "Tarzana Health and Rehabilitation Center",
     "id": "recXgK8IGU2Vjy3SV"
@@ -66096,6 +66191,7 @@
   },
   {
     "Address": "1700 Prairie City Rd, Folsom, CA 95630",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -66739,6 +66835,7 @@
   },
   {
     "Address": "1301 Shoreway rd  Suite 100, Belmont, CA 94002",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -66766,10 +66863,12 @@
   },
   {
     "Address": "909 S. Lake St., Los Angeles, CA 90006",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0537794,
+    "Location Type": "Nursing home",
     "Longitude": -118.2800968,
     "Name": "California Post Acute",
     "id": "recY77y1NBGOO9wUM"
@@ -67100,6 +67199,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3677437,
+    "Location Type": "Nursing home",
     "Longitude": -119.0572332,
     "Name": "Encompass Health Rehabilitation Hospital of Bakersfield, LLC",
     "id": "recYFgB7ghfZ77MN7"
@@ -67438,6 +67538,7 @@
   },
   {
     "Address": "106 E Main St, Fowler, CA 93625",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -69320,10 +69421,12 @@
   },
   {
     "Address": "451 S Brand Blvd, San Fernando, CA 91340",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2801382,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.442418,
     "Name": "Fresenius Medical Care of San Fernando",
     "id": "recZQPPmxvxNZbeAP"
@@ -70001,6 +70104,7 @@
   },
   {
     "Address": "1790 E Manning Ave, Reedley, CA 93654",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -71222,6 +71326,7 @@
   },
   {
     "Address": "7115 Greenback Ln 2nd Floor, Citrus Heights, CA 95621",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -72008,6 +72113,7 @@
   },
   {
     "Address": "4700 N River Rd, Oceanside, CA 92057",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -72545,10 +72651,12 @@
   },
   {
     "Address": "2386 Buchanan Rd, Antioch, CA 94509",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9993622,
+    "Location Type": "Dialysis clinic",
     "Longitude": -121.8406875,
     "Name": "Fresenius West Antioch",
     "id": "recb2CBWuIJEM3u1i"
@@ -73031,6 +73139,7 @@
   },
   {
     "Address": "1505 S Shepard Drive  104, Santa Maria, CA 93454",
+    "Affiliation": "Central Coast Family Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -76175,10 +76284,12 @@
   },
   {
     "Address": "630 W. Broadway, Glendale, CA 91204",
+    "Affiliation": "Beecan Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.146673,
+    "Location Type": "Nursing home",
     "Longitude": -118.267919,
     "Name": "Royal Palms Post Acute",
     "id": "reccsylkoFepbTK1d"
@@ -76393,6 +76504,7 @@
   },
   {
     "Address": "1600 Market St, San Francisco, CA 94102",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -76536,6 +76648,7 @@
   },
   {
     "Address": "315 MERCY AVE SUITE 400, MERCED, CA 95340",
+    "Affiliation": "Dignity Health",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -77858,6 +77971,7 @@
   },
   {
     "Address": "5300 Snyder Ln, Rohnert Park, CA 94928",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -77962,10 +78076,12 @@
   },
   {
     "Address": "3470 La Sierra Ave STE E, Riverside, CA 92503",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8983001,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.4736175,
     "Name": "FRESENIUS MEDICAL CARE OF RIVERSIDE",
     "id": "recdsXKdKOgohlcv7"
@@ -78311,6 +78427,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2817282,
+    "Location Type": "Nursing home",
     "Longitude": -118.4036438,
     "Name": "San Fernando Subacute Rehabilitation Center dba Golden Legacy Care Center",
     "id": "rece7FRKPBynsiJk2"
@@ -78755,6 +78872,7 @@
   },
   {
     "Address": "3591 E Imperial Hwy, Lynwood, CA 90262",
+    "Affiliation": "JWCH Institute",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -79838,6 +79956,7 @@
   },
   {
     "Address": "107 N McKinley St, Corona, CA 92879",
+    "Affiliation": "Unicare Community Health Center",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -80511,10 +80630,12 @@
   },
   {
     "Address": "2679 Saviers Rd Suite B, Oxnard, CA 93033",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1753327,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.1801427,
     "Name": "Fresenius Kidney Care Channel Islands",
     "id": "recfH8W73BhNr4sl8"
@@ -80798,19 +80919,11 @@
   {
     "Address": "2500 Milvia St, Berkeley, CA 94704\n",
     "Affiliation": "John Muir",
-    "Appointment scheduling instructions": [
-      "myhealthonline.sutterhealth.org"
-    ],
-    "Availability Info": [
-      "Yes: appointment required"
-    ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-07T22:47:45.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-24T04:19:43.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.8633137,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2702183,
@@ -81445,6 +81558,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.208471,
+    "Location Type": "Nursing home",
     "Longitude": -118.6071931,
     "Name": "Canyon Oaks Nursing   Rehabilitation Center",
     "id": "recfkC9L8HmppO4VS"
@@ -83509,6 +83623,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0710571,
+    "Location Type": "Nursing home",
     "Longitude": -118.008448,
     "Name": "Eastland Subacute and Rehab LLC",
     "id": "recglt7hMu2cD7F0Q"
@@ -84134,6 +84249,7 @@
   },
   {
     "Address": "12360 Firestone Blvd, Norwalk, CA 90650",
+    "Affiliation": "JWCH Institute",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -86166,6 +86282,7 @@
   },
   {
     "Address": "6810 N Milburn Ave, Fresno, CA 93722",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -86684,6 +86801,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.220532,
+    "Location Type": "Nursing home",
     "Longitude": -118.608751,
     "Name": "Topanga Terrace Rehabilitation and Subacute",
     "id": "reciQT8Jubnjo6wok"
@@ -87184,6 +87302,7 @@
   },
   {
     "Address": "449 S Madera Ave, Kerman, CA 93630",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -87808,6 +87927,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0772646,
+    "Location Type": "Nursing home",
     "Longitude": -117.754415,
     "Name": "Inland Valley Care   Rehabilitation Center",
     "id": "recj5al5tbScZMg6R"
@@ -87925,6 +88045,7 @@
   },
   {
     "Address": "1611 1st St, Bakersfield, CA 93304",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -89816,10 +89937,12 @@
   },
   {
     "Address": "4567 Telephone Rd  101, Ventura, CA 93003",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2559186,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.235728,
     "Name": "Fresenius Kidney Care Ventura",
     "id": "reckAEqoyGduuKEi2"
@@ -90228,10 +90351,12 @@
   },
   {
     "Address": "16255 Laguna Canyon Rd, Irvine, CA 92618",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6590557,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.7696184,
     "Name": "RAI Laguna Canyon- Irvine",
     "id": "reckQ3racMof8y4GN"
@@ -91170,10 +91295,12 @@
   },
   {
     "Address": "2163 Country Hills Dr, Antioch, CA 94509",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9701896,
+    "Location Type": "Dialysis clinic",
     "Longitude": -121.7854707,
     "Name": "Fresenius Medical Care Diablo Nephrology clinics, LLC",
     "id": "recktDyzeKmA3FUhv"
@@ -92842,6 +92969,7 @@
   },
   {
     "Address": "2000 Physicians Blvd, Bakersfield, CA 93301",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -93034,6 +93162,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0687126,
+    "Location Type": "Nursing home",
     "Longitude": -117.9603356,
     "Name": "Garden  View Post Acute Rehab",
     "id": "reclvRrGsJKcz1hax"
@@ -93513,6 +93642,7 @@
   },
   {
     "Address": "2497 Herndon Ave, Clovis, CA 93611",
+    "Affiliation": "United Health Centers of the San Joaquin Valley",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -94522,6 +94652,7 @@
   },
   {
     "Address": "2409 N Broadway, Los Angeles, CA 90031",
+    "Affiliation": "Unicare Community Health Center",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -96137,6 +96268,7 @@
   },
   {
     "Address": "702 S Eight Street, Kerman, CA 93630",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -100932,10 +101064,12 @@
   },
   {
     "Address": "33494 Oak Glen Rd, Yucaipa, CA 92399",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0324211,
+    "Location Type": "Urgent care",
     "Longitude": -117.0741003,
     "Name": "Yucaipa Urgent Care Center",
     "id": "recpt6M0U5pR7nCcs"
@@ -101346,7 +101480,7 @@
     "id": "recqCZED8PbXYkdUE"
   },
   {
-    "Address": "120 S. Main Street Suite B, Alturas, CA 96101",
+    "Address": "1111 N. Nagle Street\nAlturas, CA 96101",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       "Uses county scheduling system"
@@ -101942,6 +102076,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8086757,
+    "Location Type": "Urgent care",
     "Longitude": -119.859417,
     "Name": "AFC Urgent Care Fresno",
     "id": "recqUyEi73FDkqfEB"
@@ -102353,6 +102488,7 @@
   },
   {
     "Address": "21890 W Colorado Ave, San Joaquin, CA 93660",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -102752,10 +102888,12 @@
   },
   {
     "Address": "38910 Trade Center Dr, Palmdale, CA 93551",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.5885546,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.1420963,
     "Name": "FKC Palmdale",
     "id": "recqswMhTFe7SJdjL"
@@ -104755,6 +104893,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3107399,
+    "Location Type": "Nursing home",
     "Longitude": -118.438815,
     "Name": "ASTORIA NURSING   REHABILITATION CENTER",
     "id": "recrrawWyJk8XCJLF"
@@ -105304,6 +105443,7 @@
   },
   {
     "Address": "30195 Fraser Dr, Lake Elsinore, CA 92530",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -107188,6 +107328,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2460714,
+    "Location Type": "Nursing home",
     "Longitude": -118.4682033,
     "Name": "Country Villa Sheraton Nursing and Rehabilitation Center",
     "id": "rectAeAbFQRxkjt6L"
@@ -107241,10 +107382,12 @@
   },
   {
     "Address": "301 W Redlands Blvd, Redlands, CA 92373",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0570628,
+    "Location Type": "Urgent care",
     "Longitude": -117.1861083,
     "Name": "Redlands Urgent Care Center",
     "id": "rectDAhVJleDLfJr6"
@@ -107765,10 +107908,12 @@
   },
   {
     "Address": "27640 Eucalyptus Ave, Moreno Valley, CA 92555",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9384802,
+    "Location Type": "Urgent care",
     "Longitude": -117.1809334,
     "Name": "Moreno Beach Urgent Care",
     "id": "rectVKcBxEKxhXXjw"
@@ -108898,6 +109043,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2153783,
+    "Location Type": "Nursing home",
     "Longitude": -118.605744,
     "Name": "West Hills Health   Rehabilation Center",
     "id": "recu3OlvyOrXxVJ4r"
@@ -109570,6 +109716,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9517001,
+    "Location Type": "Nursing home",
     "Longitude": -116.4746874,
     "Name": "Affinity Recovery",
     "id": "recuUrTxUrygtCcwo"
@@ -109580,6 +109727,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6976034,
+    "Location Type": "Nursing home",
     "Longitude": -120.9757516,
     "Name": "Encompass Health Rehabilitation Hospital of Modesto",
     "id": "recuVVeMClqQAhpyE"
@@ -112294,6 +112442,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.606407,
+    "Location Type": "Nursing home",
     "Longitude": -117.1617133,
     "Name": "Encompass Health Rehabilitation Hospital of Murrieta",
     "id": "recvwVhpKWSgUS1WR"
@@ -112438,6 +112587,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.05911,
+    "Location Type": "Nursing home",
     "Longitude": -118.411759,
     "Name": "California Rehabilitation Institute, LLC",
     "id": "recvzLN6l6wRLufSw"
@@ -112825,10 +112975,12 @@
   },
   {
     "Address": "3150 W Lincoln Ave, Anaheim, CA 92801",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8316213,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.0003501,
     "Name": "Fresenius Medaical Care Anaheim",
     "id": "recw92C88CnhkGSyB"
@@ -113121,6 +113273,7 @@
   },
   {
     "Address": "3100 Douglas Blvd, Roseville, CA 95661",
+    "Affiliation": "Sutter",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -113665,6 +113818,7 @@
   },
   {
     "Address": "1250 Smith St, Kingsburg, CA 93631",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -114132,10 +114286,12 @@
   },
   {
     "Address": "14550 Haynes St., Van Nuys, CA 91411",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1895499,
+    "Location Type": "Urgent care",
     "Longitude": -118.4506425,
     "Name": "SCMC - 14550 Haynes St.",
     "id": "recwlkTyMCHKIxyvR"
@@ -114528,6 +114684,7 @@
   },
   {
     "Address": "15898 Gale Ave, Hacienda Heights, CA 91745",
+    "Affiliation": "JWCH Institute",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -114927,6 +115084,7 @@
   },
   {
     "Address": "4711 W Ashlan Ave, Fresno, CA 93722",
+    "Affiliation": "Valley Health Team",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -115804,6 +115962,7 @@
   },
   {
     "Address": "1000 Vale Terrace Dr Ste 101, Vista, CA 92084",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -116331,6 +116490,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0617762,
+    "Location Type": "Nursing home",
     "Longitude": -118.2730813,
     "Name": "Country Villa Rehabilitation",
     "id": "recxwLcaeYrFyju0H"
@@ -117159,6 +117319,7 @@
   },
   {
     "Address": "2400 Wible Rd  SUITE 14, Bakersfield, CA 93304",
+    "Affiliation": "Clinica Sierra Vista",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -117301,20 +117462,24 @@
   },
   {
     "Address": "6733 N Willow Ste 101, Fresno, CA 93710",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8348246,
+    "Location Type": "Dialysis clinic",
     "Longitude": -119.7305167,
     "Name": "Fresenius Kidney Care Fresno Home",
     "id": "recyJg8QYkgRT7RFp"
   },
   {
     "Address": "27420 Iris Ave, Moreno Valley, CA 92555",
+    "Affiliation": "Fresenius Kidney Care",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8972891,
+    "Location Type": "Dialysis clinic",
     "Longitude": -117.1845926,
     "Name": "FRESENIUS MEDICAL CARE MORENO VALLEY",
     "id": "recyJutXKANLLp4pX"
@@ -117918,6 +118083,7 @@
   },
   {
     "Address": "10561 Merritt St, Castroville, CA 95012",
+    "Affiliation": "Clinica de Salud del Valle de Salinas",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -118494,10 +118660,12 @@
   },
   {
     "Address": "1295 Hamner Ave Suite C, Norco, CA 92860",
+    "Affiliation": "Southern California Emergency Medicine",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9001096,
+    "Location Type": "Urgent care",
     "Longitude": -117.561617,
     "Name": "Norco Urgent Care Center",
     "id": "recz3t3h6AjCHEKFK"
@@ -119163,6 +119331,7 @@
   },
   {
     "Address": "818 Pier View Way, Oceanside, CA 92054",
+    "Affiliation": "Vista Community Clinic",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
