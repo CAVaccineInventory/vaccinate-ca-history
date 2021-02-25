@@ -14206,14 +14206,21 @@
   {
     "Address": "7155 VAN NUYS BLVD, VAN NUYS, CA 91405",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:52.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T03:18:32.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.200847,
     "Location Type": "Pharmacy",
     "Longitude": -118.448959,
@@ -91740,14 +91747,21 @@
   {
     "Address": "8975 N CHESTNUT AVE, FRESNO, CA 93720",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T03:14:03.000Z",
+    "Latest report notes": [
+      "Walgreens will not validate if they have appts available and are following CA guidelines for eligible recipients "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.866275,
     "Location Type": "Pharmacy",
     "Longitude": -119.739444,
