@@ -113125,17 +113125,19 @@
     "Address": "2111 GOLDEN CENTRE LANE GOLD RIVER CENTRE, RANCHO CORDOVA, CA 95670",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/covid-19"
+      null
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T00:38:19.000Z",
+    "Latest report": "2021-02-25T20:38:01.000Z",
     "Latest report notes": [
-      "Vaccination appointments available Tue-Sat, 10am to 4pm at this location"
+      "Vaccination appointments will be available again in mid-March ; 10am to 4pm at this location (lunch break in between)"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.62669,
