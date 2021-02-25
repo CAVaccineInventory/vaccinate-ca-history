@@ -1351,7 +1351,7 @@
     "id": "rec0bFo3AVR8XJSOS"
   },
   {
-    "Address": "999 San Bernardino Road, Upland CA 91786",
+    "Address": "999 San Bernardino Road, Upland, CA 91786",
     "Affiliation": "None / Unknown / Unimportant",
     "County": "San Bernardino County",
     "Has Report": 0,
@@ -6315,7 +6315,7 @@
     "id": "rec2yejyDvHnUiELc"
   },
   {
-    "Address": "350 Terracina Blvd., Redlands CA 92373",
+    "Address": "350 Terracina Blvd., Redlands, CA 92373",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: not open to the public"
@@ -56821,7 +56821,7 @@
     "id": "recQIvrPbPHVheISX"
   },
   {
-    "Address": "10801 Sixth Street, Rancho Cucamonga\nCA 91730, USA",
+    "Address": "10801 Sixth Street, Rancho Cucamonga\nCA 91730",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Call (909) 387-3911 or visit http://sbcovid19.com/vaccine to check eligibility and schedule your appointment."
