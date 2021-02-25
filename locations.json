@@ -19052,14 +19052,20 @@
   {
     "Address": "4077 GOVERNOR DRIVE, SAN DIEGO, CA 92122",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:00:41.000Z",
+    "Latest report notes": [
+      "Feb 25: pharmacist thinks teachers will be prioritized soon"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.854147,
     "Location Type": "Pharmacy",
     "Longitude": -117.202522,
@@ -26740,8 +26746,15 @@
   {
     "Address": "101 S Euclid St, Anaheim, CA 92802",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:00:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.83120865,
@@ -49747,15 +49760,16 @@
     "Address": "200 E SEPULVEDA BLVD, CARSON, CA 90745",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "Visit http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/ to find out if you're eligible for the vaccine and how you can make an appointment"
+      "publichealth.lacounty.gov"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T22:59:32.000Z",
     "Latest report notes": [
       null
     ],
