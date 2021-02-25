@@ -8210,6 +8210,28 @@
     "id": "rec3ydWthqWVPSixE"
   },
   {
+    "Address": "31049 CA-79, Warner Springs, CA 92086",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Schedule online: https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#OP"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Diego County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T04:24:48.000Z",
+    "Latest report notes": [
+      "A vaccination clinic is being held on Feb 28 and 29 for people 65+ and healthcare workers. Appointments can be scheduled here: https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/vax-schedule-appointment.html#OP.\n\nWhen checked on 2/24, appointment slots were still available for Feb 29."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 33.277327,
+    "Longitude": -116.640095,
+    "Name": "Operation Collaboration - Warner Springs Fire Station 52",
+    "id": "rec3zBn3qRThnOSAi"
+  },
+  {
     "Address": "1045 G St, Reedley, CA 93654",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
