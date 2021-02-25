@@ -53415,6 +53415,25 @@
     "id": "recQUl9jD3XfOBcgK"
   },
   {
+    "Address": "400 W Pueblo Street, Santa Barbara, CA 93102",
+    "Availability Info": [
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Santa Barbara County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T06:58:03.000Z",
+    "Latest report notes": [
+      "Currently individuals age 65 and older are eligible to receive vaccine from Cottage Health. You can sign up for the waitlist to be emailed when an appointment slot becomes available: https://www.cottagehealth.org/coronavirus-covid-19/vaccine-information-signup/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.429483,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.723077,
+    "Name": "Cottage Health",
+    "id": "recQUrGq2efWBYUdL"
+  },
+  {
     "Address": "3280 Foothill Blvd 1st Floor Ste 16, Pasadena, CA 91107",
     "Affiliation": "Kaiser",
     "County": "Los Angeles County",
@@ -81664,6 +81683,25 @@
     "Longitude": -117.310552,
     "Name": "OCEANSIDE PHARMACY",
     "id": "recenRsG08gqsAesA"
+  },
+  {
+    "Address": "1024 Prince Avenue, Healdsburg, CA 95448",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Sonoma County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T07:07:26.000Z",
+    "Latest report notes": [
+      "Currently vaccinating persons 65 and older, education and childcare workers, agriculture and food workers, grocery and restaurant workers, and emergency services.\n\nIf you think you meet the criteria and want us to schedule an appointment, please send an email to:  Covid19vaccine@alliancemed.org and give us your name, age, occupation, and contact information (phone and email if you have them).  We will have a volunteer or staff scheduler contact you to set up an appointment.\n\nPlease see https://alliancemed.org for more information."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 38.621841,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -122.868053,
+    "Name": "Alliance Medical - Healdsburg High School",
+    "id": "recense5fybGBRL1G"
   },
   {
     "Address": "2004 El Camino Real, Santa Clara CA, 95050",
