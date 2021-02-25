@@ -17840,6 +17840,24 @@
     "id": "rec8Gcehw7LzhSPhI"
   },
   {
+    "Address": "10431 Allen Way, Lucerne Valley, CA 92356",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T16:20:57.000Z",
+    "Latest report notes": [
+      "Vaccinating county residents 65+. You can sign up for an appointment slot for Feb 26 online: https://www.calvax.org/reg/9901620552. When checked on 2/25, slots were still available.\n\nFor future dates, please see https://sbcovid19.com/vaccine/locations/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.44262,
+    "Longitude": -116.941442,
+    "Name": "Lucerne Valley Senior Center",
+    "id": "rec8HA83kk4PbbIlZ"
+  },
+  {
     "Address": "800 N. Westwood St., Porterville, CA 93257",
     "Affiliation": "CVS",
     "County": "Tulare County",
@@ -37310,6 +37328,21 @@
     "Longitude": -121.84885,
     "Name": "Jackson Medical Pharmacy",
     "id": "recGzcsez93qd3soJ"
+  },
+  {
+    "Address": "29101 Hospital Road, Lake Arrowhead, CA 92352",
+    "Availability Info": [
+      "No: no vaccine inventory"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T16:43:13.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.2659,
+    "Longitude": -117.167092,
+    "Name": "Mountain Community Hospital District",
+    "id": "recH0BsS6hfmzVo3E"
   },
   {
     "Address": "Copeland Health Education Pavilion, located on the French Hospital Medical Center campus at 1911 Johnson Avenue, San Luis Obispo",
@@ -56821,7 +56854,7 @@
     "id": "recQIvrPbPHVheISX"
   },
   {
-    "Address": "10801 Sixth Street, Rancho Cucamonga\nCA 91730",
+    "Address": "10801 Sixth Street, Rancho Cucamonga,\nCA 91730",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Call (909) 387-3911 or visit http://sbcovid19.com/vaccine to check eligibility and schedule your appointment."
@@ -70715,6 +70748,28 @@
     "id": "recWmsOqaNn8eDYb7"
   },
   {
+    "Address": "1881 West Baseline St., San Bernardino, CA 92411",
+    "Appointment scheduling instructions": [
+      "Online at https://sbcovid19.com/vaccine/locations/"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T16:32:38.000Z",
+    "Latest report notes": [
+      "When checked on 2/25, no appointments at this site were available. Please check https://sbcovid19.com/vaccine/locations/ for availability."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.121332,
+    "Longitude": -117.32855,
+    "Name": "Arroyo Valley High School",
+    "id": "recWnOr3VkxV6RbMw"
+  },
+  {
     "Address": "1275 AIRPORT PARK BLVD, UKIAH, CA 95482",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
@@ -74650,6 +74705,28 @@
     "Longitude": -118.08523482698557,
     "Name": "Excer Urgent Care",
     "id": "recYd5cNoxxZu43h1"
+  },
+  {
+    "Address": "18300 Highway 18, Apple Valley, CA 92307",
+    "Appointment scheduling instructions": [
+      "Online at https://coronavirus.providence.org/blog/uf/647143738"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T16:36:10.000Z",
+    "Latest report notes": [
+      "Providence St. Mary Medical Center is hosting a San Bernardino County COVID-19 mass-vaccination site at Our Lady of the Desert Catholic Church in Apple Valley.\n\nWhen checked on 2/25, appointments were available for Feb 25 and March 1-3 here: https://coronavirus.providence.org/blog/uf/647143738\n\nSan Bernardino County is currently vaccinating residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education, Childcare, and people 65+\n"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.542046,
+    "Longitude": -117.265602,
+    "Name": "Our Lady of the Desert Catholic Church",
+    "id": "recYeBaJfTxgQqfPF"
   },
   {
     "Address": "6221 WILSHIRE BLVD STE 100, LOS ANGELES, CA 90048",
@@ -96064,6 +96141,18 @@
     "Longitude": -121.5506216,
     "Name": "Elica - Halyard",
     "id": "recijWY4BaGtVIBWp"
+  },
+  {
+    "Address": "18313 Valley Blvd. Bloomington, CA 92316",
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T16:49:53.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.070473,
+    "Longitude": -117.404975,
+    "Name": "State of California OptumServe Vaccine Clinic",
+    "id": "recijuMAKuz1Akr1i"
   },
   {
     "Address": "4770 N Cedar Ave, Fresno, CA 93726",
