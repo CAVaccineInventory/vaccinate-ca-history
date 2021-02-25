@@ -25297,8 +25297,15 @@
   {
     "Address": "855 E Birch St, Brea, CA 92821",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:54:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9188234,
@@ -44045,8 +44052,15 @@
   {
     "Address": "5735 E. La Palma Avenue, Anaheim, CA 92807",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:55:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.855448,
@@ -52787,8 +52801,15 @@
   {
     "Address": "12031 Brookhurst Street, Garden Grove, CA 92840",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:58:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.78808733,
@@ -86093,8 +86114,15 @@
   {
     "Address": "1835 Newport Boulevard #c, Costa Mesa, CA 92627",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:52:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6428852,
@@ -98704,16 +98732,17 @@
     "Address": "11673 CHERRY AVENUE, FONTANA, CA 92337",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "www.sbcovid19.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T19:52:21.000Z",
     "Latest report notes": [
       null
     ],
@@ -132475,8 +132504,15 @@
   {
     "Address": "27551 Puerta Real, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:58:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.56251765,
