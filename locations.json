@@ -38698,17 +38698,17 @@
     "Address": "8760 19TH STREET, RANCHO CUCAMONGA, CA 91701",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Contact this number to schedule appointment 9093873911"
+      "http://ritea.id/california"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T17:08:49.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: Currently only allowing 65+, healthcare workers and long-term care residents & facility staff to schedule appts online."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.134027,
@@ -91712,6 +91712,27 @@
     "id": "recga1sMy9JNqKytQ"
   },
   {
+    "Address": "12202 1st St., Yucaipa, CA 92399",
+    "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T17:02:48.000Z",
+    "Latest report notes": [
+      "Appointments for residents 65+ can be made at https://myoptumserve.com/covid19.\n\nPlease see https://sbcovid19.com/vaccine/locations/ for other vaccination locations as well."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.03208,
+    "Location Type": "Super Site",
+    "Longitude": -117.04143,
+    "Name": "State of California OptumServe Vaccine Clinic - Yucaipa Senior Center",
+    "id": "recgaJXWDBgz2sEJ0"
+  },
+  {
     "Address": "828 E VALLEY BLVD STE B, SAN GABRIEL, CA 91776",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -96144,14 +96165,23 @@
   },
   {
     "Address": "18313 Valley Blvd. Bloomington, CA 92316",
+    "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "San Bernardino County",
     "Has Report": 1,
     "Latest report": "2021-02-25T16:49:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "Appointments for residents 65+ can be made at https://myoptumserve.com/covid19.\n\nPlease see https://sbcovid19.com/vaccine/locations/ for other vaccination locations as well."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.070473,
+    "Location Type": "Super Site",
     "Longitude": -117.404975,
-    "Name": "State of California OptumServe Vaccine Clinic",
+    "Name": "State of California OptumServe Vaccine Clinic - Ayala Park Community Center",
     "id": "recijuMAKuz1Akr1i"
   },
   {
@@ -122015,17 +122045,17 @@
     "Address": "7895 Highland Village Pl, San Diego, CA 92129",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "vons.com"
+      null
     ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Scheduling second dose only"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T16:50:51.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: Second dose only for those who received first dose at this location."
     ],
     "Latest report yes?": 1,
     "Latitude": 32.961339,
