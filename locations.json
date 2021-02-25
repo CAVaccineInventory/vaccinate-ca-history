@@ -23541,9 +23541,9 @@
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T21:21:49.000Z",
+    "Latest report": "2021-02-25T21:24:02.000Z",
     "Latest report notes": [
-      "Feb. 25: Appointments are booked out for three weeks. Please call back after then to schedule an appointment\n\nUndated note: Vaccines are in stock. Only 75 and older. This county does not handle appointments. You need to call the pharmacy directly to make an appointment - they take down the name and number and they will call you back to schedule the vaccine administration."
+      "Feb. 25: Appointments are booked for the next three weeks. Please call back closer to that time to make an appointment. \n\nUndated note: Vaccines are in stock. Only 75 and older. This county does not handle appointments. You need to call the pharmacy directly to make an appointment - they take down the name and number and they will call you back to schedule the vaccine administration.\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.480796,
@@ -39727,19 +39727,16 @@
   {
     "Address": "43543 20TH ST W, LANCASTER, CA 93534",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "Call the pharmacy, appointments available for Fridays only currently"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T21:24:13.000Z",
     "Latest report notes": [
-      "Feb 05 - Offering vaccines to healthcare workers and those 65+. Appointments are full, but recommend checking Albertson's pharmacy website for cancellations: mhealthappointments.com/covidappt \n\nRequired: ID, proof of insurance (if healthcare worker, proof that you work in this field)"
+      "Feb 05 - Offering vaccines to healthcare workers and those 65+. Appointments are full, but recommend checking Albertson's pharmacy website for cancellations: mhealthappointments.com/covidappt Required: ID, proof of insurance (if healthcare worker, proof that you work in this field)"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.674211,
@@ -129589,21 +129586,14 @@
   {
     "Address": "860 Harbour Way S Ste E, Richmond, CA 94804",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "844-792-2739"
-    ],
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "No: will never be a vaccination site"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T21:54:20.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T21:24:18.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.919826,
     "Location Type": "Pharmacy",
     "Longitude": -122.359916,
