@@ -97164,10 +97164,21 @@
   {
     "Address": "101 West Coast Rd, Redway, CA 95560",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.rrhc.org/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Humboldt County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T03:30:30.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 40.1168397,
     "Location Type": "Hospital / Clinic",
     "Longitude": -123.8132042,
