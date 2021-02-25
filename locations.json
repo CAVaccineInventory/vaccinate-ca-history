@@ -5726,8 +5726,12 @@
   {
     "Address": "7065 La Palma Ave., Buena Park, CA 90620",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:10:34.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.84664702,
@@ -19720,8 +19724,12 @@
   {
     "Address": "3981 Irvine Boulevard, Irvine, CA 92602",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:06:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7235886,
@@ -26138,17 +26146,17 @@
     "Address": "5670 EAST 2ND STREET, LONG BEACH, CA 90803",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com\\covid19"
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T22:24:07.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: reminder from pharmacy staff to bring ID and insurance / medicare part B card"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.756669,
@@ -37624,17 +37632,16 @@
     "Address": "11352 BRYANT STREET, YUCAIPA, CA 92399",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Schedule an appointment on sbcovid19.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T22:04:29.000Z",
     "Latest report notes": [
       null
     ],
@@ -44526,21 +44533,16 @@
     "Address": "7070 ARCHIBALD AVE, EASTVALE, CA 92880",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "All appointments are schedule on albertsons.com "
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:20:39.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.959366,
     "Location Type": "Pharmacy",
     "Longitude": -117.591672,
@@ -68711,8 +68713,12 @@
   {
     "Address": "455 North State College Boulevard, Fullerton, CA 92831",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:24:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.87377984,
@@ -73004,14 +73010,14 @@
     "Address": "3901 Portola Pkwy, Irvine, CA 92602",
     "Affiliation": "Pavilions",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T02:48:26.000Z",
+    "Latest report": "2021-02-24T23:46:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.73502,
@@ -75928,8 +75934,15 @@
   {
     "Address": "2222 E. Lincoln Ave., Anaheim, CA 92806",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:20:43.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8393722,
@@ -76911,19 +76924,16 @@
   {
     "Address": "2235 HAYES ST, SAN FRANCISCO, CA 94117",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "These appointments are scheduled internally"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: must be a current patient"
+      "Yes: must be a current patient",
+      "Yes: appointment required"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:12:04.000Z",
+    "Latest report": "2021-02-25T18:22:26.000Z",
     "Latest report notes": [
-      "The appointments at this location are scheduled internally for existing patients."
+      "Feb 25: The appointments at this location are scheduled internally for existing patients."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.772785,
@@ -79300,8 +79310,15 @@
   {
     "Address": "200 W Orangethorpe Ave, Fullerton, CA 92832",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:05:50.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.85935796,
@@ -79392,20 +79409,16 @@
     "Address": "3450 MARRON RD, OCEANSIDE, CA 92056",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.albertsons.com/pharmacy.html\n\nRecommend to make an appointment on the website to receive the vaccines."
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:14:18.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.179257,
     "Location Type": "Pharmacy",
     "Longitude": -117.29643,
@@ -85275,15 +85288,16 @@
     "Address": "10120 MASON AVENUE, CHATSWORTH, CA 91311",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "http://www.publichealth.lacounty.gov"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T22:23:39.000Z",
     "Latest report notes": [
       null
     ],
@@ -99087,8 +99101,12 @@
   {
     "Address": "1387 W Whittier Blvd, La Habra, CA 90631",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:18:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.93936538,
@@ -122377,16 +122395,15 @@
     "Address": "4224 EAST SHIELDS, FRESNO, CA 93726",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com"
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T22:06:46.000Z",
     "Latest report notes": [
       null
     ],
@@ -122570,16 +122587,15 @@
     "Address": "14515 MOJAVE DRIVE SUITE B, VICTORVILLE, CA 92394",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovid19.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T22:15:21.000Z",
     "Latest report notes": [
       "Feb 06 - currently vaccinating 65+ and health care workers with an appointment; bring ID and insurance info or proof of medical employment"
     ],
@@ -125911,8 +125927,15 @@
   {
     "Address": "13200 Jamboree Rd, Irvine, CA 92602",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:08:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.727055,
@@ -130889,8 +130912,15 @@
   {
     "Address": "460 South Anaheim Hills Road, Anaheim, CA 92807",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:11:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.84501623,
