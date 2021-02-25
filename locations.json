@@ -23529,16 +23529,21 @@
   {
     "Address": "7960 GERBER ROAD, SACRAMENTO, CA 95828",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "916-689-8333"
+    ],
     "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 75+",
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+"
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T21:21:49.000Z",
     "Latest report notes": [
-      "Vaccines are in stock. Only 75 and older. This county does not handle appointments. You need to call the pharmacy directly to make an appointment - they take down the name and number and they will call you back to schedule the vaccine administration. "
+      "Feb. 25: Appointments are booked out for three weeks. Please call back after then to schedule an appointment\n\nUndated note: Vaccines are in stock. Only 75 and older. This county does not handle appointments. You need to call the pharmacy directly to make an appointment - they take down the name and number and they will call you back to schedule the vaccine administration."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.480796,
@@ -32073,18 +32078,18 @@
     "Address": "6445 N PACIFIC AVE, STOCKTON, CA 95207",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Safeway.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T21:12:09.000Z",
     "Latest report notes": [
-      null
+      "appointments can be made on county website and https://www.safeway.com/pharmacy/covid-19.html"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.008764,
@@ -37252,15 +37257,18 @@
     "Address": "2495 TRUXTUN RD STE 100, SAN DIEGO, CA 92106",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "www.vons.com "
+      "For appointments visit:   Vons.com and click on pharmacy department which will lead you to Covid19 Vaccination appointments"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T21:06:41.000Z",
     "Latest report notes": [
       null
     ],
@@ -62661,19 +62669,18 @@
     "Address": "720 NORTH VENTURA ROAD FREMONT SQUARE, OXNARD, CA 93030",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/Covid-19\nAppointments scheduling will open on Feb 12 for this location. "
+      "For appointments go to riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T02:41:58.000Z",
+    "Latest report": "2021-02-25T21:12:40.000Z",
     "Latest report notes": [
-      "Feb 11 Moderna. "
+      "Feb 11 Moderna."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.209342,
@@ -71319,17 +71326,18 @@
     "Address": "1600 Market Street, \nSan Francisco, CA 94102",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      "https://www.gohealthuc.com/CAvaccine"
+      "Schedule appointments online: https://gohealthuc.com/cavaccine"
     ],
     "Availability Info": [
       "Yes: appointment required",
+      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T02:12:14.000Z",
+    "Latest report": "2021-02-25T21:07:49.000Z",
     "Latest report notes": [
-      "Currentlty vaccinating San Francisco residents who are 65 years and older and San Francisco healthcare workers/community health workers. When checked on Feb 22, appointments were available from Feb 23 to March 1 here: https://www.gohealthuc.com/CAvaccine"
+      "Currently vaccinating people 65+, educators, and essential workers. Please bring an ID and if you have insurance, your medical card.\n\nAppointments can be scheduled online: gohealthuc.com/cavaccine. When checked on 2/26, all appointment slots were filled."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.77404,
@@ -73173,18 +73181,18 @@
     "Address": "6959 EASTERN AVENUE, BELL GARDENS, CA 90201",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com "
+      "www.riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T21:06:53.000Z",
     "Latest report notes": [
-      null
+      "Pharmacist believes booked until mid march"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.969523,
