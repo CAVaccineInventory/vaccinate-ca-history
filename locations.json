@@ -446,7 +446,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9240722,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4323648,
     "Name": "Central Coast Family Care - Office 4",
     "id": "rec0FKV5w8hQ5nEhU"
@@ -6488,7 +6488,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9388781,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.422143,
     "Name": "Central Coast Family Care - Office 2",
     "id": "rec33g3Fd6Tlt6kFy"
@@ -17841,6 +17841,7 @@
   },
   {
     "Address": "10431 Allen Way, Lucerne Valley, CA 92356",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -17853,6 +17854,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.44262,
+    "Location Type": "Nursing home",
     "Longitude": -116.941442,
     "Name": "Lucerne Valley Senior Center",
     "id": "rec8HA83kk4PbbIlZ"
@@ -19840,6 +19842,12 @@
     "id": "rec98TWr1EQwzC42n"
   },
   {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "rec98o9KMFFey6mMv"
+  },
+  {
     "Address": "1908 SANTA MONICA BLVD STE 4, SANTA MONICA, CA 90404",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
@@ -20780,7 +20788,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.95142,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.411648,
     "Name": "Central Coast Family Care - Office 3",
     "id": "rec9gWMsRSHw3pFGA"
@@ -23554,7 +23562,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.441438,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.8187248,
     "Name": "Goleta Neighborhood Clinic",
     "id": "recAqbWJax03LgmJO"
@@ -23837,7 +23845,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care",
     "id": "recB0HvkA49r3iwON"
@@ -31613,11 +31621,12 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T23:09:44.000Z",
+    "Latest report": "2021-02-25T18:04:22.000Z",
     "Latest report notes": [
       null
     ],
@@ -33178,7 +33187,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care - Office 7",
     "id": "recFBDVcDLarYUOdg"
@@ -37334,6 +37343,7 @@
   },
   {
     "Address": "29101 Hospital Road, Lake Arrowhead, CA 92352",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -37343,6 +37353,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2659,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.167092,
     "Name": "Mountain Community Hospital District",
     "id": "recH0BsS6hfmzVo3E"
@@ -47215,7 +47226,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.3974743,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.5169259,
     "Name": "Carpinteria Health Care Center",
     "id": "recLVeJ69zc49ngi4"
@@ -57438,6 +57449,7 @@
   },
   {
     "Address": "400 W Pueblo Street, Santa Barbara, CA 93102",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+"
@@ -61610,7 +61622,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.42723,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.6795826,
     "Name": "Franklin Health Care Center",
     "id": "recSSseAA8oTxEo7g"
@@ -65260,9 +65272,13 @@
     "id": "recTxuRJLLG7J5zlb"
   },
   {
+    "Address": "701 E El Camino Real, Mountain View, CA 94040",
+    "Affiliation": "Sutter",
+    "County": "Santa Clara County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
     "Name": "PAMF Mountain View Center (Palo Alto Medical Foundation - Sutter)",
     "id": "recTzWO20IAjnrcdS"
   },
@@ -70753,6 +70769,7 @@
   },
   {
     "Address": "1881 West Baseline St., San Bernardino, CA 92411",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Online at https://sbcovid19.com/vaccine/locations/"
     ],
@@ -70769,6 +70786,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.121332,
+    "Location Type": "Super Site",
     "Longitude": -117.32855,
     "Name": "Arroyo Valley High School",
     "id": "recWnOr3VkxV6RbMw"
@@ -73302,6 +73320,7 @@
   },
   {
     "Address": "333 Turk St, San Francisco, CA 94102",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -74712,6 +74731,7 @@
   },
   {
     "Address": "18300 Highway 18, Apple Valley, CA 92307",
+    "Affiliation": "County",
     "Appointment scheduling instructions": [
       "Online at https://coronavirus.providence.org/blog/uf/647143738"
     ],
@@ -74728,6 +74748,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.542046,
+    "Location Type": "Super Site",
     "Longitude": -117.265602,
     "Name": "Our Lady of the Desert Catholic Church",
     "id": "recYeBaJfTxgQqfPF"
@@ -80470,7 +80491,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care - Office 5",
     "id": "recbLOB1PflycLi4P"
@@ -87715,6 +87736,7 @@
   },
   {
     "Address": "1024 Prince Avenue, Healdsburg, CA 95448",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -89875,7 +89897,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4440141,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -119.7803943,
     "Name": "Santa Barbara Health Care Center",
     "id": "recfkGYoWvDu4GWGO"
@@ -91615,7 +91637,7 @@
     "Address": "6505 MISSION GORGE ROAD, SAN DIEGO, CA 92120",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/covid-19"
+      "riteaid.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -91623,7 +91645,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T00:56:12.000Z",
+    "Latest report": "2021-02-25T18:03:41.000Z",
     "Latest report notes": [
       null
     ],
@@ -93560,7 +93582,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9088211,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4344253,
     "Name": "Community Health Centers of the Central Coast, Inc",
     "id": "rechPwcUPa5sVRxbp"
@@ -120550,7 +120572,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9226032,
-    "Location Type": "Santa Barbara County Juvenile Hall",
+    "Location Type": "Hospital / Clinic",
     "Longitude": -120.4299882,
     "Name": "Santa Maria Health Care Center",
     "id": "recuTpyPwmdBOI1Sp"
@@ -122725,15 +122747,17 @@
     "Address": "2150 SOUTH ATLANTIC BOULEVARD, MONTEREY PARK, CA 91754",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Only vaccinating persons that make appointments on publichealth.lacounty.gov "
+      "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T18:03:35.000Z",
     "Latest report notes": [
       null
     ],
@@ -130705,6 +130729,7 @@
   },
   {
     "Address": "309 E 2nd St, Pomona, CA 91766",
+    "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -130717,6 +130742,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.0581487,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.747508,
     "Name": "Western University Health Center",
     "id": "reczFijqR8Jdj2IFL"
