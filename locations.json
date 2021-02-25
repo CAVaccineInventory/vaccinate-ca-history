@@ -8997,8 +8997,15 @@
   {
     "Address": "4040 E. Chapman Ave., Orange, CA 92869",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:08:14.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.78767734,
@@ -34313,8 +34320,15 @@
   {
     "Address": "21761 Lake Forest Drive, Lake Forest, CA 92630",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:04:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6473351,
@@ -43999,15 +44013,18 @@
     "Address": "710 BROADWAY, SANTA MONICA, CA 90401",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "www.vaccinatelacounty.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T00:50:46.000Z",
+    "Latest report": "2021-02-25T19:02:02.000Z",
     "Latest report notes": [
       "Vaccine appointments available 10am-3pm"
     ],
@@ -45474,19 +45491,17 @@
     "Address": "7815 N. Lake Blvd, Kings Beach, CA 96143",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Go to www.placer.ca.gov/vaccineclinics to schedule an appointment and check availability."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T19:01:39.000Z",
     "Latest report notes": [
-      null
+      "\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 39.238472,
@@ -52983,18 +52998,20 @@
     "Address": "745 W NAOMI AVE, ARCADIA, CA 91007",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://covid19.ca.gov/?utm_source=google&utm_medium=cpc&utm_campaign=ca-covid19response-august2020&utm_term=covid%20vaccine&gclid=Cj0KCQiApY6BBhCsARIsAOI_Gjal_eUr_hcs3-TwIjc4tyQCdCeU46bheDYyItLR0wh1Xr-AbPcHpGwaAuzJEALw_wcB\n\nRecommend to make the appointment on the website to receive the vaccine."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T19:12:17.000Z",
     "Latest report notes": [
-      null
+      "Currently se and dose appointments only.  Will open up first dose appointments starting March 1st."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.125131,
@@ -66603,19 +66620,18 @@
     "Address": "2501 Fair Oaks Blvd, Sacramento, CA 95825",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "Person can call the pharmacy to schedule an appointment but currently they're booked. Pharmacist advice to call back in a month."
+      "(916) 484-7994"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 75+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T19:11:33.000Z",
     "Latest report notes": [
-      "Per pharmacist on 2/6/2021, over 1,000 names on waitlist so it is currently closed to new names until they work through appointments."
+      "Per pharmacist on 2/6/2021, over 1,000 names on waitlist so it is currently closed to new names until they work through appointments. They believe backed up until april."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.57577611218909,
@@ -67044,10 +67060,21 @@
   {
     "Address": "26891 Aliso Creek Rd, Aliso Viejo, CA 92656",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:17:31.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website. As of Feb 25, this location is able to accommodate Phase 1B, (Tier 1) which includes: Education, Food Service, Grocery and Agriculture Workers, Child Care Providers (licensed), and Emergency Services. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.5718629,
     "Location Type": "Pharmacy",
     "Longitude": -117.7254207,
@@ -89809,16 +89836,15 @@
   {
     "Address": "3000 SOUTH ARCHIBALD AVENUE, ONTARIO, CA 91761",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "SB.covid19.com "
-    ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T19:07:20.000Z",
     "Latest report notes": [
       "Feb 06 - Currently vaccinating 65+ with appointment from SBern County website; they do have a waitlist to distribute extra doses at the end of the day sometimes, please call the pharmacy to be added to that (very long) waitlist."
     ],
@@ -103533,8 +103559,15 @@
   {
     "Address": "28221 Crown Valley Pky, Laguna Niguel, CA 92677",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:14:48.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5323602,
@@ -118441,8 +118474,15 @@
   {
     "Address": "5501 Ball Road, Cypress, CA 90630",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:10:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.81686216,
@@ -119826,18 +119866,17 @@
     "Address": "16910 FOOTHILL BOULEVARD, FONTANA, CA 92335",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovivid19.com or phone number 9093873911"
+      null
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T19:07:40.000Z",
     "Latest report notes": [
-      null
+      "Pharmacist thought wait for appointments about week out"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.107744,
@@ -130261,8 +130300,15 @@
   {
     "Address": "671 East 1st Street, Tustin, CA 92780",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:02:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.746281,
