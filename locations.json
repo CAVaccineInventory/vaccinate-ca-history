@@ -12686,21 +12686,16 @@
     "Address": "16225 SIERRA LAKES PARKWAY, FONTANA, CA 92335",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
-      "sbcovid19.com to schedule an appointment. They are not accepting new appointments currently."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
-    "Latest report notes": [
-      "No appointments available told by staff.\nRalphs website lists this location as \"associates only\" COVID vaccines. "
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:00:30.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 34.137714,
     "Location Type": "Pharmacy",
     "Longitude": -117.450878,
@@ -14897,17 +14892,17 @@
     "Address": "14629 7TH STREET, VICTORVILLE, CA 92395",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcounty.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T21:52:07.000Z",
     "Latest report notes": [
-      "[Feb 6] When available, appointments at https://www.riteaid.com/pharmacy/covid-qualifier  Many timeslots available Feb 17 -26"
+      "[Feb 6] When available, appointments at https://www.riteaid.com/pharmacy/covid-qualifier Many timeslots available Feb 17 -26"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.516453,
@@ -18284,8 +18279,12 @@
   {
     "Address": "2500 20th Street West, Rosamond, CA 93560",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "https://myturn.ca.gov"
+    ],
     "County": "Kern County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T21:59:24.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.85751,
@@ -19501,18 +19500,17 @@
     "Address": "3496 CAMINO TASSAJARA RD, DANVILLE, CA 94506",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "https://www.coronavirus.cchealth.org/"
+      "https://coronavirus.cchealth/vaccine"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T21:57:39.000Z",
     "Latest report notes": [
-      null
+      "Make appt on Contra Costa County website and the pharmacy is assigned by the system, not by this pharmacy "
     ],
     "Latest report yes?": 1,
     "Latitude": 37.798129,
@@ -19872,12 +19870,12 @@
     "Has Report": 1,
     "Latest report": "2021-02-25T21:46:51.000Z",
     "Latest report notes": [
-      "Appointments for people 65+, and workers in healthcare, education, childcare, emergency services, and food and agriculture can sign up for appointments on https://myturn.ca.gov.\n\nWhen checked on 2/25, all appointment slots were filled."
+      "Appointments for county residents 65+, and workers in healthcare, education, childcare, emergency services, and food and agriculture can sign up for appointments on https://myturn.ca.gov.\n\nWhen checked on 2/25, all appointment slots were filled."
     ],
     "Latest report yes?": 1,
     "Latitude": 35.20982,
     "Longitude": -118.82892,
-    "Name": "Community Center: Must live/work in Kern County",
+    "Name": "Avrin Community Center",
     "id": "rec98o9KMFFey6mMv"
   },
   {
@@ -37132,17 +37130,17 @@
     "Address": "9000-A MING AVENUE, Bakersfield, CA 93311",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/Covid-19\nor call the pharmacy (661)663-0171 (if before Feb 12)"
+      "www.riteaid.com/covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T22:25:05.000Z",
+    "Latest report": "2021-02-25T21:53:51.000Z",
     "Latest report notes": [
-      "Feb 11 Will start vaccine distribution on Feb 12. ~20 appointments per day. Moderna. https://www.riteaid.com/Covid-19 should be best way to make an appointment starting Feb 12.  "
+      "They have the vaccine.  Appointments made on website.  Not give on Sundays and Mondays.  Check website about eligibility if not a county resident."
     ],
     "Latest report yes?": 1,
     "Latitude": 35.342442,
@@ -48810,17 +48808,17 @@
     "Address": "8508 Painter Avenue, Whittier, CA 90602",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Go to riteaid.com, click on covid and there should be a link that send to to the county website to signup. Interested persons need to check the website everyday as the appointments are going really fast, they also need to walk with their ID and Medicare cards as proof of identity."
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T21:52:51.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: 65 and over plus healthcare providers; tip from pharmacist: if appts are full then check in the early AM of the next day"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.960712,
@@ -91103,18 +91101,18 @@
     "Address": "9650 BASELINE ROAD, RANCHO CUCAMONGA, CA 91701",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovid19.com/vaccine/"
+      "www.riteaid.com/covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
       "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T21:58:00.000Z",
     "Latest report notes": [
-      "All appointments must be scheduled online. The main site is https://sbcovid19.com/vaccine/ and the Rite Aid link can be found under \"Appointments\""
+      "They do have vaccine.  All appointments must be scheduled online. The main site is https://sbcovid19.com/vaccine/ and the Rite Aid link can be found under \"Appointments\". Or www.riteaid.com/covid-19.   He thought it was county residents only, but good to double check.  "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.122529,
@@ -92152,11 +92150,21 @@
   {
     "Address": "1202 Poplar Ave, Wasco, CA 93280",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "https://myturn.ca.gov"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents",
+      "Yes: appointment required"
+    ],
     "County": "Kern County",
     "Has Report": 1,
     "Latest report": "2021-02-25T21:51:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "Appointments for county residents 65+, and workers in healthcare, education, childcare, emergency services, and food and agriculture can sign up for appointments on https://myturn.ca.gov.\n\nWhen checked on 2/25, appointments were available 2/26 and 2/27."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.58695,
     "Longitude": -119.34489,
     "Name": "Wasco Veterans Hall",
@@ -110837,18 +110845,19 @@
     "Address": "17441 MAIN STREET, HESPERIA, CA 92345",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovid19.com"
+      "909-387-3911"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T21:56:20.000Z",
     "Latest report notes": [
-      null
+      "can use phone or website. www.sbcovid19.com/vaccine"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.418049,
@@ -123081,18 +123090,18 @@
     "Address": "1301 E 17TH ST, SANTA ANA, CA 92705",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
-      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:43:11.000Z",
+    "Latest report": "2021-02-24T23:39:15.000Z",
     "Latest report notes": [
-      "This location is scheduling appointments through its website."
+      "This location is scheduling appointments through its website. Valid ID required for essential workers. "
     ],
     "Latest report yes?": 1,
     "Latitude": 33.760404,
@@ -124850,17 +124859,16 @@
     "Address": "351 W FELICITA AVE HWY 395, ESCONDIDO, CA 92025",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "Appointment should be schedule on vons.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T21:59:34.000Z",
     "Latest report notes": [
       null
     ],
@@ -125668,7 +125676,7 @@
     "Address": "211 Eastmoor Ave, Daly City, CA 94015",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      "415-391-9686"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -125677,9 +125685,9 @@
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:13:21.000Z",
+    "Latest report": "2021-02-24T23:42:57.000Z",
     "Latest report notes": [
-      "This location is scheduling appointments by calling their main call center."
+      "Feb 24: This location is scheduling appointments by calling their main call center. Must be registered patient."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.685019,
