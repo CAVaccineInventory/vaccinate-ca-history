@@ -428,15 +428,12 @@
   {
     "Address": "18546 ROSCOE BLVD STE 102, NORTHRIDGE, CA 91324",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:17.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.220561,
@@ -920,7 +917,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.716128,
@@ -1430,15 +1427,12 @@
   {
     "Address": "1513 S Grand Ave # 100, Los Angeles, CA 90015",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:03.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.03622,
@@ -1537,7 +1531,7 @@
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:22.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.596033,
@@ -2270,15 +2264,12 @@
   {
     "Address": "23206 Lyons Ave Ste 112, Newhall, CA 91321",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.379126,
@@ -2452,15 +2443,12 @@
   {
     "Address": "400 S 2ND AVE STE 101, BARSTOW, CA 92311",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:57.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.894786,
@@ -2536,15 +2524,12 @@
   {
     "Address": "16060 VENTURA BLVD UNIT 109, ENCINO, CA 91436",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:06.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.156104,
@@ -2649,15 +2634,12 @@
   {
     "Address": "4401 S MAIN ST, LOS ANGELES, CA 90037",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:26.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.00363,
@@ -2784,15 +2766,12 @@
   {
     "Address": "1336 W. Valley Blvd Ste B, Alhambra, CA 91803",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.077569,
@@ -3300,15 +3279,12 @@
   {
     "Address": "72780 Country Club Dr Ste 403, Rancho Mirage, CA 92270",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.758436,
@@ -3770,15 +3746,12 @@
   {
     "Address": "12643 Sherman Way Ste C, North Hollywood, CA 91605",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.201359,
@@ -4897,15 +4870,12 @@
   {
     "Address": "501 S Buena Vista St # 110, Burbank, CA 91505",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.15603,
@@ -4973,15 +4943,12 @@
   {
     "Address": "5427 Whittier Blvd, Los Angeles, CA 90022",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:39:00.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.019831,
@@ -5698,7 +5665,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:35.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.760901,
@@ -5710,15 +5677,12 @@
   {
     "Address": "4128 S Broadway, LOS ANGELES, CA 90037",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:03.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.00842,
@@ -5823,7 +5787,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.990824,
@@ -6117,11 +6081,11 @@
     "Address": "31754 Temecula Pkwy Ste D, Temecula, CA 92592",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:23:31.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.480663,
@@ -6283,15 +6247,12 @@
   {
     "Address": "601 J ST, LOS BANOS, CA 93635",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:16.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.059659,
@@ -6425,15 +6386,12 @@
   {
     "Address": "437 FERNANDO CT, Glendale, CA 91204",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.12862,
@@ -7517,15 +7475,12 @@
   {
     "Address": "81893 DR CARREON BLVD STE 7, INDIO, CA 92201",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:36.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.707134,
@@ -8046,15 +8001,12 @@
   {
     "Address": "9822 Bolsa Ave Ste G, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T18:44:44.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.744758,
@@ -8239,7 +8191,7 @@
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:35.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.599462,
@@ -8305,15 +8257,12 @@
   {
     "Address": "1111 N FAIRFAX AVE STE 110, LOS ANGELES, CA 90046",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.091146,
@@ -8437,15 +8386,12 @@
   {
     "Address": "8207 Arlington Ave Suite A, Riverside, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:42.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.946699,
@@ -8457,15 +8403,12 @@
   {
     "Address": "2220 CLARK AVE, LONG BEACH, CA 90815",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T00:57:49.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.797456,
@@ -8836,7 +8779,7 @@
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.123108,
@@ -9197,15 +9140,12 @@
   {
     "Address": "2946 N BEVERLY GLEN CIR, LOS ANGELES, CA 90077",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.12774,
@@ -9271,15 +9211,12 @@
   {
     "Address": "1215 W Whittier Blvd, MONTEBELLO, CA 90640",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T22:12:36.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.010891,
@@ -10351,15 +10288,12 @@
   {
     "Address": "16800 Lakeshore Dr STE 1, LAKE ELSINORE, CA 92530",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:12.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.685615,
@@ -10600,15 +10534,12 @@
   {
     "Address": "160 E ARTESIA AVE STE 135, POMONA, CA 91767",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.075012,
@@ -10759,7 +10690,7 @@
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.845397,
@@ -11381,15 +11312,12 @@
   {
     "Address": "222 W. Eulalia Street Suite 212, Glendale, CA 91204",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:57.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.126423,
@@ -11523,7 +11451,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:40.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.90357,
@@ -11733,15 +11661,12 @@
   {
     "Address": "560 W Putnam Ave Ste 2, Porterville, CA 93257",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:48.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.070124,
@@ -12373,15 +12298,12 @@
   {
     "Address": "480 Redwood St Ste 33, Vallejo, CA 94590",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Solano County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:03.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.123675,
@@ -12999,15 +12921,12 @@
   {
     "Address": "6108 San Fernando Rd, Glendale, CA 91201",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.16196,
@@ -13898,7 +13817,7 @@
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:44.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.342898,
@@ -14105,15 +14024,12 @@
   {
     "Address": "450 E Spring St Ste 11, LONG BEACH, CA 90806",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.809372,
@@ -14216,7 +14132,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:40.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.920656,
@@ -14357,7 +14273,7 @@
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:44.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.810793,
@@ -14532,15 +14448,12 @@
   {
     "Address": "597 12th St, Paso Robles, CA 93446",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:22.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.626834,
@@ -14784,7 +14697,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:35.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.57649,
@@ -14862,15 +14775,12 @@
   {
     "Address": "38750 TRADE CENTER DR STE G, PALMDALE, CA 93551",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.586433,
@@ -14939,15 +14849,12 @@
   {
     "Address": "2412 N Ponderosa Dr Ste B106, Camarillo, CA 93010",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:50.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.242336,
@@ -15019,14 +14926,20 @@
   {
     "Address": "2415 W VINE ST ST 104-B, LODI, CA 95242",
     "Affiliation": "Adventist Health",
+    "Appointment scheduling instructions": [
+      "adventisthealth.org "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-27T18:42:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T05:39:34.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.12263,
     "Location Type": "Pharmacy",
     "Longitude": -121.304763,
@@ -15141,7 +15054,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:35.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.494339,
@@ -15187,15 +15100,12 @@
   {
     "Address": "1675 N PERRIS BLVD STE A 10, PERRIS, CA 92571",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:50.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.801538,
@@ -15365,15 +15275,12 @@
   {
     "Address": "2132 High St, Selma, CA 93662",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:32.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.57047,
@@ -16180,15 +16087,12 @@
   {
     "Address": "612 W DUARTE RD STE 102, ARCADIA, CA 91007",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:35.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.125749,
@@ -16238,15 +16142,12 @@
   {
     "Address": "4707 Pacific Ave, Stockton, CA 95207\n\n",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:20:57.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.987393,
@@ -16952,15 +16853,12 @@
   {
     "Address": "5575 MISSION BLVD, RIVERSIDE, CA 92509",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.996978,
@@ -17196,7 +17094,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:44.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.108319,
@@ -17459,15 +17357,12 @@
   {
     "Address": "1401 AVOCADO AVE #104, NEWPORT BEACH, CA 92660",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:53.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.61292,
@@ -17741,7 +17636,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:40.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.08736,
@@ -17987,15 +17882,12 @@
   {
     "Address": "1245 Wilshire BLVD Suite 201, Los Angeles, CA 90017",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:01.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.053759,
@@ -18282,15 +18174,12 @@
   {
     "Address": "81709 DR CARREON BLVD SUITE E3, INDIO, CA 92201",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.707066,
@@ -18453,15 +18342,12 @@
   {
     "Address": "1908 SANTA MONICA BLVD STE 4, SANTA MONICA, CA 90404",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:05.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.027909,
@@ -18552,7 +18438,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.890619,
@@ -18940,15 +18826,12 @@
   {
     "Address": "6501 Garfield Ave, Bell Gardens, CA 90201",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97304,
@@ -19237,7 +19120,7 @@
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.426632,
@@ -19265,15 +19148,12 @@
   {
     "Address": "3750 Santa Rosalia Dr Unit 1, LOS ANGELES, CA 90008",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:57.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.008146,
@@ -19305,15 +19185,12 @@
   {
     "Address": "1215 Plumas St Ste 1201, Yuba City, CA 95991",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:13.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.147081,
@@ -19474,7 +19351,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.831374,
@@ -19975,7 +19852,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.755387,
@@ -21680,7 +21557,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.954047,
@@ -21808,15 +21685,12 @@
   {
     "Address": "11234 Anderson St Suite 1110A, LOMA LINDA, CA 92354",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:48.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.049487,
@@ -22212,7 +22086,7 @@
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:23:31.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.440235,
@@ -22263,15 +22137,12 @@
   {
     "Address": "5412 VILLAGE RD, LONG BEACH, CA 90808",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.833189,
@@ -22709,15 +22580,12 @@
   {
     "Address": "2026 W BULLARD, FRESNO, CA 93711",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: location permanently closed"
+      "No: incorrect contact information"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:19:40.000Z",
+    "Latest report": "2021-02-25T05:39:25.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.822948,
@@ -23356,11 +23224,11 @@
     "Address": "9850 GENESEE AVE STE 160, LA JOLLA, CA 92037",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.885163,
@@ -23479,7 +23347,7 @@
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.655386,
@@ -23496,7 +23364,7 @@
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-01-21T18:53:10.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.751077,
@@ -23789,15 +23657,12 @@
   {
     "Address": "321 N Citrus Ave, COVINA, CA 91723",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:01.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.088637,
@@ -24900,15 +24765,12 @@
   {
     "Address": "16850 Bear Valley Rd, Victorville, CA 92395",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:03.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.471614,
@@ -25095,7 +24957,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.744731,
@@ -25273,7 +25135,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.494339,
@@ -25397,15 +25259,12 @@
   {
     "Address": "1325 BROAD AVE, WILMINGTON, CA 90744",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:03.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.789558,
@@ -25808,15 +25667,12 @@
   {
     "Address": "1000 S Fremont Ave Blgd A10N Suite 10150, Alhambra, CA 91803",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:55.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.084211,
@@ -25988,15 +25844,12 @@
   {
     "Address": "410 Cloverleaf Dr, Baldwin Park, CA 91706",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:43.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.062072,
@@ -26727,7 +26580,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:22.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.118255,
@@ -27187,7 +27040,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:39.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.775721,
@@ -27199,15 +27052,12 @@
   {
     "Address": "21230 VENTURA BLVD, WOODLAND HILLS, CA 91364",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:48.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.167261,
@@ -28012,7 +27862,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:25:16.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.689348,
@@ -29285,15 +29135,12 @@
   {
     "Address": "2701 W Alameda Ave # 100, BURBANK, CA 91505",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:26.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.157955,
@@ -29510,11 +29357,11 @@
     "Address": "1111 E WASHINGTON AVE SUITE C, ESCONDIDO, CA 92025",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:44.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.131805,
@@ -29643,7 +29490,7 @@
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.319863,
@@ -29904,7 +29751,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:07.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.59659,
@@ -30136,15 +29983,12 @@
   {
     "Address": "14514 RAMONA BLVD STE 4, BALDWIN PARK, CA 91706",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:26.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.086397,
@@ -30260,7 +30104,7 @@
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.570857,
@@ -31842,15 +31686,12 @@
   {
     "Address": "17100 Norwalk Blvd Suite 108, Cerritos, CA 90703",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:10.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.875793,
@@ -31927,7 +31768,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:09.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.186889,
@@ -32359,15 +32200,12 @@
   {
     "Address": "2930 Freeport Blvd, Sacramento CA 95818",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T01:09:11.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5516033,
@@ -32486,7 +32324,7 @@
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:37.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.429596,
@@ -32738,11 +32576,11 @@
     "Address": "386 Gellert Blvd Suite A, Daly CIty, CA 94015",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:44.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.665467,
@@ -33140,15 +32978,12 @@
   {
     "Address": "3030 W OLYMPIC BLVD STE 118, LOS ANGELES, CA 90006",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:03.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0524,
@@ -33453,7 +33288,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:07.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.68509,
@@ -33711,15 +33546,12 @@
   {
     "Address": "7640 Tampa Ave Ste E, Reseda, CA 91335",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.209665,
@@ -34135,7 +33967,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:56.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.442955,
@@ -34740,7 +34572,7 @@
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.364723,
@@ -35165,7 +34997,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:09.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.448754,
@@ -35423,15 +35255,12 @@
   {
     "Address": "750 Long Beach Blvd Ste 1, Long Beach, CA 90813",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:35.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.776212,
@@ -35834,7 +35663,7 @@
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.210512,
@@ -36198,7 +36027,7 @@
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:39.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.666853,
@@ -36587,7 +36416,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.745571,
@@ -36676,15 +36505,12 @@
   {
     "Address": "6240 WILSHIRE BLVD, LOS ANGELES, CA 90048",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:55.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.063131,
@@ -37584,7 +37410,7 @@
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:25:16.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.579997,
@@ -38118,7 +37944,7 @@
     ],
     "County": "Tehama County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:37.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.177601,
@@ -38244,7 +38070,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:56.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.542854,
@@ -39529,15 +39355,12 @@
   {
     "Address": "653 LONG BEACH BLVD, LONG BEACH, CA 90802",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:16.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.775164,
@@ -39677,7 +39500,7 @@
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:56.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.626721,
@@ -40227,7 +40050,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:56.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.773988,
@@ -40276,15 +40099,12 @@
   {
     "Address": "6652 Front St, Forestville, CA 95436",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:11.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.473336,
@@ -40382,15 +40202,12 @@
   {
     "Address": "1749 N Garey Ave, Pomona, CA 91767",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:39.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.077174,
@@ -40729,11 +40546,11 @@
     "Address": "426 N KAWEAH AVE, EXETER, CA 93221",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.302976,
@@ -40763,11 +40580,11 @@
     "Address": "9943 MAINE AVE, LAKESIDE, CA 92040",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.859733,
@@ -41423,11 +41240,11 @@
     "Address": "1285 N EUCLID ST, ANAHEIM, CA 92801",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.851379,
@@ -41799,7 +41616,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.881413,
@@ -41929,7 +41746,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.268777,
@@ -42436,7 +42253,7 @@
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:25:16.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.504478,
@@ -43539,11 +43356,11 @@
     "Address": "111 SOUTH MAIN STREET, ORANGE, CA 92868",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.787526,
@@ -44063,7 +43880,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.103398,
@@ -45530,15 +45347,12 @@
   {
     "Address": "12265 Scripps Poway Pkwy Ste 114, Poway, CA 92064",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:20.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.934101,
@@ -45604,15 +45418,12 @@
   {
     "Address": "616 34th St, Bakersfield, CA 93301",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.390747,
@@ -46531,15 +46342,12 @@
   {
     "Address": "445 8TH ST, OAKLAND, CA 94607",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:09.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.799927,
@@ -47516,15 +47324,12 @@
   {
     "Address": "8990 GARFIELD ST STE 12, RIVERSIDE, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:20:59.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.928736,
@@ -47998,15 +47803,12 @@
   {
     "Address": "100 LELAND AVE, SAN FRANCISCO, CA 94134",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.712176,
@@ -48366,15 +48168,12 @@
   {
     "Address": "333 S GARFIELD AVE UNIT C, ALHAMBRA, CA 91801",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.091737,
@@ -49621,15 +49420,12 @@
   {
     "Address": "1373 W 29th St Ste A, Los Angeles, CA 90007",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:03.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0285,
@@ -50043,11 +49839,11 @@
     "Address": "31150 Temecula Pkwy Ste 100, Temecula, CA 92592",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.476744,
@@ -50833,15 +50629,12 @@
   {
     "Address": "5400 Hollywood Blvd Unit A, Los Angeles, CA 90027",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.101545,
@@ -50941,15 +50734,12 @@
   {
     "Address": "505 N Mollison Ave Ste 102, El Cajon, CA 92021",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:09.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.800437,
@@ -51127,7 +50917,7 @@
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.669278,
@@ -51401,15 +51191,12 @@
   {
     "Address": "65 N Madison Ave Ste 100, PASADENA, CA 91101",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:06.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.146881,
@@ -51455,15 +51242,12 @@
   {
     "Address": "1620 S COURT ST, VISALIA, CA 93277",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:24.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.315961,
@@ -52033,15 +51817,12 @@
   {
     "Address": "6800 Orangethorpe Ave Ste D, Buena Park, CA 90620",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:24.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.857478,
@@ -52169,15 +51950,12 @@
   {
     "Address": "350 Cypress St, Fort Bragg, CA 95437",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.432365,
@@ -53044,15 +52822,12 @@
   {
     "Address": "5906 Atlantic Blvd, MAYWOOD, CA 90270",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.98642,
@@ -53353,15 +53128,12 @@
   {
     "Address": "10512 BOLSA AVE STE 104, WESTMINSTER, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.744843,
@@ -53658,15 +53430,12 @@
   {
     "Address": "954 HIGHWAY 99W, CORNING, CA 96021",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Tehama County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:48.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.92629,
@@ -55064,7 +54833,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.779643,
@@ -55430,15 +55199,12 @@
   {
     "Address": "13745 VICTORY BLVD, VAN NUYS, CA 91401",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:37.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.186832,
@@ -55746,15 +55512,12 @@
   {
     "Address": "402 S Madera Ave Ste A STE A, MADERA, CA 93637",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Madera County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:13.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.955061,
@@ -55801,7 +55564,7 @@
     ],
     "County": "Humboldt County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.483493,
@@ -56267,7 +56030,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.691395,
@@ -56325,7 +56088,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.27588,
@@ -56358,15 +56121,12 @@
   {
     "Address": "7840 Westminster Blvd, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:37.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759086,
@@ -56609,15 +56369,12 @@
   {
     "Address": "7000 Indiana Ave Ste 112, Riverside, CA 92506",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:44.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.940584,
@@ -57143,11 +56900,11 @@
     "Address": "1828 El Camino Real, Burlingame, CA 94010",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:54.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.595659,
@@ -57283,15 +57040,12 @@
   {
     "Address": "10515 McFadden Ave Ste #104, Garden Grove, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:09.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.738364,
@@ -57502,15 +57256,12 @@
   {
     "Address": "3941 J St Ste 130, Sacramento, CA 95819",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:52.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.569579,
@@ -57653,7 +57404,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:16.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7208804,
@@ -57708,15 +57459,12 @@
   {
     "Address": "400 E Oak Ave, Visalia, CA 93291",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:10.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.067713,
@@ -57776,7 +57524,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.881927,
@@ -58199,7 +57947,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:54.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7594,
@@ -58280,7 +58028,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.92955,
@@ -58342,15 +58090,12 @@
   {
     "Address": "12401 Hesperia Rd Ste 3, Victorville, CA 92395",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:10.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.477188,
@@ -58362,15 +58107,12 @@
   {
     "Address": "1028 N Cherry St, Tulare, CA 93274",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:54.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.222518,
@@ -58568,15 +58310,12 @@
   {
     "Address": "9972 Westminster Ave Ste 100, Garden Grove, CA 92844",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:59.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759205,
@@ -58892,7 +58631,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.540146,
@@ -59064,15 +58803,12 @@
   {
     "Address": "6010 Hidden Valley Rd Ste 135, Carlsbad, CA 92011",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:24.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.122992,
@@ -59714,15 +59450,12 @@
   {
     "Address": "1885 Bay Road Suite A, East Palo Alto, CA 94303",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.472947,
@@ -59940,15 +59673,12 @@
   {
     "Address": "29099 HOSPITAL RD STE 101, LAKE ARROWHEAD, CA 92352",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:04.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.26615,
@@ -60219,15 +59949,12 @@
   {
     "Address": "3423 EL CAMINO REAL, SANTA CLARA, CA 95051",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:16.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.352542,
@@ -60315,7 +60042,7 @@
     ],
     "County": "Shasta County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.019994,
@@ -60382,7 +60109,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.685114,
@@ -60749,7 +60476,7 @@
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.256102,
@@ -60821,15 +60548,12 @@
   {
     "Address": "1270 University Ave, San Diego, CA 92103",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:24.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.748648,
@@ -60841,15 +60565,12 @@
   {
     "Address": "3010 W Orange Ave Ste 101, Anaheim, CA 92804",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:18.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.824571,
@@ -61273,15 +60994,12 @@
   {
     "Address": "400 W Pueblo St # B780, Santa Barbara, CA 93105",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.42928,
@@ -61560,15 +61278,12 @@
   {
     "Address": "1823 N Euclid St, Fullerton, CA 92835",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:26.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.891759,
@@ -61778,15 +61493,12 @@
   {
     "Address": "14829 7th Street Suite E, VICTORVILLE, CA 92395",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.520101,
@@ -62050,7 +61762,7 @@
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.848137,
@@ -62197,15 +61909,12 @@
   {
     "Address": "1122 N BRAND BLVD, GLENDALE, CA 91202",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:53.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.162223,
@@ -62681,7 +62390,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:59.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.054818,
@@ -62950,15 +62659,12 @@
   {
     "Address": "1692 S 4TH ST STE F, EL CENTRO, CA 92243",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:38.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.780739,
@@ -63886,15 +63592,12 @@
   {
     "Address": "2366 Reo Dr, SAN DIEGO, CA 92139",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:11.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.675497,
@@ -64499,15 +64202,12 @@
   {
     "Address": "570 MUNRAS AVE SUITE 10, MONTEREY, CA 93940",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Monterey County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.596578,
@@ -64598,15 +64298,12 @@
   {
     "Address": "10741 Westminster Ave Unit C, Garden Grove, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:48.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759948,
@@ -64639,15 +64336,12 @@
   {
     "Address": "831 Sterling Pkwy # 120, Lincoln, CA 95648",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:08.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.86971,
@@ -64682,15 +64376,12 @@
   {
     "Address": "1040 S Mount Vernon Ave., Ste E, Colton, CA 92324",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.052372,
@@ -65185,15 +64876,12 @@
   {
     "Address": "39575 Washington St, Palm Desert, CA 92211",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:36.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.76299,
@@ -65290,15 +64978,12 @@
   {
     "Address": "4968 Whittier Blvd, Los Angeles, CA 90022",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:37.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.021265,
@@ -66460,15 +66145,12 @@
   {
     "Address": "3809 GAGE AVE, BELL, CA 90201",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97935,
@@ -67126,15 +66808,12 @@
   {
     "Address": "4481 WHITTIER BLVD, LOS ANGELES, CA 90022",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.023585,
@@ -67260,15 +66939,12 @@
   {
     "Address": "4600 BROADWAY STE 1500, SACRAMENTO, CA 95820",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:13.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.546181,
@@ -67297,15 +66973,12 @@
   {
     "Address": "2361 ULRIC ST, SAN DIEGO, CA 92111",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:20.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.786617,
@@ -67463,15 +67136,12 @@
   {
     "Address": "2323 MONTPELIER DR STE D, SAN JOSE, CA 95116",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:18.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.36505,
@@ -67483,15 +67153,12 @@
   {
     "Address": "7260 E Southgate Dr Ste E, SACRAMENTO, CA 95823",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:14.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.493967,
@@ -68021,15 +67688,12 @@
   {
     "Address": "905 SAN RAMON VALLEY BLVD STE 106, DANVILLE, CA 94526",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:15.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.807927,
@@ -68932,15 +68596,12 @@
   {
     "Address": "852 E Danenberg Dr, El Centro, CA 92243",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.767268,
@@ -69501,15 +69162,12 @@
   {
     "Address": "5404 Moreno St Ste F, Montclair, CA 91763",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:11.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.089404,
@@ -69802,15 +69460,12 @@
   {
     "Address": "1300 S Sunset Ave, West Covina, CA 91790",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:22.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.059754,
@@ -69972,15 +69627,12 @@
   {
     "Address": "555 E. Tacheva Dr. 1W101 Palm Springs, CA 92262",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:20.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8373479,
@@ -70208,15 +69860,12 @@
   {
     "Address": "1115 WHITLEY AVE, CORCORAN, CA 93212",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Kings County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:22.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.097872,
@@ -70657,15 +70306,12 @@
   {
     "Address": "6767 N Cedar Ave, Fresno, CA 93710",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:38.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.836542,
@@ -71638,15 +71284,12 @@
   {
     "Address": "170 E Tahquitz Canyon Way, Palm Springs, CA 92262",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T20:44:25.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.823262,
@@ -71781,15 +71424,12 @@
   {
     "Address": "1702 FREEDOM BLVD, FREEDOM, CA 95019",
     "Affiliation": "Kmart",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:18.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.934125,
@@ -71953,15 +71593,12 @@
   {
     "Address": "125 E Club Center Dr Ste 1500, San Bernardino, CA 92408",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:59.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.060329,
@@ -74357,7 +73994,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.186278,
@@ -74391,7 +74028,7 @@
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:44.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.431335,
@@ -74491,15 +74128,12 @@
   {
     "Address": "1693 FLANIGAN DR STE 104, SAN JOSE, CA 95121",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.319001,
@@ -74524,15 +74158,12 @@
   {
     "Address": "750 LAS GALLINAS AVE STE 104, SAN RAFAEL, CA 94903",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.007092,
@@ -74579,7 +74210,7 @@
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:46.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.133322,
@@ -75376,15 +75007,12 @@
   {
     "Address": "404 E 4th St, Perris, CA 92570",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:51.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.782542,
@@ -75598,15 +75226,12 @@
   {
     "Address": "4020 BEL AIRE PLAZA, NAPA, CA 94558",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:00.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.322052,
@@ -75727,15 +75352,12 @@
   {
     "Address": "27534 Sierra Hwy, Santa Clarita, CA 91351",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:57.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.415448,
@@ -75862,7 +75484,7 @@
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.111544,
@@ -75944,15 +75566,12 @@
   {
     "Address": "11701 WILSHIRE BLVD, LOS ANGELES, CA 90025",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.049493,
@@ -76350,7 +75969,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:42.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.208112,
@@ -77488,15 +77107,12 @@
   {
     "Address": "1037 W. CARSON ST, TORRANCE, CA 90502",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:39.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.831805,
@@ -77513,7 +77129,7 @@
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-17T21:44:20.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.950835,
@@ -77821,15 +77437,12 @@
   {
     "Address": "1011 BALDWIN PARK BLVD 1ST FLOOR, BALDWIN PARK, CA 91706",
     "Affiliation": "Kaiser",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T23:24:29.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.065377,
@@ -78282,7 +77895,7 @@
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.542181,
@@ -78491,11 +78104,11 @@
     "Address": "947 S ANAHEIM BLVD STE 108, ANAHEIM, CA 92805",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:22.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.821551,
@@ -78553,7 +78166,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:27.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.517579,
@@ -78718,8 +78331,12 @@
   {
     "Address": "7233 Corbin Ave, Winnetka, CA 91306",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.201584,
@@ -79127,7 +78744,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:39.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.61472,
@@ -79467,15 +79084,12 @@
   {
     "Address": "10106 Westminster Ave, Garden Grove, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:16.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.759247,
@@ -79698,12 +79312,12 @@
   {
     "Address": "2080 CENTURY PARK E STE 102, LOS ANGELES, CA 90067",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
+    "Availability Info": [
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:16.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.05884,
@@ -79910,15 +79524,12 @@
   {
     "Address": "420 S Glendora Ave, West Covina, CA 91790",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.067169,
@@ -80409,11 +80020,11 @@
     "Address": "36101 BOB HOPE DR, RANCHO MIRAGE, CA 92270",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:37.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.785911,
@@ -80619,15 +80230,12 @@
   {
     "Address": "795 East Second Street, Suite 1, Pomona, CA 91766",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:30.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.058203,
@@ -80691,11 +80299,11 @@
     "Address": "16251 MAIN ST, GUERNEVILLE, CA 95446",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:37.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.501849,
@@ -80908,11 +80516,11 @@
     "Address": "323 N 11th Ave Ste 101, Hanford, CA 93230",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Kings County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.326517,
@@ -80940,7 +80548,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:37.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97827,
@@ -80997,7 +80605,7 @@
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.637941,
@@ -81257,7 +80865,7 @@
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.064064,
@@ -81649,15 +81257,12 @@
   {
     "Address": "1942 E ANAHEIM ST, LONG BEACH, CA 90813",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:27.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.782314,
@@ -82046,15 +81651,12 @@
   {
     "Address": "3601 Vista Way Ste 103, Oceanside, CA 92056",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:07.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.181155,
@@ -82501,11 +82103,11 @@
     "Address": "2800 LINCOLN BLVD, SUITE B, OROVILLE, CA 95966",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:54.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.501434,
@@ -83209,7 +82811,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:09.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.776629,
@@ -83408,7 +83010,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:09.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.18587,
@@ -85148,11 +84750,11 @@
     "Address": "7901 WALERGA RD, ANTELOPE, CA 95843",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:25:16.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.711631,
@@ -85239,7 +84841,7 @@
     ],
     "County": "Inyo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.361113,
@@ -85518,7 +85120,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.135774,
@@ -85577,15 +85179,12 @@
   {
     "Address": "5541 Van Buren Blvd, Riverside, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:50.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.939764,
@@ -86389,7 +85988,7 @@
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:25:16.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.506116,
@@ -86764,7 +86363,7 @@
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.641902,
@@ -88356,7 +87955,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:37.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.831967,
@@ -88589,11 +88188,11 @@
     "Address": "6367 ALVARADO COURT STE 109, SAN DIEGO, CA 92120",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:37.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.776296,
@@ -89272,7 +88871,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:54.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.671463,
@@ -89511,15 +89110,12 @@
   {
     "Address": "1047 North State St, Los Angeles, CA 90033",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:57.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.05738,
@@ -89646,7 +89242,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:44.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.756723,
@@ -89956,7 +89552,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.689602,
@@ -90348,7 +89944,7 @@
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:37.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.933775,
@@ -90389,7 +89985,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:39.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.177219,
@@ -91908,7 +91504,7 @@
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.960339,
@@ -92310,7 +91906,7 @@
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:39.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.785541,
@@ -93125,7 +92721,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:16.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7302751,
@@ -93983,15 +93579,12 @@
   {
     "Address": "22005 Avalon Blvd Ste D, Carson, CA 90745",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:48.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.827697,
@@ -94318,7 +93911,7 @@
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:58.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.321023,
@@ -94505,7 +94098,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:07.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.106386,
@@ -95054,7 +94647,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.25653,
@@ -95145,7 +94738,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.846648,
@@ -95283,11 +94876,11 @@
     "Address": "195 Cohasset Rd, Chico, CA 95926",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: location permanently closed"
+      "No: incorrect contact information"
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-01-19T21:11:15.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.75159,
@@ -95316,15 +94909,12 @@
   {
     "Address": "79440 Highway 111 Ste 103, La Quinta, CA 92253",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:37.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.708686,
@@ -95520,7 +95110,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:07.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.721764,
@@ -95549,15 +95139,12 @@
   {
     "Address": "358 S Indian Hill Blvd, Claremont, CA 91711",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.08866,
@@ -95867,15 +95454,12 @@
   {
     "Address": "1226 Soquel Ave Santa Cruz, CA 95062",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.98011923857791,
@@ -96583,15 +96167,12 @@
   {
     "Address": "10810 Warner Ave Ste 3-4, Fountain Valley, CA 92708",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:17.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.715674,
@@ -96810,15 +96391,12 @@
   {
     "Address": "1800 N WESTERN AVE, SAN BERNARDINO, CA 92411",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:50.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.131555,
@@ -96962,15 +96540,12 @@
   {
     "Address": "11004 VALLEY MALL, EL MONTE, CA 91731",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:57.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.073767,
@@ -97136,15 +96711,12 @@
   {
     "Address": "2101 VALE RD SUITE 100, SAN PABLO, CA 94806",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.954542,
@@ -98018,15 +97590,12 @@
   {
     "Address": "1180 N INDIAN CANYON DRIVE SUITE E140, PALM SPRINGS, CA 92262",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:14.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.83953,
@@ -98310,15 +97879,12 @@
   {
     "Address": "1825 ACADEMY AVE, SANGER, CA 93657",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:16.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.690971,
@@ -98686,15 +98252,12 @@
   {
     "Address": "2111 UNIVERSITY AVE STE B, EAST PALO ALTO, CA 94303",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:24.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.465511,
@@ -99008,15 +98571,12 @@
   {
     "Address": "3853 W Stetson Avenue Suite 103, Hemet, CA 92545",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:10.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.728174,
@@ -99425,15 +98985,12 @@
   {
     "Address": "4248 MACARTHUR BLVD, OAKLAND, CA 94619",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:38.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.788001,
@@ -99487,15 +99044,12 @@
   {
     "Address": "9493 Garfield St, Riverside, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:48.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.923839,
@@ -99822,15 +99376,12 @@
   {
     "Address": "1525 Mesa Verde Dr E Ste 101, Costa Mesa, CA 92626",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:48.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.669933,
@@ -100069,15 +99620,12 @@
   {
     "Address": "1569 LEXANN DR STE 104, SAN JOSE, CA 95121",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:20.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.308016,
@@ -100199,15 +99747,12 @@
   {
     "Address": "18035 Brookhurst St Ste 1400, Fountain Valley, CA 92708",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:56.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.700924,
@@ -100360,15 +99905,12 @@
   {
     "Address": "2574 San Bruno Avenue, San Francisco, CA 94134",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:04.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.729025,
@@ -100459,7 +100001,7 @@
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.365976,
@@ -100630,15 +100172,12 @@
   {
     "Address": "159 N GLENDORA AVE, GLENDORA, CA 91741",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:05.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.137605,
@@ -100650,15 +100189,12 @@
   {
     "Address": "201 Louise Ave, Lathrop, CA 95330",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:18.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.811992,
@@ -100788,15 +100324,12 @@
   {
     "Address": "3100 Ponte Morino Dr Ste 120, Cameron Park, CA 95682",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "El Dorado County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:22.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.663098,
@@ -101150,15 +100683,12 @@
   {
     "Address": "2403 E CEASAR E CHAVEZ AVE, LOS ANGELES, CA 90033",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:41.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.04681,
@@ -101170,15 +100700,12 @@
   {
     "Address": "4630 Border Village Rd Ste K-L, San Ysidro, CA 92173",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:50.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.547788,
@@ -101232,7 +100759,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.700209,
@@ -101299,7 +100826,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.602142,
@@ -101493,15 +101020,12 @@
   {
     "Address": "692 E STREET, WILLIAMS, CA 95987",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Colusa County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:18.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.154932,
@@ -101801,15 +101325,12 @@
   {
     "Address": "1307 W 6th St Ste 107, Corona, CA 92882",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:24.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.878342,
@@ -102223,15 +101744,12 @@
   {
     "Address": "1719 E. WALNUT ST., PASADENA, CA 91106",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:48.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.149833,
@@ -102470,15 +101988,12 @@
   {
     "Address": "2920 Inland Empire Blvd Ste 112, Ontario, CA 91764",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:23.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.070362,
@@ -102888,15 +102403,12 @@
   {
     "Address": "650 E Visalia Rd, Farmersville, CA 93223",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:13.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.29808,
@@ -103165,15 +102677,12 @@
   {
     "Address": "25405 HANCOCK AVE STE 100, MURRIETA, CA 92562",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.557939,
@@ -103302,15 +102811,12 @@
   {
     "Address": "359 MAIN ST, PLACERVILLE, CA 95667",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "El Dorado County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:22.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.728702,
@@ -103888,7 +103394,7 @@
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:14.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.831846,
@@ -104204,15 +103710,12 @@
   {
     "Address": "200 W ARBOR DR Rm I317, SAN DIEGO, CA 92103",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:24.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.754875,
@@ -104259,11 +103762,11 @@
     "Address": "1220 W HEMLOCK WAY STE 110, SANTA ANA, CA 92707",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.709678,
@@ -104933,7 +104436,7 @@
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.449868,
@@ -104962,15 +104465,12 @@
   {
     "Address": "5112 HOLLYWOOD BLVD STE 104, Los Angeles, CA 90027",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:14:06.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.10159,
@@ -105201,11 +104701,11 @@
     "Address": "3501 S Harbor Blvd Ste 167, Santa Ana, CA 92704",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:05.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.699833,
@@ -105278,15 +104778,12 @@
   {
     "Address": "2300 MACDONALD AVE, RICHMOND, CA 94804",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:52.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.93537,
@@ -105419,7 +104916,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.625834,
@@ -106531,15 +106028,12 @@
   {
     "Address": "22330 SHERMAN WAY STE C3, CANOGA PARK, CA 91303",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:48.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.200726,
@@ -106829,15 +106323,12 @@
   {
     "Address": "26800 CROWN VALLEY PKWY STE 185, MISSION VIEJO, CA 92691",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: incorrect contact information"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:04.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.562409,
@@ -107450,7 +106941,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.837473,
@@ -107530,15 +107021,12 @@
   {
     "Address": "14024 MAGNOLIA ST STE 103A, WESTMINSTER, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:26.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7576,
@@ -107772,15 +107260,12 @@
   {
     "Address": "519 E BROADWAY, GLENDALE, CA 91205",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:43.000Z",
+    "Latest report": "2021-02-25T05:39:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.146611,
@@ -107792,15 +107277,12 @@
   {
     "Address": "15230 LAKESHORE DR, CLEARLAKE, CA 95422",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Lake County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:20:57.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.950025,
@@ -107855,15 +107337,12 @@
   {
     "Address": "73261 HIGHWAY 111 SUITE 101, PALM DESERT, CA 92260",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:26.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.720885,
@@ -108213,15 +107692,12 @@
   {
     "Address": "6029 N Winton Way Ste A, Winton, CA 95388",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:52.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.375167,
@@ -108455,15 +107931,12 @@
   {
     "Address": "2097 HARRISON AVE, EUREKA, CA 95501",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Humboldt County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:38.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.788449,
@@ -108579,15 +108052,12 @@
   {
     "Address": "2392 University Ave, Riverside, CA 92507",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:39.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97533,
@@ -109795,7 +109265,7 @@
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:49.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.88515,
@@ -109855,15 +109325,12 @@
   {
     "Address": "305 N Soto St Ste A, Los Angeles, CA 90033",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:37.000Z",
+    "Latest report": "2021-02-25T05:39:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.04723,
@@ -110040,15 +109507,12 @@
   {
     "Address": "385 W CENTRAL AVE UNIT STE E, BREA, CA 92821",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.932436,
@@ -110082,7 +109546,7 @@
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.490278,
@@ -110439,7 +109903,7 @@
     ],
     "County": "Shasta County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.450979,
@@ -110468,15 +109932,12 @@
   {
     "Address": "420 W Acacia St Ste 4, STOCKTON, CA 95203",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:10.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.961123,
@@ -110774,15 +110235,12 @@
   {
     "Address": "580 FOREST SHADE RD STE 7, CRESTLINE, CA 92325",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:20.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.242642,
@@ -110871,15 +110329,12 @@
   {
     "Address": "17400 Irvine Blvd Ste P, Tustin, CA 92780",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:11.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.747826,
@@ -111519,7 +110974,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.047514,
@@ -111872,7 +111327,7 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:01.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.270782,
@@ -112183,7 +111638,7 @@
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:11.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.512131,
@@ -112309,7 +111764,7 @@
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:59.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.407899,
@@ -113438,15 +112893,12 @@
   {
     "Address": "15415 Jeffrey Rd Ste 108, Irvine, CA 92618",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: incorrect contact information"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:30.000Z",
+    "Latest report": "2021-02-25T05:38:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.681007,
@@ -113475,15 +112927,12 @@
   {
     "Address": "4731 HOEN AVE, SANTA ROSA, CA 95405",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:14.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.442823,
@@ -114225,15 +113674,12 @@
   {
     "Address": "24731 Alicia Pkwy, Laguna Hills, CA 92653",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:15.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.603557,
@@ -114310,15 +113756,12 @@
   {
     "Address": "1313 S Harbor Blvd 2nd Level HB, Anaheim, CA 92802",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:38.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.806393,
@@ -114655,15 +114098,12 @@
   {
     "Address": "2643 Senter Rd Ste A, SAN JOSE, CA 95111",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:15.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.302991,
@@ -114725,15 +114165,12 @@
   {
     "Address": "4108 N Sierra Way, San Bernardino, CA 92407",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:15.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.165919,
@@ -115386,15 +114823,12 @@
   {
     "Address": "5689 E KINGS CANYON RD STE 104, FRESNO, CA 93727",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:25.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.736329,
@@ -115406,15 +114840,12 @@
   {
     "Address": "41538 EASTMAN DR, MURRIETA, CA 92562",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:50.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.530131,
@@ -115612,15 +115043,12 @@
   {
     "Address": "5735 ATLANTIC AVE, LONG BEACH, CA 90805",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:51.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.859905,
@@ -115662,15 +115090,12 @@
   {
     "Address": "10251 COUNTRY CLUB DR STE B, MIRA LOMA, CA 91752",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:18.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.022973,
@@ -116231,15 +115656,12 @@
   {
     "Address": "340 4TH AVE STE 1, CHULA VISTA, CA 91910",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:42.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.639586,
@@ -116388,15 +115810,12 @@
   {
     "Address": "610 WEST KETTLEMAN LANE, LODI, CA 95240",
     "Affiliation": "Save Mart Pharmacy",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: incorrect contact information"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:21:41.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.114247,
@@ -116409,12 +115828,11 @@
     "Address": "707 W HOBSONWAY, BLYTHE, CA 92225",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: location permanently closed",
-      "No: will never be a vaccination site"
+      "No: incorrect contact information"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-19T02:23:42.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.610382,
@@ -116753,15 +116171,12 @@
   {
     "Address": "1067 N State College Blvd, Anaheim, CA 92806",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:42.000Z",
+    "Latest report": "2021-02-25T05:39:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.848862,
@@ -116841,15 +116256,12 @@
   {
     "Address": "901 E WILLIAMS ST, BARSTOW, CA 92311",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:13.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.897882,
@@ -117092,12 +116504,12 @@
   {
     "Address": "1919 W 7th St Unit M, Los Angeles, CA 90057",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
+    "Availability Info": [
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:15.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.05582,
@@ -117163,15 +116575,12 @@
   {
     "Address": "929 CLAY ST, SAN FRANCISCO, CA 94108",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:13.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.793851,
@@ -117726,15 +117135,12 @@
   {
     "Address": "12818 HEACOCK ST STE C 5, MORENO VALLEY, CA 92553",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:12.000Z",
+    "Latest report": "2021-02-25T05:39:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.934419,
@@ -118166,15 +117572,12 @@
   {
     "Address": "403 S LONG BEACH BLVD STE C, COMPTON, CA 90221",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:46.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.893322,
@@ -118653,15 +118056,12 @@
   {
     "Address": "1700 N WATERMAN AVE, SAN BERNARDINO, CA 92404",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:13.000Z",
+    "Latest report": "2021-02-25T05:38:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.130332,
@@ -118996,15 +118396,12 @@
   {
     "Address": "12464 Washington Blvd, Whittier, CA 90602",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:35.000Z",
+    "Latest report": "2021-02-25T05:39:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.967499,
@@ -119033,15 +118430,12 @@
   {
     "Address": "9836 Magnolia Ave., Santee, CA 92071",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:07.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8559,
@@ -119875,15 +119269,12 @@
   {
     "Address": "400 NEWPORT CENTER DRIVE SUITE 106, NEWPORT BEACH, CA 92660",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:53.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.613762,
@@ -120009,15 +119400,12 @@
   {
     "Address": "653 MAIN ST, BRAWLEY, CA 92227",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:10.000Z",
+    "Latest report": "2021-02-25T05:39:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.978795,
@@ -120475,15 +119863,12 @@
   {
     "Address": "289 W. Huntington Drive Ste 101, Arcadia, CA 91007",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:50.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.131834,
@@ -120984,15 +120369,12 @@
   {
     "Address": "11525 BROOKSHIRE AVE STE 100, DOWNEY, CA 90241",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:55.000Z",
+    "Latest report": "2021-02-25T05:38:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.935628,
@@ -121312,15 +120694,12 @@
   {
     "Address": "12930 Day St Ste #103, Moreno Valley, CA 92553",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:09.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.933076,
@@ -121413,15 +120792,12 @@
   {
     "Address": "19766 E COLIMA RD, ROWLAND HEIGHTS, CA 91748",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T06:36:13.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.986288,
@@ -121450,15 +120826,12 @@
   {
     "Address": "51 BRANSCOMB RD STE 1, LAYTONVILLE, CA 95454",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:04.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.687423,
@@ -122023,15 +121396,12 @@
   {
     "Address": "10191 WESTMINSTER AVE, GARDEN GROVE, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:11.000Z",
+    "Latest report": "2021-02-25T05:39:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.760324,
@@ -122533,15 +121903,12 @@
   {
     "Address": "24261 Avenida de la Carlota Ste Q-2, Laguna Hills, CA 92653",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:20:57.000Z",
+    "Latest report": "2021-02-25T05:39:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.608649,
@@ -123340,15 +122707,12 @@
   {
     "Address": "351 HOSPITAL RD STE 107, NEWPORT BEACH, CA 92663",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:11.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.625998,
@@ -123569,15 +122933,12 @@
   {
     "Address": "29211 HEATHER CLIFF RD, MALIBU, CA 90265",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: no vaccine inventory"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:42.000Z",
+    "Latest report": "2021-02-25T05:39:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.020859,
@@ -123704,15 +123065,12 @@
   {
     "Address": "525 3RD AVE STE A, CHULA VISTA, CA 91910",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:11.000Z",
+    "Latest report": "2021-02-25T05:38:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.633865,
