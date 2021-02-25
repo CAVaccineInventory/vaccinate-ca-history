@@ -1704,8 +1704,15 @@
   {
     "Address": "500 B Street, Scotia, CA 95565",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "walgreens.com "
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Humboldt County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T01:51:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.482952,
@@ -19249,10 +19256,17 @@
   {
     "Address": "145 N. Magnolia St.\nWoodlake, CA 93286, USA",
     "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
     "County": "Tulare County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T02:02:27.000Z",
+    "Latest report notes": [
+      "Currently vaccinating county residents and healthcare workers. Appointments are available online at https://myturn.ca.gov/. When checked on 2/24, appointment slots were available."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.41464,
     "Location Type": "Super Site",
     "Longitude": -119.09792,
@@ -38528,10 +38542,17 @@
   {
     "Address": "249 S. Alta Ave.\nDinuba, CA 93618, USA",
     "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
     "County": "Tulare County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T02:00:18.000Z",
+    "Latest report notes": [
+      "Currently vaccinating county residents and healthcare workers. Appointments are available online at https://myturn.ca.gov/. When checked on 2/24, appointment slots were available."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.53811,
     "Location Type": "Super Site",
     "Longitude": -119.39533,
@@ -54730,10 +54751,18 @@
   {
     "Address": "712 E. Washington St.\nEarlimart, CA 93219, USA",
     "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment calendar currently full",
+      "Yes: appointment required"
+    ],
     "County": "Tulare County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T01:57:58.000Z",
+    "Latest report notes": [
+      "Currently vaccinating residents 65+ and healthcare workers. Appointments are available online at https://myturn.ca.gov/. When checked on 2/24, all appointment slots were filled."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.88477,
     "Location Type": "Super Site",
     "Longitude": -119.26868,
@@ -111195,10 +111224,18 @@
   {
     "Address": "1900 W. Olive Ave.\nPorterville, CA 93257, USA",
     "Affiliation": "Optumserve",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+"
+    ],
     "County": "Tulare County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T02:04:09.000Z",
+    "Latest report notes": [
+      "Currently vaccinating county residents 65+ and healthcare workers. Appointments are available online at https://myturn.ca.gov. When checked on 2/24, all appointment slots were filled."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.06636,
     "Location Type": "Super Site",
     "Longitude": -119.05956,
