@@ -1497,14 +1497,20 @@
   {
     "Address": "5328 W CYPRESS AVE, VISALIA, CA 93277",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:19:32.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.324886,
     "Location Type": "Pharmacy",
     "Longitude": -119.350363,
@@ -5687,11 +5693,11 @@
     "Address": "1101 MCHENRY AVE, MODESTO, CA 95350",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:52.000Z",
+    "Latest report": "2021-02-25T23:08:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.65927,
@@ -7404,18 +7410,19 @@
     "Address": "2207 FRANCISCO DR, EL DORADO HILLS, CA 95762",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "mhealthcheckin.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Vaccinating essential workers"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents"
     ],
     "County": "El Dorado County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T23:34:09.000Z",
+    "Latest report": "2021-02-25T23:20:38.000Z",
     "Latest report notes": [
-      "Feb 11: Currently vaccinating 65+, healthcare workers, agriculture workers, and educators"
+      "Feb 25: Currently vaccinating 65+, healthcare workers, agriculture workers, and educators."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.711181,
@@ -11738,14 +11745,20 @@
   {
     "Address": "575  M  STREET, CRESCENT CITY, CA 95531",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Del Norte County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:35:03.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:21:33.000Z",
+    "Latest report notes": [
+      "Feb 25: reminder from pharmacist to bring your ID and Medicare cards"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 41.757072,
     "Location Type": "Pharmacy",
     "Longitude": -124.194415,
@@ -14404,20 +14417,16 @@
     "Address": "11822 Gilbert St, Garden Grove, CA 92841",
     "Affiliation": "Walmart",
     "Appointment scheduling instructions": [
-      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T18:23:19.000Z",
-    "Latest report notes": [
-      "As of February 24, this location is expecting their vaccine arrival within the week, It is recommended to check the website every day for appointment availability. This location is only scheduling appointments through its website."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T19:00:54.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.790799,
     "Location Type": "Pharmacy",
     "Longitude": -117.965215,
@@ -17802,8 +17811,15 @@
   {
     "Address": "17642 East 17th St., Tustin, CA 92780",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:14:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7598461,
@@ -18994,8 +19010,8 @@
       "Currently vaccinating people 65+ and healthcare workers. Appointments can be made at https://carbonhealth.com/covid-19-vaccines. When checked on 2/23, appointments were available for Feb 24 and Feb 25."
     ],
     "Latest report yes?": 1,
-    "Latitude": 34.18652,
-    "Longitude": 118.56505,
+    "Latitude": 34.1883007,
+    "Longitude": -118.5799164,
     "Name": "Los Angeles Fire Department - Pierce College",
     "id": "rec8nTpkQQNlBJ7jh"
   },
@@ -25594,14 +25610,20 @@
   {
     "Address": "777 W Blaine St, Riverside, CA 92507",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "951-299-9922"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:13:26.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.983155,
     "Location Type": "Pharmacy",
     "Longitude": -117.328598,
@@ -30468,8 +30490,12 @@
   {
     "Address": "1676 West Katella Avenue, Anaheim, CA 92802",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:10:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.80273435,
@@ -64915,8 +64941,12 @@
   {
     "Address": "1535 East Katella Avenue, Orange, CA 92867",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:18:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.80925392,
@@ -71713,17 +71743,16 @@
     "Address": "2424 N BRAWLEY AVE, FRESNO, CA 93722",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "559-277-5912"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T19:42:18.000Z",
-    "Latest report notes": [
-      null
-    ],
+    "Latest report": "2021-02-25T18:56:54.000Z",
     "Latest report yes?": 1,
     "Latitude": 36.772153,
     "Location Type": "Pharmacy",
@@ -85180,8 +85209,12 @@
   {
     "Address": "6775 Quail Hill Parkway, Irvine, CA 92603",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:05:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6545146,
@@ -105518,16 +105551,19 @@
     "Address": "440 N Euclid St, ANAHEIM, CA 92801",
     "Affiliation": "Walmart",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:28:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T19:20:40.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.83637,
     "Location Type": "Pharmacy",
     "Longitude": -117.938332,
@@ -107312,17 +107348,17 @@
     "Address": "2550 Bell Rd, Auburn, CA 95603",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "county's website. "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T23:12:12.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: tips from pharmacist are to try the county site at different times of day, even every few hours, bc appts will pop up due to cancellations -- be diligent"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.943897,
@@ -107663,8 +107699,15 @@
   {
     "Address": "26851 Trabuco Rd, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:25:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.62208725,
@@ -113549,12 +113592,15 @@
   {
     "Address": "155 Northgate One, San Rafael, CA 94903",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "951-299-9922"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:34.000Z",
+    "Latest report": "2021-02-25T23:18:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.008057,
@@ -126899,8 +126945,15 @@
   {
     "Address": "27750 Santa Margarita Pkwy, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:05:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.65166085,
@@ -127239,15 +127292,16 @@
     "Address": "4633 Santa Monica Blvd., Los Angeles, CA 90029",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "www.riteaid.com/pharmacy/covid19"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T23:10:53.000Z",
     "Latest report notes": [
       null
     ],
@@ -130463,8 +130517,15 @@
   {
     "Address": "13831 Brookhurst St, Garden Grove, CA 92843",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:21:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.76319417,
