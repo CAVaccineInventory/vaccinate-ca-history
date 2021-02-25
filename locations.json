@@ -36491,13 +36491,12 @@
       "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
     ],
     "Availability Info": [
-      "Yes: coming soon",
       "Yes: vaccinating 65+",
       "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T18:31:22.000Z",
+    "Latest report": "2021-02-25T18:39:38.000Z",
     "Latest report notes": [
       null
     ],
@@ -49282,20 +49281,10 @@
   {
     "Address": "638 Camino De Los Mares, San Clemente, CA 92673",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
-    "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required"
-    ],
     "County": "Orange County",
-    "Has Report": 1,
-    "Latest report": "2021-02-25T18:39:38.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Location Type": "Pharmacy",
     "Name": "CVS Pharmacy® & Drug Store at 638 Camino De Los Mares, San Clemente, CA 92673",
     "id": "recMSTzVRFGEuxS6M"
@@ -63162,16 +63151,17 @@
     "Address": "1801 W 11TH ST, TRACY, CA 95376",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "sjcphs.org "
+      "https://sjready.org/"
     ],
     "Availability Info": [
-      "Yes: appointment required",
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T20:29:28.000Z",
     "Latest report notes": [
       null
     ],
@@ -86702,16 +86692,16 @@
     "Address": "72800 DINAH SHORE DR, PALM DESERT, CA 92211",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "rivcoph.org/costco"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T20:25:27.000Z",
     "Latest report notes": [
       null
     ],
