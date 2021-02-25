@@ -25322,17 +25322,19 @@
     "Address": "7339 MILLIKEN AVE NUE SUITE 110, RANCHO CUCAMONGA, CA 91730",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovid19.com"
+      "https://sbcovid19.com/vaccine/"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T17:44:28.000Z",
     "Latest report notes": [
-      null
+      "Feb 25. Pharmacist says appointments book up quickly. If can't find an appointment now then encourages people to check back on Monday as they anticipate a shipment of more vaccine. "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.12039,
