@@ -4481,17 +4481,18 @@
     "Address": "1141 W AVE L, LANCASTER, CA 93534",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      " vaccinatelacounty.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-11T23:52:11.000Z",
+    "Latest report": "2021-02-25T20:10:59.000Z",
     "Latest report notes": [
-      null
+      "no appointments today 2/25/21 but check website"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.66129,
@@ -30206,8 +30207,15 @@
   {
     "Address": "5822 Edinger Avenue, Huntington Beach, CA 92649",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T20:03:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7298424,
@@ -57121,18 +57129,17 @@
     "Address": "27177 HIGHWAY 189 SUITE E, BLUE JAY, CA 92317",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sbcovid19.com\n\nNeeds to walk with ID and Medicare cards."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T20:07:12.000Z",
     "Latest report notes": [
-      null
+      "SBCOVID19.COM"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.244863,
@@ -61279,16 +61286,16 @@
     "Address": "1380 BARSTOW ROAD, BARSTOW, CA 92311",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      " sbcovid10.com\\vaccine "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T20:09:41.000Z",
     "Latest report notes": [
       null
     ],
@@ -75933,16 +75940,16 @@
     "Address": "2412 PICO BOULEVARD, SANTA MONICA, CA 90405",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      " Go to vaccinatelacounty.com to schedule an appointment."
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:41.000Z",
+    "Latest report": "2021-02-25T20:13:35.000Z",
     "Latest report notes": [
       null
     ],
@@ -76021,16 +76028,15 @@
     "Address": "1453 GOODWIN DR, RIPON, CA 95366",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.savemart.com/ "
+      "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T20:15:49.000Z",
     "Latest report notes": [
       null
     ],
