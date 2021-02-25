@@ -11057,15 +11057,15 @@
     "Address": "740 OTAY LAKES RD, CHULA VISTA, CA 91910",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "p11 Santiago website  "
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T22:48:39.000Z",
     "Latest report notes": [
       null
     ],
@@ -12754,8 +12754,15 @@
   {
     "Address": "200 Westminster Mall, Westminster, CA 92683",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:46:14.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.746156,
@@ -73151,8 +73158,12 @@
   {
     "Address": "7191 Warner Avenue, Huntington Beach, CA 92647",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:52:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.71541443,
@@ -75878,8 +75889,12 @@
   {
     "Address": "1545 West 17th Street, Santa Ana, CA 92706",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:47:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.75992481,
@@ -81324,15 +81339,15 @@
     "Address": "1135 AVOCADO BOULEVARD, EL CAJON, CA 92020",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com"
+      "https://riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T22:56:07.000Z",
     "Latest report notes": [
       null
     ],
@@ -81950,17 +81965,17 @@
     "Address": "1025 ALHAMBRA BLVD, SACRAMENTO, CA 95816",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "The county website"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T22:51:41.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: not sure if city or county residence is required"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.57181,
@@ -82394,17 +82409,17 @@
   {
     "Address": "2300 MENDOCINO AVENUE, SANTA ROSA, CA 95403",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "Vons website"
+    ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 70+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T05:19:39.000Z",
-    "Latest report notes": [
-      "Appointments for people 70+ can be made online here: https://mhealthsystem.com/sonomacounty1576. All available appointment slots were filled when checked on Feb 11. Please check the website for current availability."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:53:43.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 38.463475,
     "Location Type": "Pharmacy",
     "Longitude": -122.717328,
@@ -89424,8 +89439,15 @@
   {
     "Address": "25511 Muirlands Blvd., Mission Viejo, CA 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:54:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6093601,
@@ -100191,20 +100213,16 @@
     "Address": "16830 SAN FERNANDO MISSION BLVD, GRANADA HILLS, CA 91344",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "vons.com  alertsons.com/covidclinic "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:51:04.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 34.27181,
     "Location Type": "Pharmacy",
     "Longitude": -118.49871,
@@ -103019,17 +103037,15 @@
     "Address": "989 SUNRISE AVE, ROSEVILLE, CA 95661",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Schedule an appointment on the county website. The staff do not know what is the county website URL."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T22:53:36.000Z",
     "Latest report notes": [
       null
     ],
@@ -106042,8 +106058,12 @@
   {
     "Address": "2138 N. Tustin St., Orange, CA 92865",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T22:43:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.82350205,
