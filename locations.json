@@ -6980,11 +6980,13 @@
   },
   {
     "Address": "1907 Border Ave, Torrance, CA 90501",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8286246,
+    "Location Type": "Ambulance",
     "Longitude": -118.3132725,
     "Name": "Ambulnz Health, LLC",
     "id": "rec3IME4KptBKYLlW"
@@ -7032,11 +7034,13 @@
   },
   {
     "Address": "1530 Hillhurst Ave, Los Angeles, CA 90027",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0989121,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2871437,
     "Name": "Asian Pacific Health Care Venture",
     "id": "rec3JvEQGOQPbhG0x"
@@ -23277,17 +23281,18 @@
     "Address": "951 NORTH HARBOR BOULEVARD NORTH HILLS PLAZA, LA HABRA, CA 90631",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T23:33:43.000Z",
+    "Latest report": "2021-02-25T18:14:58.000Z",
     "Latest report notes": [
-      null
+      "This location is scheduling vaccines through the county website."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.940635,
@@ -40365,8 +40370,15 @@
   {
     "Address": "175 E 17th St, Costa Mesa, CA 92627",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:25:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.63571064,
@@ -43237,11 +43249,13 @@
   },
   {
     "Address": "824 East Carson Street, Suite 104, Carson, CA 90745",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8310337,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2606094,
     "Name": "Optum - Carson",
     "id": "recJRCdIy3aJFETSC"
@@ -61023,11 +61037,13 @@
   },
   {
     "Address": "8928 SEPULVEDA BLVD., NORTH HILLS, CA 91343",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.233042,
+    "Location Type": "Ambulance",
     "Longitude": -118.4668148,
     "Name": "PRN AMBULANCE, LLC",
     "id": "recS7fPQD8KR5Ugqs"
@@ -63106,11 +63122,13 @@
   },
   {
     "Address": "2699 Atlantic Ave, Long Beach, CA 90806",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8059932,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1858612,
     "Name": "Optum - Atlantic",
     "id": "recT4NeTXX275qdlc"
@@ -63364,11 +63382,13 @@
   },
   {
     "Address": "8311 Florence Ave, Downey, CA 90240",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9512712,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1245959,
     "Name": "Optum - Downey",
     "id": "recT8HqHPc8iVsMLX"
@@ -76239,11 +76259,13 @@
   },
   {
     "Address": "2040 Camfield Ave, Los Angeles, CA 90040",
+    "Affiliation": "Altamed",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.008006,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.155171,
     "Name": "AltaMed Health Services Corporation- Corporate Office",
     "id": "recZM5CTMI8jtDLSt"
@@ -78685,19 +78707,17 @@
     "Address": "6498 PONY EXPRESS TR, POLLOCK PINES, CA 95726",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Schedule an appointment on safeway.com"
+      "530-621-6100"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "El Dorado County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T18:11:43.000Z",
     "Latest report notes": [
-      "Feb 07 they are all booked, please keep checking every day as new appointments do open up"
+      "\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.762347,
@@ -79230,17 +79250,15 @@
     "Address": "5688 TELEPHONE RD, VENTURA, CA 93003",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "Visit venturacountyrecovers.org to find out if you're eligible for the vaccine and how you can make an appointment once they are available"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T18:20:08.000Z",
     "Latest report notes": [
       null
     ],
@@ -80717,11 +80735,13 @@
   },
   {
     "Address": "19333 Business Center Drive, Northridge, CA 91324",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2320127,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.5548338,
     "Name": "National Renal Care",
     "id": "recbPh4SI382xuF3u"
@@ -87076,11 +87096,13 @@
   },
   {
     "Address": "43839 15th St W, Lancaster, CA 93534",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.6788432,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1579626,
     "Name": "High Desert Medical Group",
     "id": "receVFbHz1iDn62hg"
@@ -89672,11 +89694,13 @@
   },
   {
     "Address": "9441 Washburn Rd, Downey, CA 90242",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9247399,
+    "Location Type": "Ambulance",
     "Longitude": -118.1198572,
     "Name": "Liberty Ambulance, LLC",
     "id": "recfes3R0J23dR9xb"
@@ -92649,11 +92673,13 @@
   },
   {
     "Address": "5400 West Rosecrans Avenue, Suite 100, Hawthorne, CA 90250",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9011802,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3747329,
     "Name": "Optum - Manhattan Beach",
     "id": "rech0Y8wUPa6MbYjf"
@@ -104024,11 +104050,13 @@
   },
   {
     "Address": "1120 W Washington Blvd, Los Angeles, CA 90015",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0384593,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.28233,
     "Name": "Optum - Downtown Los Angeles Clinic",
     "id": "recmWkbDFoMPSCZh6"
@@ -112785,11 +112813,13 @@
   },
   {
     "Address": "2603 Via Campo, Montebello, CA 90640",
+    "Affiliation": "Optumserve",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0320628,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1240764,
     "Name": "Optum- Montebello UCC",
     "id": "recqhviGQpCSJZ3Wz"
@@ -115590,6 +115620,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.889487,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.175888,
     "Name": "Affinity Health Care Center - 7039 Alondra Blvd",
     "id": "recrwqcGvtTKuP47k"
@@ -121279,11 +121310,13 @@
   },
   {
     "Address": "9960 Baldwin Pl, El Monte, CA 91731",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.071181,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.051482,
     "Name": "Asian Pacific Health Care Venture",
     "id": "recunacJ57zT3BuOj"
@@ -121847,17 +121880,18 @@
     "Address": "1020 JOHNSON LANE, SOUTH LAKE TAHOE, CA 96150",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "Visit the El Dorado county's website to find out if you're eligible for the vaccine and how you can make appointments, once there are available slots"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers",
+      "Scheduling second dose only"
     ],
     "County": "El Dorado County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T18:23:47.000Z",
     "Latest report notes": [
       null
     ],
@@ -127803,20 +127837,16 @@
     "Address": "2975 VAN BUREN BLVD, RIVERSIDE, CA 92503",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "www.albertsons.com"
+      "riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T18:08:13.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.909378,
     "Location Type": "Pharmacy",
     "Longitude": -117.437212,
@@ -129985,8 +130015,15 @@
   {
     "Address": "27251 La Paz Rd, Laguna Niguel, CA 92677",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:29:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5363512,
