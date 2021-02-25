@@ -7500,17 +7500,18 @@
     "Address": "222 WEST  G  STREET, ONTARIO, CA 91762",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "919-387-3911\n\nsbcovid19.com/vaccine/65plus"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T18:30:33.000Z",
     "Latest report notes": [
-      "02/06: Vaccines in stock. Need to go to the county website to make an appointment. You need to fill out a questionnaire there to determine eligibility. Confirmed address is correct. "
+      "02/06: Vaccines in stock. Need to go to the county website to make an appointment. You need to fill out a questionnaire there to determine eligibility. Confirmed address is correct. Also, appointments can be made on the rite aid website. did not mention limits on accommodation. "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.071025,
@@ -13064,8 +13065,15 @@
   {
     "Address": "2620 E Chapman Ave, Orange, CA 92869",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:49:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.787719,
@@ -14194,21 +14202,16 @@
   {
     "Address": "1001 Potrero Ave, Building 30, San Francisco, CA 94110",
     "Affiliation": "County",
-    "Appointment scheduling instructions": [
-      "https://www.sfdph.org/dph/comupg/oservices/medSvs/SFGH/SFGHPatientVisitor.asp"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers",
-      "Yes: restricted to county residents",
-      "Yes: restricted to city residents"
+      "Yes: restricted to city residents",
+      "Yes: walk-ins accepted"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-24T22:01:50.000Z",
+    "Latest report": "2021-02-25T18:47:51.000Z",
     "Latest report notes": [
-      null
+      "Open without appointment for residents 65 and older of zip codes 94107, 94110, 94112, 94124, and 94134.\n\nWalk-thru, Wheelchair accessible. Drop in between 9 am and 3 pm daily.\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.75529,
@@ -28622,19 +28625,18 @@
     "Address": "2920 E Whitmore Ave, Ceres, CA 95307",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "savemart.com"
+      "209-566-7485"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T18:37:39.000Z",
     "Latest report notes": [
-      "Call the Pharmacy to be put on a waiting list for vaccine appointments. The Pharmacy then calls the patient from that list. Restricted to Stanislaus County residents.,"
+      "Call the Pharmacy to be put on a waiting list for vaccine appointments. The Pharmacy then calls the patient from that list. Restricted to Stanislaus County residents., offering limited tiers.  Very backed up.  Focusing on second doses."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.593082,
@@ -36449,10 +36451,21 @@
   {
     "Address": "638 Camino De Los Mares, San Clemente, CA 92673",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:31:22.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.4584931,
     "Location Type": "Pharmacy",
     "Longitude": -117.6531339,
@@ -37849,18 +37862,17 @@
     "Address": "8914 VALLEY BOULEVARD, ROSEMEAD, CA 91770",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "publichealth.lacounty.gov"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T18:38:03.000Z",
     "Latest report notes": [
-      "Feb 05 - Currently vaccinating 65+ with appointments through LA County website. Bring ID and Medicare part B/insurance info to appointment"
+      " Feb 25 - Vaccinating 65+ make an appointment :https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21. The pharmacist said you do not need to be a county resident.\n\n\n\nFeb 05 - Currently vaccinating 65+ with appointments through LA County website. Bring ID and Medicare part B/insurance info to appointment"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.080268,
@@ -49226,10 +49238,20 @@
   {
     "Address": "638 Camino De Los Mares, San Clemente, CA 92673",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:39:38.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Location Type": "Pharmacy",
     "Name": "CVS Pharmacy® & Drug Store at 638 Camino De Los Mares, San Clemente, CA 92673",
     "id": "recMSTzVRFGEuxS6M"
@@ -50820,17 +50842,19 @@
     "Address": "4627 CARMEL MOUNTAIN RD, SAN DIEGO, CA 92130",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "vons.com go to the covid 19 section. Keep checking daily."
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T18:41:02.000Z",
     "Latest report notes": [
-      null
+      "very booked and having to cancel. low supply"
     ],
     "Latest report yes?": 1,
     "Latitude": 32.947927,
@@ -68769,8 +68793,15 @@
   {
     "Address": "2300 Park Ave, Tustin, CA 92782",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:38:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7039957,
@@ -80847,8 +80878,15 @@
   {
     "Address": "25601 Jeronimo Rd, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:35:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.62355025,
@@ -96417,8 +96455,15 @@
   {
     "Address": "2011 East La Palma, Anaheim, CA 92806",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:44:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.847333,
@@ -102317,8 +102362,15 @@
   {
     "Address": "24372 Rockfield Blvd, Lake Forest, CA 92630",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T18:51:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6151808,
@@ -115359,18 +115411,19 @@
     "Address": "13803 FOOTHILL BLVD, SYLMAR, CA 91342",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Check out the county's website to find out if you're eligible for the vaccine and how you can make an appointment"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T18:34:33.000Z",
     "Latest report notes": [
-      null
+      "essential workers need proof of employment"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.310461,
@@ -118625,17 +118678,17 @@
     "Address": "18444 PLUMMER STREET, NORTHRIDGE, CA 91325",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "www.publichealth.lacounty.gov"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T18:52:17.000Z",
     "Latest report notes": [
-      null
+      "said availability can be seen on county website"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.242548,
