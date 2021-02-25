@@ -8145,14 +8145,21 @@
   {
     "Address": "9031 ROSECRANS AVE, BELLFLOWER, CA 90706",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-24T23:56:51.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.904288,
     "Location Type": "Pharmacy",
     "Longitude": -118.142109,
@@ -65135,12 +65142,15 @@
   {
     "Address": "210 American Canyon Rd, American Canyon, CA 94503",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:07.000Z",
+    "Latest report": "2021-02-24T23:53:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.164971,
@@ -78800,10 +78810,23 @@
   {
     "Address": "315 MERCY AVE SUITE 400, MERCED, CA 95340",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "The clinic calls eligible patients to make an appointment."
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient",
+      "Scheduling second dose only"
+    ],
     "County": "Merced County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-24T23:53:50.000Z",
+    "Latest report notes": [
+      "2/24/21 Because of the weather last week they are only giving second doses but will resume 1st doses when they receive more vaccine.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.3393596,
     "Location Type": "Hospital / Clinic",
     "Longitude": -120.4673508,
@@ -114484,12 +114507,15 @@
   {
     "Address": "6250 Valley Springs Pkwy, RIVERSIDE, CA 92507",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-25T00:00:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.938736,
