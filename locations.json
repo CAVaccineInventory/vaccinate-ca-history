@@ -23725,17 +23725,17 @@
     "Address": "647 FOOTHILL BOULEVARD, LA CANADA FLINTRIDGE, CA 91011",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Visit http://riteaid.com/ to find out if you're eligible for the vaccine and how you can make an appointment"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T18:57:21.000Z",
     "Latest report notes": [
-      "Feb 07 Moderna. ~20 appointments per day."
+      null
     ],
     "Latest report yes?": 1,
     "Latitude": 34.201014,
@@ -50653,16 +50653,15 @@
     "Address": "700 EAST REDLANDS BOULEVARD SUITE A, REDLANDS, CA 92373",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm  - The county website "
+      "county website and county phone number: 909-387-3911"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:38.000Z",
+    "Latest report": "2021-02-25T18:55:16.000Z",
     "Latest report notes": [
       null
     ],
