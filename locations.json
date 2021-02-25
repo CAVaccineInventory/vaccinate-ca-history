@@ -9988,14 +9988,20 @@
   {
     "Address": "1301 MARKET ST, SAN FRANCISCO, CA 94103",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_vanity"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:34:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.777292,
     "Location Type": "Pharmacy",
     "Longitude": -122.416254,
@@ -12117,14 +12123,20 @@
   {
     "Address": "12358 Poway Road, Poway CA, 92064",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9105"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:35:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:00:31.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.9529,
     "Location Type": "Pharmacy",
     "Longitude": -117.0635,
@@ -19984,14 +19996,20 @@
   {
     "Address": "1480 FOOTHILL BOULEVARD, LA VERNE, CA 91750",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:05.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:17:08.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.116494,
     "Location Type": "Pharmacy",
     "Longitude": -117.775354,
@@ -23594,14 +23612,20 @@
   {
     "Address": "200 N Winchester Blvd, SANTA CLARA, CA 95050",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:09:37.000Z",
+    "Latest report notes": [
+      "Best time to check for appointments online is early in the morning "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.328955,
     "Location Type": "Pharmacy",
     "Longitude": -121.950385,
@@ -49730,14 +49754,20 @@
   {
     "Address": "7015 N WEST AVE, FRESNO, CA 93711",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:05:56.000Z",
+    "Latest report notes": [
+      "2/24: Appointments fully booked for the next 4 days"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.837808,
     "Location Type": "Pharmacy",
     "Longitude": -119.827046,
@@ -49870,14 +49900,19 @@
   {
     "Address": "4306 MING AVE, BAKERSFIELD, CA 93309",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:30:08.000Z",
+    "Latest report notes": [
+      "available to anyone"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.340365,
     "Location Type": "Pharmacy",
     "Longitude": -119.050663,
@@ -92070,14 +92105,20 @@
   {
     "Address": "4402 ATLANTIC AVENUE, LONG BEACH, CA 90807",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T01:06:44.000Z",
+    "Latest report notes": [
+      "health care workers and 65+ "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.837842,
     "Location Type": "Pharmacy",
     "Longitude": -118.184292,
@@ -98500,17 +98541,18 @@
     "Address": "74958 COUNTRY CLUB DRIVE, PALM DESERT, CA 92260",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier "
+      "riteaid.com/covid19"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:19:12.000Z",
+    "Latest report": "2021-02-25T01:44:09.000Z",
     "Latest report notes": [
-      "This location is only accepting appointments through their website."
+      "This location is only accepting appointments through their website. Think they'll offer vaccines to essential workers in a few weeks from now."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.760371,
@@ -107509,12 +107551,15 @@
   {
     "Address": "8333 VAN NUYS BLVD, PANORAMA CITY, CA 91402",
     "Affiliation": "Walmart",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T20:24:46.000Z",
+    "Latest report": "2021-02-25T01:07:19.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.222359,
@@ -118808,7 +118853,7 @@
     "Address": "260 Spruce St, Gridley CA, 95948",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
+      "cvs.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -118817,9 +118862,9 @@
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:04:23.000Z",
+    "Latest report": "2021-02-25T01:20:37.000Z",
     "Latest report notes": [
-      "This location is scheduling appointments through its website."
+      "Healthcare workers and age 65+ "
     ],
     "Latest report yes?": 1,
     "Latitude": 39.3675,
