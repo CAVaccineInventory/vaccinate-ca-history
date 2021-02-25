@@ -14718,7 +14718,7 @@
   {
     "Address": "150 Golden Gate Ave Floor 2, San Francisco, CA 94102",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -17806,7 +17806,7 @@
   },
   {
     "Address": "3683 Peralta Boulevard, Fremont, CA 94536",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "On Lok Senior Health Services",
     "County": "Alameda County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -21671,10 +21671,22 @@
   {
     "Address": "280 Sierra College Drive Suite 120, Grass Valley, CA 95945",
     "Affiliation": "Dignity Health",
+    "Appointment scheduling instructions": [
+      "https://locations.dignityhealth.org/dignity-health-medical-group-sierra-nevada?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=Lisa&utm_term=DignityHealthMedicalGroup-SierraNevada&y_source=1_NjE3ODc3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Nevada County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:41:20.000Z",
+    "Latest report notes": [
+      "2/24: Do not currently have vaccines but should be receiving them in the next week; once they do, appointments will be made available to eligible patients who currently have a primary provider at Dignity Health "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.2336856,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.0518555,
@@ -22595,14 +22607,21 @@
   {
     "Address": "6170 HAMNER AVE, MIRA LOMA, CA 91752",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "vons website and click pharmacy department "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Scheduling second dose only"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:08.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:37:36.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.976485,
     "Location Type": "Pharmacy",
     "Longitude": -117.557755,
@@ -25541,10 +25560,21 @@
   {
     "Address": "935 Broadway Ave, El Centro, CA 92243",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "http://www.icphd.org/ "
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Imperial County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:36:06.000Z",
+    "Latest report notes": [
+      "2/24: They will be getting more vaccine in 1 week and once they do they will open their website and call center for appointments; They encourage people to go to the website or call 442-265-6700 to make an appointment next week. Appointments will not be available until they get the vaccine.  "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.7936031,
     "Location Type": "Health department",
     "Longitude": -115.5633101,
@@ -28514,14 +28544,20 @@
   {
     "Address": "1236 N WATERMAN AVE, SAN BERNARDINO, CA 92404",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9751"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:46:46.000Z",
+    "Latest report notes": [
+      "First day going live was on 2/24/21 and appointments full for that day, but they expect more appointments to open up soon. Healthcare and Childcare workers eligible. \n\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.121875,
     "Location Type": "Pharmacy",
     "Longitude": -117.279198,
@@ -32895,14 +32931,20 @@
   {
     "Address": "19081 Goldenwest St, Huntington Beach, CA 92648",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "714-960-3102"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:52:12.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.685336,
     "Location Type": "Pharmacy",
     "Longitude": -118.007875,
@@ -37062,7 +37104,7 @@
   {
     "Address": "1333 Bush Street, San Francisco, CA 94109",
     "Affiliation": "On Lok Senior Health Services",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -39032,8 +39074,12 @@
   {
     "Address": "1604 Sunrise Ave, Madera, CA 93638",
     "Affiliation": "County",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Madera County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:58:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.9592462,
@@ -40917,11 +40963,11 @@
     "Address": "7562 CENTER AVE, HUNTINGTON BEACH, CA 92647",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
+    "Latest report": "2021-02-25T00:30:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.732613,
@@ -47677,17 +47723,19 @@
     "Address": "5881 WARNER AVENUE, HUNTINGTON BEACH, CA 92649",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.cvs.com/store-locator/details-directions/9751"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:33:37.000Z",
+    "Latest report": "2021-02-25T00:41:30.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "This location is only scheduling appointments through their website. They DO have appointments available but they are 3 weeks out. "
     ],
     "Latest report yes?": 1,
     "Latitude": 33.716258,
@@ -50588,7 +50636,7 @@
   {
     "Address": "229 7th St, San Francisco, CA 94103",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -51247,13 +51295,18 @@
     "Address": "12350 CARMEL MTN RD, SAN DIEGO, CA 92128",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:08.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:21:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.987295,
     "Location Type": "Pharmacy",
     "Longitude": -117.077724,
@@ -56353,7 +56406,7 @@
   {
     "Address": "1450 Noriega St, San Francisco, CA 94122",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -58608,7 +58661,7 @@
   {
     "Address": "1431 Noriega Street, San Francisco, CA 94122",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -59394,14 +59447,20 @@
   {
     "Address": "666 CONCAR DRIVE, SAN MATEO, CA 94402",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:35:03.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:05:15.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.554854,
     "Location Type": "Pharmacy",
     "Longitude": -122.303621,
@@ -59825,7 +59884,7 @@
   {
     "Address": "225 30th Street, San Francisco, CA 94131",
     "Affiliation": "On Lok Senior Health Services",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -61428,8 +61487,15 @@
   {
     "Address": "11030 W JEFFERSON BLVD, CULVER CITY, CA 90230",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "No: only vaccinating staff"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:17:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.996896,
@@ -62811,7 +62877,7 @@
   {
     "Address": "3450 3rd St  bldg 2, STE 2A, San Francisco, CA 94124",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -63509,14 +63575,20 @@
   {
     "Address": "14001 PALM DR, DESERT HOT SPRINGS, CA 92240",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9751"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:50:52.000Z",
+    "Latest report notes": [
+      "Scheduling online AND by calling the store. Vaccinating 65+, healthcare workers, and education staff. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.946446,
     "Location Type": "Pharmacy",
     "Longitude": -116.501797,
@@ -64606,12 +64678,15 @@
   {
     "Address": "2550 OCEAN AVENUE, SAN FRANCISCO, CA 94132",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
+    "Latest report": "2021-02-25T00:42:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.731721,
@@ -66769,7 +66844,7 @@
   {
     "Address": "160 Capp, San Francisco, CA 94110",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -68450,7 +68525,7 @@
       "Yes: vaccinating 65+",
       "Yes: must be a current patient"
     ],
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 1,
     "Latest report": "2021-02-24T06:00:17.000Z",
     "Latest report notes": [
@@ -70648,14 +70723,20 @@
   {
     "Address": "1 CAMINO ALTO, MILL VALLEY, CA 94941",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "https://marincountyhc.jotform.com/210187732830049"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:58:55.000Z",
+    "Latest report notes": [
+      "Appointments should be booked through Marin County as Safeway only administers the appointments made through the county"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.893996,
     "Location Type": "Pharmacy",
     "Longitude": -122.531111,
@@ -72712,10 +72793,21 @@
   {
     "Address": "3111 Professional Dr, Auburn, CA 95603",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(530) 274-9762"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Placer County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:30:21.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.9403312,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.1014199,
@@ -73135,8 +73227,12 @@
   {
     "Address": "55 Pacific Ave, San Francisco, CA 94111",
     "Affiliation": "Carbon Health",
-    "County": "San Francisco County",
-    "Has Report": 0,
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
+    "County": "San Francisco",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T01:00:19.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7979799,
@@ -78335,14 +78431,21 @@
   {
     "Address": "5623 Kanan Rd., Agoura Hills CA, 91301",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9751"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:34:14.000Z",
+    "Latest report notes": [
+      "No vaccine in stock at this time. They are likely to be vaccinating 65+ and healthcare workers soon. Likely within 2 weeks, possibly sooner. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.1521,
     "Location Type": "Pharmacy",
     "Longitude": -118.7588,
@@ -78656,7 +78759,7 @@
   {
     "Address": "1600 Market St, San Francisco, CA 94102",
     "Affiliation": "Dignity Health",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -82789,11 +82892,11 @@
     "Address": "10470 Twin Cities Rd, Galt, CA 95632",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:07.000Z",
+    "Latest report": "2021-02-25T00:31:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.289997,
@@ -82885,6 +82988,13 @@
     "Longitude": -118.266118,
     "Name": "TOTAL REMEDY AND PRESCRIPTION CENTER",
     "id": "recfFmXL5MUnBxgp0"
+  },
+  {
+    "County": "San Diego County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "recfGfKaDQtqAiSIx"
   },
   {
     "Address": "2679 Saviers Rd Suite B, Oxnard, CA 93033",
@@ -87011,14 +87121,21 @@
   {
     "Address": "58133 Twentynine PALMS HWY, YUCCA VALLEY, CA 92284",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:23:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T00:34:30.000Z",
+    "Latest report notes": [
+      "offered to age 65+, health care workers, and emergency services"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.127944,
     "Location Type": "Pharmacy",
     "Longitude": -116.395283,
@@ -87816,8 +87933,15 @@
   {
     "Address": "558 Abbott St, Salinas, CA 93901",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/9751"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:36:04.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6625714,
@@ -89805,10 +89929,21 @@
   {
     "Address": "260 E 15th St, Merced, CA 95341",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "vaccinate.mercedcounty.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
+    ],
     "County": "Merced County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:55:52.000Z",
+    "Latest report notes": [
+      "healthcare, agriculture, emergency services, pharmacy staff, specialty clinics, immediate care facilities, in home support service, community health workers. After registering, will be contacted by email to make appointment"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.2937644,
     "Location Type": "Health department",
     "Longitude": -120.4711407,
@@ -96399,10 +96534,21 @@
   {
     "Address": "1800 Mt Vernon Ave, Bakersfield, CA 93306",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "http://www.kernpublichealth.com/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Kern County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:47:33.000Z",
+    "Latest report notes": [
+      "Education, healthcare, emergency services, 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.3836386,
     "Location Type": "Health department",
     "Longitude": -118.9678837,
@@ -96964,10 +97110,21 @@
   {
     "Address": "559 E Alisal Street, Salinas, CA 93905",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "http://www.mtyhd.org/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:39:12.000Z",
+    "Latest report notes": [
+      "current patients will be contacted to make an appointment "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.6741341,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.6359706,
@@ -99187,10 +99344,22 @@
   {
     "Address": "441 North Main St, Alturas, CA 96101",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(530) 233-1350"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Modoc County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:54:44.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 41.488061,
     "Location Type": "Health department",
     "Longitude": -120.543037,
@@ -99332,10 +99501,21 @@
   {
     "Address": "300 GOUGH ST, SAN FRANCISCO, CA 94102",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "much make an appointment through: walgreens.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T00:09:24.000Z",
+    "Latest report notes": [
+      "offering appointments to those 65+, essential workers, and those that fall into Phase 1B"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.776104,
     "Location Type": "Pharmacy",
     "Longitude": -122.422666,
@@ -101542,7 +101722,7 @@
   {
     "Address": "1563 Mission Street, San Francisco, CA 94103",
     "Affiliation": "None / Unknown / Unimportant",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
@@ -104607,15 +104787,16 @@
     "Address": "12541 SEAL BEACH BLVD, SEAL BEACH, CA 90740",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:17:14.000Z",
+    "Latest report": "2021-02-25T00:42:06.000Z",
     "Latest report notes": [
       null
     ],
@@ -112428,7 +112609,7 @@
   {
     "Address": "4 Embarcadero Center Lobby level, San Francisco, CA 94111",
     "Affiliation": "OneMedical",
-    "County": "San Francisco County",
+    "County": "San Francisco",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
