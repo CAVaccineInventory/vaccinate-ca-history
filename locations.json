@@ -4901,12 +4901,15 @@
   {
     "Address": "820 SIR FRANCIS DRAKE BLVD, SAN ANSELMO, CA 94960",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:52.000Z",
+    "Latest report": "2021-02-25T23:26:19.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.979687,
@@ -12444,12 +12447,15 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:27:32.000Z",
+    "Latest report": "2021-02-25T23:33:19.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7636566,
@@ -12807,8 +12813,15 @@
   {
     "Address": "3949 Portola Pkwy., Irvine, CA 92602",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:39:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7364276,
@@ -17865,13 +17878,16 @@
       null
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:06.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:37:58.000Z",
+    "Latest report notes": [
+      "iepharmacy.com/covi medical essental workers also, if no appoinment available they will put you on wait list"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.106269,
     "Location Type": "Pharmacy",
     "Longitude": -117.664494,
@@ -18179,14 +18195,20 @@
   {
     "Address": "15890 SOQUEL CANYON ROAD, CHINO HILLS, CA 91709",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "riteaid.com/covid19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:29:04.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.963384,
     "Location Type": "Pharmacy",
     "Longitude": -117.69419,
@@ -27845,14 +27867,20 @@
   {
     "Address": "2901 LOS FELIZ BLVD, LOS ANGELES, CA 90039",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:40:53.000Z",
+    "Latest report notes": [
+      "must go through LA County website"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.127743,
     "Location Type": "Pharmacy",
     "Longitude": -118.263336,
@@ -35477,17 +35505,19 @@
     "Address": "4037 BALL ROAD CYPRESS CENTER WEST, CYPRESS, CA 90630",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:13:40.000Z",
+    "Latest report": "2021-02-25T19:26:43.000Z",
     "Latest report notes": [
-      "This location is scheduling appointments through its website."
+      "Feb 25: This location is scheduling appointments through its website.\nAppointments full for the next month. "
     ],
     "Latest report yes?": 1,
     "Latitude": 33.81737,
@@ -36766,15 +36796,12 @@
   {
     "Address": "17900 NEWHOPE ST, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:25:59.000Z",
+    "Latest report": "2021-02-25T22:12:22.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.703358,
@@ -38027,8 +38054,15 @@
   {
     "Address": "317 N El Camino Real  506, Encinitas, CA 92024",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:36:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.054823,
@@ -42588,6 +42622,17 @@
     "id": "recJ4G3Ell4cCv8Dl"
   },
   {
+    "Address": "1590 Imperial Ave, El Centro, CA 92243",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
+    "Name": "Vo Medical Center - El Centro",
+    "id": "recJ4iabS45l0rWB8"
+  },
+  {
     "Address": "40595 WESTLAKE DRIVE, OAKHURST, CA 93644",
     "Affiliation": "Kaiser",
     "County": "Madera County",
@@ -43729,17 +43774,19 @@
     "Address": "500 SOUTH BROADWAY, LOS ANGELES, CA 90013",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:34:19.000Z",
+    "Latest report": "2021-02-25T22:26:43.000Z",
     "Latest report notes": [
-      "This location allows scheduling through the Rite Aid website, the county website, or by calling the Covid-19 Vaccination Appointment Assistance Line."
+      "Feb 25: This location allows scheduling through the Rite Aid website, the county website, or by calling the Covid-19 Vaccination Appointment Assistance Line."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.04784,
@@ -46084,8 +46131,12 @@
   {
     "Address": "15421 Brookhurst Street, Westminster, CA 92683",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:26:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.73874576,
@@ -57009,10 +57060,21 @@
   {
     "Address": "1150 Baker St., Costa Mesa, CA 92626",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:36:23.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.680058,
     "Location Type": "Pharmacy",
     "Longitude": -117.9048241,
@@ -57302,15 +57364,12 @@
   {
     "Address": "6835 Katella Ave, Cypress CA, 90630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:59:46.000Z",
+    "Latest report": "2021-02-25T22:06:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8042,
@@ -75067,13 +75126,15 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:54:41.000Z",
+    "Latest report": "2021-02-25T22:48:42.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: Appointments available tomorrow."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.515458,
@@ -83218,14 +83279,20 @@
   {
     "Address": "60 SOLANO SQUARE, BENICIA, CA 94510",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://riteaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Solano County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:29:59.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.054372,
     "Location Type": "Pharmacy",
     "Longitude": -122.155112,
@@ -88019,14 +88086,21 @@
   {
     "Address": "3233 FOOTHILL BLVD, LA CRESCENTA, CA 91214",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "818-658-1030"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:34.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:28:49.000Z",
+    "Latest report notes": [
+      "website also., full for a few days"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.230673,
     "Location Type": "Pharmacy",
     "Longitude": -118.249385,
@@ -97817,14 +97891,21 @@
   {
     "Address": "170 W EL MONTE WAY, DINUBA, CA 93618",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:38:53.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.545415,
     "Location Type": "Pharmacy",
     "Longitude": -119.395961,
@@ -100906,14 +100987,14 @@
     "Address": "6801 Hollywood Blvd Ste 132, Los Angeles, CA 90028",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/8898"
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
     ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:05:35.000Z",
+    "Latest report": "2021-02-25T19:09:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.102287,
@@ -105243,14 +105324,14 @@
     "Address": "1893 W Malvern Ave, Fullerton CA, 92833",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:46:05.000Z",
+    "Latest report": "2021-02-25T22:52:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8799,
@@ -110359,15 +110440,17 @@
     "Address": "1710 california Street, ESCALON, CA 95320",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:23:21.000Z",
+    "Latest report": "2021-02-25T22:23:02.000Z",
     "Latest report notes": [
       "This location is only scheduling vaccines through their website."
     ],
@@ -111711,8 +111794,12 @@
   {
     "Address": "602 N. El Camino Real, San Clemente, CA 92672",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:31:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.42989555,
@@ -115242,14 +115329,20 @@
   {
     "Address": "8015 LIMONITE AVENUE, RIVERSIDE, CA 92509",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "riteaid.com/covid19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:33:35.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.97899,
     "Location Type": "Pharmacy",
     "Longitude": -117.459288,
@@ -131475,14 +131568,21 @@
   {
     "Address": "27 ORINDA WAY VILLAGE SQUARE SC, ORINDA, CA 94563",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      " http://ritea.id/california"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:33:10.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.882814,
     "Location Type": "Pharmacy",
     "Longitude": -122.189455,
