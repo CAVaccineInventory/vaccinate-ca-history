@@ -95323,8 +95323,15 @@
   {
     "Address": "2101 W. Imperial Highway #c, La Habra, CA 90631",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:48:36.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9188786,
@@ -105140,8 +105147,15 @@
   {
     "Address": "510 South Beach Boulevard, Anaheim, CA 92804",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:43:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8257736,
