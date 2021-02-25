@@ -27457,18 +27457,19 @@
     "Address": "12110 INDUSTRY BLVD, JACKSON, CA 95642",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "apply at county website"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 75+",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Amador County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:29.000Z",
+    "Latest report": "2021-02-25T17:20:57.000Z",
     "Latest report notes": [
-      null
+      "Amadore County residents only with proof of residency required"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.367942,
@@ -38643,18 +38644,19 @@
     "Address": "13905 AMAR ROAD, LA PUENTE, CA 91746",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Visit the LA county's website to find out if you're eligible for the vaccine and how you can make an appointment"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T17:26:08.000Z",
     "Latest report notes": [
-      null
+      "Must go through LA County or call 833-540-0473"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.054304,
@@ -58521,7 +58523,7 @@
     "Address": "9882 Adams Ave, Huntington Beach CA, 92646",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
@@ -100610,17 +100612,19 @@
     "Address": "9333 WHITTIER BOULEVARD, PICO RIVERA, CA 90660",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "publichealth.lacounty.gov"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-25T17:31:50.000Z",
     "Latest report notes": [
-      "Feb 04 They do have it in stock, they have a waiting list of about 50 people. You have to call the pharmacy and asked to be placed on the waiting list and then they will call you back to book your appointment.\n\n"
+      "Currently fully booked through the second week of March.  Available vaccine on first come first serve basis though the County Website.  Pharmacy itself does not make appointments."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.999242,
@@ -111077,17 +111081,19 @@
     "Address": "12475 Rancho Bernardo Rd, San Diego, CA 92128",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "albertsons.com "
+      "https://www.mhealthappointments.com/covidappt"
     ],
     "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:36.000Z",
+    "Latest report": "2021-02-25T17:25:24.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: No appts available currently (shortage of doses). Online appt scheduling per San Bernardino County guidelines (currently 1A - 65+, healthcare workers and long-term care residents & staff). "
     ],
     "Latest report yes?": 1,
     "Latitude": 33.017562,
