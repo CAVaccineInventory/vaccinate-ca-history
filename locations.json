@@ -84981,10 +84981,20 @@
   {
     "Address": "8850 Valley View Street, Buena Park, CA 90620",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:39:03.000Z",
+    "Latest report notes": [
+      "This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.83452556,
     "Location Type": "Pharmacy",
     "Longitude": -118.0268486,
@@ -89802,8 +89812,15 @@
   {
     "Address": "480 South Main Street, Orange, CA 92868",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:33:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.78075825,
@@ -125690,8 +125707,15 @@
   {
     "Address": "900 Spectrum Center Dr, Irvine, CA 92618",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T19:33:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6537801,
