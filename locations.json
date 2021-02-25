@@ -4607,14 +4607,20 @@
   {
     "Address": "9550 Hageman Rd, BAKERSFIELD, CA 93312",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:26.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:43:08.000Z",
+    "Latest report notes": [
+      "Feb 25: Kern County is currently vaccinating healthcare workers, those 65+, and those at risk of exposure at work in education, childcare, emergency services, food and agriculture"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.398663,
     "Location Type": "Pharmacy",
     "Longitude": -119.108499,
@@ -9395,6 +9401,17 @@
     "id": "rec4JJjeORObAnZf8"
   },
   {
+    "Address": "222 E. Cole Blvd, Calexico, CA 92231",
+    "Affiliation": "Vo Medical Center",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
+    "Name": "Vo Medical Center - Calexico",
+    "id": "rec4KFYlaa485WMIX"
+  },
+  {
     "Address": "26502 Towne Centre Dr, FOOTHILL RANCH, CA 92610",
     "Affiliation": "Walmart",
     "Availability Info": [
@@ -10413,19 +10430,18 @@
     "Address": "11340 CRENSHAW BOULEVARD, INGLEWOOD, CA 90303",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Vaccinating essential workers"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:53:00.000Z",
+    "Latest report": "2021-02-25T22:57:15.000Z",
     "Latest report notes": [
-      "16 people (seniors 65+) currently on the standby list as of 2/23/21. "
+      "Feb 23: 16 people (seniors 65+) currently on the standby list. \nFeb 25: Appointments are filled for the next two weeks, but cancellations may leave spots open. "
     ],
     "Latest report yes?": 1,
     "Latitude": 33.931528,
@@ -12965,8 +12981,15 @@
   {
     "Address": "1823 West Orangethorpe Avenue, Fullerton, CA 92833",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:53:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.85928044,
@@ -16940,7 +16963,7 @@
   },
   {
     "Address": "630 Main Street, Brawley, CA 92227",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Vo Medical Center",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -30852,6 +30875,17 @@
     "Longitude": -119.7743125,
     "Name": "CVS Pharmacy at 3011 E Shields Ave",
     "id": "recDywnhL19ThSiWT"
+  },
+  {
+    "Address": "529 Pine Ave., Holtville, CA 92250",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Private Practice",
+    "Name": "Dr. Vincent V. Soun MD MPH MAJOR SARIN & TAO FAMILY MEDICAL CLINIC, INC.",
+    "id": "recDzR99nhYhVbvLA"
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
@@ -48079,14 +48113,21 @@
   {
     "Address": "2405 S BROADWAY, SANTA MARIA, CA 93454",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:51:25.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.913011,
     "Location Type": "Pharmacy",
     "Longitude": -120.436175,
@@ -58836,12 +58877,15 @@
   {
     "Address": "4050 Phelan Rd Ste 8, Phelan, CA 92371",
     "Affiliation": "The Medicine Shoppe",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:02:53.000Z",
+    "Latest report": "2021-02-25T22:59:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.426741,
@@ -59199,6 +59243,17 @@
     "Longitude": -117.967618,
     "Name": "Bolsa Express Pharmacy",
     "id": "recR8TTU7VKSMCGdr"
+  },
+  {
+    "Address": "450 E. Birch St., Calexico CA  92231",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
+    "Name": "Calexico Health Center",
+    "id": "recR9Wm4t02bIgKLR"
   },
   {
     "Address": "39765 Date St Ste 101, Murrieta, CA 92563",
@@ -78066,15 +78121,16 @@
     "Address": "18395 BROOKHURST STREET FOUNTAIN VALLEY PROMENADE, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: coming soon",
       "Yes: vaccinating 65+",
       "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T23:56:54.000Z",
+    "Latest report": "2021-02-25T23:51:11.000Z",
     "Latest report notes": [
       null
     ],
@@ -86727,19 +86783,18 @@
     "Address": "2100 STANDIFORD AVE, MODESTO, CA 95350",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "Persons can call the pharmacy to schedule an appointment."
+      "209-577-1350"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T23:49:57.000Z",
     "Latest report notes": [
-      null
+      "accepting 50+ in food service. And accepting teachers. "
     ],
     "Latest report yes?": 1,
     "Latitude": 37.688943,
@@ -90541,8 +90596,15 @@
   {
     "Address": "30492 Gateway Pl, Mission Viejo, CA 92694",
     "Affiliation": "MemorialCare Health Service",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:49:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5219763,
@@ -96333,6 +96395,17 @@
     "Longitude": -118.182707,
     "Name": "WALGREENS #6017",
     "id": "recicqszlXd5ugcH7"
+  },
+  {
+    "Address": "420 Heffernan Ave, Ste D., Calexico, CA 92231",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
+    "Name": "Calexico Wellness Center",
+    "id": "recicvTFyjV52Ulc6"
   },
   {
     "Address": "14676 Pipeline Ave Ste M, Chino Hills, CA 91709",
@@ -108368,8 +108441,15 @@
   {
     "Address": "20475 Yorba Linda Blvd, Yorba Linda, CA 92886",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:45:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8886098,
@@ -114079,8 +114159,15 @@
   {
     "Address": "1520 Nutmeg Pl Suite 101, Costa Mesa, CA 92626",
     "Affiliation": "Planned Parenthood",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:41:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6826003,
@@ -119363,6 +119450,17 @@
     "Longitude": -116.528337,
     "Name": "SAVON PHARMACY #1569",
     "id": "rectdlVNzsTHAw6cg"
+  },
+  {
+    "Address": "409 W. Main St, Brawley, CA 92227",
+    "Affiliation": "Vo Medical Center",
+    "County": "Imperial County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
+    "Name": "Vo Medical Center - Brawley",
+    "id": "rectdqnbtnzr54use"
   },
   {
     "Address": "13390 Poway Rd, Poway, CA 92064",
