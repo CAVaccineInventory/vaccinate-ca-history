@@ -52563,17 +52563,18 @@
     "Address": "3802 Culver Center Street, Culver City, CA 90232",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "vaccinatelacounty.com   "
+      "www.riteaid.com"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:25.000Z",
+    "Latest report": "2021-02-25T20:48:56.000Z",
     "Latest report notes": [
-      "Feb 04 Vaccinations start next week. Moderna. Currently only doing first shots."
+      "Currently have Moderna vaccine.  Register at www.riteaid.com.  Not sure if only county residents, check website.  "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.018038,
