@@ -121847,6 +121847,24 @@
     "id": "reczEe1VAqr9J6AtK"
   },
   {
+    "Address": "309 E 2nd St, Pomona, CA 91766",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Los Angeles County",
+    "Has Report": 1,
+    "Latest report": "2021-02-25T07:17:06.000Z",
+    "Latest report notes": [
+      "Vaccination clinic at Health Professions Center (HPC). Currently vaccinating people 65+ and healthcare workers. Appointments for 2/25 can be made here: https://cw.calvax.org/reg/6130440932. Appointments for 2/26 can be made here: https://cw.calvax.org/reg/0461403892.\n\nFor other dates, please check\nhttp://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.0581487,
+    "Longitude": -117.747508,
+    "Name": "Western University Health Center",
+    "id": "reczFijqR8Jdj2IFL"
+  },
+  {
     "Address": "3000 LAS POSITAS ROAD, LIVERMORE, CA 94551",
     "Affiliation": "Kaiser",
     "County": "Alameda County",
