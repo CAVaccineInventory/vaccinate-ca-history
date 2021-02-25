@@ -52023,14 +52023,21 @@
   {
     "Address": "Imperial Valley College, 380 E. Aten Rd. Imperial, CA 92251",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via phone through Comite Civico del Valley INC., 760-351-8761 or online at https://cw.calvax.org/reg/2961403192"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T07:56:36.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T13:53:16.000Z",
+    "Latest report notes": [
+      "As per the county site (https://www.icphd.org/) , COVID-19 Vaccine Drive-Thru Clinic for Imperial County Agricultural Workers being held on Fri Feb 26 from 12pm-5pm.\n\nWhen last checked (Feb 25th) there were no appointments available but worth checking later in the day in case any additional ones are released.\n\nEligibility:\nFarmers, farm and ranch workers and those employed in agricultural support services such as production, storage, transport and distribution of agricultural supplies. Check the California COVID-19 page for the essential workforce list: https://covid19.ca.gov/essential-workforce/"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.82913,
     "Location Type": "Super Site",
     "Longitude": -115.50663,
