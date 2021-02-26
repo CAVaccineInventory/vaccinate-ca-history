@@ -2136,7 +2136,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 33.5951509,
     "Location Type": "Pharmacy",
+    "Longitude": -117.6570911,
     "Name": "CVS Pharmacy® & Drug Store at 25272 Marguerite Pkwy, Mission Viejo, CA 92692",
     "id": "rec0xZ5EaKnnynfDa"
   },
@@ -9333,7 +9335,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 32.6934104,
     "Location Type": "Hospital / Clinic",
+    "Longitude": -115.4952487,
     "Name": "Vo Medical Center - Calexico",
     "id": "rec4KFYlaa485WMIX"
   },
@@ -30655,7 +30659,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 32.8115563,
     "Location Type": "Private Practice",
+    "Longitude": -115.3816835,
     "Name": "Dr. Vincent V. Soun MD MPH MAJOR SARIN & TAO FAMILY MEDICAL CLINIC, INC.",
     "id": "recDzR99nhYhVbvLA"
   },
@@ -42403,7 +42409,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 32.7794809,
     "Location Type": "Hospital / Clinic",
+    "Longitude": -115.5706603,
     "Name": "Vo Medical Center - El Centro",
     "id": "recJ4iabS45l0rWB8"
   },
@@ -95803,7 +95811,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 32.6691037,
     "Location Type": "Hospital / Clinic",
+    "Longitude": -115.4947498,
     "Name": "Calexico Wellness Center",
     "id": "recicvTFyjV52Ulc6"
   },
@@ -118687,7 +118697,9 @@
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Latitude": 32.9794925,
     "Location Type": "Hospital / Clinic",
+    "Longitude": -115.5485439,
     "Name": "Vo Medical Center - Brawley",
     "id": "rectdqnbtnzr54use"
   },
