@@ -14930,6 +14930,17 @@
     "id": "rec6ycFLGiuYpg3OP"
   },
   {
+    "Address": "860 North Sequoia Ave., Lindsay, CA 93247",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.213728,
+    "Longitude": -119.096117,
+    "Name": "Omni Family Health - Lindsay",
+    "id": "rec6yk5o49DGcVoyf"
+  },
+  {
     "Address": "11201 Benton St, Loma Linda, CA 92357",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -29795,6 +29806,17 @@
     "Longitude": -121.5792514,
     "Name": "Paradise Medical Group",
     "id": "recDWBgWDmVUSFl3U"
+  },
+  {
+    "Address": "825 Sequoia Ave., Lindsay, CA 93247",
+    "County": "Tulare County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.212904,
+    "Longitude": -119.096107,
+    "Name": "Valley Healthcare Centers - Lindsay",
+    "id": "recDXRja5pJ4IFjPg"
   },
   {
     "Address": "2542 Monterey Highway, Gate D, San Jose, CA 95111",
