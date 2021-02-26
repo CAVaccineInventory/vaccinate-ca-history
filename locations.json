@@ -16434,7 +16434,7 @@
   },
   {
     "Address": "5050 San Bernardino St Ste 110, MONTCLAIR, CA 91763",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "Yes: coming soon",
       "Yes: vaccinating 65+",
@@ -17896,7 +17896,7 @@
   },
   {
     "Address": "954 W FOOTHILL BLVD STE 6D, UPLAND, CA 91786",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Appointment scheduling instructions": [
       null
     ],
@@ -25654,7 +25654,7 @@
   },
   {
     "Address": "777 W Blaine St, Riverside, CA 92507",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Appointment scheduling instructions": [
       "951-299-9922"
     ],
@@ -38213,10 +38213,21 @@
   {
     "Address": "Gateway Church 4249 US Highway 86, Brawley, CA 92227",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(760) 351-3878"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Imperial County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:57:33.000Z",
+    "Latest report notes": [
+      "Feb 25: Clinic has running list of eligible patients who have expressed interest in receiving vaccine. These individuals will be contacted when vaccines are available. To get on this list, call the number provided."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.95967,
     "Location Type": "Hospital / Clinic",
     "Longitude": -115.55166,
@@ -40310,10 +40321,21 @@
   {
     "Address": "1500 21st St Bldg B ste 1-036, SACRAMENTO, CA 95811",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "916-914-6256"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Yolo County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:57:08.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.570661,
     "Location Type": "Pharmacy",
     "Longitude": -121.481767,
@@ -40358,7 +40380,7 @@
   },
   {
     "Address": "7974 Haven Ave Ste 120, Rancho Cucamonga, CA 91730",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -49707,7 +49729,7 @@
   },
   {
     "Address": "826 E Foothill Blvd, Rialto, CA 92376",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -57405,12 +57427,15 @@
   {
     "Address": "6835 Katella Ave, Cypress CA, 90630",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T22:06:41.000Z",
+    "Latest report": "2021-02-25T23:19:50.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8042,
@@ -67298,7 +67323,7 @@
   },
   {
     "Address": "1600 E Citrus Ave Ste K, Redlands, CA 92374",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: no vaccine inventory"
     ],
@@ -73018,7 +73043,7 @@
   },
   {
     "Address": "9033 Wilshire Blvd Ste 102, Beverly Hills, CA 90211",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -80013,10 +80038,21 @@
   {
     "Address": "14330 Culver Drive, Irvine, CA 92604",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:54:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.70558695,
     "Location Type": "Pharmacy",
     "Longitude": -117.7843757,
@@ -80406,8 +80442,15 @@
   {
     "Address": "270 West Lincoln Avenue, Anaheim, CA 92805",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-25T23:56:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.83417145,
@@ -101961,7 +102004,7 @@
   },
   {
     "Address": "16311 Ventura Blvd Ste 110, Encino, CA 91436",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -110073,7 +110116,7 @@
   },
   {
     "Address": "2920 Inland Empire Blvd Ste 112, Ontario, CA 91764",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -115657,7 +115700,7 @@
   },
   {
     "Address": "23141 Moulton Pkwy, Laguna Hills, CA 92653",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Appointment scheduling instructions": [
       "760-768-6000"
     ],
@@ -116272,7 +116315,7 @@
     "Address": "5845 EAST LOS ANGELES AVENUE, SIMI VALLEY, CA 93063",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Only scheduling appointments through their website"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -116281,9 +116324,9 @@
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T21:54:55.000Z",
+    "Latest report": "2021-02-25T23:10:29.000Z",
     "Latest report notes": [
-      "Feb 23: 65+ and healthcare+essential workers only. Must show credentials (ie official paperwork indicating profession)"
+      "Feb 25: 65+ and healthcare+essential workers only. Must show credentials (ie official paperwork indicating profession)"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.272439,
@@ -117291,14 +117334,14 @@
     "Address": "3650 S BRISTOL ST, SANTA ANA, CA 92704",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:39:05.000Z",
+    "Latest report": "2021-02-25T23:23:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.699853,
@@ -123280,7 +123323,7 @@
   },
   {
     "Address": "954 W. Foothill Blvd  6D, Upland, CA 91786",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -123583,15 +123626,16 @@
     "Address": "531 NORTH GLENDALE AVENUE, GLENDALE, CA 91206",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "vaccinatelacounty.com"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T04:12:27.000Z",
+    "Latest report": "2021-02-25T23:54:04.000Z",
     "Latest report notes": [
       null
     ],
@@ -127168,7 +127212,7 @@
   },
   {
     "Address": "841 W VALLEY BLVD STE 101, ALHAMBRA, CA 91803",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "ABC Pharmacy",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
