@@ -50714,14 +50714,20 @@
   {
     "Address": "1030 SOUTH WHITE ROAD WHITE ROAD PLAZA, SAN JOSE, CA 95127",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:43:20.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.358423,
     "Location Type": "Pharmacy",
     "Longitude": -121.821031,
@@ -70927,10 +70933,21 @@
   {
     "Address": "11150 CA-1, Point Reyes Station, CA 94956",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(415) 663-1082"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Marin County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:46:24.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.0673997,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.8045465,
@@ -117317,14 +117334,20 @@
   {
     "Address": "12109 APPLE VALLEY RD, APPLE VALLEY, CA 92308",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:51:24.000Z",
+    "Latest report notes": [
+      "Feb 26: This location will take customers from other areas outside the county as long as they meet all the other current eligibility requirements "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.471664,
     "Location Type": "Pharmacy",
     "Longitude": -117.24167,
@@ -125305,14 +125328,20 @@
   {
     "Address": "82955 Avenue 48, INDIO, CA 92201",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:34:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:47:33.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.699784,
     "Location Type": "Pharmacy",
     "Longitude": -116.217032,
