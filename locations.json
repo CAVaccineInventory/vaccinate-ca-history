@@ -5129,7 +5129,7 @@
     "Address": "33975 DATE PALM DRIVE, CATHEDRAL CITY, CA 92234",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "wallgreens.com"
+      "walgreens.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -10235,9 +10235,6 @@
   {
     "Address": "260 S LA BREA AVE, LOS ANGELES, CA 90036",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "Yes: appointment required",
       "Scheduling second dose only"
@@ -29820,7 +29817,7 @@
     "Address": "5829 LAKEWOOD BLVD, LAKEWOOD, CA 90712",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "Go to walgreen's website"
+      "walgreens.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -44156,7 +44153,7 @@
     "Address": "72253 TWENTYNINE PALMS HIGHWAY, TWENTYNINE PALMS, CA 92277",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "sb.covid19.com"
+      "sbcovid19.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -52452,11 +52449,11 @@
     "Address": "1745 S. Imperial Ave., El Centro CA, 92243",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
+    "Latest report": "2021-02-26T03:02:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7789,
@@ -72619,7 +72616,7 @@
     "Address": "2505 MT VERNON AVENUE, BAKERSFIELD, CA 93306",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Http:rite.id/California "
+      "ritea.id/california\n"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
