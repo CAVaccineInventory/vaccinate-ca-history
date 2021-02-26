@@ -16740,14 +16740,21 @@
   {
     "Address": "1735 EAST WALNUT AVENUE, VISALIA, CA 93292",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "riteaid.com - vaccine information"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:02.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:58:50.000Z",
+    "Latest report notes": [
+      "West Walnut location also has vaccines available. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.312507,
     "Location Type": "Pharmacy",
     "Longitude": -119.273688,
@@ -22192,10 +22199,22 @@
   {
     "Address": "808 Oak Ave, Greenfield, CA 93927",
     "Affiliation": "Clinica de Salud del Valle de Salinas",
+    "Appointment scheduling instructions": [
+      "(831) 674-5344"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:57:06.000Z",
+    "Latest report notes": [
+      "Feb 26: This location is primarily scheduling by contacting existing patients but will facilitate appointment scheduling if you call their number directly. As of now, you can call the number listed and to get help scheduling an appointment at a nearby clinic in Salinas if you are over the age of 65."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.3215879,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.2430081,
@@ -121379,14 +121398,21 @@
   {
     "Address": "135 POWELL, SAN FRANCISCO, CA 94102",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:57:42.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.786006,
     "Location Type": "Pharmacy",
     "Longitude": -122.408294,
