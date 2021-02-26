@@ -50909,13 +50909,16 @@
     "Address": "4900 California St, San Francisco, CA 94118",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-10T18:13:06.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T05:38:25.000Z",
+    "Latest report notes": [
+      "Vaccine appointments will be available the week of Feb 28 for individuals *who are uninsured* and over 65 or healthcare workers. Appointments can be requested by filling out the form at https://sffc.org/covid19vaccinations"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.784809,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.4701,
