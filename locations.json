@@ -17712,14 +17712,20 @@
   {
     "Address": "18568 VENTURA BLVD, TARZANA, CA 91356",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:58:04.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.169288,
     "Location Type": "Pharmacy",
     "Longitude": -118.537788,
@@ -85332,22 +85338,14 @@
   {
     "Address": "101 The City Dr S, Orange, CA 92868",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "An appointment for the vaccine at UC Irvine Medical Center, can be scheduled at https://vaccine.ucihealth.org/"
-    ],
     "Availability Info": [
-      "Yes: must be a current patient",
-      "Yes: appointment calendar currently full",
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-03T22:20:05.000Z",
-    "Latest report notes": [
-      "Vaccinations here are only being given to current patients of UC Irvine Medical Center."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-26T22:00:17.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.7870212,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.8912616,
@@ -104815,14 +104813,22 @@
   {
     "Address": "200 W Portal Ave, San Francisco, CA 94127",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com/schedulevaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:00:22.000Z",
+    "Latest report notes": [
+      "Feb 26: Appointments can be scheduled online or by telephone. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.738882,
     "Location Type": "Pharmacy",
     "Longitude": -122.468329,
@@ -129559,11 +129565,11 @@
     "Address": "12444 Beach Boulevard, Stanton CA, 90680",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
+    "Latest report": "2021-02-26T21:57:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7815,
