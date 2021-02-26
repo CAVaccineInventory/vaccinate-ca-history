@@ -31395,14 +31395,21 @@
   {
     "Address": "670 4TH ST, SAN FRANCISCO, CA 94107",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:36:41.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.777339,
     "Location Type": "Pharmacy",
     "Longitude": -122.395599,
@@ -33338,13 +33345,19 @@
     "Address": "6144 DEWEY DR, CITRUS HEIGHTS, CA 95621",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:32:56.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.677259,
     "Location Type": "Pharmacy",
     "Longitude": -121.310245,
@@ -34463,8 +34476,12 @@
   {
     "Address": "950 Circle Dr, SALINAS, CA 93905",
     "Affiliation": "Clinica de Salud del Valle de Salinas",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:38:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.6795623,
@@ -45491,14 +45508,21 @@
   {
     "Address": "2376 E Colorado Blvd, Pasadena, CA 91107",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:31:09.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.145734,
     "Location Type": "Pharmacy",
     "Longitude": -118.101311,
@@ -45667,10 +45691,21 @@
   {
     "Address": "1206 E 17th St Ste 101, Santa Ana, CA 92701",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(714) 352-2911"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:42:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7596805,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.8540484,
@@ -81445,10 +81480,21 @@
   {
     "Address": "386 14th Street, Oakland, CA 94612",
     "Affiliation": "Lifelong Medical care",
+    "Appointment scheduling instructions": [
+      "(510) 210-5050"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:32:27.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.8038847,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2694449,
@@ -82726,8 +82772,12 @@
   {
     "Address": "600 Nut Tree Rd, Vacaville, CA 95687",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Solano County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:42:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3613987,
@@ -114387,10 +114437,20 @@
   {
     "Address": "600 Main Street, Soledad, CA 93960",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "http://www.soledadmedicalclinic.com/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:25:47.000Z",
+    "Latest report notes": [
+      "Feb 26: This location is scheduling appointments through its website and by calling directly. Starting March 3, this location will be scheduling appointments for agricultural workers and educators."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.4331582,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.3239915,
@@ -119384,8 +119444,12 @@
   {
     "Address": "1844 San Miguel Drive  105, Walnut Creek, CA 94596",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Contra Costa County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:31:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.8949895,
@@ -130133,8 +130197,12 @@
   {
     "Address": "10561 Merritt St, Castroville, CA 95012",
     "Affiliation": "Clinica de Salud del Valle de Salinas",
+    "Availability Info": [
+      "No: not open to the public"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:30:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.7672618,
