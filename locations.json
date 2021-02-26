@@ -11577,14 +11577,22 @@
   {
     "Address": "13045 ROSEDALE HWY, BAKERSFIELD, CA 93314",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.kernpublichealth.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Scheduling second dose only"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:00:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:01:24.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.382132,
     "Location Type": "Pharmacy",
     "Longitude": -119.14628,
@@ -29750,10 +29758,22 @@
   {
     "Address": "250 East 18th St 2nd floor, Oakland, CA 94606",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(510) 735-3888"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:13:03.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.800222,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.252573,
@@ -39802,14 +39822,20 @@
   {
     "Address": "4351 E IMPERIAL HWY, LYNWOOD, CA 90262",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 70+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T23:08:11.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:06:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.931155,
     "Location Type": "Pharmacy",
     "Longitude": -118.184064,
@@ -52074,8 +52100,12 @@
   {
     "Address": "122 E San Antonio Dr, King City, CA 93930",
     "Affiliation": "Clinica de Salud del Valle de Salinas",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:17:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2195493,
@@ -56215,14 +56245,21 @@
   {
     "Address": "2177 SUNSET BLVD, ROCKLIN, CA 95765",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:07:06.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.805716,
     "Location Type": "Pharmacy",
     "Longitude": -121.272405,
@@ -56983,14 +57020,20 @@
   {
     "Address": "250 FLORIN RD, SACRAMENTO, CA 95831",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:08:57.000Z",
+    "Latest report notes": [
+      "Open until 9PM on weeknights and 6PM on weekends. accepting waitlist for cancelations "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.509259,
     "Location Type": "Pharmacy",
     "Longitude": -121.543127,
@@ -66699,10 +66742,20 @@
   {
     "Address": "4465 First St, Livermore, CA 94551",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "covid19vaccines@statmed.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:24:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.6958234,
     "Location Type": "Urgent care",
     "Longitude": -121.7422321,
@@ -77732,14 +77785,21 @@
   {
     "Address": "600 LONG BEACH BLVD, LONG BEACH, CA 90802",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:22:05.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.774373,
     "Location Type": "Pharmacy",
     "Longitude": -118.188897,
@@ -83459,7 +83519,7 @@
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T23:47:45.000Z",
+    "Latest report": "2021-02-26T23:02:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.917182,
@@ -83754,8 +83814,12 @@
   {
     "Address": "321 Van Duzen Rd, Mad River, CA 95526",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Trinity County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:07:39.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.4600919,
@@ -86332,14 +86396,21 @@
   {
     "Address": "2030 N IMPERIAL AVE, EL CENTRO, CA 92243",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:16:52.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.812055,
     "Location Type": "Pharmacy",
     "Longitude": -115.572445,
@@ -97853,10 +97924,21 @@
   {
     "Address": "9862 Chapman Ave., Garden Grove, CA 92841",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://www.southlandintegrated.org/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:04:10.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7877921,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.9607645,
@@ -119911,14 +119993,22 @@
   {
     "Address": "840 El Camino Ave, Sacramento, CA 95815",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:12:59.000Z",
+    "Latest report notes": [
+      "Feb 26: The pharmacist thinks it is Sacramento County only but said it may depend on insurance so best to go through the appointment process online to confirm eligibility. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.610743,
     "Location Type": "Pharmacy",
     "Longitude": -121.447816,
