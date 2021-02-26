@@ -15548,14 +15548,21 @@
   {
     "Address": "230 N LA BREA AVE, INGLEWOOD, CA 90301",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:06.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:57:35.000Z",
+    "Latest report notes": [
+      "must make appointment through the Walgreens website.    Can go in or call to add yourself to the very long waitlist they use for leftover vaccine."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.966378,
     "Location Type": "Pharmacy",
     "Longitude": -118.352765,
@@ -75105,14 +75112,20 @@
   {
     "Address": "2690 MISSION, SAN FRANCISCO, CA 94110",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:55:58.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.753962,
     "Location Type": "Pharmacy",
     "Longitude": -122.418824,
@@ -124026,14 +124039,20 @@
   {
     "Address": "18430 SHERMAN WAY, RESEDA, CA 91335",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:53:12.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.200982,
     "Location Type": "Pharmacy",
     "Longitude": -118.534546,
