@@ -99789,7 +99789,7 @@
     "Address": "17266 SATICOY STREET, VAN NUYS, CA 91406",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "vaccinatela.gov"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -99799,9 +99799,9 @@
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T23:13:36.000Z",
+    "Latest report": "2021-02-26T16:12:27.000Z",
     "Latest report notes": [
-      null
+      "Booked for at least the next month.  Leftover vaccine given to their own patients only."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.208225,
@@ -116114,14 +116114,16 @@
     "Address": "1107 CALLOWAY DRIVE, BAKERSFIELD, CA 93312",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid-19"
+      "rite aid.com/covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T23:27:44.000Z",
+    "Latest report": "2021-02-26T16:28:33.000Z",
     "Latest report notes": [
       null
     ],
