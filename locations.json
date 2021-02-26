@@ -17367,6 +17367,7 @@
     "id": "rec82uMcSgmcZJHps"
   },
   {
+    "Address": "5125 Skyway, Paradise, CA 95969",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -17382,7 +17383,7 @@
     "Latitude": 39.7463461,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.6407285,
-    "Name": "Feather River Hospital – Paradise",
+    "Name": "Adventist Feather River Hospital – Paradise",
     "id": "rec839gQPwGgD07me"
   },
   {
@@ -26489,14 +26490,21 @@
   },
   {
     "Affiliation": "John Muir",
+    "Appointment scheduling instructions": [
+      "(925) 682-8200"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T02:44:25.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:15:34.000Z",
+    "Latest report notes": [
+      "Feb 26: if you are a current patient of JM and are in the current tier that's eligible, if you have not been contacted by them to get scheduled for a vaccine then call their appt desk or check their website"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.9827647,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.0333245,
@@ -50526,14 +50534,20 @@
   {
     "Address": "28460 HASKELL CANYON RD, SAUGUS, CA 91390",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:12:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.46013,
     "Location Type": "Pharmacy",
     "Longitude": -118.510662,
@@ -70742,14 +70756,22 @@
   {
     "Address": "1201 Taraval St, SAN FRANCISCO, CA 94116",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Walgreens.com/findcare/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:07:26.000Z",
+    "Latest report notes": [
+      "2/26. Currently fully booked.  They try to make some appointments available by phone  on Friday for Saturday and Sunday vaccines, but are currently booked for these appointments. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.742652,
     "Location Type": "Pharmacy",
     "Longitude": -122.479108,
@@ -76515,14 +76537,21 @@
   {
     "Address": "10 W MAIN ST, WOODLAND, CA 95695",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com/schedulevaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Yolo County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:02.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:16:30.000Z",
+    "Latest report notes": [
+      "Fully booked, but appointments do open up daily and appear on the Walgreens website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.678025,
     "Location Type": "Pharmacy",
     "Longitude": -121.784578,
@@ -80726,16 +80755,20 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T01:29:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:05:13.000Z",
+    "Latest report notes": [
+      "Previous undated note: You can register to be notified about vaccine availability at https://www.othena.com/"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.624397,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.9296357,
@@ -118422,7 +118455,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:44:35.000Z",
+    "Latest report": "2021-02-26T21:08:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.655555,
