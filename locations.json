@@ -9709,8 +9709,12 @@
   {
     "Address": "32341 Coast Hwy, Laguna Beach, CA 92651",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: only vaccinating staff"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:52:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.492757,
@@ -99939,8 +99943,12 @@
   {
     "Address": "9559 Bolsa Avenue Suite D, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: only vaccinating staff"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:59:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7451888,
@@ -99965,14 +99973,21 @@
   {
     "Address": "855 Colusa Ave, YUBA CITY, CA 95991",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:01:08.000Z",
+    "Latest report notes": [
+      "2/26 - They are following Sutter County tiers. In addition to seniors 65+ (from any county), they are vaccinating Food/Agriculture, Education/Childcare and Emergency Service Workers who are 50 years and older) who work in Yuba-Sutter Counties. Appointments available on March 1."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.142835,
     "Location Type": "Pharmacy",
     "Longitude": -121.628745,
@@ -112970,10 +112985,21 @@
   {
     "Address": "2603 Via Campo, Montebello, CA 90640",
     "Affiliation": "Optumserve",
+    "Appointment scheduling instructions": [
+      "(323) 720-1144"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:57:01.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0320628,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.1240764,
