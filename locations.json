@@ -26124,6 +26124,25 @@
     "id": "recBrMbJAlKmVQqhH"
   },
   {
+    "Address": "2818 N Macy St, Muscoy, CA 92407",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-26T01:36:30.000Z",
+    "Latest report notes": [
+      "Open to county residents under Phase 1A (Tiers 1-3), Phase 1B (Emergency Services (fire, police), Education (teachers, support staff providing in-school services), Childcare, and residents 65+.\n\nWhen checked on 2/25, appointments were available for available for Feb 26.\n\nAppointments are available at https://www.calvax.org/reg/9161403292. For other locations and dates, please see https://sbcovid19.com/vaccine/locations/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.147371,
+    "Longitude": -117.339832,
+    "Name": "Baker Family Learning Center",
+    "id": "recBrivCcjnNAa45R"
+  },
+  {
     "Address": "6005 Madison Ave, Carmichael, CA 95608",
     "Affiliation": "Walmart",
     "Availability Info": [
@@ -34662,17 +34681,20 @@
     "Address": "801 OAKDALE RD STE C, MODESTO, CA 95355",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "https://www.savemart.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T00:56:39.000Z",
+    "Latest report": "2021-02-26T01:04:56.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: This location is only offering 2nd doses at the moment but said to check back for availability again next week. The eligibility just opened up to age 50+ if residing or working in Stanislaus County and work in the professions of food, agriculture, childcare, or first responders. "
     ],
     "Latest report yes?": 1,
     "Latitude": 37.654323,
@@ -43691,18 +43713,21 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "(949) 642-2734"
     ],
     "Availability Info": [
-      "No: no vaccine inventory",
-      "No: will never be a vaccination site",
-      "No: not open to the public"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T19:53:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T01:43:14.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.6517429,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.9118936,
@@ -52635,6 +52660,25 @@
     "Longitude": -118.3210941,
     "Name": "Las Flores Convalescent Hospital",
     "id": "recOCLslskzLcrOnI"
+  },
+  {
+    "Address": "39707 Big Bear Blvd, Big Bear Lake, CA 92315",
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "Yes: restricted to county residents"
+    ],
+    "County": "San Bernardino County",
+    "Has Report": 1,
+    "Latest report": "2021-02-26T01:39:04.000Z",
+    "Latest report notes": [
+      "Appointments are available for county residents 65+ only on Saturday, 2/27/21. When checked on 2/26, appointment slots were available.\n\nAppointments can be made here: https://www.calvax.org/reg/1212996605. For other dates and locations, please see https://sbcovid19.com/vaccine/locations/"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.238545,
+    "Longitude": -116.935684,
+    "Name": "Big Bear Lake – Civic Center",
+    "id": "recOD9FouA1OxaRoa"
   },
   {
     "Address": "1320 Encinitas Blvd, Encinitas, CA 92024",
@@ -108981,6 +109025,24 @@
     "Longitude": -117.5669228,
     "Name": "United Lab Services",
     "id": "recogp9osD9XM5HtR"
+  },
+  {
+    "Address": "4300 El Cajon Blvd, San Diego, CA 92105",
+    "Availability Info": [
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "San Diego County",
+    "Has Report": 1,
+    "Latest report": "2021-02-26T01:44:14.000Z",
+    "Latest report notes": [
+      "Healthcare workers, all others in Phase 1A, and people 65 and older can make an appointment at https://myturn.ca.gov. When checked on 2/25, all appointment slots were filled. For other dates and locations, please see https://www.coronavirus-sd.com/vaccine"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 32.755209,
+    "Longitude": -117.10158,
+    "Name": "Copley-Price YMCA (Parking Garage)",
+    "id": "recoh2zPrc361X9qI"
   },
   {
     "Address": "4177 W Shaw Ave Ste 109, Fresno, CA 93722",
