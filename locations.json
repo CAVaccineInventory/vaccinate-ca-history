@@ -58579,9 +58579,6 @@
   {
     "Address": "30592 Santa Margarita Pkwy, Rancho Santa Margarita, CA 92688",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: vaccinating 65+",
@@ -82617,9 +82614,6 @@
   {
     "Address": "14919 WHITTIER BLVD, WHITTIER, CA 90605",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
@@ -96936,9 +96930,6 @@
   {
     "Address": "3615 W NOBLE AVENUE, VISALIA, CA 93277",
     "Affiliation": "Save Mart Pharmacy",
-    "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
-    ],
     "Availability Info": [
       "Yes: appointment required"
     ],
@@ -104427,7 +104418,7 @@
     "Address": "1991 MOUNTAIN BOULEVARD, OAKLAND, CA 94611",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Uses county scheduling system"
+      "riteaid.com/covid19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
