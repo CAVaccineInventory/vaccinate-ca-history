@@ -59423,11 +59423,11 @@
     "Address": "830 3RD ST, SAN RAFAEL, CA 94901",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:29.000Z",
+    "Latest report": "2021-02-26T20:36:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.971989,
@@ -85735,14 +85735,20 @@
   {
     "Address": "4331 ANTELOPE RD, SACRAMENTO, CA 95843",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:59.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:30:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.704032,
     "Location Type": "Pharmacy",
     "Longitude": -121.36438,
