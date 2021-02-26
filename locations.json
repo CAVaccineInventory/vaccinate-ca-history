@@ -31802,12 +31802,15 @@
   {
     "Address": "24325 CRENSHAW BLVD, TORRANCE, CA 90505",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "(949) 642-2734"
+    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T17:20:20.000Z",
+    "Latest report": "2021-02-26T02:12:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.805147,
@@ -55209,14 +55212,14 @@
     "Address": "12601 Garden Grove Blvd, Garden Grove, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "(949) 642-2734"
     ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-02T23:45:23.000Z",
+    "Latest report": "2021-02-26T02:26:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.77533,
