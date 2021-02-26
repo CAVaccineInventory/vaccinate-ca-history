@@ -2439,7 +2439,7 @@
     ],
     "County": "Glenn County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:07:41.000Z",
+    "Latest report": "2021-02-25T19:15:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.7486,
@@ -6614,11 +6614,11 @@
     "Address": "660 S Main St, Fort Bragg, CA 95437",
     "Affiliation": "Safeway",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
+    "Latest report": "2021-02-26T17:45:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.433664143026135,
@@ -28797,7 +28797,7 @@
     "Address": "463 NORTH BEDFORD DRIVE, BEVERLY HILLS, CA 90210",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "Check appointment availability on https://www.riteaid.com/pharmacy/covid-qualifier "
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -28805,9 +28805,9 @@
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T21:37:35.000Z",
+    "Latest report": "2021-02-25T22:27:03.000Z",
     "Latest report notes": [
-      "Feb 23: Appointments are available for 65+ and healthcare workers ONLY. Must show credentials, which can be found on LA County website. Appointments can be booked online at: https://www.riteaid.com/pharmacy/covid-qualifier \n\nFeb 17: Pharmacist says slots are currently booked thru Mar 6 but encourages people to check in regularly as spots can open up."
+      "Feb 25: vaccine available for healthcare workers (must show credentials)."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.068819,
@@ -31958,7 +31958,7 @@
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:25:33.000Z",
+    "Latest report": "2021-02-25T19:18:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.25017,
@@ -33260,16 +33260,13 @@
     "Address": "1930 N PLACENTIA AVE, FULLERTON, CA 92831",
     "Affiliation": "Sav-on Pharmacy",
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: appointment required"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T02:36:44.000Z",
-    "Latest report notes": [
-      null
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-25T22:16:23.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.890228,
     "Location Type": "Pharmacy",
     "Longitude": -117.87221,
@@ -48912,18 +48909,17 @@
     "Address": "3724 CRENSHAW BLVD, LOS ANGELES, CA 90016",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+      "https://myturn.ca.gov/"
     ],
     "Availability Info": [
-      "Yes: coming soon",
       "Yes: vaccinating 65+",
       "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:23:43.000Z",
+    "Latest report": "2021-02-25T18:39:58.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: vaccine available for healthcare workers (must present credentials), long-term care residents, and individuals with pre-existing conditions.\nNo appointments available until March 4th, pharmacist encourages to regularly check myturn.ca.gov for an updated appointment schedule."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.019348,
@@ -52763,7 +52759,7 @@
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T02:12:08.000Z",
+    "Latest report": "2021-02-25T19:29:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.018799,
@@ -58279,11 +58275,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T22:56:24.000Z",
+    "Latest report": "2021-02-26T17:55:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6088294,
@@ -58522,7 +58518,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T23:01:51.000Z",
+    "Latest report": "2021-02-25T00:00:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6722,
@@ -67541,14 +67537,21 @@
   {
     "Address": "610 E NEES AVE, FRESNO, CA 93720",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T17:52:12.000Z",
+    "Latest report notes": [
+      "After 5pm, this and other Walgreens stores provide any remaining unused doses to individuals who do not strictly meet eligibility requirements."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.852466,
     "Location Type": "Pharmacy",
     "Longitude": -119.773962,
@@ -70768,7 +70771,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:16:45.000Z",
+    "Latest report": "2021-02-25T22:34:22.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.88923,
@@ -71607,7 +71610,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T02:31:16.000Z",
+    "Latest report": "2021-02-25T22:19:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.833473,
@@ -76826,7 +76829,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:55:38.000Z",
+    "Latest report": "2021-02-25T22:30:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.803076,
@@ -93730,14 +93733,13 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Scheduling second dose only"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T17:00:29.000Z",
+    "Latest report": "2021-02-25T20:07:10.000Z",
     "Latest report notes": [
-      null
+      "Feb 25: vaccine available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.856874,
@@ -95369,14 +95371,21 @@
   {
     "Address": "1763 SANTA RITA RD, PLEASANTON, CA 94566",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T17:50:06.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.675931,
     "Location Type": "Pharmacy",
     "Longitude": -121.875088,
@@ -98020,18 +98029,17 @@
     "Address": "8975 N CHESTNUT AVE, FRESNO, CA 93720",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      null
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T03:14:03.000Z",
+    "Latest report": "2021-02-25T19:06:35.000Z",
     "Latest report notes": [
-      "Walgreens will not validate if they have appts available and are following CA guidelines for eligible recipients "
+      null
     ],
     "Latest report yes?": 1,
     "Latitude": 36.866275,
@@ -99362,7 +99370,7 @@
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:41:09.000Z",
+    "Latest report": "2021-02-26T17:46:20.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.014076,
@@ -124379,7 +124387,7 @@
     ],
     "County": "Del Norte County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:54:15.000Z",
+    "Latest report": "2021-02-25T20:01:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 41.77284,
