@@ -1369,8 +1369,12 @@
   {
     "Address": "501 Petaluma Ave, Sebastopol, CA 95472",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Sonoma County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:11:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.3972414,
@@ -20244,14 +20248,20 @@
   {
     "Address": "1501 Vine St, Los Angeles, CA 90028",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:01:02.000Z",
+    "Latest report notes": [
+      "Feb 26: recommended to check their site daily bc appts are scheduled three days out only and cancellations happen"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.098144,
     "Location Type": "Pharmacy",
     "Longitude": -118.326655,
@@ -30180,11 +30190,11 @@
     "Address": "1819 E NOBLE AVE, VISALIA, CA 93292",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:52.000Z",
+    "Latest report": "2021-02-26T22:05:17.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.324617,
@@ -30302,11 +30312,11 @@
     "Address": "126 Avocado Ave Ste 101, Perris, CA 92571",
     "Affiliation": "ABC Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:46.000Z",
+    "Latest report": "2021-02-26T22:03:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.810636,
@@ -48662,10 +48672,22 @@
   {
     "Address": "7450 International Blvd, Oakland, CA 94621",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(510) 835-9610"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:04:31.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.7588424,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.1855316,
@@ -59444,15 +59466,12 @@
   {
     "Address": "276 College Street, Covina, CA 91723",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:39.000Z",
+    "Latest report": "2021-02-26T22:07:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.087134,
@@ -68142,14 +68161,20 @@
   {
     "Address": "2420 N BLACKSTONE AVE, FRESNO, CA 93703",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "wallgreens.com"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T23:37:57.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:00:49.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.772789,
     "Location Type": "Pharmacy",
     "Longitude": -119.789988,
@@ -70752,10 +70777,20 @@
   {
     "Address": "33255 9th St, Union City, CA 94587",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "http://www.tvhc.org/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:06:41.000Z",
+    "Latest report notes": [
+      "Feb 26: This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.6026417,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.026479,
@@ -76103,8 +76138,12 @@
   {
     "Address": "1081 Market Place Suite 200, San Ramon, CA 94583",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Contra Costa County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:19:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7633113,
@@ -86891,8 +86930,12 @@
   {
     "Address": "722 Baker St, Costa Mesa, CA 92626",
     "Affiliation": "MemorialCare Health Service",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T22:15:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6804321,
@@ -128249,14 +128292,21 @@
   {
     "Address": "401 N AZUSA AVE, COVINA, CA 91722",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:15:05.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.088818,
     "Location Type": "Pharmacy",
     "Longitude": -117.90754,
