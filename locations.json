@@ -88,6 +88,22 @@
     "id": "rec01tcOLdRjMfCnZ"
   },
   {
+    "Address": "869 N. Cherry St., Tulare, CA 93274",
+    "Appointment scheduling instructions": [
+      "Patients should contact by phone or online to make an appointment."
+    ],
+    "County": "Tulare County",
+    "Has Report": 1,
+    "Latest report": "2021-02-26T15:14:39.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 36.220283,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.337669,
+    "Name": "Adventist Health Tulare",
+    "id": "rec02Uo1LkY3Y6SXC"
+  },
+  {
     "Address": "1850 5th Avenue, San Diego, CA 92101",
     "Affiliation": "CVS",
     "County": "San Diego County",
@@ -17248,6 +17264,26 @@
     "Longitude": -118.051835,
     "Name": "ARCADIA MEDICAL PHARMACY",
     "id": "rec80Q5J1PssnE7Ow"
+  },
+  {
+    "Address": "1107 W. Poplar Ave., Porterville, CA 93257",
+    "Appointment scheduling instructions": [
+      "Currently vaccinating people 65+. As of 2/26, all appointments were full. Please fill out a vaccine interest form here to be notified when an appointment becomes available: https://www.fhcn.org/vaccine-interest-form/"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Tulare County",
+    "Has Report": 1,
+    "Latest report": "2021-02-26T15:23:04.000Z",
+    "Latest report yes?": 1,
+    "Latitude": 36.051593,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -119.043527,
+    "Name": "Family Healthcare Network - Porterville",
+    "id": "rec82uMcSgmcZJHps"
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
