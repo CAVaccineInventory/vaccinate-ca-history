@@ -18541,7 +18541,7 @@
     "id": "rec8bZrM9m0B3ZXit"
   },
   {
-    "Address": "3208 East Florence Avenue, Huntington Park CA, 90255",
+    "Address": "3208 East Florence Avenue, Huntington Park CA 90255",
     "Affiliation": "CVS",
     "Availability Info": [
       "No: may be a vaccination site in the future"
@@ -38746,7 +38746,7 @@
     "id": "recHSBRuapCA8H7BN"
   },
   {
-    "Address": "9952 Las Tunas Drive, Corner Of Baldwin Avenue, Temple City CA, 91780",
+    "Address": "9952 Las Tunas Drive, Temple City, CA 91780",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       "https://www.cvs.com/immunizations/covid-19-vaccine"
@@ -42062,7 +42062,7 @@
     "id": "recIrAQeDx3JwYl17"
   },
   {
-    "Address": "2331 S ALTANTIC BLVD, MONTEREY PARK, CA 91754",
+    "Address": "2331 S. Atlantic Blvd., Monterey Park, CA 91754",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
       "Uses county scheduling system"
@@ -54052,7 +54052,7 @@
     "id": "recOyLI4Onydrrjmk"
   },
   {
-    "Address": "858 N. Sunset Ave., La Puente CA, 91744",
+    "Address": "858 N. Sunset Ave., La Puente, CA 91744",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       "cvs.com"
@@ -66999,11 +66999,11 @@
     "Address": "1600 E Citrus Ave Ste K, Redlands, CA 92374",
     "Affiliation": "ABC Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T05:38:58.000Z",
+    "Latest report": "2021-02-26T17:12:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.054818,
@@ -70042,7 +70042,7 @@
     "id": "recWSA8OLOXAZ8O5g"
   },
   {
-    "Address": "7300 Alameda St., Walnut Park CA, 90255",
+    "Address": "7300 Alameda St., Walnut Park, CA 90255",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       "https://www.cvs.com/store-locator/details-directions/8898"
@@ -71719,7 +71719,7 @@
     "id": "recXGd4QyfRHiPIAr"
   },
   {
-    "Address": "8400 Firestone Blvd., Downey CA, 90241",
+    "Address": "8400 Firestone Blvd., Downey, CA 90241",
     "Affiliation": "CVS",
     "Availability Info": [
       "No: no vaccine inventory"
@@ -83095,7 +83095,7 @@
     "id": "reccZQG1YK7V3V3rp"
   },
   {
-    "Address": "25829 Narbonne Ave., Lomita CA, 90717",
+    "Address": "25829 Narbonne Ave., Lomita, CA 90717",
     "Affiliation": "CVS",
     "Availability Info": [
       "No: no vaccine inventory"
@@ -83702,7 +83702,7 @@
     "id": "reccp5UuvD9gKouEK"
   },
   {
-    "Address": "5623 Kanan Rd., Agoura Hills CA, 91301",
+    "Address": "5623 Kanan Rd., Agoura Hills, CA 91301",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       "https://www.cvs.com/store-locator/details-directions/9751"
@@ -91055,7 +91055,7 @@
     "id": "recgP09E89ugO6OKC"
   },
   {
-    "Address": "4744 Lankershim Blvd., North Hollywood CA, 91602",
+    "Address": "4744 Lankershim Blvd., North Hollywood, CA 91602",
     "Affiliation": "CVS",
     "Availability Info": [
       "No: no vaccine inventory"
@@ -93202,7 +93202,7 @@
     "id": "rechEzF6LRqoGhLnp"
   },
   {
-    "Address": "1030 W Gardena Blvd Gardena, CA 90247",
+    "Address": "1030 W Gardena Blvd, Gardena, CA 90247",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: no vaccine inventory"
@@ -121508,7 +121508,7 @@
     "id": "recv2444Een7bfajj"
   },
   {
-    "Address": "7101 Atlantic Avenue, Bell CA, 90201",
+    "Address": "7101 Atlantic Avenue, Bell, CA 90201",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       "https://www.cvs.com/immunizations/covid-19-vaccine or by calling the CVS Pharmacy Masterline 1-800-746-7287"
