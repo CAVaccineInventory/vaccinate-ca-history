@@ -9764,14 +9764,20 @@
   {
     "Address": "19341 Bear Valley Rd Ste 103, Apple Valley, CA 92308",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "760-983-2599"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:24:05.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T19:07:07.000Z",
+    "Latest report notes": [
+      "press 1 for pharmacy. Currently all out."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.470988,
     "Location Type": "Pharmacy",
     "Longitude": -117.241697,
@@ -38017,8 +38023,15 @@
   {
     "Address": "17762 Beach Blvd, Huntington Beach, CA 92647",
     "Affiliation": "MemorialCare Health Service",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:06:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7040104,
@@ -46511,10 +46524,20 @@
   {
     "Address": "19121 Beach Boulevard, Huntington Beach, CA 92648",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:15:40.000Z",
+    "Latest report notes": [
+      "Feb 26: This location is scheduling appointments through its website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.68447829,
     "Location Type": "Pharmacy",
     "Longitude": -117.9885288,
@@ -88598,8 +88621,15 @@
   {
     "Address": "3911 South Bristol Street, Santa Ana, CA 92704",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:16:14.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7156688,
@@ -91788,8 +91818,12 @@
   {
     "Address": "501 S Idaho St Suite 100, La Habra, CA 90631",
     "Affiliation": "Friends of Family Health Center",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:08:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9277966,
@@ -109605,11 +109639,11 @@
     "Address": "2920 Inland Empire Blvd Ste 112, Ontario, CA 91764",
     "Affiliation": "ABC Pharmacy",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T05:39:15.000Z",
+    "Latest report": "2021-02-26T19:02:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.070362,
@@ -120826,16 +120860,19 @@
     "Address": "9670 Magnolia Ave Ste 107, Riverside, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "951-588-6727"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T19:10:19.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.918378,
     "Location Type": "Pharmacy",
     "Longitude": -117.449399,
@@ -120914,8 +120951,15 @@
   {
     "Address": "1330 E 17th St, Santa Ana, CA 92705",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:13:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.75985612,
