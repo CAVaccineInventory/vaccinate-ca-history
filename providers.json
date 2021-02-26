@@ -42,8 +42,8 @@
     ],
     "Provider": "Sav-on Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis but we know of a number of counties where 65+ vaccinations have begun.\n\nSame pharmacy chain as Von's, Safeway, Sav-on. \n",
-    "Vaccine info URL": "http://mhealthsystem.com/cvd####  where #### is replaced by the store number",
+    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis .\n\nSame pharmacy chain as Von's, Safeway, Sav-on. \n",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "id": "recB3eVZ3t6gTZg5n"
   },
   {
@@ -166,8 +166,8 @@
     ],
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis but we know of at least a few counties where 65+ vaccinations have begun.\n\nSame pharmacy chain as Von's, Safeway, Sav-on.\n",
-    "Vaccine info URL": "http://mhealthsystem.com/cvd####  where #### is replaced by the store number",
+    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Von's, Safeway, Sav-on.\n",
+    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
     "id": "recRMqc5LyYA5khcy"
   },
   {
@@ -178,8 +178,8 @@
     ],
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.  In most counties, vaccinations have begun for age 65+ as well as healthcare workers.  In most counties, vaccinations are restricted to residents or people who work in the county. \nSame pharmacy chain as Von's, Safeway, Sav-on. \n",
-    "Vaccine info URL": "http://mhealthsystem.com/cvd####  where #### is replaced by the store number)",
+    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Von's, Safeway, Sav-on. \n",
+    "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
     "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
     "id": "recSnMrHoR5f4eSfE"
   },
