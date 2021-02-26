@@ -39,9 +39,6 @@
   {
     "Address": "2939 ALTA VIEW DR SUITE L, SAN DIEGO, CA 92139",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -59,9 +56,6 @@
   {
     "Address": "41169 Goodwin Way, Madera, CA 93636",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -760,9 +754,6 @@
   {
     "Address": "101 DRUMMOND AVE, RIDGECREST, CA 93555",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -949,9 +940,6 @@
   {
     "Address": "40500 MURRIETA HOT SPRINGS RD, MURRIETA, CA 92563",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "760-997-7800"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -1333,9 +1321,6 @@
   {
     "Address": "2500 E IMPERIAL HWY, BREA, CA 92821",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -1808,9 +1793,6 @@
   {
     "Address": "500 B Street, Scotia, CA 95565",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "walgreens.com "
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -1999,9 +1981,6 @@
   {
     "Address": "955 STONY POINT ROAD, Santa Rosa, CA 95407",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "walgreens app, walgreens.com/findcare"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -2224,9 +2203,6 @@
   {
     "Address": "1340 S Beach Blvd, LA HABRA, CA 90631",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -2346,9 +2322,6 @@
   {
     "Address": "3098 G ST, MERCED, CA 95340",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -2443,9 +2416,6 @@
   {
     "Address": "869 Newville Rd, Orland CA, 95963",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -2637,9 +2607,6 @@
   {
     "Address": "950 E 33rd St, Signal Hill CA, 90755",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -3287,9 +3254,6 @@
   {
     "Address": "46848 MISSION BLVD, FREMONT, CA 94539",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "Register in-person for yourself (a clinic patient) or an eligible family member (clinic patient) is at Marin Community Clinic's Campus Clinic at 3260 Kerner Blvd., San Rafael each week Monday-Thursday, 1 pm – 3 pm. Date of vaccination will be given at registration. No phone registration available. Only caregivers and people 65+ and older will be scheduled for vaccination at this time."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -4169,9 +4133,6 @@
   {
     "Address": "26751 PORTOLA PARKWAY, FOOTHILL RANCH, CA 92610",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -4527,9 +4488,6 @@
   {
     "Address": "29675 THE OLD ROAD NORTH, CASTAIC, CA 91384",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "The pharmacy will contact patients for their second dose."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -4677,9 +4635,6 @@
   {
     "Address": "2484 E GETTYSBURG AVE, FRESNO, CA 93726",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -4907,9 +4862,6 @@
   {
     "Address": "820 SIR FRANCIS DRAKE BLVD, SAN ANSELMO, CA 94960",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -5213,9 +5165,6 @@
   {
     "Address": "5695 Alton Pkwy, Irvine, CA 92618",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -5668,9 +5617,6 @@
   {
     "Address": "8440 E CHAPMAN AVE, ORANGE, CA 92869",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -6061,9 +6007,6 @@
   {
     "Address": "22280 FOOTHILLS BLVD, HAYWARD, CA 94541",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -6412,9 +6355,6 @@
   {
     "Address": "33601 DEL OBISPO, DANA POINT, CA 92629",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -6854,9 +6794,6 @@
   {
     "Address": "1055 FREMONT BLVD, SEASIDE, CA 93955",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -7502,9 +7439,6 @@
   {
     "Address": "39 Lincoln Blvd, LINCOLN, CA 95648",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Appointment phone line:  1-707-433-3383"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -8160,9 +8094,6 @@
   {
     "Address": "575 N SANBORN ROAD, SALINAS, CA 93905",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "for appointments go to : lacountypublichealthcovid "
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -9020,9 +8951,6 @@
   {
     "Address": "4040 E. Chapman Ave., Orange, CA 92869",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -9870,9 +9798,6 @@
   {
     "Address": "7201 YORKTOWN AVE, HUNTINGTON BEACH, CA 92648",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -10802,9 +10727,6 @@
   {
     "Address": "24167 Paseo De Valencia, Laguna Woods CA, 92637",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -10921,9 +10843,6 @@
   {
     "Address": "23716 EL TORO RD, LAKE FOREST, CA 92630",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -11864,9 +11783,6 @@
   {
     "Address": "1260 E ONTARIO AVE, CORONA, CA 92881",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12463,9 +12379,6 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12601,9 +12514,6 @@
   {
     "Address": "2074 LAKE TAHOE BLVD SUITE 1, S LAKE TAHOE, CA 96150",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "707-442-0549"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -12689,9 +12599,6 @@
   {
     "Address": "12574 Limonite Ave, Eastvale, CA 91752",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "they would reach out to current patients who recieved the first dose"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12726,9 +12633,6 @@
   {
     "Address": "16225 SIERRA LAKES PARKWAY, FONTANA, CA 92335",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12789,9 +12693,6 @@
   {
     "Address": "200 Westminster Mall, Westminster, CA 92683",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12829,9 +12730,6 @@
   {
     "Address": "3949 Portola Pkwy., Irvine, CA 92602",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12901,9 +12799,6 @@
   {
     "Address": "28311 Marguerite Pkwy B-1, Mission Viejo, CA 92692",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -12981,9 +12876,6 @@
   {
     "Address": "1823 West Orangethorpe Avenue, Fullerton, CA 92833",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -13130,9 +13022,6 @@
   {
     "Address": "2620 E Chapman Ave, Orange, CA 92869",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -13255,9 +13144,6 @@
   {
     "Address": "100 RALEYS TOWN CENTER, ROHNERT PARK, CA 94928",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "(661) 771-8400 (Call Monday to Thursday: 10AM - 2PM)"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -14213,9 +14099,6 @@
   {
     "Address": "43200 STATE HWY 74, HEMET, CA 92544",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "(661) 822-4421"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -14452,9 +14335,6 @@
   {
     "Address": "11822 Gilbert St, Garden Grove, CA 92841",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -14676,9 +14556,6 @@
   {
     "Address": "10953 RAMONA BLVD #119, EL MONTE, CA 91731",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "ralphs.com"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -14865,9 +14742,6 @@
   {
     "Address": "1630 Ocean Ave, SAN FRANCISCO, CA 94112",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -14905,9 +14779,6 @@
   {
     "Address": "14845 Ventura Blvd, Sherman Oaks, CA 91403",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -15796,9 +15667,6 @@
   {
     "Address": "3935 PARK DRIVE SUITE B, EL DORADO HILLS, CA 95762",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -15863,9 +15731,6 @@
   {
     "Address": "22555 MISSION BVLD, HAYWARD, CA 94541",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -17083,9 +16948,6 @@
   {
     "Address": "10650 San Pablo Ave, El Cerrito CA, 94530",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -17241,9 +17103,6 @@
   {
     "Address": "36977 Park Ave, Burney, CA 96013",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -17329,9 +17188,6 @@
   {
     "Address": "1875 N. Kraemer Blvd., Placentia CA, 92870",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -17528,9 +17384,6 @@
   {
     "Address": "121 E EL CAMINO REAL, MOUNTAIN VIEW, CA 94040",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -17691,9 +17544,6 @@
   {
     "Address": "75 NORTH HAM LANE, LODI, CA 95242",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "wallgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -17853,9 +17703,6 @@
   {
     "Address": "17642 East 17th St., Tustin, CA 92780",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -18086,9 +17933,6 @@
   {
     "Address": "777 E MONTE VISTA AVE, VACAVILLE, CA 95688",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "for appointments go to : lacountypublichealthcovid "
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -18495,9 +18339,6 @@
   {
     "Address": "15840 HESPERIAN BLVD, SAN LORENZO, CA 94580",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -18659,9 +18500,6 @@
   {
     "Address": "3208 East Florence Avenue, Huntington Park CA, 90255",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "760-768-6000"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -20012,9 +19850,6 @@
   {
     "Address": "26932 La Paz Rd, Aliso Viejo CA, 92656",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -20673,9 +20508,6 @@
   {
     "Address": "750 N IMPERIAL AVE, EL CENTRO, CA 92243",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Call 562-385-8390 to reach the appointment desk or call 562-385-7237 for additional questions."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -20710,9 +20542,6 @@
   {
     "Address": "1016 BAYSIDE DRIVE, NEWPORT BEACH, CA 92660",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -22532,9 +22361,6 @@
   {
     "Address": "1834 W Avenue J, Lancaster, CA 93534",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "559-692-2479"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -23266,9 +23092,6 @@
   {
     "Address": "2000 PORTOLA AVENUE, LIVERMORE, CA 94550",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -24214,9 +24037,6 @@
   {
     "Address": "1121 SOUTH STATE STREET, HEMET, CA 92543",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -24298,9 +24118,6 @@
   {
     "Address": "5860 Owens Dr Ste 130, Pleasanton, CA 94588",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -24490,9 +24307,6 @@
   {
     "Address": "2660 PARK CTR DR, SIMI VALLEY, CA 93065",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -24589,9 +24403,6 @@
   {
     "Address": "1520 North Mountain Ave Ste 125, Ontario, CA 91762",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -24941,9 +24752,6 @@
   {
     "Address": "9940 SIERRA AVENUE, FONTANA, CA 92335",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -25420,9 +25228,6 @@
   {
     "Address": "855 E Birch St, Brea, CA 92821",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -25522,9 +25327,6 @@
   {
     "Address": "4100 LONE TREE WAY, ANTIOCH, CA 94531",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -25565,9 +25367,6 @@
   {
     "Address": "13847 E 14TH ST SUITE 103, SAN LEANDRO, CA 94578",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Mountain Valley Health Centers-Mount Shasta Health center is contacting their current patients(those 65+ and first responders ) and offering them appointment's to get vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -25598,9 +25397,6 @@
   {
     "Address": "26762 Portola Pkwy, Foothill Ranch CA, 92610",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -25988,9 +25784,6 @@
   {
     "Address": "18080 Imperial Hwy., Yorba Linda CA, 92886",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9591"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -26849,9 +26642,6 @@
   {
     "Address": "101 S Euclid St, Anaheim, CA 92802",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -27553,9 +27343,6 @@
   {
     "Address": "975 EAST MANNING AVENUE, REEDLEY, CA 93654",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -27982,9 +27769,6 @@
   {
     "Address": "7530 Orangethorpe Ave, Buena Park CA, 90621",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -28309,9 +28093,6 @@
   {
     "Address": "83053 Avenue 48, Coachella, CA 92236",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -28599,9 +28380,6 @@
   {
     "Address": "333 El Camino Real, SAN BRUNO, CA 94066",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -28700,9 +28478,6 @@
   {
     "Address": "3569A Round Barn Cir, Santa Rosa, CA 95403",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -29128,9 +28903,6 @@
   {
     "Address": "24271 Muirlands Blvd, Lake Forest CA, 92630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -29148,9 +28920,6 @@
   {
     "Address": "2140 El Camino Real, SANTA CLARA, CA 95050",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -29185,9 +28954,6 @@
   {
     "Address": "12300 Seal Beach Blvd, Seal Beach CA, 90740",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -30283,9 +30049,6 @@
   {
     "Address": "44840 Monterey Ave, PALM DESERT, CA 92260",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -30367,9 +30130,6 @@
   {
     "Address": "5822 Edinger Avenue, Huntington Beach, CA 92649",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -30523,9 +30283,6 @@
   {
     "Address": "2495 IRON POINT RD 11, FOLSOM, CA 95630",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://samsclub.com/covidvaccine or get the smart phone app"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -30696,9 +30453,6 @@
   {
     "Address": "15520 Goldenwest St., Huntington Beach, CA 92647",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -32048,9 +31802,6 @@
   {
     "Address": "24325 CRENSHAW BLVD, TORRANCE, CA 90505",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "209-545-1385"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -33971,9 +33722,6 @@
   {
     "Address": "25850 N THE OLD RD, VALENCIA, CA 91355",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34004,9 +33752,6 @@
   {
     "Address": "8949 N CEDAR AVE, FRESNO, CA 93720",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34172,9 +33917,6 @@
   {
     "Address": "12440 Brookhurst St, Garden Grove, CA 92840",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34192,9 +33934,6 @@
   {
     "Address": "9404 CENTRAL AVE, MONTCLAIR, CA 91763",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34246,9 +33985,6 @@
   {
     "Address": "4201 DALE RD, MODESTO, CA 95356",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/Covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34516,9 +34252,6 @@
   {
     "Address": "21761 Lake Forest Drive, Lake Forest, CA 92630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34759,9 +34492,6 @@
   {
     "Address": "2433 HARBOR BLVD, VENTURA, CA 93001",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "805-485-2191"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34810,9 +34540,6 @@
   {
     "Address": "1108 S BALDWIN AVENUE STORE NUMBER 8&9, ARCADIA, CA 91007",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -34830,9 +34557,6 @@
   {
     "Address": "90 South Spruce Ave. Suite W, South San Francisco, CA 94080",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.kroger.com/rx/covid-eligibility"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -35242,9 +34966,6 @@
   {
     "Address": "128 S STATE COLLEGE BLVD, ANAHEIM, CA 92806",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "to make an appointment, please visit:  placer.ca.gov"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -35392,9 +35113,6 @@
   {
     "Address": "8880 Valley View St, BUENA PARK, CA 90620",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -35559,9 +35277,6 @@
   {
     "Address": "8250 Power Inn Rd, Sacramento, CA 95828",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "559-692-2479"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -38129,9 +37844,6 @@
   {
     "Address": "317 N El Camino Real  506, Encinitas, CA 92024",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -38406,9 +38118,6 @@
   {
     "Address": "951 AVENIDA PICO, SAN CLEMENTE, CA 92673",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -39205,9 +38914,6 @@
   {
     "Address": "5490 WHITTIER BOULEVARD, EAST LOS ANGELES, CA 90022",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "559-875-6000"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -39774,9 +39480,6 @@
   {
     "Address": "4351 E IMPERIAL HWY, LYNWOOD, CA 90262",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -40623,9 +40326,6 @@
   {
     "Address": "175 E 17th St, Costa Mesa, CA 92627",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -40932,9 +40632,6 @@
   {
     "Address": "121 N Beach Ave, Anaheim, CA 92801",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -41045,9 +40742,6 @@
   {
     "Address": "16450 BEACH BLVD, WESTMINSTER, CA 92683",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -41806,9 +41500,6 @@
   {
     "Address": "4020 Fremont Hub\nFremont, CA 94538\n",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -41915,9 +41606,6 @@
   {
     "Address": "27470 ALICIA PKWY, LAGUNA NIGUEL, CA 92677",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -42478,9 +42166,6 @@
   {
     "Address": "2341 S WINCHESTER BLVD, CAMPBELL, CA 95008",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "https://covid19.ca.gov/vaccines/#When-can-I-get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -42911,9 +42596,6 @@
   {
     "Address": "3207 CROW CANYON PLACE CROW CANYON COMMONS, SAN RAMON, CA 94583",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/8898"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -43164,9 +42846,6 @@
   {
     "Address": "481 OLD MAMMOTH RD, MAMMOTH LAKES, CA 93546",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "559-692-2479"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -43419,9 +43098,6 @@
   {
     "Address": "7981 E STOCKTON BLVD, SACRAMENTO, CA 95823",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -44281,9 +43957,6 @@
   {
     "Address": "5735 E. La Palma Avenue, Anaheim, CA 92807",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -44589,9 +44262,6 @@
   {
     "Address": "24382 MUIRLANDS BLVD, LAKE FOREST, CA 92630",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -44727,9 +44397,6 @@
   {
     "Address": "7070 ARCHIBALD AVE, EASTVALE, CA 92880",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -44764,9 +44431,6 @@
   {
     "Address": "9728 Winter Gardens Blvd, Lakeside, CA 92040",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.kroger.com/rx/covid-eligibility"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -44997,9 +44661,6 @@
   {
     "Address": "3300 S Bristol St, Santa Ana CA, 92704",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -45034,9 +44695,6 @@
   {
     "Address": "925 COLE STREET, SAN FRANCISCO, CA 94117",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -46079,9 +45737,6 @@
   {
     "Address": "18327 SHERMAN WAY, RESEDA, CA 91335",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Appointment phone line:  1-707-433-3383"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -46505,9 +46160,6 @@
   {
     "Address": "40101 MONTEREY AVE, RANCHO MIRAGE, CA 92270",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -46988,9 +46640,6 @@
   {
     "Address": "5401 KATELLA AVE, CYPRESS, CA 90720",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "Schedule on RiteAid website"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -47227,9 +46876,6 @@
   {
     "Address": "301 NORTH R ST, LOMPOC, CA 93436",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "510-238-5494"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -48202,9 +47848,6 @@
   {
     "Address": "17136 Magnolia St., Fountain Valley CA, 92708",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -48537,9 +48180,6 @@
   {
     "Address": "1610 SAN MIGUEL DRIVE, NEWPORT BEACH, CA 92660",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -49311,9 +48951,6 @@
   {
     "Address": "937 NORTH H STREET, LOMPOC, CA 93436",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Mountain Valley Health Centers-Mount Shasta Health center is contacting their current patients(those 65+ and first responders ) and offering them appointment's to get vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -49621,9 +49258,6 @@
   {
     "Address": "40044 St Hwy 49, Oakhurst CA, 93644",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.kroger.com/rx/guest/vaccination-appointments"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -49995,9 +49629,6 @@
   {
     "Address": "540 CANAL STREET KING CITY CENTER, KING CITY, CA 93930",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -50052,9 +49683,6 @@
   {
     "Address": "115 TECHNOLOGY DR, IRVINE, CA 92618",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -50537,9 +50165,6 @@
   {
     "Address": "1456 136TH AVE, SAN LEANDRO, CA 94578",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://sbcovid19.com/vaccine/locations/pharmacies"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -51126,9 +50751,6 @@
   {
     "Address": "1517 West Braden Court\nOrange, CA 92868",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
-    ],
     "Availability Info": [
       "No: only vaccinating staff"
     ],
@@ -52393,9 +52015,6 @@
   {
     "Address": "380 E 17TH STREET, COSTA MESA, CA 92627",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -52517,9 +52136,6 @@
   {
     "Address": "19640 BEACH BLVD, HUNTINGTON BEACH, CA 92648",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -52561,9 +52177,6 @@
   {
     "Address": "12100 Harbor Blvd, Garden Grove CA, 92840",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -52833,9 +52446,6 @@
   {
     "Address": "731 South Weir Canyon Road, Anaheim Hills CA, 92808",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -53046,9 +52656,6 @@
   {
     "Address": "12031 Brookhurst Street, Garden Grove, CA 92840",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -53066,9 +52673,6 @@
   {
     "Address": "1616 E HAMMER LN, STOCKTON, CA 95210",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -53097,9 +52701,6 @@
   {
     "Address": "351 Felice Dr, Hollister, CA 95023",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -53415,9 +53016,6 @@
   {
     "Address": "500 E MANCHESTER BLVD, INGLEWOOD, CA 90301",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "krogerhealth.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -53544,9 +53142,6 @@
   {
     "Address": "7251 CAMINO ARROYO, GILROY, CA 95020",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "(530) 538-3379"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -54185,9 +53780,6 @@
   {
     "Address": "500 S ANAHEIM HILLS RD STE 100 STE 100, ANAHEIM, CA 92807",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "they would reach out to current patients who recieved the first dose"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -54320,9 +53912,6 @@
   {
     "Address": "Arrillaga Center at 341 Galvez Street, Stanford",
     "Affiliation": "Stanford Health Care",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -54482,9 +54071,6 @@
   {
     "Address": "1120 Forest Ave., Chico CA, 95928",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -54938,9 +54524,6 @@
   {
     "Address": "1151 South Harbor Blvd, La Habra CA, 90631",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -55904,9 +55487,6 @@
   {
     "Address": "5420 La Palma Ave, La Palma, CA 90623",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -56016,9 +55596,6 @@
   {
     "Address": "1375 E Ontario Ave, CORONA, CA 92881",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -56226,9 +55803,6 @@
   {
     "Address": "17099 BROOKHURST STREET, FOUNTAIN VALLEY, CA 92708",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -57489,9 +57063,6 @@
   {
     "Address": "6835 Katella Ave, Cypress CA, 90630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -57707,9 +57278,6 @@
   {
     "Address": "13401 Main St, Hesperia, CA 92345",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "The pharmacy will contact patients for their second dose."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -58442,9 +58010,6 @@
   {
     "Address": "20445 YORBA LINDA BLVD, YORBA LINDA, CA 92886",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -58964,9 +58529,6 @@
   {
     "Address": "4050 Phelan Rd Ste 8, Phelan, CA 92371",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -59883,9 +59445,6 @@
   {
     "Address": "900 S HARBOR BLVD, FULLERTON, CA 92832",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -60486,9 +60045,6 @@
   {
     "Address": "3550 NORTH G ST, MERCED, CA 95348",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.vons.com/pharmacy/covid-19.html"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -61062,9 +60618,6 @@
   {
     "Address": "6336 COLLEGE GROVE WAY, SAN DIEGO, CA 92115",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "The pharmacy will contact patients for their second dose."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -61760,9 +61313,6 @@
   {
     "Address": "2241 MICHAEL DRIVE, NEWBURY PARK, CA 91320",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -62315,9 +61865,6 @@
   {
     "Address": "16555 Von Karman Ave, Irvine, CA 92606",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -63874,9 +63421,6 @@
   {
     "Address": "2173 PICKWICK DR, CAMARILLO, CA 93010",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -64065,9 +63609,6 @@
   {
     "Address": "3416 DEER VALLEY ROAD, ANTIOCH, CA 94531",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -65404,9 +64945,6 @@
   {
     "Address": "2655 EL CAMINO REAL, TUSTIN, CA 92782",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -66025,9 +65563,6 @@
   {
     "Address": "8450 La Palma Ave, BUENA PARK, CA 90620",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -66167,9 +65702,6 @@
   {
     "Address": "751 Lombardi Ct Suite 100, Santa Rosa, CA 95407",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -66187,9 +65719,6 @@
   {
     "Address": "2001 MCHENRY AVE, MODESTO, CA 95350",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -66241,9 +65770,6 @@
   {
     "Address": "11030 W JEFFERSON BLVD, CULVER CITY, CA 90230",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: only vaccinating staff"
     ],
@@ -67160,9 +66686,6 @@
   {
     "Address": "617 W 7th St Ste 100, Los Angeles, CA 90017",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -67723,9 +67246,6 @@
   {
     "Address": "1510 Florida Ave. Suite E, Modesto, CA 95350",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.vons.com/pharmacy/covid-19.html"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -68046,9 +67566,6 @@
   {
     "Address": "8858 LAKEWOOD DRIVE, WINDSOR, CA 95492",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -68189,9 +67706,6 @@
   {
     "Address": "2420 N BLACKSTONE AVE, FRESNO, CA 93703",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Mountain Valley Health Centers-Mount Shasta Health center is contacting their current patients(those 65+ and first responders ) and offering them appointment's to get vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -68376,9 +67890,6 @@
   {
     "Address": "26531 Aliso Creek Rd, Aliso Viejo, CA 92656",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -68566,9 +68077,6 @@
   {
     "Address": "6363 Valley Springs Pkwy, RIVERSIDE, CA 92507",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -68717,9 +68225,6 @@
   {
     "Address": "13129 Brookhurst St, Garden Grove, CA 92843",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "cvs.com/coronavirus"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69141,9 +68646,6 @@
   {
     "Address": "2300 Park Ave, Tustin, CA 92782",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69475,9 +68977,6 @@
   {
     "Address": "5700 Firestone Blvd, South Gate CA, 90280",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "kroger.com/covidvaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69659,9 +69158,6 @@
   {
     "Address": "2550 OCEAN AVENUE, SAN FRANCISCO, CA 94132",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69716,9 +69212,6 @@
   {
     "Address": "349 E Main St Ste 101, Alhambra, CA 91801",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Call 562-385-8390 to reach the appointment desk or call 562-385-7237 for additional questions."
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69839,9 +69332,6 @@
   {
     "Address": "8148 E Santa Ana Canyon Rd, Anaheim, CA 92808",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -69927,9 +69417,6 @@
   {
     "Address": "866 Campus Dr, Stanford, CA 94305",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "call 211"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -70251,9 +69738,6 @@
   {
     "Address": "210 American Canyon Rd, American Canyon, CA 94503",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -70584,9 +70068,6 @@
   {
     "Address": "160 COUNTRY CLUB GATE CENTER, PACIFIC GROVE, CA 93950",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -70903,9 +70384,6 @@
   {
     "Address": "16961 Beach Boulevard, Huntington Beach, CA 92647",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -70977,9 +70455,6 @@
   {
     "Address": "3605 STATE STREET, SANTA BARBARA, CA 93105",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -71224,9 +70699,6 @@
   {
     "Address": "1201 E YORBA LINDA BLVD, PLACENTIA, CA 92870",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -71244,9 +70716,6 @@
   {
     "Address": "989 AVENIDA PICO, SAN CLEMENTE, CA 92673",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -71348,9 +70817,6 @@
   {
     "Address": "11126 PALMS BOULEVARD, LOS ANGELES, CA 90034",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/8898"
-    ],
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -71466,9 +70932,6 @@
   {
     "Address": "15440 BEACH BLVD #120, WESTMINSTER, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -71862,9 +71325,6 @@
   {
     "Address": "804 AVENIDA PICO, SAN CLEMENTE, CA 92673",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -72078,9 +71538,6 @@
   {
     "Address": "2684 NORTH TUSTIN ST, ORANGE, CA 92865",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -72115,9 +71572,6 @@
   {
     "Address": "88 E Orangethorpe Ave, Anaheim, CA 92801",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -73289,9 +72743,6 @@
   {
     "Address": "3901 Portola Pkwy, Irvine, CA 92602",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -73368,9 +72819,6 @@
   {
     "Address": "1400 Lead Hill Blvd, Roseville, CA 95661",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -73435,9 +72883,6 @@
   {
     "Address": "4950 BARRANCA PKY STE 102, IRVINE, CA 92604",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "661-327-2101"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -73878,9 +73323,6 @@
   {
     "Address": "3461 W THIRD ST, LOS ANGELES, CA 90020",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "ritea.id/california"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -74246,9 +73688,6 @@
   {
     "Address": "2291 W MALVERN AVE, FULLERTON, CA 92833",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -74266,9 +73705,6 @@
   {
     "Address": "512 N Ventu Park Rd, Thousand Oaks, CA 91320",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.samsclub.com/pharmacy/immunization?imzType=covid"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -74692,9 +74128,6 @@
   {
     "Address": "5055 TELEGRAPH AVENUE, OAKLAND, CA 94609",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -75574,9 +75007,6 @@
   {
     "Address": "8230 Saratoga Way, El Dorado Hills, CA 95762",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Mountain Valley Health Centers-Mount Shasta Health center is contacting their current patients(those 65+ and first responders ) and offering them appointment's to get vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -75605,9 +75035,6 @@
   {
     "Address": "16915 DEVONSHIRE STREET, GRANADA HILLS, CA 91344",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -75797,9 +75224,6 @@
   {
     "Address": "1538 E Chapman Ave, Orange, CA 92866",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -76230,9 +75654,6 @@
   {
     "Address": "2222 E. Lincoln Ave., Anaheim, CA 92806",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -76450,9 +75871,6 @@
   {
     "Address": "2000 W WHITTIER BLVD, LA HABRA, CA 90631",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -76470,9 +75888,6 @@
   {
     "Address": "710 N ROSE DR, PLACENTIA, CA 92870",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -77342,9 +76757,6 @@
   {
     "Address": "940 N TUSTIN ST, ORANGE, CA 92867",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -77553,9 +76965,6 @@
   {
     "Address": "1800 Coffee Rd Suite 110, Modesto, CA 95355",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -77643,9 +77052,6 @@
   {
     "Address": "811 AVENIDA TALEGA, SAN CLEMENTE, CA 92673",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -77798,9 +77204,6 @@
   {
     "Address": "23961 Calle De La Magdalena Ste 100 STE 100, LAGUNA HILLS, CA 92653",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "661-664-7979"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -77835,9 +77238,6 @@
   {
     "Address": "12470 SEAL BEACH BLVD, SEAL BEACH, CA 90740",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -78057,9 +77457,6 @@
   {
     "Address": "101 W IMPERIAL HIGHWAY, LA HABRA, CA 90631",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -78561,9 +77958,6 @@
   {
     "Address": "6750 STANFORD RANCH RD, ROSEVILLE, CA 95678",
     "Affiliation": "Costco Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -78812,9 +78206,6 @@
   {
     "Address": "30192 Town Center Dr, Laguna Niguel, CA 92677",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -79027,9 +78418,6 @@
   {
     "Address": "31874 Del Obispo St., San Juan Capistrano CA, 92675",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -79608,9 +78996,6 @@
   {
     "Address": "200 W Orangethorpe Ave, Fullerton, CA 92832",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -79686,9 +79071,6 @@
   {
     "Address": "1000 E Imperial Hwy, La Habra, CA 90631",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -79706,9 +79088,6 @@
   {
     "Address": "3450 MARRON RD, OCEANSIDE, CA 92056",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -80309,9 +79688,6 @@
   {
     "Address": "949 11th St, Lakeport CA, 95453",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "559-277-5912"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -80527,9 +79903,6 @@
   {
     "Address": "270 West Lincoln Avenue, Anaheim, CA 92805",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -81275,9 +80648,6 @@
   {
     "Address": "25601 Jeronimo Rd, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -81478,9 +80848,6 @@
   {
     "Address": "40130 10th St W, Palmdale, CA 93551",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -82166,9 +81533,6 @@
   {
     "Address": "5190 CLAYTON ROAD, CONCORD, CA 94521",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -82317,9 +81681,6 @@
   {
     "Address": "26022 MARGUERITE PKY, MISSION VIEJO, CA 92692",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -82465,9 +81826,6 @@
   {
     "Address": "3745 S LABREA AVE STE C-D, LOS ANGELES, CA 90016",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.csvs.org/SalinasCASanborn.htm"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -82697,9 +82055,6 @@
   {
     "Address": "2300 MENDOCINO AVENUE, SANTA ROSA, CA 95403",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "Vons website"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -83042,9 +82397,6 @@
   {
     "Address": "1826 W ORANGETHORPE AVE, FULLERTON, CA 92833",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -83503,9 +82855,6 @@
   {
     "Address": "2399 S BROADWAY, SANTA MARIA, CA 93454",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -83926,9 +83275,6 @@
   {
     "Address": "1906 Fort Jones Rd, Yreka, CA 96097",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -83982,9 +83328,6 @@
   {
     "Address": "900 SUNRISE AVENUE, ROSEVILLE, CA 95661",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -85061,9 +84404,6 @@
   {
     "Address": "19424 Soledad Canyon Rd., Canyon Country CA, 91351",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -85582,9 +84922,6 @@
   {
     "Address": "19001 BROOKHURST ST, HUNTINGTON BEACH, CA 92646",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -86479,9 +85816,6 @@
   {
     "Address": "1835 Newport Boulevard #c, Costa Mesa, CA 92627",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -86604,9 +85938,6 @@
   {
     "Address": "17625 Harvard Avenue, Irvine, CA 92614",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -86748,9 +86079,6 @@
   {
     "Address": "600 WEST SEVENTH STREET, LOS ANGELES, CA 90017",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -86809,9 +86137,6 @@
   {
     "Address": "390 N. Brea Blvd, Brea CA, 92821",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -87476,9 +86801,6 @@
   {
     "Address": "1500 Helen Power Dr, VACAVILLE, CA 95687",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9822"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -87820,9 +87142,6 @@
   {
     "Address": "47900 WASHINGTON ST, LA QUINTA, CA 92253",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -87886,9 +87205,6 @@
   {
     "Address": "1020 Irvine Avenue, Newport Beach CA, 92660",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -88208,9 +87524,6 @@
   {
     "Address": "8657 VILLA LA JOLLA DRIVE, LA JOLLA, CA 92037",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -88843,9 +88156,6 @@
   {
     "Address": "2595 E Imperial Hwy, BREA, CA 92821",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -89756,9 +89066,6 @@
   {
     "Address": "25511 Muirlands Blvd., Mission Viejo, CA 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -89813,9 +89120,6 @@
   {
     "Address": "1830 W 11TH ST, TRACY, CA 95376",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://samsclub.com/covidvaccine or get the smart phone app"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -90225,9 +89529,6 @@
   {
     "Address": "480 South Main Street, Orange, CA 92868",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -90737,9 +90038,6 @@
   {
     "Address": "30492 Gateway Pl, Mission Viejo, CA 92694",
     "Affiliation": "MemorialCare Health Service",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -91374,9 +90672,6 @@
   {
     "Address": "2627 PACIFIC AVE, LONG BEACH, CA 90806",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -92117,9 +91412,6 @@
   {
     "Address": "25539 PASEO DE VALENCIA, LAGUNA HILLS, CA 92653",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "kroger.com/covidvaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -92257,9 +91549,6 @@
   {
     "Address": "2196 S SAVIERS RD MISSION VILLAGE SHOPPING CENTER, OXNARD, CA 93033",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "760-561-7009"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -92616,9 +91905,6 @@
   {
     "Address": "2300 N Tustin St, ORANGE, CA 92865",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -92742,9 +92028,6 @@
   {
     "Address": "1803 South Harbor Blvd, Anaheim CA, 92802",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -93270,9 +92553,6 @@
   {
     "Address": "44100 Jefferson St Ste F, Indio, CA 92201",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -93630,9 +92910,6 @@
   {
     "Address": "227 SHORELINE HWY, MILL VALLEY, CA 94941",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -94661,9 +93938,6 @@
   {
     "Address": "558 Abbott St, Salinas, CA 93901",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9751"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -95118,9 +94392,6 @@
   {
     "Address": "11121 Sierra Ave, Fontana, CA 92337",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -95429,9 +94700,6 @@
   {
     "Address": "27982 LA PAZ RD, LAGUNA NIGUEL, CA 92677",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "walgreens app or walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -95766,9 +95034,6 @@
   {
     "Address": "2101 W. Imperial Highway #c, La Habra, CA 90631",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -95846,9 +95111,6 @@
   {
     "Address": "8230 Talbert Ave, HUNTINGTON BEACH, CA 92646",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -96339,9 +95601,6 @@
   {
     "Address": "13331 BEACH BLVD, WESTMINSTER, CA 92683",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -96666,9 +95925,6 @@
   {
     "Address": "2025 Court Street, Suite A, Redding CA, 96001",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -96712,9 +95968,6 @@
   {
     "Address": "30251 MURRIETA RD, MENIFEE, CA 92584",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "(530) 538-3379"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -96972,9 +96225,6 @@
   {
     "Address": "2011 East La Palma, Anaheim, CA 92806",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -97055,9 +96305,6 @@
   {
     "Address": "12586 Avenue 408, Orosi, CA 93647",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "kroger.com/covidvaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -97296,9 +96543,6 @@
   {
     "Address": "1730 WATT AVENUE, SACRAMENTO, CA 95825",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -98072,9 +97316,6 @@
   {
     "Address": "777 E. Monte Vista Ave (61.97 mi)\nVacaville, CA  95688",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -98234,9 +97475,6 @@
   {
     "Address": "1300 North Dutton Avenue, Santa Rosa, CA 95401",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -98320,9 +97558,6 @@
   {
     "Address": "5625 GOSFORD ROAD, BAKERSFIELD, CA 93313",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/10119"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -99203,9 +98438,6 @@
   {
     "Address": "9675 Monte Vista Ave Ste A, Montclair, CA 91763",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -99410,9 +98642,6 @@
   {
     "Address": "2700 Las Positas Rd, LIVERMORE, CA 94551",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.vons.com/pharmacy/covid-19.html"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -99684,9 +98913,6 @@
   {
     "Address": "701 E CHANNEL ST, STOCKTON, CA 95202",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "(909) 775-5298 or (909) 864-4700"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -99958,9 +99184,6 @@
   {
     "Address": "24081 EL TORO RD, LAGUNA HILLS, CA 92653",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -100514,9 +99737,6 @@
   {
     "Address": "8891 ATLANTA AVE, HUNTINGTON BEACH, CA 92646",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -100534,9 +99754,6 @@
   {
     "Address": "7663 N Blackstone Ave, FRESNO, CA 93720",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -100554,9 +99771,6 @@
   {
     "Address": "16830 SAN FERNANDO MISSION BLVD, GRANADA HILLS, CA 91344",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -100679,9 +99893,6 @@
   {
     "Address": "1333 Broadway, OAKLAND, CA 94612",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Appointment phone line:  1-707-433-3383"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -101200,9 +100411,6 @@
   {
     "Address": "6801 Hollywood Blvd Ste 132, Los Angeles, CA 90028",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -101574,9 +100782,6 @@
   {
     "Address": "3280 Professional Dr, Auburn, CA 95602",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -101645,9 +100850,6 @@
   {
     "Address": "4541 CAMPUS DR, IRVINE, CA 92612",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -101920,9 +101122,6 @@
   {
     "Address": "2100 MONUMENT BLVD Suite 20, PLEASANT HILL, CA 94523",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -102887,9 +102086,6 @@
   {
     "Address": "24372 Rockfield Blvd, Lake Forest, CA 92630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -104057,9 +103253,6 @@
   {
     "Address": "28221 Crown Valley Pky, Laguna Niguel, CA 92677",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -104340,9 +103533,6 @@
   {
     "Address": "1605 W 1st St Ste A, Santa Ana, CA 92703",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.kroger.com/rx/covid-eligibility"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -104646,9 +103836,6 @@
   {
     "Address": "1250 E CHAPMAN AVE, FULLERTON, CA 92831",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -104712,9 +103899,6 @@
   {
     "Address": "7373 LINCOLN WAY, GARDEN GROVE, CA 92841",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.ralphs.com/rx/guest/get-vaccinated"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -105353,9 +104537,6 @@
   {
     "Address": "1836 Noriega St, SAN FRANCISCO, CA 94122",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -105537,9 +104718,6 @@
   {
     "Address": "1893 W Malvern Ave, Fullerton CA, 92833",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -105608,9 +104786,6 @@
   {
     "Address": "510 South Beach Boulevard, Anaheim, CA 92804",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -105729,9 +104904,6 @@
   {
     "Address": "19340 Hawthorne Blvd, Torrance, CA 90503",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -105919,9 +105091,6 @@
   {
     "Address": "2700 Dolbeer St Pharmacy Services, Eureka, CA 95501",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/covidvaccine"
-    ],
     "Availability Info": [
       "No: only vaccinating staff"
     ],
@@ -106301,9 +105470,6 @@
   {
     "Address": "695 W Tefft Street #A, Nipomo, CA 93444",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "707-442-0549"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -106717,9 +105883,6 @@
   {
     "Address": "2899 JAMACHA RD, EL CAJON, CA 92019",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -106868,9 +106031,6 @@
   {
     "Address": "1601 WEST CAPITOL AVENUE, WEST SACRAMENTO, CA 95691",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -107665,9 +106825,6 @@
   {
     "Address": "25533 Marguerite Pkwy, MISSION VIEJO, CA 92692",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -107994,9 +107151,6 @@
   {
     "Address": "26851 Trabuco Rd, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -108535,9 +107689,6 @@
   {
     "Address": "499 ALVARADO STREET, MONTEREY, CA 93940",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -108582,9 +107733,6 @@
   {
     "Address": "20475 Yorba Linda Blvd, Yorba Linda, CA 92886",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -108687,9 +107835,6 @@
   {
     "Address": "111 East Avenue 26, Los Angeles, CA 90031",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "sb.covid19.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -109652,9 +108797,6 @@
   {
     "Address": "7155 24TH ST, SACRAMENTO, CA 95822",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -110250,9 +109392,6 @@
   {
     "Address": "141 Lakewood Center Mall, Lakewood CA, 90712",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "ritea.id/california "
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -110470,9 +109609,6 @@
   {
     "Address": "1979 PEABODY RD, VACAVILLE, CA 95687",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -110513,9 +109649,6 @@
   {
     "Address": "5645 Auburn St, Bakersfield, CA 93306",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -110984,9 +110117,6 @@
   {
     "Address": "150 S GRAND AVE, COVINA, CA 91724",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -111392,9 +110522,6 @@
   {
     "Address": "3030 Harbor Blvd Ste A, Costa Mesa CA, 92626",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -111446,9 +110573,6 @@
   {
     "Address": "5203 WEST WALNUT AVE, VISALIA, CA 93277",
     "Affiliation": "Save Mart Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -111926,9 +111050,6 @@
   {
     "Address": "195 WEST SHAW AVE 101A, CLOVIS, CA 93612",
     "Affiliation": "The Medicine Shoppe",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -112389,9 +111510,6 @@
   {
     "Address": "1111 N. Nagle Street\nAlturas, CA 96101",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -112640,9 +111758,6 @@
   {
     "Address": "3030 CHILDRENS WY STE 108, SAN DIEGO, CA 92123",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "(951) 355-4709"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -113929,9 +113044,6 @@
   {
     "Address": "155 Northgate One, San Rafael, CA 94903",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "951-299-9922"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -113979,9 +113091,6 @@
   {
     "Address": "4950 MISSION ST, SAN FRANCISCO, CA 94112",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -114079,9 +113188,6 @@
   {
     "Address": "15180 Kensington Park Dr.,, Tustin CA, 92782",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -114151,9 +113257,6 @@
   {
     "Address": "603 S Placentia Ave, Fullerton, CA 92831",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -114329,9 +113432,6 @@
   {
     "Address": "1520 Nutmeg Pl Suite 101, Costa Mesa, CA 92626",
     "Affiliation": "Planned Parenthood",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -114665,9 +113765,6 @@
   {
     "Address": "3750 Barranca Pkwy, Irvine CA, 92606",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -114896,9 +113993,6 @@
   {
     "Address": "12840 Beach Blvd, Stanton, CA 90680",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -115328,9 +114422,6 @@
   {
     "Address": "250 S G St, San Bernardino, CA 92410",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "(866) 682-4842"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -115716,9 +114807,6 @@
   {
     "Address": "8333 VAN NUYS BLVD, PANORAMA CITY, CA 91402",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -115828,9 +114916,6 @@
   {
     "Address": "23141 Moulton Pkwy, Laguna Hills, CA 92653",
     "Affiliation": "ABC Pharmacy",
-    "Appointment scheduling instructions": [
-      "760-768-6000"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -116155,9 +115240,6 @@
   {
     "Address": "3705 EL CAMINO REAL, SANTA CLARA, CA 95051",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -116523,9 +115605,6 @@
   {
     "Address": "8985 MIRA MESA BOULEVARD, SAN DIEGO, CA 92126",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -117142,9 +116221,6 @@
   {
     "Address": "71 Technology Dr, Irvine, CA 92618",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.vons.com/pharmacy/covid-19.html"
-    ],
     "Availability Info": [
       "No: location permanently closed"
     ],
@@ -117229,9 +116305,6 @@
   {
     "Address": "30600 Dyer St, UNION CITY, CA 94587",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -117460,9 +116533,6 @@
   {
     "Address": "3650 S BRISTOL ST, SANTA ANA, CA 92704",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -117625,9 +116695,6 @@
   {
     "Address": "2851 S Rose Ave, OXNARD, CA 93033",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -117862,9 +116929,6 @@
   {
     "Address": "6300 IRVINE BLVD, IRVINE, CA 92620",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "831-634-1887"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -117997,9 +117061,6 @@
   {
     "Address": "1204 San Fernando Rd.,, San Fernando CA, 91340",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "661-282-8805"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -118538,9 +117599,6 @@
   {
     "Address": "600 NORTH COAST HWY, LAGUNA BEACH, CA 92651",
     "Affiliation": "Pavilions",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -119058,9 +118116,6 @@
   {
     "Address": "5501 Ball Road, Cypress, CA 90630",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -119652,9 +118707,6 @@
   {
     "Address": "2801 K STREET SUITE 100, SACRAMENTO, CA 95816",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -120269,9 +119321,6 @@
   {
     "Address": "795 El Camino Real Lee building A floor, Geriatrics, PALO ALTO, CA 94301",
     "Affiliation": "Palo Alto Medical Foundation",
-    "Appointment scheduling instructions": [
-      "much make an appointment through: walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -120440,9 +119489,6 @@
   {
     "Address": "900 N Walton Ave, YUBA CITY, CA 95993",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "760-997-7800"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -120783,9 +119829,6 @@
   {
     "Address": "3446 W BALL RD, ANAHEIM, CA 92804",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -121053,9 +120096,6 @@
   {
     "Address": "25622 Crown Valley Pkwy., Ladera Ranch CA, 92694",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -121129,9 +120169,6 @@
   {
     "Address": "2323 16TH ST STE 100, BAKERSFIELD, CA 93301",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://samsclub.com/covidvaccine or get the smart phone app"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -122255,9 +121292,6 @@
   {
     "Address": "201 Front Street, Santa Cruz, CA 95060",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -122628,9 +121662,6 @@
   {
     "Address": "1055 Harriman Pl, SAN BERNARDINO, CA 92408",
     "Affiliation": "Sam's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -122687,9 +121718,6 @@
   {
     "Address": "10701 Folsom Blvd, Rancho Cordova, CA 95670",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      " http://ritea.id/california"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -123208,9 +122236,6 @@
   {
     "Address": "1441 AVOCADO AVE STE 101, NEWPORT BEACH, CA 92660",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "661-327-2101"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -123278,9 +122303,6 @@
   {
     "Address": "6250 Valley Springs Pkwy, RIVERSIDE, CA 92507",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -123732,9 +122754,6 @@
   {
     "Address": "5005 BALL RD, CYPRESS, CA 90630",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -124768,9 +123787,6 @@
   {
     "Address": "5037 E Brundage Ln, Bakersfield, CA 93307",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -125013,9 +124029,6 @@
   {
     "Address": "14090 E HWY 88, LOCKEFORD, CA 95237",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
@@ -125440,9 +124453,6 @@
   {
     "Address": "990 Avenida Vista Hermosa, San Clemente CA, 92673",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -126263,9 +125273,6 @@
   {
     "Address": "900 Spectrum Center Dr, Irvine, CA 92618",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -126398,9 +125405,6 @@
   {
     "Address": "13200 Jamboree Rd, Irvine, CA 92602",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -126459,9 +125463,6 @@
   {
     "Address": "30602 Santa Margarita Pkwy, Rancho Santa Margarita CA, 92688",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -127059,9 +126060,6 @@
   {
     "Address": "216 WESTLAKE CENTER, DALY CITY, CA 94015",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "(916) 454-2345"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -127263,9 +126261,6 @@
   {
     "Address": "1291 S VICTORIA BLVD, OXNARD, CA 93030",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "209-545-1385"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -127307,9 +126302,6 @@
   {
     "Address": "27750 Santa Margarita Pkwy, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -128250,9 +127242,6 @@
   {
     "Address": "1121 N HARBOR BLVD, FULLERTON, CA 92832",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -128536,9 +127525,6 @@
   {
     "Address": "2975 VAN BUREN BLVD, RIVERSIDE, CA 92503",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "riteaid.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -128744,9 +127730,6 @@
   {
     "Address": "1240 East Yorba Linda Boulevard, Placentia, CA 92870",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -129735,9 +128718,6 @@
   {
     "Address": "1751 University Dr, Vista CA, 92083",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -129806,9 +128786,6 @@
   {
     "Address": "40041 HIGHWAY 49, OAKHURST, CA 93644",
     "Affiliation": "Raley's Pharmacy",
-    "Appointment scheduling instructions": [
-      "   Albersons.com/covid-19"
-    ],
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -129974,9 +128951,6 @@
   {
     "Address": "721 GREGORY LN, PLEASANT HILL, CA 94523",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -130512,9 +129486,6 @@
   {
     "Address": "13181 Peyton Drive, Chino Hills CA, 91709",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "661-664-7979"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -130715,9 +129686,6 @@
   {
     "Address": "27251 La Paz Rd, Laguna Niguel, CA 92677",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -130879,9 +129847,6 @@
   {
     "Address": "13831 Brookhurst St, Garden Grove, CA 92843",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -130916,9 +129881,6 @@
   {
     "Address": "671 East 1st Street, Tustin, CA 92780",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "Uses county scheduling system"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -131399,9 +130361,6 @@
   {
     "Address": "460 South Anaheim Hills Road, Anaheim, CA 92807",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -132758,9 +131717,6 @@
   {
     "Address": "414 N H St., Lompoc, CA 93436 \n",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -133027,9 +131983,6 @@
   {
     "Address": "24500 Alicia Pkwy, Mission Viejo CA, 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -133047,9 +132000,6 @@
   {
     "Address": "27551 Puerta Real, Mission Viejo, CA 92691",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
