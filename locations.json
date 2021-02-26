@@ -11113,8 +11113,12 @@
   {
     "Address": "18003 Sky Park Cir Ste B-C, Irvine, CA 92614",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:45:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.688481,
@@ -20517,14 +20521,20 @@
   {
     "Address": "1455 E Noble Ave\nVisalia, CA 93292\n",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "cvs.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T19:48:05.000Z",
+    "Latest report notes": [
+      "Feb 26  just started yesterday.  Staff recommended going on at 6 am to check to try to schedule for the next day. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.32438334343297,
     "Location Type": "Pharmacy",
     "Longitude": -119.27646517361327,
@@ -24721,10 +24731,20 @@
   {
     "Address": "1441 Constitution Blvd Suite 300, Salinas, CA 93906",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(831) 755-4123"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:49:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.6962997,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.6309426,
@@ -25221,10 +25241,20 @@
   {
     "Address": "700 Mountain Ranch Rd Suite C-2, San Andreas, CA 95249",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(209) 754-6460"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Calaveras County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:49:02.000Z",
+    "Latest report notes": [
+      "Feb 26: Healthcare, Education and Childcare workers can call this location for appts (65+ not required if you're in these professions)"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.1889613,
     "Location Type": "Health department",
     "Longitude": -120.6706843,
@@ -33473,10 +33503,20 @@
   {
     "Address": "2051 John Jones Rd, Davis, CA 95616",
     "Affiliation": "CommuniCare Health Center",
+    "Appointment scheduling instructions": [
+      "(530) 758-2060"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Yolo County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:07:58.000Z",
+    "Latest report notes": [
+      "Feb 26: Vaccine is available to current patients and uninsured Yolo County community members, who are 65+ or part of the agriculture, childcare, educators, emergency, or food service population. Vaccine is also available to all in home / long term care workers that either live or work in Yolo County."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.563708,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.7695775,
@@ -56261,10 +56301,21 @@
   {
     "Address": "1156 Fremont Blvd, Seaside, CA 93955",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "(831) 899-8100"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:42:05.000Z",
+    "Latest report notes": [
+      "Only for current patients aged 75+, and the clinic contacts patients by phone to make an appointment."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.6014854,
     "Location Type": "Health department",
     "Longitude": -121.8471651,
@@ -67733,8 +67784,12 @@
   {
     "Address": "451 W Lincoln Ave, Anaheim, CA 92805",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: not open to the public"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:43:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8346052,
