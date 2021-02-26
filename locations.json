@@ -12497,14 +12497,21 @@
   {
     "Address": "105 E El Camino Real, SUNNYVALE, CA 94087",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:29:20.000Z",
+    "Latest report notes": [
+      "Feb 26: Appts can only be booked 3 days ahead of time; pharmacy staff thinks that they are now including food service workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.368499,
     "Location Type": "Pharmacy",
     "Longitude": -122.032041,
@@ -27595,14 +27602,21 @@
   {
     "Address": "3250 LAKESHORE AVE, OAKLAND, CA 94610",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "510-271-0843 or go to the Walgreen's website"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:38.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:29:04.000Z",
+    "Latest report notes": [
+      "This Walgreens is currently vaccinating people 65+, essential workers, food workers, etc. following State guidelines. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.809904,
     "Location Type": "Pharmacy",
     "Longitude": -122.244489,
@@ -42285,14 +42299,21 @@
   {
     "Address": "475 W MAIN ST, BRAWLEY, CA 92227",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "760-351-3007"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:38.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:22:44.000Z",
+    "Latest report notes": [
+      "There is a waiting list at the moment. You can call to get on the waiting list.  They will call back and make an appointment for you as they receive the vaccine."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.979266,
     "Location Type": "Pharmacy",
     "Longitude": -115.5499,
@@ -75705,14 +75726,20 @@
   {
     "Address": "2640 LOMITA BLVD, TORRANCE, CA 90505",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:22:42.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.808264,
     "Location Type": "Pharmacy",
     "Longitude": -118.333525,
@@ -83880,14 +83907,21 @@
   {
     "Address": "4029 43rd St Ste 700, San Diego, CA 92105",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:52.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:28:27.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.75014,
     "Location Type": "Pharmacy",
     "Longitude": -117.101819,
@@ -110498,14 +110532,22 @@
   {
     "Address": "1911 Lincoln Blvd, Santa Monica, CA 90405",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Walgreens app"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T21:22:02.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.012059,
     "Location Type": "Pharmacy",
     "Longitude": -118.482258,
