@@ -5640,7 +5640,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T19:03:28.000Z",
+    "Latest report": "2021-02-26T17:41:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.791809,
@@ -18541,7 +18541,7 @@
     "id": "rec8bZrM9m0B3ZXit"
   },
   {
-    "Address": "3208 East Florence Avenue, Huntington Park CA 90255",
+    "Address": "3208 East Florence Avenue, Huntington Park, CA 90255",
     "Affiliation": "CVS",
     "Availability Info": [
       "No: may be a vaccination site in the future"
@@ -86179,11 +86179,11 @@
     "Address": "6225 Colony St, Bakersfield, CA 93307",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:58.000Z",
+    "Latest report": "2021-02-26T17:18:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.29814,
@@ -97073,11 +97073,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T22:55:27.000Z",
+    "Latest report": "2021-02-26T17:35:43.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.76222,
