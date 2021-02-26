@@ -13314,9 +13314,6 @@
   {
     "Address": "1120 S Anaheim Blvd, Anaheim, CA 92805",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -23840,9 +23837,6 @@
   {
     "Address": "439 SANTA FE DRIVE, ENCINITAS, CA 92024",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.samsclub.com/pharmacy/immunization?imzType=covid"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required"
@@ -30717,9 +30711,6 @@
   {
     "Address": "1236 N WATERMAN AVE, SAN BERNARDINO, CA 92404",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9751"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required"
@@ -33212,9 +33203,6 @@
   {
     "Address": "1930 N PLACENTIA AVE, FULLERTON, CA 92831",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -51095,9 +51083,6 @@
   {
     "Address": "5881 WARNER AVENUE, HUNTINGTON BEACH, CA 92649",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9751"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
@@ -53474,9 +53459,6 @@
   {
     "Address": "2000 E 17TH ST, SANTA ANA, CA 92705",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -53599,13 +53581,16 @@
     "Address": "16773 Bernardo Center Dr, Rancho Bernardo CA, 92128",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T02:59:36.000Z",
+    "Latest report notes": [
+      "\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.0184,
     "Location Type": "Pharmacy",
     "Longitude": -117.0733,
@@ -53657,9 +53642,6 @@
   {
     "Address": "320 W Cedar St Ste 103, San Diego, CA 92101",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "   Albersons.com/covid-19"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: vaccinating 65+",
@@ -57462,9 +57444,6 @@
   {
     "Address": "2027 CAMDEN AVENUE, SAN JOSE, CA 95124",
     "Affiliation": "Lucky Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.samsclub.com/pharmacy/immunization?imzType=covid"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -67941,9 +67920,6 @@
   {
     "Address": "14001 PALM DR, DESERT HOT SPRINGS, CA 92240",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/9751"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required"
@@ -81961,9 +81937,6 @@
   {
     "Address": "845 JACKSON ST, SAN FRANCISCO, CA 94133",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://doctorschoicerx.com/covid"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required",
@@ -91195,7 +91168,7 @@
     "Address": "9831 CAMPO RD, SPRING VALLEY, CA 91977",
     "Affiliation": "Sav-on Pharmacy",
     "Appointment scheduling instructions": [
-      "   Albersons.com/covid-19"
+      "   Albertsons.com/covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -105011,9 +104984,6 @@
   {
     "Address": "440 N Euclid St, ANAHEIM, CA 92801",
     "Affiliation": "Walmart",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -110927,9 +110897,6 @@
   {
     "Address": "416 ALVARADO ST, MONTEREY, CA 93940",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "   Albersons.com/covid-19"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: appointment required"
@@ -116333,9 +116300,6 @@
   {
     "Address": "275 Hospital Dr, Ukiah, CA 95482",
     "Affiliation": "Adventist Health",
-    "Appointment scheduling instructions": [
-      "walgreens.com"
-    ],
     "Availability Info": [
       "Yes: appointment required",
       "Yes: must be a current patient"
@@ -125166,9 +125130,6 @@
   {
     "Address": "211 Eastmoor Ave, Daly City, CA 94015",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
@@ -129426,9 +129387,6 @@
   {
     "Address": "301 University Ave, San Diego, CA 92103",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.samsclub.com/pharmacy/immunization?imzType=covid"
-    ],
     "Availability Info": [
       "Yes: coming soon",
       "Yes: vaccinating 65+",
