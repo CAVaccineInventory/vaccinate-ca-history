@@ -9211,10 +9211,16 @@
   {
     "Address": "10877 Conductor Blvd. Ste 400, Sutter Creek, CA 95685",
     "Affiliation": "County",
+    "Availability Info": [
+      "Yes: appointment required"
+    ],
     "County": "Amador County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:59:01.000Z",
+    "Latest report notes": [
+      "prompted to leave voicemail to get assistance registering for vaccine"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.3648529,
     "Location Type": "Health department",
     "Longitude": -120.8179473,
@@ -18920,14 +18926,22 @@
   {
     "Address": "1757 Crows Landing Rd, Modesto, CA 95358",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "209-566-9956"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:54:12.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.603666,
     "Location Type": "Pharmacy",
     "Longitude": -120.99407,
@@ -57741,16 +57755,22 @@
     "Address": "5417 Whittier Blvd, Los Angeles, CA 90022",
     "Affiliation": "Altamed",
     "Appointment scheduling instructions": [
-      null
+      "323-869-5448, Call the Altamed Customer Service line -- if Altamed patient it should be the same way you make an appointment "
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T21:13:27.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:57:41.000Z",
+    "Latest report notes": [
+      "Check-in at the clinic (Address is at 5427 Whittier, pharmacy is at 5417). If there are no appointments available, try other Altamed locations. Appointments available beginning on Monday"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.019854,
     "Location Type": "Pharmacy",
     "Longitude": -118.153587,
@@ -78915,8 +78935,12 @@
   {
     "Address": "202 Mira Loma Drive, Oroville, CA 95965",
     "Affiliation": "County",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Butte County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:00:06.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.5225417,
@@ -95109,14 +95133,23 @@
   {
     "Address": "38995 SKY CANYON DR, MURRIETA, CA 92563",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.vons.com , www.albertsons.com or myturn.ca.gov"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:57:11.000Z",
+    "Latest report notes": [
+      "2/26 - Currently they are not taking appointments for 1st doses because of shortages but they will when more vaccine is made available. They are just doing 2nd doses at this time.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.554164,
     "Location Type": "Pharmacy",
     "Longitude": -117.139421,
