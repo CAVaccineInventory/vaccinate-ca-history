@@ -21362,8 +21362,15 @@
   {
     "Address": "303 W. Lincoln Ave.,  105, Anaheim, CA 92805",
     "Affiliation": "Planned Parenthood",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:03:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8352372,
@@ -38011,7 +38018,7 @@
     "id": "recHCX6q554IB4HEi"
   },
   {
-    "Address": "Gateway Church 4249 US Highway 86, Brawley, CA 92227",
+    "Address": "751 West Legion Road, Brawley, CA 92227",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
       "(760) 351-3878"
@@ -83539,9 +83546,6 @@
     "County": "Los Angeles County",
     "Has Report": 1,
     "Latest report": "2021-02-26T00:51:49.000Z",
-    "Latest report notes": [
-      "Feb 25: At this location hours are M-F 8am - 9pm, Sat 9am-6pm, Sun 10am-6pm. *Closed for lunch break 1:30pm-2pm on Sat and Sun"
-    ],
     "Latest report yes?": 1,
     "Latitude": 33.982146,
     "Location Type": "Pharmacy",
@@ -115004,7 +115008,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T22:57:48.000Z",
+    "Latest report": "2021-02-26T17:58:18.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.625807,
