@@ -4719,10 +4719,20 @@
   {
     "Address": "1317 Oakdale Rd  100, Modesto, CA 95355",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(209) 522-3362"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Stanislaus County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T20:02:32.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.662749,
     "Location Type": "Hospital / Clinic",
     "Longitude": -120.957978,
@@ -9900,9 +9910,6 @@
   {
     "Address": "2330 South Main Street, Santa Ana, CA 92707",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -18868,18 +18875,19 @@
     "Address": "6325 FAIR OAKS BLVD, CARMICHAEL, CA 95608",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "Walgreens.com\n\nWalk with identification and insurance information."
+      null
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T05:58:36.000Z",
+    "Latest report": "2021-02-26T20:24:54.000Z",
     "Latest report notes": [
-      null
+      "Appointments can be made only three days ahead, so keep checking for availability."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.615689,
@@ -21445,9 +21453,6 @@
   {
     "Address": "303 W. Lincoln Ave.,  105, Anaheim, CA 92805",
     "Affiliation": "Planned Parenthood",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -38105,9 +38110,6 @@
   {
     "Address": "17762 Beach Blvd, Huntington Beach, CA 92647",
     "Affiliation": "MemorialCare Health Service",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -49686,14 +49688,20 @@
   {
     "Address": "8400 VAN NUYS BOULEVARD, PANORAMA CITY, CA 91402",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:10:51.000Z",
+    "Latest report notes": [
+      "Feb 26: pharmacist thinks teachers will be prioritized also starting next week"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.22323,
     "Location Type": "Pharmacy",
     "Longitude": -118.448569,
@@ -61473,10 +61481,20 @@
   {
     "Address": "3650 E SOUTH ST SUITE 100, LAKEWOOD, CA 90712",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T20:10:36.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.859843,
     "Location Type": "Pharmacy",
     "Longitude": -118.14932,
@@ -65199,14 +65217,20 @@
   {
     "Address": "340 WOODSIDE PLAZA, REDWOOD CITY, CA 94061",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Rideaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:17.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T20:09:30.000Z",
+    "Latest report notes": [
+      "\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.472548,
     "Location Type": "Pharmacy",
     "Longitude": -122.222995,
@@ -66248,10 +66272,18 @@
   {
     "Address": "591 McCray St suite 211, Hollister, CA 95023",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "San Benito County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T20:23:37.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.8505804,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.3969184,
@@ -69497,9 +69529,6 @@
   {
     "Address": "32575 Golden Lantern St, Dana Point, CA 92629",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -88744,9 +88773,6 @@
   {
     "Address": "3911 South Bristol Street, Santa Ana, CA 92704",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -91558,9 +91584,6 @@
   {
     "Address": "1518 West La Veta Ave, Orange, CA 92868",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -95371,11 +95394,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: only vaccinating health care workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-26T00:54:25.000Z",
+    "Latest report": "2021-02-26T20:06:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8871311,
@@ -97446,10 +97469,21 @@
   {
     "Address": "470 Chadbourne Rd suite  A, Fairfield, CA 94534",
     "Affiliation": "Ole Health",
+    "Appointment scheduling instructions": [
+      "https://myturn.ca.gov/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Solano County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T20:10:37.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.2347584,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.0830478,
@@ -98386,9 +98420,6 @@
   {
     "Address": "228 North Harbor Boulevard, Santa Ana, CA 92703",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -99974,18 +100005,16 @@
     "Address": "855 Colusa Ave, YUBA CITY, CA 95991",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+      "https://walgreens.com"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T20:01:08.000Z",
+    "Latest report": "2021-02-26T20:03:03.000Z",
     "Latest report notes": [
-      "2/26 - They are following Sutter County tiers. In addition to seniors 65+ (from any county), they are vaccinating Food/Agriculture, Education/Childcare and Emergency Service Workers who are 50 years and older) who work in Yuba-Sutter Counties. Appointments available on March 1."
+      "Feb 26: they have vaccines available by appt on a 3 days out basis right now"
     ],
     "Latest report yes?": 1,
     "Latitude": 39.142835,
@@ -115253,7 +115282,7 @@
     "Address": "3315 SOUTH H STREET, BAKERSFIELD, CA 93304",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "wallgreens.com"
+      "walgreens.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -118502,9 +118531,6 @@
   {
     "Address": "10011 Adams Avenue, Huntington Beach, CA 92646",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
@@ -121104,9 +121130,6 @@
   {
     "Address": "1330 E 17th St, Santa Ana, CA 92705",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
