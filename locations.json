@@ -2320,10 +2320,21 @@
   {
     "Address": "3130 Del Monte Blvd, Marina, CA 93933",
     "Affiliation": "Doctors On Duty",
+    "Appointment scheduling instructions": [
+      "(831) 883-3330"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:53:00.000Z",
+    "Latest report notes": [
+      "Feb 26: This location is accepting patients over the age of 65 to a waiting list. Those on the waiting list will be contacted to schedule an appointment when their vaccines arrive. As of today, vaccine arrival is expected in the next two weeks. To get on this waiting list, you can call this location directly."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.6858281,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.8009121,
@@ -3192,10 +3203,21 @@
   {
     "Address": "362 Third St, Laguna Beach, CA 92651",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(949) 494-0761"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:41:02.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.5439928,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.7807206,
@@ -43610,10 +43632,22 @@
   {
     "Address": "824 East Carson Street, Suite 104, Carson, CA 90745",
     "Affiliation": "Optumserve",
+    "Appointment scheduling instructions": [
+      "(310) 830-9706"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: must be a current patient"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:48:01.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.8310337,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.2606094,
@@ -93280,10 +93314,21 @@
   {
     "Address": "5400 West Rosecrans Avenue, Suite 100, Hawthorne, CA 90250",
     "Affiliation": "Optumserve",
+    "Appointment scheduling instructions": [
+      "(310) 643-8500"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:50:56.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.9011802,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.3747329,
@@ -125227,6 +125272,12 @@
     "id": "recwJjiSfTaDRuILZ"
   },
   {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "recwK8ZiK8JDppRI3"
+  },
+  {
     "Address": "425 S SUNRISE WAY STE A, PALM SPRINGS, CA 92262",
     "Affiliation": "Ralph's Pharmacy",
     "Appointment scheduling instructions": [
@@ -127776,8 +127827,12 @@
   {
     "Address": "1121 E Washington Ave, Escondido, CA 92025",
     "Affiliation": "Borrego Health",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:46:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1315837,
