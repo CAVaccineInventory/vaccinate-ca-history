@@ -836,16 +836,18 @@
   {
     "Address": "1159 EAST LOS ANGELES AVENUE MOUNTAIN GATE PLAZA, SIMI VALLEY, CA 93065",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+    ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:59:01.000Z",
+    "Latest report": "2021-02-25T23:13:02.000Z",
     "Latest report notes": [
-      "Feb 23 -- in short term, no available appointments due to weather-related shipping delays"
+      "Feb 25: vaccine available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.272569,
@@ -12393,6 +12395,7 @@
     "id": "rec5tXNOxS2VuLTVc"
   },
   {
+    "Address": "200 Hospital Circle, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: may be a vaccination site in the future"
@@ -25253,7 +25256,7 @@
     "Address": "431 CORTE MADERA TOWN CENTER, CORTE MADERA, CA 94925",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -25261,9 +25264,9 @@
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:36:56.000Z",
+    "Latest report": "2021-02-25T22:54:29.000Z",
     "Latest report notes": [
-      "This location is scheduling appointments through its website."
+      "Feb 25: vaccine available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.926736,
@@ -27106,13 +27109,15 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:54:08.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:17:54.000Z",
+    "Latest report notes": [
+      "2/26- They are giving the vaccine and are re-schedueling appointments that were cancelled last week.\n\nOnly vaccinating staff/frontline workers. No community vaccination in any of their clinics, suggested to get an appointment to go to the Disneyland super-site."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7004995,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.9558291,
@@ -33267,13 +33272,16 @@
     "Address": "1930 N PLACENTIA AVE, FULLERTON, CA 92831",
     "Affiliation": "Sav-on Pharmacy",
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T22:16:23.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-25T23:34:19.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.890228,
     "Location Type": "Pharmacy",
     "Longitude": -117.87221,
@@ -49483,14 +49491,24 @@
   {
     "Address": "826 E Foothill Blvd, Rialto, CA 92376",
     "Affiliation": "ABC Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.iepharmacy.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:31:29.000Z",
+    "Latest report notes": [
+      "People who need help can also call the pharmacy directly for assistance in making appointments. You need to either live or work in San Bernardino County.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.106945,
     "Location Type": "Pharmacy",
     "Longitude": -117.355609,
@@ -79780,11 +79798,11 @@
     "Address": "27702 CROWN VALLEY PKWY SUITE B, LADERA RANCH, CA 92694",
     "Affiliation": "Sav-on Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
+    "Latest report": "2021-02-26T18:10:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.562237,
@@ -86207,7 +86225,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:24:29.000Z",
+    "Latest report": "2021-02-25T22:49:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9245,
@@ -91979,7 +91997,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:55:03.000Z",
+    "Latest report": "2021-02-25T22:59:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.828073,
@@ -92098,11 +92116,11 @@
     "Address": "1803 South Harbor Blvd, Anaheim CA, 92802",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T22:19:30.000Z",
+    "Latest report": "2021-02-26T18:28:07.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8028,
@@ -98092,8 +98110,15 @@
   {
     "Address": "228 North Harbor Boulevard, Santa Ana, CA 92703",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:21:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.74647259,
@@ -115529,14 +115554,13 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:53:50.000Z",
+    "Latest report": "2021-02-25T23:40:30.000Z",
     "Latest report notes": [
-      "Feb 23: Earliest next appointment available in Mar 6; appts need to be made online at https://www.riteaid.com/pharmacy/apt-scheduler"
+      "Feb 25: vaccine available for healthcare workers."
     ],
     "Latest report yes?": 1,
     "Latitude": 32.688264,
@@ -120882,20 +120906,15 @@
   {
     "Address": "4311 LINCOLN BLVD, MARINA DEL REY, CA 90292",
     "Affiliation": "Ralph's Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
-    ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Scheduling second dose only"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T22:55:35.000Z",
+    "Latest report": "2021-02-26T18:31:24.000Z",
     "Latest report notes": [
-      "Feb 12: Currently completely booked"
+      "Feb 26: Currently only second dose"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.985352,
@@ -121451,8 +121470,15 @@
   {
     "Address": "611 S. Brookhurst St., Anaheim, CA 92804",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:32:14.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.82470541,
@@ -125529,18 +125555,17 @@
     "Address": "221 EAST HARVARD BOULEVARD, SANTA PAULA, CA 93060",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T18:43:57.000Z",
+    "Latest report": "2021-02-25T23:05:26.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through its website."
+      "Feb 25: vaccine available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.347633,
@@ -126334,11 +126359,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: only vaccinating staff"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T23:43:18.000Z",
+    "Latest report": "2021-02-26T18:24:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8476344,
@@ -126596,8 +126621,12 @@
   {
     "Address": "2521 Eastbluff Drive, Newport Beach, CA 92660",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:28:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.63960293,
