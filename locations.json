@@ -20164,10 +20164,23 @@
   {
     "Address": "46896 Highway 1, Big Sur, CA 93920",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(831) 667-2580"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to city residents"
+    ],
     "County": "Monterey County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:38:08.000Z",
+    "Latest report notes": [
+      "Feb26: Call Monday, March 1 to see if they are able to set up appointments for their next allotment.  They are prioritizing Big Sur residents."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.268459,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.8068514,
@@ -32947,8 +32960,12 @@
   {
     "Address": "28251 Marguerite Pkwy Ste D, Mission Viejo, CA 92692",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: location permanently closed"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:35:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.551875,
@@ -57895,10 +57912,22 @@
   {
     "Address": "1221 Fulton St, Fresno, CA 93721",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "https://myturn.ca.gov/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:34:57.000Z",
+    "Latest report notes": [
+      "Feb 26 Beginning March 1 will be able to vaccinate teachers, agriculture, and other essential workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.7362753,
     "Location Type": "Health department",
     "Longitude": -119.7929918,
@@ -67508,11 +67537,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T22:15:15.000Z",
+    "Latest report": "2021-02-26T19:34:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8256398,
@@ -67524,11 +67553,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T23:49:44.000Z",
+    "Latest report": "2021-02-26T19:17:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8039648,
@@ -82270,8 +82299,12 @@
   {
     "Address": "10362 Bolsa Ave., Ste. 110, Westminster, CA 92683",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:37:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7443428,
@@ -125902,8 +125935,12 @@
   {
     "Address": "5385 Alton Parkway, Irvine, CA 92604",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:32:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6706217,
