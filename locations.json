@@ -4863,16 +4863,20 @@
     "Address": "2374 FLORIN RD, SACRAMENTO, CA 95822",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "916-428-3794"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:45:42.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:50:07.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.495607,
     "Location Type": "Pharmacy",
     "Longitude": -121.483978,
@@ -9392,8 +9396,12 @@
   {
     "Address": "1000 W Imperial Hwy, La Habra, CA 90631",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:46:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.917237,
@@ -9865,8 +9873,15 @@
   {
     "Address": "2330 South Main Street, Santa Ana, CA 92707",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:36:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7150255,
@@ -15710,14 +15725,21 @@
   {
     "Address": "9300 Campus Point Dr Rm LL-463, La Jolla, CA 92037",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-17T23:10:27.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:32:12.000Z",
+    "Latest report notes": [
+      "Feb. 26: UCSD is also providing vaccine for appointments made through the San Diego County website. Current UCSD patients are being contacted directly to make appointments.\n\nUndated note: Currently vaccinating UCSD patients, by invite only\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.875202,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.22319,
@@ -23889,6 +23911,19 @@
     "Longitude": -118.600009,
     "Name": "TELEHEALTH PHARMACY",
     "id": "recB1M5vF71vDYDHU"
+  },
+  {
+    "Address": "15333 Culver Blvd., Suite #300 Irvine, CA 92604",
+    "Affiliation": "CVS",
+    "County": "Orange County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.695878960130536,
+    "Location Type": "Pharmacy",
+    "Longitude": -117.79864525969428,
+    "Name": "CVS Pharmacy #6768",
+    "id": "recB1Z1AUj7q98j5n"
   },
   {
     "Address": "439 SANTA FE DRIVE, ENCINITAS, CA 92024",
@@ -47464,7 +47499,7 @@
     "Address": "13822 BROOKHURST STREET, GARDEN GROVE, CA 92843",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/apt-scheduler"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -47472,9 +47507,9 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:33:36.000Z",
+    "Latest report": "2021-02-25T23:45:32.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "Feb 25: vaccine available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.760924,
@@ -48073,16 +48108,19 @@
     "Address": "2010 E 1st Street Ste 120, Santa Ana, CA 92705",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      "https://www.socalcovidvaccine.com/"
+      "www.socalcovidvaccine.com or call your local pharmacy."
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T17:30:47.000Z",
+    "Latest report": "2021-02-26T18:48:51.000Z",
     "Latest report notes": [
-      "\n"
+      "2/26 - If you live in LA county, you can make an appointment for the vaccine at this site. If you live in Orange county, you are put on a waiting list.\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.745699,
@@ -53685,8 +53723,12 @@
   {
     "Address": "102 North Main Street, Santa Ana, CA 92701",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:51:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.74566576,
@@ -55773,15 +55815,16 @@
     "Address": "6767 WESTMINSTER BOULEVARD, WESTMINSTER, CA 92683",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "http://ritea.id/california"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:35:07.000Z",
+    "Latest report": "2021-02-26T18:44:59.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through their website."
     ],
@@ -69291,8 +69334,15 @@
   {
     "Address": "32575 Golden Lantern St, Dana Point, CA 92629",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:39:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.4896348,
@@ -72141,10 +72191,21 @@
   {
     "Address": "4343 Yaqui Pass Rd PO Box 2369, Borrego Springs, CA 92004",
     "Affiliation": "Borrego Health",
+    "Appointment scheduling instructions": [
+      "(760) 767-5051"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:42:07.000Z",
+    "Latest report notes": [
+      "Press 1 to get through. Taking waitlist by phone."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.1939036,
     "Location Type": "Hospital / Clinic",
     "Longitude": -116.3288644,
@@ -87881,10 +87942,22 @@
   {
     "Address": "921 Pacific Coast Hwy., Seal Beach, CA 90740",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:47:36.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.74447199,
     "Location Type": "Pharmacy",
     "Longitude": -118.1022868,
@@ -91789,16 +91862,21 @@
     "Address": "12582 CENTRAL AVE, CHINO, CA 91710",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "909-591-7429"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
+      "Scheduling second dose only"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T21:56:33.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:39:11.000Z",
+    "Latest report notes": [
+      "2/26 - They are currently only doing 2nd doses but are planning to take appointments for 1st doses starting March 10.  They are also vaccinating health workers.\n\nNo vaccines available yet. Waiting for information from the county."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.024523,
     "Location Type": "Pharmacy",
     "Longitude": -117.690549,
@@ -105479,8 +105557,12 @@
   {
     "Address": "2813 S Main St, Corona, CA 92882",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:42:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.847708,
@@ -113649,15 +113731,12 @@
   {
     "Address": "1400 Noriega St, San Francisco, CA 94122",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-28T02:46:04.000Z",
+    "Latest report": "2021-02-26T18:43:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.754396,
@@ -114953,14 +115032,21 @@
   {
     "Address": "3315 SOUTH H STREET, BAKERSFIELD, CA 93304",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "wallgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T18:38:22.000Z",
+    "Latest report notes": [
+      "Appointments are full, but you can add your name to a waitlist and they will call you if a slot opens up."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.324437,
     "Location Type": "Pharmacy",
     "Longitude": -119.021918,
@@ -118196,8 +118282,15 @@
   {
     "Address": "10011 Adams Avenue, Huntington Beach, CA 92646",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
+    ],
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:43:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6722881,
@@ -121470,15 +121563,12 @@
   {
     "Address": "611 S. Brookhurst St., Anaheim, CA 92804",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "https://www.cvs.com/immunizations/covid-19-vaccine?icid=cvs-home-hero1-banner-1-link2-coronavirus-vaccine"
-    ],
     "Availability Info": [
       "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T18:32:14.000Z",
+    "Latest report": "2021-02-26T18:32:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.82470541,
