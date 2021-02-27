@@ -31858,11 +31858,11 @@
     "Address": "340 LAKEWOOD CENTER MALL, LAKEWOOD, CA 90712",
     "Affiliation": "Costco Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:02.000Z",
+    "Latest report": "2021-02-27T22:51:24.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.850461,
@@ -33339,14 +33339,21 @@
   {
     "Address": "3570 ATLANTIC AVE, LONG BEACH, CA 90807",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "phone, app, or walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:42:51.000Z",
+    "Latest report notes": [
+      "first responders, teachers, healthcare workers, 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.821583,
     "Location Type": "Pharmacy",
     "Longitude": -118.184597,
@@ -88403,13 +88410,17 @@
     "Address": "47900 WASHINGTON ST, LA QUINTA, CA 92253",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T00:54:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:50:33.000Z",
+    "Latest report notes": [
+      "Feb 27: including groups for educators, childcare and frontline workers, with proof of the type of employment (otherwise people are turned away unless 65+); appts available only 3 days ahead and only 30 appts per day max, per pharmacist"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.700707,
     "Location Type": "Pharmacy",
     "Longitude": -116.294126,
@@ -93745,17 +93756,17 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "Yes: appointment required",
+      "Yes: must be a current patient"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T00:35:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:53:14.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.5554556,
     "Location Type": "Hospital / Clinic",
     "Longitude": -120.720354,
