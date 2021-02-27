@@ -41953,17 +41953,18 @@
     "Address": "1331 WILSHIRE BOULEVARD, SANTA MONICA, CA 90403",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+      "Www.RiteAid.com/COVID"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T21:42:28.000Z",
+    "Latest report": "2021-02-27T17:18:01.000Z",
     "Latest report notes": [
-      "He said they are overbooked and that they have limited amounts but to make an appointment on their website. "
+      "He said they are overbooked and that they have limited amounts but to make an appointment on their website.\nAs of 2/27 they are booked a month out but said to sign up online. He referenced the RiteAid website as very helpful in determining eligibility\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.02636,
@@ -77393,14 +77394,20 @@
   {
     "Address": "6100 Pacific Blvd, Huntington Park, CA 90255",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Www.walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:31.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T17:31:33.000Z",
+    "Latest report notes": [
+      "This location has limited vaccines but is scheduling for March 1, 2,3. They are giving to 65+, healthcare workers, and those with existing medical conditions. Schedule appointments online. They will take walk ins at 5 PM if they have any extra doses from the day."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.985494,
     "Location Type": "Pharmacy",
     "Longitude": -118.225178,
