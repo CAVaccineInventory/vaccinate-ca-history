@@ -92021,6 +92021,7 @@
     "id": "recgJ6oK5qfr1QdW7"
   },
   {
+    "Address": "43563 Highway 299 East , Fall River Mills, Ca 96028\n",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -110212,14 +110213,22 @@
   {
     "Address": "7155 24TH ST, SACRAMENTO, CA 95822",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T19:55:18.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T19:21:38.000Z",
+    "Latest report notes": [
+      "I believe the pharmacist said county residents only but she was in a hurry"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.49623,
     "Location Type": "Pharmacy",
     "Longitude": -121.482194,
