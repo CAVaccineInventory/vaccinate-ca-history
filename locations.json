@@ -6712,7 +6712,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.681136,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Rehabilitation Center",
     "Longitude": -121.1582842,
     "Name": "Vibra Hospital of Sacramento",
     "id": "rec3BMpkjzSaoqImv"
@@ -8002,15 +8002,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:51.000Z",
+    "Latest report": "2021-02-27T02:02:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.6881146,
@@ -14380,7 +14377,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7797849,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -116.3572259,
     "Name": "Younes Medical Center",
     "id": "rec6f9073RZMTzC5P"
@@ -18243,7 +18240,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8240644,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.1561103,
     "Name": "Harvard Medical Group",
     "id": "rec8OflYULlw3Hkuk"
@@ -24075,7 +24072,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5339839,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.1498199,
     "Name": "Temecula Valley Primary Care Physicians",
     "id": "recAziP2zzeRquoJ6"
@@ -32834,7 +32831,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1261453,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.275776,
     "Name": "San Bernardino Clinica Medica Familiar DBA",
     "id": "recEm2Q6Rq6GIpzxD"
@@ -33578,14 +33575,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T16:20:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T02:08:59.000Z",
+    "Latest report notes": [
+      "[February 26] Appointments can be made through the county website. \n[undated] Suggested calling the hotline at 707-472-2663. No appointments available at this time either."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.3898962,
     "Location Type": "Hospital / Clinic",
     "Longitude": -123.3389197,
@@ -40214,14 +40217,21 @@
   {
     "Address": "1050 N Highland Ave, Los Angeles, CA 90038",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:15.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T01:58:48.000Z",
+    "Latest report notes": [
+      "Please schedule appointments through the Walgreens website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0905,
     "Location Type": "Pharmacy",
     "Longitude": -118.33832,
@@ -54052,11 +54062,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T01:01:23.000Z",
+    "Latest report": "2021-02-27T02:01:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.2922137,
@@ -61236,15 +61246,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "Staff only until they hear differently from the county PH. Pointed to (209) 558 7000 to ask them."
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T23:39:43.000Z",
+    "Latest report": "2021-02-27T02:06:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6662823,
@@ -61362,6 +61369,14 @@
     "Longitude": -122.438571,
     "Name": "WALGREENS #6625",
     "id": "recRy59rwuKJMIlWt"
+  },
+  {
+    "Affiliation": "Walgreens",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Location Type": "Pharmacy",
+    "id": "recRy9pOSoS2PKzee"
   },
   {
     "Address": "210 S GRAND AVE STE 116, GLENDORA, CA 91741",
@@ -81601,14 +81616,20 @@
   {
     "Address": "1189 POTRERO AVENUE, SAN FRANCISCO, CA 94110",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T01:57:57.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.753325,
     "Location Type": "Pharmacy",
     "Longitude": -122.405902,
@@ -81668,7 +81689,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1085015,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.5559147,
     "Name": "Valiant Medical Group, A Professional Medical Corporation",
     "id": "recbSePKRl0lVc5vJ"
@@ -95715,15 +95736,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T01:03:30.000Z",
+    "Latest report": "2021-02-27T02:00:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1289902,
@@ -101178,13 +101196,16 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:19:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T01:59:18.000Z",
+    "Latest report notes": [
+      "Feb 26: Only vaccinating members of Providence Health system"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.560996,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.665455,
@@ -101252,7 +101273,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8597151,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.551197,
     "Name": "Family Health Care of Corona",
     "id": "reckmMGTnADZKKmWp"
@@ -112722,13 +112743,15 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T01:29:18.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T01:51:44.000Z",
+    "Latest report notes": [
+      "Feb 26: Currently only vaccinating healthcare workers."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7110984,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.8843523,
@@ -121583,15 +121606,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T00:49:37.000Z",
+    "Latest report": "2021-02-27T01:50:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9503259,
@@ -123811,7 +123831,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5719466,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -121.4172224,
     "Name": "River Oaks Medical Group",
     "id": "recvTGRzt2xLyQi7v"
@@ -125030,13 +125050,14 @@
     "id": "recw5Xdqk2j1msWJy"
   },
   {
+    "Address": "2425 Stockton Blvd, Sacramento, CA 95817",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T16:55:39.000Z",
+    "Latest report": "2021-02-27T02:01:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.5531124,
@@ -127115,11 +127136,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T16:38:11.000Z",
+    "Latest report": "2021-02-27T02:09:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.874431,
