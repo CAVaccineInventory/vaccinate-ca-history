@@ -33714,7 +33714,7 @@
     "Address": "13763 Mono Way, Sonora CA, 95370",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "Online Appointments"
+      "https://www.cvs.com/coronavirus"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -33722,9 +33722,9 @@
     ],
     "County": "Tuolumne County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T00:13:01.000Z",
+    "Latest report": "2021-02-27T19:00:31.000Z",
     "Latest report notes": [
-      "For eligibility, 65+ is a definite requirement. However, on the online appointment scheduler, there may be more information that you need to fill out to determine eligibility. "
+      "For eligibility, 65+ is a definite requirement. However, on the online appointment scheduler, there may be more information that you need to fill out to determine eligibility."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.9747,
@@ -106232,11 +106232,11 @@
     "Address": "2040 E Mariposa Rd, Stockton, CA 95205",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
+    "Latest report": "2021-02-27T19:04:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.939122,
