@@ -125725,11 +125725,21 @@
   },
   {
     "Address": "10 Avenue of the Flags, San Rafael, CA 94901",
+    "Appointment scheduling instructions": [
+      "Vaccinating people 65 & older and people who work in the following industries: education, childcare, food service, agriculture, and emergency services. Appointments available on https://myturn.ca.gov. When checked on 2/26, all appointment slots were filled."
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
+    ],
     "County": "Marin County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-27T06:55:56.000Z",
+    "Latest report yes?": 1,
+    "Latitude": 38.0024,
     "Location Type": "Hospital / Clinic",
+    "Longitude": -122.53357,
     "Name": "Marin Center POD",
     "id": "recwK8ZiK8JDppRI3"
   },
