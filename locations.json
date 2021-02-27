@@ -128922,14 +128922,21 @@
   {
     "Address": "15 W HARDING WAY, STOCKTON, CA 95204",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "209-941-9632 or Visit https://www.walgreens.com"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-21T00:07:31.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T04:23:29.000Z",
+    "Latest report notes": [
+      "Feb 26 Moderna; If having trouble with website registration you can call to make an appointment. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.9676,
     "Location Type": "Pharmacy",
     "Longitude": -121.295831,
