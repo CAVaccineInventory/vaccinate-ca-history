@@ -4647,14 +4647,21 @@
   {
     "Address": "205 W Shaw Ave, CLOVIS, CA 93612",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "wallgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T03:03:56.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.809083,
     "Location Type": "Pharmacy",
     "Longitude": -119.714284,
