@@ -20486,11 +20486,13 @@
   },
   {
     "Address": "3883 E. Foothill Blvd (NWC), Pasadena, CA 91107",
+    "Affiliation": "CVS",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1506003,
+    "Location Type": "Pharmacy",
     "Longitude": -118.06839240000001,
     "Name": "CVS #1778",
     "id": "rec9OrTqZIEyiUhIQ"
@@ -99980,6 +99982,30 @@
     "id": "reck2JM9EqhDXM0fR"
   },
   {
+    "Address": "27235 Tourney Road, Suite 1100, Valencia, CA 91355",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Online at https://covid-19vaccines.uclahealth.org/MyChart/covid19/#/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment calendar currently full",
+      "Yes: appointment required"
+    ],
+    "County": "Los Angeles County",
+    "Has Report": 1,
+    "Latest report": "2021-02-27T07:29:46.000Z",
+    "Latest report notes": [
+      "Vaccine appointments for people 65+ and healthcare workers can be scheduled here: https://covid-19vaccines.uclahealth.org/MyChart/covid19/. When checked on 2/26, all appointment slots were filled. Please check the website for current availability, or check http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/ for other locations in LA County."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.4178758,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -118.5782935,
+    "Name": "UCLA Health Santa Clarita Vaccine Clinic",
+    "id": "reck3MCOtJKmQDrzm"
+  },
+  {
     "Address": "4053 Lone Tree Way Suite 101, Antioch, CA 94509",
     "Affiliation": "Sutter",
     "Appointment scheduling instructions": [
@@ -103874,6 +103900,19 @@
     "Longitude": -117.0183523,
     "Name": "Tahquitz High School ",
     "id": "recm1fPvQFrmvvPm8"
+  },
+  {
+    "Address": "5030 Long Beach Blvd., Long Beach, CA 90805",
+    "Affiliation": "CVS",
+    "County": "Los Angeles County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 33.8476405,
+    "Location Type": "Pharmacy",
+    "Longitude": -118.19335589999999,
+    "Name": "CVS #6755",
+    "id": "recm2IdE0VTwW5JBX"
   },
   {
     "Address": "4170 EL CAMINO REAL, PALO ALTO, CA 94306",
@@ -127138,6 +127177,19 @@
     "Longitude": -118.397714,
     "Name": "MEMORIAL MEDICAL CENTER PHARMACY",
     "id": "recwvIQKK5dUWtvjH"
+  },
+  {
+    "Address": "1122 East Broadway, Glendale, CA 91205",
+    "Affiliation": "CVS",
+    "County": "Los Angeles County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.1456959,
+    "Location Type": "Pharmacy",
+    "Longitude": -118.24087580000001,
+    "Name": "CVS #9614",
+    "id": "recwvb60I2M8VYIic"
   },
   {
     "Address": "2601 BALLS FERRY RD, ANDERSON, CA 96007",
