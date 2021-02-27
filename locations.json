@@ -3262,18 +3262,15 @@
   {
     "Address": "435 W Foothill Blvd, GLENDORA, CA 91741",
     "Affiliation": "Von's Pharmacy",
-    "Appointment scheduling instructions": [
-      "Appointments through: https://www.vons.com/pharmacy/covid-19.html or the LA County health site at http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-05T19:16:07.000Z",
+    "Latest report": "2021-02-27T22:38:02.000Z",
     "Latest report notes": [
-      "Staff suggested to try booking later at night (around 9 or 10pm) to have better luck getting an appointment. They were booking almost 2 months out right now. "
+      "Staff suggested to try booking later at night (around 9 or 10pm) to have better luck getting an appointment. They were booking almost 2 months out right now."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.137262,
@@ -26643,14 +26640,20 @@
   {
     "Address": "2628 MOUNT VERNON AVE, BAKERSFIELD, CA 93306",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:38:59.000Z",
+    "Latest report notes": [
+      "Feb 27: also vaccinating educators, childcare and possibly a couple of other groups, as well (info on website)"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.391011,
     "Location Type": "Pharmacy",
     "Longitude": -118.967826,
@@ -45648,14 +45651,20 @@
   {
     "Address": "727 N VINE ST, LOS ANGELES, CA 90038",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "abertson.com/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T06:23:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:26:14.000Z",
+    "Latest report notes": [
+      "current employees only and 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.08428,
     "Location Type": "Pharmacy",
     "Longitude": -118.32679,
@@ -63007,14 +63016,21 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Current patients can call their provider's office or reach out through mychart."
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T01:05:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:33:22.000Z",
+    "Latest report notes": [
+      "Feb 27. UCLA providers are reaching out to current qualifying patients either through mychart or calling to schedule appointment. If you are qualified and haven't heard from your UCLA provider they encourage calling your provider or reaching out via mychart. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0652918,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.4466512,
@@ -78925,11 +78941,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: only vaccinating staff"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:18:26.000Z",
+    "Latest report": "2021-02-27T22:34:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.3399672,
@@ -83016,14 +83032,21 @@
   {
     "Address": "995 Sperry Ave, Patterson, CA 95363",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:30:43.000Z",
+    "Latest report notes": [
+      "Feb 27: pharmacist mentioned that when appts are scheduled online, the follow-up appt for 2nd dose is also scheduled automatically, so that's the best way to make appt!"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.464785,
     "Location Type": "Pharmacy",
     "Longitude": -121.140448,
@@ -112182,14 +112205,21 @@
   {
     "Address": "5203 WEST WALNUT AVE, VISALIA, CA 93277",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.savemart.com"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T01:24:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:40:14.000Z",
+    "Latest report notes": [
+      "workers in healthcare, delivery, agriculture, retail, and 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.311216,
     "Location Type": "Pharmacy",
     "Longitude": -119.348417,
@@ -119305,14 +119335,20 @@
   {
     "Address": "41 N Main St, Angels Camp CA, 95222",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/coronavirus"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Calaveras County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:37:22.000Z",
+    "Latest report notes": [
+      "longterm care facility workers, healthcare workers, 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.0825,
     "Location Type": "Pharmacy",
     "Longitude": -120.5609,
