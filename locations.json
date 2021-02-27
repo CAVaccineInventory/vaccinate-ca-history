@@ -9413,14 +9413,21 @@
   {
     "Address": "78271 Highway 111, LA QUINTA, CA 92253",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://vons.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:15:33.000Z",
+    "Latest report notes": [
+      "Feb 27: appts full at this time; no additional groups included right now"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.715026,
     "Location Type": "Pharmacy",
     "Longitude": -116.29833,
@@ -17919,14 +17926,21 @@
   {
     "Address": "1790 SHAW AVE, CLOVIS, CA 93611",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:03:55.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.807969,
     "Location Type": "Pharmacy",
     "Longitude": -119.682693,
@@ -22720,16 +22734,19 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      "You may request an appointment by completing an Interest Form available at https://www.countyofnapa.org/3096/COVID-19-Vaccines.  You must either live or work in Napa County to be eligible."
+      "(707) 252-4411"
     ],
     "Availability Info": [
-      "No: only vaccinating staff"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T18:54:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:09:39.000Z",
+    "Latest report notes": [
+      "Feb 27: 2nd doses only, due to limited supply, and only for QotV employees and county employees at this time\nFeb 13: You may complete an Interest Form available at https://www.countyofnapa.org/3096/COVID-19-Vaccines. When available, appointments will be given to individuals based on the Phased roll out, individuals aged 65+, and priority will be given to individuals aged 75+. Individuals must either live or work in Napa County to be eligible for an appointment at this location."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.324948,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2964023,
@@ -23288,11 +23305,11 @@
     "Address": "1520 E F St, Oakdale CA, 95361",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:29.000Z",
+    "Latest report": "2021-02-27T23:19:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7739,
@@ -28250,11 +28267,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T00:14:38.000Z",
+    "Latest report": "2021-02-27T23:12:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.220252,
@@ -29671,15 +29688,19 @@
     "Address": "3300 Buena Vista Rd Bldg A, Bakersfield, CA 93311",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_vanity"
+      "walgreens.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T19:30:15.000Z",
+    "Latest report": "2021-02-27T23:23:51.000Z",
+    "Latest report notes": [
+      null
+    ],
     "Latest report yes?": 1,
     "Latitude": 35.324632,
     "Location Type": "Pharmacy",
@@ -30878,14 +30899,20 @@
   {
     "Address": "49908 JEFFERSON ST, INDIO, CA 92201",
     "Affiliation": "Ralph's Pharmacy",
+    "Appointment scheduling instructions": [
+      "ralphs.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:05:55.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.686706,
     "Location Type": "Pharmacy",
     "Longitude": -116.267146,
@@ -32299,17 +32326,17 @@
     "Address": "4520 SUNSET BLVD, LOS ANGELES, CA 90027",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.vons.com/pharmacy/covid-19.html"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
       "Yes: appointment calendar currently full",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T23:45:13.000Z",
+    "Latest report": "2021-02-27T23:15:13.000Z",
     "Latest report notes": [
       "Healthcare workers eligible."
     ],
@@ -34740,14 +34767,21 @@
   {
     "Address": "6797 NORTH MILBURN, FRESNO, CA 93722",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.savemart.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:04:11.000Z",
+    "Latest report notes": [
+      "Feb-27th: Appointments are open only for 3 days and eligibility criteria follows CDC guidelines "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.83629,
     "Location Type": "Pharmacy",
     "Longitude": -119.881203,
@@ -41799,14 +41833,20 @@
   {
     "Address": "8770 W PICO BLVD, LOS ANGELES, CA 90035",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:08:07.000Z",
+    "Latest report notes": [
+      "They open up appointments 3 days out only. Appointment on first-come first serve basis. Please keep checking on the walgreens.com website for appointments.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.05454,
     "Location Type": "Pharmacy",
     "Longitude": -118.38339,
@@ -54293,16 +54333,18 @@
     "Address": "4306 MING AVE, BAKERSFIELD, CA 93309",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "walgreens.com "
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
     ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T01:30:08.000Z",
+    "Latest report": "2021-02-27T23:07:42.000Z",
     "Latest report notes": [
-      "available to anyone"
+      "Feb 27.  Vaccinating phase1a and phase1b(tier 1).  See Kern County site for more info on eligible groups (https://kernpublichealth.com/covid-19-vaccine-schedule/).  "
     ],
     "Latest report yes?": 1,
     "Latitude": 35.340365,
@@ -63934,11 +63976,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:18:24.000Z",
+    "Latest report": "2021-02-27T23:26:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.01502060000001,
@@ -90454,14 +90496,22 @@
   {
     "Address": "23850 Copper Hill Dr, VALENCIA, CA 91354",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:11:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.462429,
     "Location Type": "Pharmacy",
     "Longitude": -118.556461,
@@ -95295,14 +95345,21 @@
   {
     "Address": "4051 DOUGLAS BLVD, GRANITE BAY, CA 95746",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:53.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:20:45.000Z",
+    "Latest report notes": [
+      "Feb 27: as of this morning, appts were booked through mid-March"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.744353,
     "Location Type": "Pharmacy",
     "Longitude": -121.224432,
@@ -109445,14 +109502,20 @@
   {
     "Address": "111 East Avenue 26, Los Angeles, CA 90031",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T21:02:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:13:55.000Z",
+    "Latest report notes": [
+      "Feb 27: Over-65 and healthcare workers, but not essential workers generally"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.076703,
     "Location Type": "Pharmacy",
     "Longitude": -118.215452,
@@ -123244,11 +123307,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-14T22:20:24.000Z",
+    "Latest report": "2021-02-27T23:18:54.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7739136,
