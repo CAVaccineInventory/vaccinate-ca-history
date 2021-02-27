@@ -15815,16 +15815,16 @@
     "Address": "6305 YORK BOULEVARD, LOS ANGELES, CA 90042",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
+      "lacounty.gov or riteaid.com"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Vaccinating essential workers",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:39:21.000Z",
+    "Latest report": "2021-02-27T20:53:08.000Z",
     "Latest report notes": [
       null
     ],
@@ -19916,7 +19916,7 @@
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T00:03:03.000Z",
+    "Latest report": "2021-02-27T20:53:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.753985,
@@ -56085,15 +56085,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T03:01:59.000Z",
+    "Latest report": "2021-02-27T20:55:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.465978,
@@ -59916,11 +59913,11 @@
   {
     "Affiliation": "John Muir",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:10:17.000Z",
+    "Latest report": "2021-02-27T20:57:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7761846,
@@ -70905,16 +70902,20 @@
   {
     "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
-      null
+      "(559) 582-9000"
     ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Scheduling second dose only"
     ],
     "County": "Kings County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T22:07:58.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:01:09.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.323597,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.6675379,
@@ -87813,16 +87814,19 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "(916) 453-4545"
     ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-02T02:00:36.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:54:50.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.5706208,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.4528939,
@@ -92704,14 +92708,21 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "www.vaccinationsuperstationsd.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:04:26.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:56:05.000Z",
+    "Latest report notes": [
+      "Vaccinating Seniors 65+, 'essential care givers to the ill and fragile', and educators. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.798385,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.1518654,
@@ -94229,11 +94240,11 @@
     "Address": "12315 Venice Boulevard, Mar Vista CA, 90066",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
+    "Latest report": "2021-02-27T20:59:45.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0051,
@@ -102353,11 +102364,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T19:25:56.000Z",
+    "Latest report": "2021-02-27T20:55:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.71271509999999,
@@ -125078,15 +125089,12 @@
   },
   {
     "Affiliation": "Kindred Hospital",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "No: only vaccinating staff"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-30T20:02:48.000Z",
+    "Latest report": "2021-02-27T20:54:15.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7166854,
