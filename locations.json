@@ -13364,16 +13364,19 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      " Call either number to get further info and schedule 909 387-3911, 877 5586428"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-01T22:41:31.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:50:37.000Z",
+    "Latest report notes": [
+      " "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.04945190000001,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.2641774,
@@ -35897,14 +35900,21 @@
   {
     "Address": "440 BLOSSOM HILL ROAD, SAN JOSE, CA 95123",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "call or web"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:23:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:49:45.000Z",
+    "Latest report notes": [
+      "healthcare workers, frontline workers, 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.25023,
     "Location Type": "Pharmacy",
     "Longitude": -121.83014,
@@ -92575,11 +92585,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T23:46:25.000Z",
+    "Latest report": "2021-02-27T20:46:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0903316,
@@ -104129,14 +104139,22 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "sbcovid19.com"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T00:13:09.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:49:09.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.542212,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.265728,
