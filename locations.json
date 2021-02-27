@@ -2107,14 +2107,21 @@
   {
     "Address": "121 Barboza St Bldg 3, MENDOTA, CA 93640",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "1-800-492-4227"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:55:28.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.766248,
     "Location Type": "Pharmacy",
     "Longitude": -120.38342,
@@ -3708,7 +3715,7 @@
   },
   {
     "Address": "2811 H St, Bakersfield, CA 93301",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -5694,10 +5701,21 @@
   {
     "Address": "1445 Paul Bunyan Road Ste B, Susanville, CA 96130",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "lassencares.org"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to county residents"
+    ],
     "County": "Lassen County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-27T00:11:47.000Z",
+    "Latest report notes": [
+      "sign up on website and they will call you when available"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 40.4226633,
     "Location Type": "Health department",
     "Longitude": -120.6491109,
@@ -8100,11 +8118,13 @@
   },
   {
     "Address": "2335 Mountain Ave, Duarte, CA 91010",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1229706,
+    "Location Type": "Nursing home",
     "Longitude": -117.9905857,
     "Name": "Community Care Center",
     "id": "rec3gXCohD9Dd8741"
@@ -8662,11 +8682,13 @@
   },
   {
     "Address": "1131 Arizona Ave., Santa Monica, CA 90401",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0238428,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4894366,
     "Name": "Good Shepherd Health Care Center of Santa Monica",
     "id": "rec3xeMI24ixcgYZN"
@@ -8798,11 +8820,13 @@
   },
   {
     "Address": "10426 Bogardus Ave., Whittier, CA 90603",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9416084,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -117.9828872,
     "Name": "Whittier Hills Healthcare Center",
     "id": "rec40JNlMqveUS2DH"
@@ -10434,11 +10458,13 @@
   },
   {
     "Address": "217 Highland Ave, National City, CA 91950",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6829639,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1004163,
     "Name": "La Maestra Community Health Centers  National City",
     "id": "rec4r2otvusPpWHpf"
@@ -10488,11 +10514,11 @@
     "Address": "12746 W. Jefferson Blvd., Suite 3160, Playa Vista CA, 90094",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
+    "Latest report": "2021-02-26T23:37:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9775,
@@ -11761,10 +11787,22 @@
   {
     "Address": "445 11TH ST, ORANGE COVE, CA 93646",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "559-626-4031"
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Fresno County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-27T00:25:33.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.626714,
     "Location Type": "Pharmacy",
     "Longitude": -119.319628,
@@ -14116,11 +14154,13 @@
   },
   {
     "Address": "5952 El Cajon BLVD, SAN DIEGO, CA 92115",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7604232,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0693405,
     "Name": "Alliance Health Clinic",
     "id": "rec6W49b4qk3JfnNZ"
@@ -14364,7 +14404,7 @@
     "id": "rec6fnMIWWNlrpuGP"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Adventist Health",
     "Availability Info": [
       "No: not open to the public"
     ],
@@ -14701,11 +14741,13 @@
   },
   {
     "Address": "1328 S Mission Rd, Fallbrook, CA 92028",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.3688944,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2499506,
     "Name": "Fallbrook Family Health Center",
     "id": "rec6pQSm0kW1La2Zb"
@@ -16983,11 +17025,11 @@
     "Address": "630 Main Street, Brawley, CA 92227",
     "Affiliation": "Vo Medical Center",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:40.000Z",
+    "Latest report": "2021-02-26T23:09:08.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.978493,
@@ -17215,7 +17257,7 @@
   },
   {
     "Address": "2101 7TH ST, WASCO, CA 93280",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -18183,11 +18225,13 @@
   },
   {
     "Address": "7750 Dagget Street, San Diego, CA 92111",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8240644,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1561103,
     "Name": "Harvard Medical Group",
     "id": "rec8OflYULlw3Hkuk"
@@ -18557,6 +18601,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1640373,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1328048,
     "Name": "Planned Parenthood Pasadena Health Center",
     "id": "rec8ZmkLcjZzAK5zN"
@@ -20313,11 +20358,13 @@
   },
   {
     "Address": "3727 W. 6th St, Los Angeles, CA 90020",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0638605,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3037303,
     "Name": "Kheir 6th St Clinic",
     "id": "rec9MYDHuluMRNev9"
@@ -20367,11 +20414,13 @@
   },
   {
     "Address": "9140 Van Nuys Blvd,SUIT207, PANORAMA CITY, CA 91402",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.236608,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4500462,
     "Name": "ESPERANZA CLINIC",
     "id": "rec9NrHm2w09nA4PT"
@@ -20425,11 +20474,13 @@
   },
   {
     "Address": "5700 Hardy Ave, San Diego, CA 92182",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7728691,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0734828,
     "Name": "San Diego State University Student Health",
     "id": "rec9QyBlfdWJdXssq"
@@ -20716,14 +20767,20 @@
   {
     "Address": "750 N IMPERIAL AVE, EL CENTRO, CA 92243",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "760-353-2720"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T18:52:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:19:51.000Z",
+    "Latest report notes": [
+      "Not taking new appointments until at least april"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.798244,
     "Location Type": "Pharmacy",
     "Longitude": -115.570105,
@@ -22005,11 +22062,13 @@
   },
   {
     "Address": "3940 4th Ave  Ste 140, San Diego, CA 92103",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7491509,
+    "Location Type": "Specialist",
     "Longitude": -117.1619014,
     "Name": "AHF San Diego HCC",
     "id": "recAAs5NlIw5pyWz2"
@@ -22028,7 +22087,7 @@
     "id": "recAB9hiWdOz7rjJk"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Sutter",
     "Appointment scheduling instructions": [
       null
     ],
@@ -23118,11 +23177,13 @@
   },
   {
     "Address": "9995 Carmel Mountain Road Ste B10-11, San Diego, CA 92129",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.9598251,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1127072,
     "Name": "SAMAHAN HEALTH CENTERS",
     "id": "recAbNlpx0kvsk0oA"
@@ -24619,7 +24680,7 @@
   },
   {
     "Address": "7777 Milliken Avenue, Suite 240, Rancho Cucamonga, CA 91730",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Cucamonga Valley Medical Group",
     "County": "San Bernardino County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -24813,11 +24874,13 @@
   },
   {
     "Address": "1501 5th ave ste 100, SAN DIEGO, CA 92101",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7211941,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1599176,
     "Name": "Pacific Medical Care",
     "id": "recBJRHAk4wgvH4Yf"
@@ -26647,11 +26710,13 @@
   },
   {
     "Address": "1154 S Alvarado St, Los Angeles, CA 90006",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0488598,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.2813875,
     "Name": "Alvarado Care Center",
     "id": "recC1ybZ1cRjNDSYP"
@@ -27483,11 +27548,13 @@
   },
   {
     "Address": "7011 Linda Vista Rd, San Diego, CA 92111",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7877387,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1690286,
     "Name": "San Diego Family Care",
     "id": "recCM5tOyom60lfSv"
@@ -28139,11 +28206,13 @@
   },
   {
     "Address": "4699 Murphy Canyon Rd Ste 102, San Diego, CA 92123",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8271435,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1189813,
     "Name": "Champions for Health",
     "id": "recChUPxTRKTst2N5"
@@ -30736,11 +30805,13 @@
   },
   {
     "Address": "1360 E Anaheim St, Long Beach, CA 90813",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7824258,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1743871,
     "Name": "Community Wellness Centers USA",
     "id": "recDpyWQvsf8mGrfL"
@@ -30996,16 +31067,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: incorrect contact information",
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T19:08:15.000Z",
+    "Latest report": "2021-02-27T00:48:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.2215541,
@@ -31093,11 +31160,13 @@
   },
   {
     "Address": "11723 Fenton Avenue, Sylmar, CA 91342",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2828634,
+    "Location Type": "Nursing home",
     "Longitude": -118.3931471,
     "Name": "Country Manor Healthcare",
     "id": "recE3VWBHK6jW5Wug"
@@ -32658,11 +32727,13 @@
   },
   {
     "Address": "251 LANDIS AVENUE, CHULA VISTA, CA 91910",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6426023,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.081293,
     "Name": "Chula Vista Family Health Centers of San Diego",
     "id": "recEkV8fV3c6KSO1y"
@@ -34019,7 +34090,7 @@
   },
   {
     "Address": "161 N. Mill St, Tehachapi, CA 93251",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -34049,7 +34120,7 @@
   },
   {
     "Address": "277 E. Front St, Buttonwillow, CA 93260",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -34877,11 +34948,13 @@
   },
   {
     "Address": "2972 Wilshire Blvd, Los Angeles, CA 90010",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0616606,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2862644,
     "Name": "San Judas Community Health Center",
     "id": "recFmWyrT4MPkR4iX"
@@ -35504,7 +35577,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.583159,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.611039,
     "Name": "Dr. Ochoa Family Clinic",
     "id": "recG4I7H3ATs44Exp"
@@ -35905,7 +35978,7 @@
   },
   {
     "Address": "1701 Stine Rd, Bakersfield, CA 93309",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -37832,14 +37905,20 @@
   {
     "Address": "42021 east florida avenue, HEMET, CA 92544",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "riteaid.com/pharmacy/covid-qualifier"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:44:28.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.747164,
     "Location Type": "Pharmacy",
     "Longitude": -116.927763,
@@ -42958,11 +43037,13 @@
   },
   {
     "Address": "12750 Riverside Dr, Los Angeles, CA 91607",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1574513,
+    "Location Type": "Nursing home",
     "Longitude": -118.4109793,
     "Name": "Sherman Village Healthcare Center",
     "id": "recJ8AfV9lgs7Wgi3"
@@ -43209,11 +43290,13 @@
   },
   {
     "Address": "3705 MISSION BLVD, San Diego, CA 92109",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7827222,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2523174,
     "Name": "Beach Family Health Centers of San Diego",
     "id": "recJHRDyRQ352TNCw"
@@ -43502,11 +43585,13 @@
   },
   {
     "Address": "4050 Beyer Blvd, San Diego, CA 92173",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.5585197,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0468611,
     "Name": "San Ysidro Health  MCHC",
     "id": "recJOaoBo5G1ht4is"
@@ -45323,11 +45408,13 @@
   },
   {
     "Address": "3260 Third Ave, San Diego, CA 92103",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7395694,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.162886,
     "Name": "Internal Medicine Associates Medical Group of San Diego, Inc",
     "id": "recKJnqaVNgYXHSP4"
@@ -46205,11 +46292,13 @@
   },
   {
     "Address": "1126 E South St, Long Beach, CA 90805",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8599105,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1784533,
     "Name": "South Medical Clinic",
     "id": "recKmXNbRVHZtw2Is"
@@ -47272,15 +47361,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T00:31:59.000Z",
+    "Latest report": "2021-02-26T23:52:28.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.84803060000001,
@@ -47338,11 +47424,13 @@
   },
   {
     "Address": "1828 E Cesar E Chavez Ave Suite 5000, LOS ANGELES, CA 90033",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0499582,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2155778,
     "Name": "White Memorial Community Health Center",
     "id": "recLLcYx6hJ89u62Z"
@@ -50211,11 +50299,13 @@
   },
   {
     "Address": "561 Saxony Place Suite 102, Encinitas, CA 92024",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.0547131,
+    "Location Type": "Specialist",
     "Longitude": -117.2873311,
     "Name": "California Dermatology   Clinical Research Institute",
     "id": "recMkCCyeDRQ59xht"
@@ -50455,7 +50545,7 @@
   },
   {
     "Address": "4151 Mexicali Dr, Bakersfield, CA 93313",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -50763,11 +50853,13 @@
   },
   {
     "Address": "8808 balboa ave  150, san diego, CA 92123",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8215548,
+    "Location Type": "Ambulance",
     "Longitude": -117.1377088,
     "Name": "American Medical response",
     "id": "recN6S72jA9sTcavh"
@@ -52052,11 +52144,13 @@
   },
   {
     "Address": "2315 East Anaheim Street, Long Beach, CA 90804",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7829813,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1640328,
     "Name": "Dan Vu NTM Medical Clinic",
     "id": "recNmePkYkfdibJ6v"
@@ -52431,11 +52525,13 @@
   },
   {
     "Address": "5970 S Central Ave, Los Angeles, CA 90001",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9855537,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2561492,
     "Name": "Central City Community Health Center, Inc. - South LA",
     "id": "recO0q0RceXYeeKCh"
@@ -54838,7 +54934,7 @@
   },
   {
     "Address": "1014 Calloway Dr, Bakersfield, CA 93312",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -55296,11 +55392,13 @@
   },
   {
     "Address": "4282 Genesee Ave., Suite 102, San Diego, CA 92117",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8208377,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1830918,
     "Name": "Herald Christian Health Center - San Diego",
     "id": "recPKJ4xuM5Chxc8o"
@@ -55748,11 +55846,13 @@
   },
   {
     "Address": "1926 Via Centre, Suite A, Vista, CA 92081",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1845926,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2818474,
     "Name": "Tri-City Primary Care Medical Group, Inc.",
     "id": "recPXLLPED3ctQivO"
@@ -56485,11 +56585,13 @@
   },
   {
     "Address": "2400 E 8th St, National City, CA 91950",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6824458,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0819931,
     "Name": "San Ysidro Health  PHFC",
     "id": "recPtorOz5lF1kFaT"
@@ -56914,11 +57016,13 @@
   },
   {
     "Address": "1221 PACIFIC COAST HIGHWAY, HARBOR CITY, CA 90710",
+    "Affiliation": "Fresenius Kidney Care",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.790559,
+    "Location Type": "Dialysis clinic",
     "Longitude": -118.2985161,
     "Name": "FRESENIUS MEDICAL CARE OF  SOUTH BAY",
     "id": "recQ6aPxtRmLCbdK2"
@@ -57862,11 +57966,13 @@
   },
   {
     "Address": "1706 Descanso Ave, San Marcos, CA 92078",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.1499114,
+    "Location Type": "Private Practice",
     "Longitude": -117.1993988,
     "Name": "Gary and Mary West Pace",
     "id": "recQSZ8zN8BQzpiM1"
@@ -58450,11 +58556,13 @@
   },
   {
     "Address": "455 E Columbia St   201, Long Beach, CA 90806",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8098025,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1873835,
     "Name": "The Children's Clinic DBA TCC Family Health",
     "id": "recQcXcVWytJB6FYT"
@@ -59292,11 +59400,13 @@
   },
   {
     "Address": "1005 E Washington Blvd Suite A, Los Angeles, CA 90021",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.02606,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2531051,
     "Name": "Universal Community Health Center",
     "id": "recQzyWvsDG7qFY3E"
@@ -59649,11 +59759,13 @@
   },
   {
     "Address": "50100 Golsh Rd, Valley Center, CA 92082",
+    "Affiliation": "IHS",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.2779629,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9618781,
     "Name": "Indian Health Council, Inc.",
     "id": "recRBjunS1wSHxOpG"
@@ -61638,11 +61750,13 @@
   },
   {
     "Address": "1450 E Holt Ave, Pomona, CA 91767",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0620173,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.7213693,
     "Name": "ParkTree Community Health Center-Holt",
     "id": "recSAGg21OWmRYxiu"
@@ -63383,11 +63497,11 @@
     "Address": "14200 PALM DRIVE, DESERT HOT SPRINGS, CA 92240",
     "Affiliation": "Von's Pharmacy",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:04.000Z",
+    "Latest report": "2021-02-26T23:03:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.945394,
@@ -66208,11 +66322,13 @@
   },
   {
     "Address": "3834 S Western Ave, Los Angeles, CA 90062",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.016179,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.308589,
     "Name": "THE Clinic, Inc- Ruth Temple",
     "id": "recUA9bfr0hByv52N"
@@ -66290,11 +66406,13 @@
   },
   {
     "Address": "1111 W Chase Ave, El Cajon, CA 92020",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7812708,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9766524,
     "Name": "Chase Avenue Family Health Centers of San Diego",
     "id": "recUDOf85s7shwMaE"
@@ -68377,11 +68495,13 @@
   },
   {
     "Address": "4305 University Ave suite 150, San Diego, CA 92105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7494825,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1012798,
     "Name": "San Diego Family Care- Mid City Pediatrics",
     "id": "recVFrHNTmWCoUSRf"
@@ -69093,11 +69213,13 @@
   },
   {
     "Address": "1250 6TH AVE SUITE 100, San Diego, CA 92101",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.718544,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.159579,
     "Name": "Downtown Family Health Center at Connections",
     "id": "recVZ1kbjwD8r97ea"
@@ -69826,11 +69948,13 @@
   },
   {
     "Address": "8425 Iowa Street, DOWNEY, CA 90241",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9369471,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1321091,
     "Name": "Downey Community Health Center",
     "id": "recW0k6SLx7EHEVH6"
@@ -70704,7 +70828,7 @@
   },
   {
     "Address": "313 N Figueroa St Ste 1225, Los Angeles, CA 90012",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -70809,11 +70933,13 @@
   },
   {
     "Address": "1100 S Alvarado St, Los Angeles, CA 90006",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.050009,
+    "Location Type": "Nursing home",
     "Longitude": -118.280633,
     "Name": "Olympia Convalescent Hospital",
     "id": "recWWyFz0oW3TT1gz"
@@ -71499,7 +71625,7 @@
   },
   {
     "Address": "4600 Panama Ln suite 102B, Bakersfield, CA 93313",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "Availability Info": [
       "No: will never be a vaccination site"
     ],
@@ -71563,10 +71689,12 @@
   },
   {
     "Address": "3558 Ruffin Rd   Ste 100, San Diego, CA 92123",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
+    "Location Type": "Hospital / Clinic",
     "Name": "Sharp Coronado Hospital",
     "id": "recWqQc3bG7PiKQJi"
   },
@@ -72585,11 +72713,13 @@
   },
   {
     "Address": "5205 Melrose Ave, Los Angeles, CA 90038",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0837947,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3142998,
     "Name": "Saban Community Clinic - Melrose",
     "id": "recXMFabcKA5wOMOS"
@@ -73269,7 +73399,7 @@
   },
   {
     "Address": "4900 Calfiornia Ave, Ste 100B, Bakersfield, CA 93309",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -73623,11 +73753,13 @@
   },
   {
     "Address": "6605 Nancy Ridge Drive, San Diego, CA 92121",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8864845,
+    "Location Type": "Specialist",
     "Longitude": -117.1798723,
     "Name": "Compass Dermatopathology, Inc.",
     "id": "recXoOovAlt22EXtm"
@@ -76026,11 +76158,13 @@
   },
   {
     "Address": "2790 Truxtun Rd Suite 120A, San Diego, CA 92106",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7406447,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.2132764,
     "Name": "Point Loma Pediatrics",
     "id": "recYyZ0hTWum4Ywck"
@@ -76263,13 +76397,15 @@
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T19:56:52.000Z",
+    "Latest report": "2021-02-26T23:00:28.000Z",
     "Latest report notes": [
-      "Feb 26: Vaccine is also available for healthcare workers & long term care residents."
+      "Appointments are currently filled, but cancellations may leave spaces open."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.27276,
@@ -76734,11 +76870,13 @@
   },
   {
     "Address": "2319 E Washington Blvd Suite two, Pasadena, CA 91104",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1692814,
+    "Location Type": "Private Practice",
     "Longitude": -118.1026756,
     "Name": "Stephen Henry MD",
     "id": "recZK343vmnkim3DG"
@@ -77621,11 +77759,13 @@
   },
   {
     "Address": "1016 Outer Rd, San Diego, CA 92154",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.577779,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0828099,
     "Name": "Nestor Community Health Center",
     "id": "recZfduxji0wwkHDr"
@@ -79392,11 +79532,13 @@
   },
   {
     "Address": "1809 National Ave, San Diego, CA 92113",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7014183,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1469575,
     "Name": "Logan Heights Family Health Center",
     "id": "recaTRlAHKMnsxP6g"
@@ -80502,8 +80644,12 @@
   {
     "Address": "4250 Auburn Blvd., Sacramento, CA 95841",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Sacramento County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T19:33:10.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6434075,
@@ -83819,14 +83965,21 @@
   {
     "Address": "25829 Narbonne Ave., Lomita, CA 90717",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/1176"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:40.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T22:50:17.000Z",
+    "Latest report notes": [
+      "Healthcare workers eligible."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.789,
     "Location Type": "Pharmacy",
     "Longitude": -118.3207,
@@ -84079,7 +84232,7 @@
   },
   {
     "Address": "3408 Calloway Dr, Unit 300, Bakersfield, CA 93312",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Omni Family Health",
     "County": "Kern County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -88224,6 +88377,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.023716,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2757235,
     "Name": "PPLA - S. Mark Taper Center",
     "id": "receiwInsChIa87R2"
@@ -88542,11 +88696,13 @@
   },
   {
     "Address": "11878 Avenue of Industry, San Diego, CA 92128",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.991359,
+    "Location Type": "Mental Health",
     "Longitude": -117.0749246,
     "Name": "Aurora San Diego, LLC",
     "id": "receprq2vFKHVJTkm"
@@ -89534,11 +89690,13 @@
   },
   {
     "Address": "5160 Federal Blvd, San Diego, CA 92105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7219501,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0835454,
     "Name": "Oak Park Family Health Center",
     "id": "recfHOSwTlEeg4Fii"
@@ -90243,11 +90401,13 @@
   },
   {
     "Address": "345 Saxony Rd Suite 206, Encinitas, CA 92024",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.054045,
+    "Location Type": "Private Practice",
     "Longitude": -117.2850171,
     "Name": "SourceMD Encinitas",
     "id": "recfbfMgOMGN4T41t"
@@ -90951,11 +91111,13 @@
   },
   {
     "Address": "8788 Jamacha Blvd, Spring Valley, CA 91977",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7150025,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0098429,
     "Name": "Grossmont Spring Valley Family Health Center",
     "id": "recfxKYvj0ewInL90"
@@ -92248,7 +92410,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T19:14:22.000Z",
+    "Latest report": "2021-02-27T00:04:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.590916,
@@ -93781,11 +93943,13 @@
   },
   {
     "Address": "3250 Country Rose Cir, Encinitas, CA 92024",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.0652636,
+    "Location Type": "Mental Health",
     "Longitude": -117.2119228,
     "Name": "Aton Center",
     "id": "rech86pHppSlnmXVC"
@@ -94544,14 +94708,20 @@
   {
     "Address": "5260 DIAMOND HEIGHTS BLVD, SAN FRANCISCO, CA 94131",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_vanity "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:32:05.000Z",
+    "Latest report notes": [
+      "Feb 26: Vaccine is also available for healthcare workers & long-term care residents."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.743744,
     "Location Type": "Pharmacy",
     "Longitude": -122.439175,
@@ -94560,11 +94730,13 @@
   },
   {
     "Address": "3255 Wilshire Blvd Suite 120, Los Angeles, CA 90010",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0619621,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2932306,
     "Name": "Kheir Wilshire Clinic",
     "id": "rechYjOs7Cb1YUlpi"
@@ -95174,14 +95346,21 @@
   {
     "Address": "1620 1st St, Livermore, CA 94550",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:59.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:09:16.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.67989,
     "Location Type": "Pharmacy",
     "Longitude": -121.775928,
@@ -95247,11 +95426,13 @@
   },
   {
     "Address": "4290 Polk Ave, San Diego, CA 92105",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7515661,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1023307,
     "Name": "San Diego Family Care- Mid-City Adults",
     "id": "rechxOwW7bMFC28mN"
@@ -96257,11 +96438,13 @@
   },
   {
     "Address": "101 S Fickett St, Los Angeles, CA 90033",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0424182,
+    "Location Type": "Nursing home",
     "Longitude": -118.2077475,
     "Name": "INFINITY CARE OF EAST LOS ANGES",
     "id": "reciPEOQn5mWytHdF"
@@ -98773,11 +98956,13 @@
   },
   {
     "Address": "2743 Highland Avenue, National City, CA 91950",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.661154,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0918366,
     "Name": "Samahan Health Center",
     "id": "recjZ8AnYFPJACVi3"
@@ -99995,11 +100180,13 @@
   },
   {
     "Address": "732 Mott St, Ste 100, San Fernando, CA 91340",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2766073,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.4445797,
     "Name": "San Fernando Community Health Center",
     "id": "reckG26csY25ev5kB"
@@ -103770,11 +103957,13 @@
   },
   {
     "Address": "165 S 1st St, El Cajon, CA 92019",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7939979,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9442111,
     "Name": "La Maestra Community Health Centers  El Cajon",
     "id": "recmCoVfXQYLZsrGK"
@@ -106077,11 +106266,13 @@
   },
   {
     "Address": "711 W Florence Ave, Los Angeles, CA 90044",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9749141,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2863743,
     "Name": "UMMA Community Clinic",
     "id": "recnBZVxIDl44dBPo"
@@ -106381,11 +106572,13 @@
   },
   {
     "Address": "4401 Manchester Ave  Ste 106, Encinitas, CA 92024",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.035755,
+    "Location Type": "Specialist",
     "Longitude": -117.239563,
     "Name": "North Coast Cardiology, Inc",
     "id": "recnJJ1MBNhtmYQ6N"
@@ -108481,11 +108674,11 @@
     "Address": "2465 E PALM CANYON DR, PALM SPRINGS, CA 92264",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
+    "Latest report": "2021-02-26T22:06:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.800864,
@@ -109512,11 +109705,13 @@
   },
   {
     "Address": "8800 ALONDRA BLVD SUITE C, BELLFLOWER, CA 90706",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8885261,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1499034,
     "Name": "COMMUNITY MEDICINE INC. BELLFLOWER",
     "id": "recotoDHlm0X1nCMn"
@@ -111631,8 +111826,12 @@
   {
     "Address": "2721 Washington St, Julian, CA 92036",
     "Affiliation": "Borrego Health",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T18:59:26.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.0780414,
@@ -113379,17 +113578,16 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "Yes: appointment required"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T00:29:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:29:11.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.099153,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.560229,
@@ -114584,7 +114782,7 @@
     "Address": "2203 MISSION ST, SANTA CRUZ, CA 95060",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "https://www.mhealthappointments.com/covidappt"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -114593,9 +114791,9 @@
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T19:25:13.000Z",
+    "Latest report": "2021-02-26T19:07:51.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through its website."
+      "Healthcare workers eligible"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.961002,
@@ -115635,11 +115833,13 @@
   },
   {
     "Address": "1009 N. Avalon Blvd., Wilmington, CA 90744",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.783189,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.262992,
     "Name": "Wilmington Community Clinic",
     "id": "recrgDrZeh9Q2a8Fy"
@@ -116113,14 +116313,22 @@
   {
     "Address": "15500 WASHINGTON AVE, SAN LEANDRO, CA 94579",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vacination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:21.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:17:32.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.685945,
     "Location Type": "Pharmacy",
     "Longitude": -122.138655,
@@ -116343,6 +116551,7 @@
   },
   {
     "Address": "7039 Alondra Blvd, Paramount, CA 90723",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -120383,11 +120592,13 @@
   },
   {
     "Address": "1620 Alpine Blvd, Alpine, CA 91901",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8384581,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.7798912,
     "Name": "San Ysidro Health AFM",
     "id": "rectrUd0KQU7KkYUN"
@@ -121184,11 +121395,13 @@
   },
   {
     "Address": "11701 Studebaker Rd, Norwalk, CA 90650",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9265747,
+    "Location Type": "Nursing home",
     "Longitude": -118.0996867,
     "Name": "Southland Care Center",
     "id": "recuRPP5wHzWxJgR2"
@@ -121630,6 +121843,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1109336,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1908594,
     "Name": "Planned Parenthood Highland Park Health Center",
     "id": "recubz6LTcc1C1hnK"
@@ -122996,11 +123210,13 @@
   },
   {
     "Address": "678 3rd Ave, Chula Vista, CA 91910",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.6285747,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.0753254,
     "Name": "San Ysidro Health CVMP",
     "id": "recvG754k4HwnPHlP"
@@ -123062,11 +123278,13 @@
   },
   {
     "Address": "949 Palm Ave, Imperial Beach, CA 91932",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.5836302,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1134051,
     "Name": "Imperial Beach Community Health Center",
     "id": "recvI07nXptJHYY0C"
@@ -123223,11 +123441,13 @@
   },
   {
     "Address": "3851 Rosecrans St, San Diego, CA 92110",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.707958,
+    "Location Type": "Specialist",
     "Longitude": -117.0744335,
     "Name": "San Diego Black Nurses Assocation",
     "id": "recvLDL6npSwLMg8U"
@@ -124471,7 +124691,7 @@
     "id": "recvzLN6l6wRLufSw"
   },
   {
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "Kindred Hospital",
     "Appointment scheduling instructions": [
       null
     ],
@@ -125150,15 +125370,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T00:28:02.000Z",
+    "Latest report": "2021-02-27T00:56:24.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0230662,
@@ -125951,11 +126168,13 @@
   },
   {
     "Address": "1000 Euclid Ave, National City, CA 91950",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "San Diego County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.680582,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.080777,
     "Name": "National City Family Health Centers of San Diego",
     "id": "recweDmaZFcOrdsW9"
@@ -127373,11 +127592,11 @@
     "Address": "841 W VALLEY BLVD STE 101, ALHAMBRA, CA 91803",
     "Affiliation": "ABC Pharmacy",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T05:20:12.000Z",
+    "Latest report": "2021-02-26T19:43:03.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.078305,
@@ -130091,11 +130310,13 @@
   },
   {
     "Address": "2032 Marengo St, Los Angeles, CA 90033",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0564766,
+    "Location Type": "Private Practice",
     "Longitude": -118.2075882,
     "Name": "Clinica Monsenor A. Romero",
     "id": "recyUNQX5LFk2rmMt"
@@ -130829,11 +131050,13 @@
   },
   {
     "Address": "5420 N Figueroa St, Los Angeles, CA 90042",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.107577,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1963881,
     "Name": "Northeast Community Clinic",
     "id": "recysZDFtzN1ZuWtG"
@@ -132445,14 +132668,21 @@
   {
     "Address": "11200 OLIVE DRIVE, BAKERSFIELD, CA 93312",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "http://ritea.id/california"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T00:16:13.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.420274,
     "Location Type": "Pharmacy",
     "Longitude": -119.127151,
@@ -132597,11 +132827,13 @@
   },
   {
     "Address": "11620 W. WASHINGTON BLVD., LA, CA 90066",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0000543,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.417268,
     "Name": "VISTA DEL SOL  CARE  CENTER",
     "id": "reczjuKoTbjbviR9i"
