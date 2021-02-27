@@ -8303,11 +8303,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T23:06:24.000Z",
+    "Latest report": "2021-02-27T21:56:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.328572,
@@ -13981,14 +13981,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(805) 682-7111"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-01-18T20:23:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:53:42.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.4295357,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.7241169,
@@ -55327,15 +55333,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Tehama County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T22:06:39.000Z",
+    "Latest report": "2021-02-27T21:59:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 40.1483073,
@@ -94834,14 +94837,19 @@
   {
     "Address": "207 W Legion Rd, Brawley, CA 92227",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "760-351-3878 M-F 8-4"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: appointment required"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T19:29:29.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:00:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.9587576,
     "Location Type": "Hospital / Clinic",
     "Longitude": -115.5543752,
@@ -98018,11 +98026,11 @@
     "Address": "900 Hyde St, San Francisco, CA 94109",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-16T17:42:13.000Z",
+    "Latest report": "2021-02-27T22:00:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7893799,
