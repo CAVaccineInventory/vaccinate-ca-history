@@ -20485,6 +20485,27 @@
     "id": "rec9OOxF7vyAhEoDe"
   },
   {
+    "Address": "20498 Victory Blvd Winnetka, CA 91306",
+    "Appointment scheduling instructions": [
+      "https://carbonhealth.com/covid-19-vaccines"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Los Angeles County",
+    "Has Report": 1,
+    "Latest report": "2021-02-27T07:41:14.000Z",
+    "Latest report notes": [
+      "Vaccinating people 65+ and healthcare workers. Sign up for an appointment at https://carbonhealth.com/covid-19-vaccines. For other LA County locations, please see http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.1884094,
+    "Longitude": -118.5796803,
+    "Name": "Pierce College",
+    "id": "rec9OaJ0EjO9Unrxp"
+  },
+  {
     "Address": "3883 E. Foothill Blvd (NWC), Pasadena, CA 91107",
     "Affiliation": "CVS",
     "County": "Los Angeles County",
