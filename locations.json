@@ -6632,7 +6632,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.545214,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.2921538,
     "Name": "Orosi Rural Health",
     "id": "rec37BWpa415Fpa2f"
@@ -35788,7 +35788,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.3008027,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.3113436,
     "Name": "Key Medical Group",
     "id": "recG8VHavcDRjoh09"
@@ -126143,11 +126143,11 @@
     "Address": "6877 Sebastopol Ave.,, Sebastopol CA, 95472",
     "Affiliation": "CVS",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
+    "Latest report": "2021-02-27T19:43:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4079,
