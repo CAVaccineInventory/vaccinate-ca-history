@@ -42966,11 +42966,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T21:55:11.000Z",
+    "Latest report": "2021-02-27T20:21:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8843703,
@@ -52066,16 +52066,16 @@
       "https://coronavirus.marinhhs.org/vaccine"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:34:58.000Z",
+    "Latest report": "2021-02-27T20:17:28.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through the county website."
+      "Feb 27:  Appointments being scheduled through the county website: https://coronavirus.marinhhs.org/vaccine.  Current eligibility: \nPhase 1A groups (e.g., Healthcare workers and residents of residential care facilities for the elderly)\nMarin County residents age 65 & older\nMarin County residents who work in the following industries: education, childcare, food service, agriculture, and emergency services.\n\n\nThis location is only scheduling appointments through the county website."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.898554,
@@ -81896,14 +81896,19 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(909) 865-9500"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T18:02:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:20:57.000Z",
+    "Latest report notes": [
+      "only vaccinating current employees"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0775989,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.750911,
@@ -91815,14 +91820,19 @@
   {
     "Address": "1001 North Tustin Ave, Santa Ana, CA 92705",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(714) 953-3500"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-26T01:08:52.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:17:29.000Z",
+    "Latest report notes": [
+      "vaccinating own employees and healthcare workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.75431990000001,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.8328955,
@@ -99436,14 +99446,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "www.tricitymed.org"
+    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T16:54:03.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:19:29.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.1856641,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.2903662,
@@ -122034,14 +122050,22 @@
   {
     "Address": "1300 W YOSEMITE AVE, MADERA, CA 93637",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Madera County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:24:00.000Z",
+    "Latest report notes": [
+      "Feb. 27: This location is following the rules set by Madera County. In addition to allowing people 65+, health care workers and long-term care staff of any age, Madera County locations now can vaccinate: medical first responders of any age; emergency services personnel, 50+ only; food & Ag workers, 50+ only; educational institution workers w/ no age restriction and licensed childcare workers w/ no age restriction. Details here: https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.952364,
     "Location Type": "Pharmacy",
     "Longitude": -120.073244,
@@ -122873,11 +122897,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T18:44:44.000Z",
+    "Latest report": "2021-02-27T20:22:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.97660309999999,
