@@ -23124,14 +23124,21 @@
   {
     "Address": "1781 COLUSA HWY, YUBA CITY, CA 95993",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:17.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:15:54.000Z",
+    "Latest report notes": [
+      "healthcare workers, frontline workers, 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.141685,
     "Location Type": "Pharmacy",
     "Longitude": -121.647991,
@@ -28964,14 +28971,22 @@
   {
     "Address": "2200 E WILLOW ST, SIGNAL HILL, CA 90755",
     "Affiliation": "Costco Pharmacy",
+    "Appointment scheduling instructions": [
+      "vaccinatelacounty.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:13:09.000Z",
+    "Latest report notes": [
+      "Only able to accommodate 20 shots a day. Larger site is in Torrence."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.803396,
     "Location Type": "Pharmacy",
     "Longitude": -118.164887,
@@ -40050,11 +40065,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: incorrect contact information"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T01:08:05.000Z",
+    "Latest report": "2021-02-27T21:10:28.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.5280161,
@@ -49529,15 +49544,12 @@
   {
     "Address": "525 Oregon Street, Vallejo, CA 94590",
     "Affiliation": "Adventist Health",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: only vaccinating staff"
     ],
     "County": "Solano County",
     "Has Report": 1,
-    "Latest report": "2021-02-01T22:25:51.000Z",
+    "Latest report": "2021-02-27T21:09:29.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.117944,
@@ -72672,14 +72684,20 @@
   {
     "Address": "8400 Firestone Blvd., Downey, CA 90241",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "cvs.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:57.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:21:11.000Z",
+    "Latest report notes": [
+      "healthcare workers and 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.9383,
     "Location Type": "Pharmacy",
     "Longitude": -118.1316,
@@ -86290,11 +86308,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating health care workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T21:41:06.000Z",
+    "Latest report": "2021-02-27T21:02:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0789422,
@@ -105309,14 +105327,19 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "510-437-4800"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:16:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:12:22.000Z",
+    "Latest report notes": [
+      "must be a current patient"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.798534,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.2316962,
@@ -106881,14 +106904,21 @@
   {
     "Address": "1107 EAST CHAMPLAIN AVE, FRESNO, CA 93720",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.savemart.com/covid-19-vaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:07:04.000Z",
+    "Latest report notes": [
+      "following 1B qualifications"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.87091,
     "Location Type": "Pharmacy",
     "Longitude": -119.764587,
@@ -109718,16 +109748,20 @@
     "Address": "347 Andrieux Street \nSonoma, CA 95476",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "email your name and qualifications to community@sonomavalleyhospital.org"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-01T22:30:37.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:03:27.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.28810999999999,
     "Location Type": "Hospital / Clinic",
     "Longitude": -122.46533,
@@ -111847,14 +111881,22 @@
   {
     "Address": "659 EAST NEES AVE, FRESNO, CA 93720",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:07:45.000Z",
+    "Latest report notes": [
+      "Seniors 65+, healthcare workers, Ag workers, Food Workers, Teachers, Childcare workers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.850945,
     "Location Type": "Pharmacy",
     "Longitude": -119.773578,
@@ -118308,15 +118350,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:19:53.000Z",
+    "Latest report": "2021-02-27T21:02:34.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.7418365,
@@ -121528,15 +121567,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: only vaccinating staff"
     ],
     "County": "Napa County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T21:19:41.000Z",
+    "Latest report": "2021-02-27T21:16:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.2780746,
@@ -122592,14 +122628,20 @@
   {
     "Address": "4046 SOUTH CENTINELA AVENUE, LOS ANGELES, CA 90066",
     "Affiliation": "Rite-Aid",
+    "Appointment scheduling instructions": [
+      "county website or riteaid.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:13:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:10:08.000Z",
+    "Latest report notes": [
+      "healthcare workers and 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.998374,
     "Location Type": "Pharmacy",
     "Longitude": -118.428744,
@@ -132570,15 +132612,12 @@
   {
     "Address": "3865 Jackson Street, Riverside, CA 92503",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T16:48:49.000Z",
+    "Latest report": "2021-02-27T21:16:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9271128,
