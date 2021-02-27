@@ -11266,16 +11266,15 @@
     "Address": "1970 Yosemite Parkway, Merced CA, 95341",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "https://www.cvs.com/store-locator/details-directions/7206"
+      "cvs.com  or cvs app,  "
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T23:25:54.000Z",
+    "Latest report": "2021-02-27T20:38:48.000Z",
     "Latest report notes": [
       "Website will give accommodation restrictions."
     ],
@@ -11337,11 +11336,11 @@
     "Address": "2976 SEPULVEDA BLVD, TORRANCE, CA 90505",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:34.000Z",
+    "Latest report": "2021-02-27T20:40:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.823743,
@@ -14443,13 +14442,16 @@
   {
     "Affiliation": "Adventist Health",
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required",
+      "Scheduling second dose only"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T19:44:28.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:41:36.000Z",
+    "Latest report notes": [
+      "Feb 27  only second doses, unaware of when next shipment will be."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.6085348,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.4521895,
@@ -15715,14 +15717,20 @@
   {
     "Address": "342 W CALAVERAS BLVD, MILPITAS, CA 95035",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:43:44.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.426446,
     "Location Type": "Pharmacy",
     "Longitude": -121.911636,
@@ -20863,11 +20871,11 @@
     "Address": "14100 BLOSSOM HILL ROAD, LOS GATOS, CA 95032",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
+    "Latest report": "2021-02-27T20:43:50.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.236098,
@@ -51763,15 +51771,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T00:10:52.000Z",
+    "Latest report": "2021-02-27T20:45:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8125027,
@@ -88350,11 +88355,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: only vaccinating staff"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T17:51:47.000Z",
+    "Latest report": "2021-02-27T20:41:37.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.9701328,
@@ -105305,14 +105310,21 @@
   {
     "Address": "24930 WESTERN AVE, HARBOR CITY, CA 90710",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Via the Walgreens app on iOS or Android"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:19.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T20:42:41.000Z",
+    "Latest report notes": [
+      "Appointments (M-F) are best scheduled online via the Walgreens app; patients can confirm 1st and 2nd dose appointments as well as search for nearby locations with availability.  In addition, there are a limited eligible community patients are able to schedule appointments over the phone."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.798141,
     "Location Type": "Pharmacy",
     "Longitude": -118.30736,
