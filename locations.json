@@ -3983,17 +3983,17 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-08T19:13:33.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:23:37.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.64086169999999,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.6713942,
@@ -31060,11 +31060,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:27:56.000Z",
+    "Latest report": "2021-02-27T21:23:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.0366092,
@@ -53593,11 +53593,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:42:19.000Z",
+    "Latest report": "2021-02-27T21:30:41.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.20482859999999,
@@ -128430,16 +128430,20 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "(562) 385-7111"
     ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-03T03:12:28.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T21:34:45.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.9292304,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.1586281,
