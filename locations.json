@@ -50883,7 +50883,7 @@
     "Address": "1418 E PROSPERITY AVE, TULARE, CA 93274",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_vanity"
+      "https://www.walgreens.com/findcare/vacination/covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -50891,7 +50891,10 @@
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T19:38:37.000Z",
+    "Latest report": "2021-02-27T19:55:10.000Z",
+    "Latest report notes": [
+      null
+    ],
     "Latest report yes?": 1,
     "Latitude": 36.226558,
     "Location Type": "Pharmacy",
@@ -58040,14 +58043,21 @@
   {
     "Address": "1640 Lincoln Rd, Yuba City, CA 95993",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T19:57:46.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.112178,
     "Location Type": "Pharmacy",
     "Longitude": -121.644887,
@@ -94121,14 +94131,22 @@
   {
     "Address": "227 SHORELINE HWY, MILL VALLEY, CA 94941",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T22:49:57.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T19:53:01.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.880348,
     "Location Type": "Pharmacy",
     "Longitude": -122.524471,
