@@ -17055,12 +17055,6 @@
     "id": "rec7n8BHX9toDvynZ"
   },
   {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "rec7nHXCuSYRR61V0"
-  },
-  {
     "Address": "3833 W Caldwell Ave suite B\nVisalia, CA",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -18536,12 +18530,6 @@
     "Longitude": -117.216685,
     "Name": "WALMART PHARMACY 10-2094",
     "id": "rec8WSync9jU9l26v"
-  },
-  {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "rec8Xk6kn4SvAKeEm"
   },
   {
     "Address": "745 CLEMENT ST, SAN FRANCISCO, CA 94118",
@@ -28018,12 +28006,6 @@
     "Longitude": -122.281218,
     "Name": "SAFEWAY PHARMACY #3281",
     "id": "recCY5wZsysuRgIEO"
-  },
-  {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "recCYZZRJCRlXykun"
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
@@ -49020,12 +49002,6 @@
     "id": "recM2VkGX0oGVE1Bg"
   },
   {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "recM2vjVCasanHStO"
-  },
-  {
     "Address": "909 Grand St., San Rafael, CA 94901",
     "Affiliation": "CVS",
     "County": "Marin County",
@@ -61434,14 +61410,6 @@
     "Longitude": -122.438571,
     "Name": "WALGREENS #6625",
     "id": "recRy59rwuKJMIlWt"
-  },
-  {
-    "Affiliation": "Walgreens",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "Location Type": "Pharmacy",
-    "id": "recRy9pOSoS2PKzee"
   },
   {
     "Address": "210 S GRAND AVE STE 116, GLENDORA, CA 91741",
@@ -84186,12 +84154,6 @@
     "id": "reccaHfaMmwGsyzzd"
   },
   {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "reccaeiuCMw6a7Dvg"
-  },
-  {
     "Address": "802 BEVERLY BOULEVARD, MONTEBELLO, CA 90640",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
@@ -84425,12 +84387,6 @@
     "Longitude": -119.1098376,
     "Name": "OMNI Family Health - Rosedale",
     "id": "reccglS8vLXGyRyzk"
-  },
-  {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "recchGT7ticPxfr42"
   },
   {
     "Address": "626 W COLLEGE ST, LOS ANGELES, CA 90012",
@@ -89855,13 +89811,6 @@
     "id": "recfFmXL5MUnBxgp0"
   },
   {
-    "County": "San Diego County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "recfGfKaDQtqAiSIx"
-  },
-  {
     "Address": "2679 Saviers Rd Suite B, Oxnard, CA 93033",
     "Affiliation": "Fresenius Kidney Care",
     "County": "Ventura County",
@@ -89916,12 +89865,6 @@
     "Longitude": -119.974096,
     "Name": "RITE AID PHARMACY 6443",
     "id": "recfIv3wdP8lXJxUG"
-  },
-  {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "recfJbXO7bvQrOwZ8"
   },
   {
     "Address": "11795 W Olympic Blvd, Los Angeles, CA 90064",
@@ -100226,12 +100169,6 @@
     "Longitude": -118.128952,
     "Name": "RITE AID PHARMACY 06255",
     "id": "reck7UHLPNpZiuYvN"
-  },
-  {
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
-    "id": "reck8nN8LE7qUu3WY"
   },
   {
     "Address": "5901 W OLYMPIC BLVD SUITE 103, LOS ANGELES, CA 90036",
