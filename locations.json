@@ -9431,7 +9431,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3762647,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -118.968325,
     "Name": "Polyclinic Medical Center Inc",
     "id": "rec4JEKqAyXHH99dA"
@@ -26890,7 +26890,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3556842,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.108449,
     "Name": "Riverwalk Pediatric Clinic, Inc.",
     "id": "recC2T6nEDXBo2Fog"
@@ -73969,7 +73969,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.376283,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -118.968669,
     "Name": "Niles Primary Care Clinic",
     "id": "recXq1Q74FdBbnEDQ"
@@ -80641,15 +80641,17 @@
     "Address": "1001 SOUTH GLENDON AVENUE, LOS ANGELES, CA 90024",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm"
+      "https://myturn.ca.gov/"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:24:42.000Z",
+    "Latest report": "2021-02-27T19:29:30.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through the county website."
     ],
@@ -82864,11 +82866,11 @@
     "Address": "1590 BUTTE HOUSE ROAD, YUBA CITY, CA 95993",
     "Affiliation": "Rite-Aid",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sutter County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:06.000Z",
+    "Latest report": "2021-02-27T19:25:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.147429,
@@ -131815,7 +131817,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3676545,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.095906,
     "Name": "Brimhall Primary Care Clinic",
     "id": "recz5lCz54mKOs1aN"
