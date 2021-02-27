@@ -107675,14 +107675,21 @@
   {
     "Address": "2055 N Perris Blvd, Perris, CA 92571",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "951-943-8188"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:01.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T18:02:40.000Z",
+    "Latest report notes": [
+      "Call pharmacy today 2/27 after 2 PM they will schedule first come first serve to get a dose this afternoon to account for extra doses that must be used today."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.809262,
     "Location Type": "Pharmacy",
     "Longitude": -117.225696,
