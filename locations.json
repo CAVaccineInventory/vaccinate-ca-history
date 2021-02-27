@@ -7165,14 +7165,21 @@
   {
     "Address": "880 Sutton Way, Grass Valley, CA 95945",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "app or walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Nevada County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T05:04:35.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:23:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.23521,
     "Location Type": "Pharmacy",
     "Longitude": -121.034963,
@@ -19230,14 +19237,21 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://calvax.org"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:49:02.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:24:53.000Z",
+    "Latest report notes": [
+      "Feb 27: healthcare, food service, education workers, childcare and emergency / first responders are currently being offered vaccine appts"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0494573,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.2167639,
@@ -36359,14 +36373,20 @@
   {
     "Address": "11930 STUDEBAKER RD, NORWALK, CA 90650",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T00:45:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:18:39.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.923503,
     "Location Type": "Pharmacy",
     "Longitude": -118.099029,
@@ -43396,13 +43416,16 @@
   {
     "Address": "477 W NAPA ST, SONOMA, CA 95476",
     "Affiliation": "Safeway",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 70+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T05:26:00.000Z",
+    "Latest report": "2021-02-27T22:04:34.000Z",
     "Latest report notes": [
       "Appointments for people 70+ can be made online here: https://mhealthsystem.com/0911sonoma. All available appointment slots were filled when checked on Feb 11. Please check the website for current availability."
     ],
@@ -67766,14 +67789,21 @@
   {
     "Address": "9018 Firestone Blvd, Downey, CA 90241",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:06:09.000Z",
+    "Latest report notes": [
+      "Feb 27: keep checking back on the website bc it can change often, per pharmacist"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.935292,
     "Location Type": "Pharmacy",
     "Longitude": -118.123595,
@@ -86701,14 +86731,20 @@
   {
     "Address": "2222 COLORADO BLVD, LOS ANGELES, CA 90041",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T16:35:02.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:14:40.000Z",
+    "Latest report notes": [
+      "healthcare workers and 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.138626,
     "Location Type": "Pharmacy",
     "Longitude": -118.215211,
@@ -99540,15 +99576,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T03:02:08.000Z",
+    "Latest report": "2021-02-27T22:09:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0976833,
@@ -106255,14 +106288,20 @@
   {
     "Address": "7075 NORTH MARKS, FRESNO, CA 93711",
     "Affiliation": "Save Mart Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.savemart.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:11:57.000Z",
+    "Latest report notes": [
+      "those who work in food or agriculture industry, education, or healthcare"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.838402,
     "Location Type": "Pharmacy",
     "Longitude": -119.848978,
@@ -125605,11 +125644,11 @@
     "Address": "610 WEST KETTLEMAN LANE, LODI, CA 95240",
     "Affiliation": "Save Mart Pharmacy",
     "Availability Info": [
-      "No: incorrect contact information"
+      "No: location permanently closed"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T05:39:13.000Z",
+    "Latest report": "2021-02-27T22:10:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.114247,
@@ -128345,14 +128384,21 @@
   {
     "Address": "72027 DINAH SHORE DR, RANCHO MIRAGE, CA 92270",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com/covid19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 50+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:27.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T22:09:50.000Z",
+    "Latest report notes": [
+      "teachers, restaurant workers, healthcare workers, frontline workers, 55+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.801208,
     "Location Type": "Pharmacy",
     "Longitude": -116.405056,
