@@ -9561,11 +9561,11 @@
     "Address": "1977 W Cleveland Ave, Madera, CA 93637",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Madera County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
+    "Latest report": "2021-02-26T23:59:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.975604,
@@ -41204,14 +41204,22 @@
   {
     "Address": "1351 W CAPITOL AVE, WEST SACRAMENTO, CA 95691",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Yolo County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:16.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:56:32.000Z",
+    "Latest report notes": [
+      "Can be added to wait list if no appointments available. Vaccine Available to essential workers from anywhere otherwise country residents only."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.580372,
     "Location Type": "Pharmacy",
     "Longitude": -121.525652,
@@ -51029,10 +51037,21 @@
   {
     "Address": "2426 BUHNE STREET, EUREKA, CA 95501",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(707) 443-4666"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Humboldt County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:56:12.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 40.7857188,
     "Location Type": "Hospital / Clinic",
     "Longitude": -124.1406164,
@@ -83980,8 +83999,12 @@
   {
     "Address": "133 W Main St, El Cajon, CA 92020",
     "Affiliation": "Borrego Health",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-27T00:01:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7947838,
