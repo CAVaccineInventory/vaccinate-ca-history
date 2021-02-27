@@ -458,7 +458,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9240722,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -120.4323648,
     "Name": "Central Coast Family Care - Office 4",
     "id": "rec0FKV5w8hQ5nEhU"
@@ -6565,7 +6565,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9388781,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -120.422143,
     "Name": "Central Coast Family Care - Office 2",
     "id": "rec33g3Fd6Tlt6kFy"
@@ -13128,7 +13128,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.057437,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.1810658,
     "Name": "The Garden Pediatrics Group",
     "id": "rec673fObiI2KXw2t"
@@ -21092,7 +21092,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.95142,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -120.411648,
     "Name": "Central Coast Family Care - Office 3",
     "id": "rec9gWMsRSHw3pFGA"
@@ -23041,7 +23041,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9721755,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.3479995,
     "Name": "MOMMY AND ME MEDICAL GROUP INC",
     "id": "recAVBh86ZysXuZFO"
@@ -23274,7 +23274,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.9598251,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.1127072,
     "Name": "SAMAHAN HEALTH CENTERS",
     "id": "recAbNlpx0kvsk0oA"
@@ -33675,7 +33675,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.9545389,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -120.4236015,
     "Name": "Central Coast Family Care - Office 7",
     "id": "recFBDVcDLarYUOdg"
@@ -45548,7 +45548,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7395694,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.162886,
     "Name": "Internal Medicine Associates Medical Group of San Diego, Inc",
     "id": "recKJnqaVNgYXHSP4"
@@ -46434,7 +46434,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8599105,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -118.1784533,
     "Name": "South Medical Clinic",
     "id": "recKmXNbRVHZtw2Is"
@@ -51116,7 +51116,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.105043,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.5698637,
     "Name": "Aspen Family Medicine   Geriatrics",
     "id": "recNBMfeLQnU4N8go"
@@ -62863,7 +62863,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3401952,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.0341047,
     "Name": "Ming Primary Care Clinic",
     "id": "recSeL7P5tc2OtpjA"
@@ -63658,7 +63658,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7539027,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -122.4791755,
     "Name": "Grace Pacific Medical Associates",
     "id": "recSytHyjJJfbJJuk"
@@ -76323,7 +76323,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7406447,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.2132764,
     "Name": "Point Loma Pediatrics",
     "id": "recYyZ0hTWum4Ywck"
@@ -88059,7 +88059,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.6788432,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -118.1579626,
     "Name": "High Desert Medical Group",
     "id": "receVFbHz1iDn62hg"
@@ -95624,7 +95624,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.7515661,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.1023307,
     "Name": "San Diego Family Care- Mid-City Adults",
     "id": "rechxOwW7bMFC28mN"
@@ -96480,7 +96480,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6699545,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -121.1473671,
     "Name": "Meena Medical Group",
     "id": "reciL0G9bY1w3PLCC"
@@ -99178,7 +99178,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.661154,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -117.0918366,
     "Name": "Samahan Health Center",
     "id": "recjZ8AnYFPJACVi3"
@@ -111186,14 +111186,21 @@
   {
     "Address": "5224 COLDWATER CANYON AVE, VAN NUYS, CA 91401",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "www.walgreens.com/covidvaccine"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:27.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T19:38:18.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.165435,
     "Location Type": "Pharmacy",
     "Longitude": -118.413588,
@@ -113181,7 +113188,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.8390259,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Private Practice",
     "Longitude": -119.736515,
     "Name": "Chestnut Pediatrics",
     "id": "recqIO45MpYo36nbr"
@@ -114371,6 +114378,7 @@
     "id": "recqpHole38ZNrhdD"
   },
   {
+    "Address": "23560 Cactus Ave, Moreno Valley, CA 92555",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: incorrect contact information"
@@ -120197,11 +120205,11 @@
     "Address": "13390 Poway Rd, Poway, CA 92064",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:49.000Z",
+    "Latest report": "2021-02-27T19:36:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.956986,
@@ -124566,7 +124574,7 @@
     "Latitude": 34.5346287,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.2917737,
-    "Name": "DR MIKEL WALK IN CLINIC   VICTORVILLE",
+    "Name": "DR MIKE'S WALK IN CLINIC   VICTORVILLE",
     "id": "recvkvghxun8qe594"
   },
   {
