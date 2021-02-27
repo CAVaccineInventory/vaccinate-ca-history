@@ -7347,14 +7347,20 @@
   {
     "Address": "310 S Lake Ave, PASADENA, CA 91101",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:51.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:52:30.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.140475,
     "Location Type": "Pharmacy",
     "Longitude": -118.131841,
@@ -26620,15 +26626,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T00:20:03.000Z",
+    "Latest report": "2021-02-27T23:46:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.5590999,
@@ -26784,14 +26787,21 @@
   {
     "Address": "2400 River Road, Norco CA, 92860",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:42:39.000Z",
+    "Latest report notes": [
+      "Feb 27: Good availability for the coming week at this and a few nearby locations.  Need to book online at https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.9148,
     "Location Type": "Pharmacy",
     "Longitude": -117.5891,
@@ -55325,14 +55335,21 @@
   {
     "Address": "78218 VARNER RD, PALM DESERT, CA 92211",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:09:00.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:41:53.000Z",
+    "Latest report notes": [
+      "Feb 27.  Also vaccinating phase1c (age 16-64yrs with high risk conditions). Proof is required such as a doctor's note specifying which high risk condition.  Vaccinating only California residents with proof of CA residency.  Appointments are only opened up 3 days in advance.  "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.762276,
     "Location Type": "Pharmacy",
     "Longitude": -116.298683,
@@ -104484,14 +104501,21 @@
   {
     "Address": "1311 E FLORIDA AVE, HEMET, CA 92544",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:40:34.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:52:11.000Z",
+    "Latest report notes": [
+      "Feb 27: don't forget to bring proof of employment in the field of the qualifying group you are in, such as educators, childcare, etc. or you will be turned away unless 65+"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.747071,
     "Location Type": "Pharmacy",
     "Longitude": -116.958147,
@@ -127200,14 +127224,21 @@
   {
     "Address": "700 Twelve Bridges Dr., Lincoln, CA 95648",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T05:01:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:46:26.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.851375,
     "Location Type": "Pharmacy",
     "Longitude": -121.288904,
@@ -128090,14 +128121,21 @@
   {
     "Address": "9200 ELK GROVE FLORIN RD, ELK GROVE, CA 95624",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T05:14:38.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:45:17.000Z",
+    "Latest report notes": [
+      "2/27: Vaccinating essential workers in emergency services, child care, and education. Not currently vaccinating food/agriculture workers per county guidelines. Found appointments for March 2."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.423099,
     "Location Type": "Pharmacy",
     "Longitude": -121.372212,
@@ -132260,14 +132298,21 @@
   {
     "Address": "1101 S SANDERSON AVE, HEMET, CA 92545",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:54.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:52:34.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.728803,
     "Location Type": "Pharmacy",
     "Longitude": -117.007293,
