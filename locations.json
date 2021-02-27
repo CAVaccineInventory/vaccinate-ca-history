@@ -1300,8 +1300,12 @@
   {
     "Address": "1080 Emeline Avenue Building D, Santa Cruz, CA 95060",
     "Affiliation": "County",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Santa Cruz County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-26T23:27:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.992486,
@@ -11251,14 +11255,21 @@
   {
     "Address": "1970 Yosemite Parkway, Merced CA, 95341",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/store-locator/details-directions/7206"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Merced County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:25:54.000Z",
+    "Latest report notes": [
+      "Website will give accommodation restrictions."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.2939,
     "Location Type": "Pharmacy",
     "Longitude": -120.4522,
@@ -21119,14 +21130,21 @@
   {
     "Address": "1219 N Cedar Ave, FRESNO, CA 93703",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:39.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-26T23:55:25.000Z",
+    "Latest report notes": [
+      "Accommodation restrictions listed after screening on website."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.758178,
     "Location Type": "Pharmacy",
     "Longitude": -119.755249,
@@ -27069,11 +27087,11 @@
     "Address": "3400 Cesar Chavez, San Francisco, CA 94110",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:42.000Z",
+    "Latest report": "2021-02-26T23:30:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.748347,
