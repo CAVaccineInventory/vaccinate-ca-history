@@ -1173,14 +1173,21 @@
   {
     "Address": "15990 BROOKHURST ST, Fountain Valley, CA 92708",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T18:50:36.000Z",
+    "Latest report notes": [
+      "Appointments are made available 3 days prior to the appointment time."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.730499,
     "Location Type": "Pharmacy",
     "Longitude": -117.95442,
@@ -83553,7 +83560,7 @@
     "id": "reccIVnciH2CqDjB2"
   },
   {
-    "Address": "3708 Ocean Ranch Blvd, Oceanside, CA 92056",
+    "Address": "3609 Ocean Ranch Blvd #104, Oceanside, CA 92056   ",
     "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
