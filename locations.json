@@ -6006,17 +6006,19 @@
     "Address": "17550 CASTLETON ST, CITY OF INDUSTRY, CA 91748",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "vaccinatelacounty.com"
+      "www.Vaccinatelacounty.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T21:54:49.000Z",
+    "Latest report": "2021-02-27T17:54:00.000Z",
     "Latest report notes": [
-      "vaccinatelacounty.com\n\nthey get them weekly Monday and Tuesdays so that is the day to make the appointment early.  \n\n\n\n"
+      "vaccinatelacounty.com they get them weekly Monday and Tuesdays so that is the day to make the appointment early. Currently booked out 3 weeks. March 1 additional groups will qualify."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.994075,
@@ -21131,16 +21133,16 @@
     "Address": "1219 N Cedar Ave, FRESNO, CA 93703",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+      "Walgreens.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T23:55:25.000Z",
+    "Latest report": "2021-02-27T17:44:24.000Z",
     "Latest report notes": [
       "Accommodation restrictions listed after screening on website."
     ],
@@ -130010,17 +130012,19 @@
     "Address": "262 North Highway 65, Lindsay, CA 93247",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "appointments thru : https://www.riteaid.com/Covid-19"
+      "RiteAid.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T23:56:46.000Z",
+    "Latest report": "2021-02-27T17:47:11.000Z",
     "Latest report notes": [
-      null
+      "This location is booked out for at least a month but there are some cancellations so they encourage you to sign up for an appointment if you qualify. The pharmacist said that today, 2/27/21 there are large Vax clinics at the Rite Aids in Visalia and Reedley"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.203891,
