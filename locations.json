@@ -931,11 +931,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:55:05.000Z",
+    "Latest report": "2021-02-27T02:15:49.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1602807,
@@ -28371,7 +28371,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7698178,
-    "Location Type": "Hospital / Clinic",
+    "Location Type": "Nursing home",
     "Longitude": -122.1958708,
     "Name": "Princeton Manor Healthcare Center",
     "id": "recCkTvNzoT8cjN0I"
@@ -53637,11 +53637,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T16:55:23.000Z",
+    "Latest report": "2021-02-27T02:12:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.6692511,
@@ -78977,14 +78977,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Benito County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:02:31.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T02:17:54.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.8338985,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.3861055,
@@ -79034,14 +79040,21 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(916) 983-7400"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T19:43:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T02:15:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.670333,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.1458461,
@@ -95765,14 +95778,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Doctor's office needs to schedule directly with hospital. "
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T02:16:02.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T02:13:43.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.274182,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.2577437,
@@ -97806,17 +97825,15 @@
     "Address": "22930 S WESTERN AVE, TORRANCE, CA 90501",
     "Affiliation": "Walgreens",
     "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T23:49:34.000Z",
+    "Latest report": "2021-02-27T02:22:13.000Z",
     "Latest report notes": [
       null
     ],
@@ -102517,11 +102534,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating staff"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T00:04:22.000Z",
+    "Latest report": "2021-02-27T02:14:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.03751209999999,
@@ -112743,15 +112760,14 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "Yes: appointment required"
+      "No: only vaccinating staff",
+      "No: only vaccinating health care workers"
     ],
     "County": "Orange County",
     "Has Report": 1,
     "Latest report": "2021-02-27T01:51:44.000Z",
-    "Latest report notes": [
-      "Feb 26: Currently only vaccinating healthcare workers."
-    ],
-    "Latest report yes?": 1,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 33.7110984,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.8843523,
@@ -113762,11 +113778,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: only vaccinating health care workers"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:20:28.000Z",
+    "Latest report": "2021-02-27T02:11:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.4632385,
