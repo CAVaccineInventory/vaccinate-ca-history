@@ -20969,10 +20969,20 @@
   {
     "Address": "2025 Van Ness Ave, San Francisco, CA 94109",
     "Affiliation": "CVS",
+    "Appointment scheduling instructions": [
+      "https://www.cvs.com/immunizations/covid-19-vaccine"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-27T18:28:46.000Z",
+    "Latest report notes": [
+      "\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.7942776,
     "Location Type": "Pharmacy",
     "Longitude": -122.4233966,
@@ -29145,14 +29155,15 @@
       "https://www.riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T19:32:16.000Z",
+    "Latest report": "2021-02-27T18:41:25.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "This location is only scheduling appointments through their website. There are about 20 appointments per day."
     ],
     "Latest report yes?": 1,
     "Latitude": 32.578055,
@@ -74259,18 +74270,16 @@
   {
     "Address": "6455 PACIFIC AVENUE, STOCKTON, CA 95207",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
-    ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:08:18.000Z",
+    "Latest report": "2021-02-27T18:28:48.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "This location is only scheduling appointments through their website. ONE APPOINTMENT AVAILABLE TODAY 2/27"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.00888,
@@ -106008,7 +106017,7 @@
     "Address": "4774 WEST LANE, STOCKTON, CA 95210",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "www.RiteAid.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -106016,7 +106025,7 @@
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:09:58.000Z",
+    "Latest report": "2021-02-27T18:38:04.000Z",
     "Latest report notes": [
       null
     ],
