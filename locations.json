@@ -7498,15 +7498,16 @@
     "Address": "601 PINE AVENUE, LONG BEACH, CA 90802",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
+      "RiteAid.com"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:57:41.000Z",
+    "Latest report": "2021-02-27T18:23:42.000Z",
     "Latest report notes": [
       null
     ],
@@ -84191,15 +84192,16 @@
     "Address": "802 BEVERLY BOULEVARD, MONTEBELLO, CA 90640",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "RiteAid.com"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:37:13.000Z",
+    "Latest report": "2021-02-27T18:12:02.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through their website."
     ],
@@ -111340,17 +111342,18 @@
     "Address": "1350 NORTH VASCO ROAD, LIVERMORE, CA 94551",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
+      "Riteaid.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-13T21:49:40.000Z",
+    "Latest report": "2021-02-27T18:17:42.000Z",
     "Latest report notes": [
-      "She said they have Vaccines but didn't say how much just that you have to make an appointment online. \n"
+      "She said they have Vaccines but didn't say how much just that you have to make an appointment online."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.717433,
