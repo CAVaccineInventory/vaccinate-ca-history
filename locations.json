@@ -37692,16 +37692,22 @@
     "Address": "39000 Bob Hope Dr, Rancho \nMirage, CA 92270",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "Mychart system "
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient",
+      "Scheduling second dose only"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-09T17:21:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T02:53:23.000Z",
+    "Latest report notes": [
+      "Feb 26. Currently only mainly providing second doses, but starting in April will start providing 1st doses to age 75+.  If you qualify for vaccine, you will be notified via Mychart system and can make appointments through that system.  They advised signing up for a mychart account if you do not have one already.  For qualified patients who are unable to access mychart, they will call to schedule appointment. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7634956,
     "Location Type": "Hospital / Clinic",
     "Longitude": -116.4054165,
