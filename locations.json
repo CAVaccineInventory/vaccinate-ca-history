@@ -24149,11 +24149,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Nevada County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T16:52:09.000Z",
+    "Latest report": "2021-02-27T23:31:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.22806670000001,
@@ -45805,17 +45805,19 @@
     "Address": "23 PENINSULA CENTER, ROLLING HILLS ESTATES, CA 90274",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "vaccinatelacounty.com"
+      "LA county website"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:48:59.000Z",
+    "Latest report": "2021-02-27T23:36:40.000Z",
     "Latest report notes": [
-      null
+      "Feb 27th: Check the LA county website for appointment and other details"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.775303,
@@ -53742,11 +53744,11 @@
     "Address": "2303 N VINEYARD AVE, OXNARD, CA 93036",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:57.000Z",
+    "Latest report": "2021-02-27T23:37:25.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.227391,
@@ -60181,11 +60183,11 @@
     "Address": "3705 E South St, Long Beach, CA 90805",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:34.000Z",
+    "Latest report": "2021-02-27T23:35:17.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.860368,
@@ -115224,14 +115226,20 @@
   {
     "Address": "1660 WINCHESTER BLVD, CAMPBELL, CA 95008",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:32:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.293245,
     "Location Type": "Pharmacy",
     "Longitude": -121.949646,
