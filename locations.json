@@ -17868,6 +17868,19 @@
     "id": "rec8BwjB1edtHn1Yi"
   },
   {
+    "Address": "1025 E. Adams Blvd., 1st Floor, Los Angeles, CA 90011",
+    "Affiliation": "CVS",
+    "County": "Los Angeles County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.0192623,
+    "Location Type": "Pharmacy",
+    "Longitude": -118.25544889999999,
+    "Name": "CVS #10915",
+    "id": "rec8CeVjm5U2brPDN"
+  },
+  {
     "Address": "1790 SHAW AVE, CLOVIS, CA 93611",
     "Affiliation": "Walgreens",
     "Availability Info": [
@@ -20470,6 +20483,17 @@
     "Longitude": -119.351745,
     "Name": "BOYDS PHARMACY",
     "id": "rec9OOxF7vyAhEoDe"
+  },
+  {
+    "Address": "3883 E. Foothill Blvd (NWC), Pasadena, CA 91107",
+    "County": "Los Angeles County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 34.1506003,
+    "Longitude": -118.06839240000001,
+    "Name": "CVS #1778",
+    "id": "rec9OrTqZIEyiUhIQ"
   },
   {
     "Address": "1030 Colorado Blvd., Eagle Rock CA, 90041",
@@ -89869,6 +89893,12 @@
     "Longitude": -119.974096,
     "Name": "RITE AID PHARMACY 6443",
     "id": "recfIv3wdP8lXJxUG"
+  },
+  {
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "id": "recfJbXO7bvQrOwZ8"
   },
   {
     "Address": "11795 W Olympic Blvd, Los Angeles, CA 90064",
