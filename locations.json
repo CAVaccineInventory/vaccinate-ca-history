@@ -47907,13 +47907,20 @@
     "Address": "3081 Park Drive\nFrazier Park, CA 93225, USA",
     "Affiliation": "Adventist Health",
     "Appointment scheduling instructions": [
-      "No appointment required "
+      "No appointment required - shots given on a First come, first served basis."
+    ],
+    "Availability Info": [
+      "Yes: restricted to county residents",
+      "Vaccinating essential workers",
+      "Yes: vaccinating 65+"
     ],
     "County": "Kern County",
     "Has Report": 1,
     "Latest report": "2021-02-28T14:59:48.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report notes": [
+      "As per the County, Adventist Health’s Mobile Clinic taking walk-ups on Sunday, 2/28, 10AM to 1PM.\n\nEligibility:\nPhase 1A, 65 and older, and Phase 1B priority groups – education, ag workers, emergency response."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.8198,
     "Location Type": "Mobile clinic",
     "Longitude": -118.94584,
@@ -54621,18 +54628,19 @@
     "Address": "700 Event Center Drive, Roseville, CA 95678",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "As of Feb 9th, all clinics for this week (through Feb 11th) were full. County recommends that those eligible text PLACERVACCINE to the number 898211 to receive text alerts when appointments are available."
+      "Appointments via https://www.placer.ca.gov/vaccineclinics#grounds\n(each date has a separate Calvax sign up link)\n\nCounty recommends that those eligible text PLACERVACCINE to the number 898211 to receive text alerts when appointments are available."
     ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-09T22:56:42.000Z",
+    "Latest report": "2021-02-28T15:14:36.000Z",
     "Latest report notes": [
-      "Feb 9: All appointments full through Feb 11th."
+      "When last checked (Feb 28th) there was availability for events from Mar 1st through Mar 5th.\n\nEligibility:\n- Health care workers in Phase 1A \n- Placer residents 65+, or\n- education, childcare and emergency services workers who are employed in Placer County\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.75931,
@@ -93093,6 +93101,30 @@
     "Longitude": -116.380037,
     "Name": "BORREGO COMMUNITY HEALTH FOUNDATION",
     "id": "recgYIbrMX6fFFXbj"
+  },
+  {
+    "Address": "10332 Fiske Road\nCoulterville, CA 95311, USA",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "First-come, first-served basis."
+    ],
+    "Availability Info": [
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
+    ],
+    "County": "Mariposa County",
+    "Has Report": 1,
+    "Latest report": "2021-02-28T15:09:39.000Z",
+    "Latest report notes": [
+      "As per the County, a walk-in clinic was held on Saturday, February 27th.\n\nFuture events to be posted on County website http://www.mariposacounty.org/2466/COVID-19-Vaccination\nor social media:\nhttps://www.facebook.com/MariposaCountyPublicHealth/\n\nEligibility:\n-Be 65 years old or older.\n-Be a Mariposa County Resident."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 37.74643,
+    "Location Type": "Super Site",
+    "Longitude": -120.13183,
+    "Name": "Greeley Hill Community Center - supersite",
+    "id": "recgYzYH4u1FLEnqp"
   },
   {
     "Address": "8536 Wilshire Blvd Ste 101, Beverly Hills, CA 90211",
