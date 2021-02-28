@@ -14459,8 +14459,12 @@
   {
     "Address": "797 S Arroyo Pkwy, Pasadena, CA 91105",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T23:38:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1319691,
@@ -120440,8 +120444,12 @@
   {
     "Address": "12742 Limonite Ave, Eastvale, CA 92880",
     "Affiliation": "Riverside Medical Clinic",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T23:39:33.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9742545,
