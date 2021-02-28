@@ -72827,11 +72827,11 @@
     "Address": "3201 W 6TH ST, LOS ANGELES, CA 90020",
     "Affiliation": "Walgreens",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:10.000Z",
+    "Latest report": "2021-02-28T00:01:05.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.06376,
@@ -89104,14 +89104,22 @@
   {
     "Address": "28047 SCOTT RD, MURRIETA, CA 92563",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "Albertsons.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Scheduling second dose only"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:53:35.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.639322,
     "Location Type": "Pharmacy",
     "Longitude": -117.169778,
@@ -100852,14 +100860,21 @@
   {
     "Address": "5949 E SPRING ST, LONG BEACH, CA 90808",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "562-496-1851"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: restricted to city residents"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T06:22:34.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:53:45.000Z",
+    "Latest report notes": [
+      "Feb 27: This location is offering the vaccine to 65 years and older residents of Long Beach with appointment only via phone call. There are appointments available on Feb 29. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.811609,
     "Location Type": "Pharmacy",
     "Longitude": -118.115802,
@@ -105959,14 +105974,21 @@
   {
     "Address": "3630 SAN PABLO DAM RD, EL SOBRANTE, CA 94803",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:56:03.000Z",
+    "Latest report notes": [
+      "Feb 27: availability will be clearer after Tuesday, per pharmacist"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.963724,
     "Location Type": "Pharmacy",
     "Longitude": -122.317689,
@@ -107319,14 +107341,20 @@
   {
     "Address": "7 Peninsula Center, Rolling Hills Estates, CA 90274",
     "Affiliation": "Pavilions",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T06:22:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-27T23:56:40.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.775819,
     "Location Type": "Pharmacy",
     "Longitude": -118.377758,
