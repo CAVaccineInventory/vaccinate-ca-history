@@ -115920,16 +115920,22 @@
     "Address": "Ukiah Fairgrounds\nMazzoni St, Ukiah, CA 95482",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Appointments required via https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics"
+      "Appointments via https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics"
     ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
     ],
     "County": "Mendocino County",
     "Has Report": 1,
-    "Latest report": "2021-01-29T10:42:12.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T15:53:49.000Z",
+    "Latest report notes": [
+      "As per the County, there will be additional events on Monday and Wednesday, March 1st and March 3rd.\n\nWhen last checked (Feb 28th), the Mar 1st event was full but the Mar 3rd event signup link hadnt been posted yet.\n\nEligibility:\nPhase 1A, Tiers 1 and 2 of Phase 1B, which includes Agricultural, Logging Industry Workers and those over 65 years of age."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.1611,
     "Location Type": "Super Site",
     "Longitude": -123.20726,
