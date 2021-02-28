@@ -18590,7 +18590,6 @@
     "id": "rec8UrDAjFoDb0CVH"
   },
   {
-    "Address": "5525 W Slauson Ave, Los Angeles, CA 90056\n",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -18606,7 +18605,7 @@
     "Latitude": 33.99018229999999,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.378426,
-    "Name": "Vencor Hospital – Los Angeles – Los Angeles",
+    "Name": "Vencor Hospital -Los Angeles",
     "id": "rec8UssBQXkXMIpBt"
   },
   {
@@ -41534,7 +41533,7 @@
   },
   {
     "Address": "1395 E Prosperity Ave Tulare, CA 93274",
-    "Affiliation": "Walgreens",
+    "Affiliation": "CVS",
     "Appointment scheduling instructions": [
       null
     ],
@@ -41551,7 +41550,7 @@
     "Latitude": 36.22642449999999,
     "Location Type": "Pharmacy",
     "Longitude": -119.3258445,
-    "Name": "Walgreens #9176",
+    "Name": "CVS Pharmacy",
     "id": "recIJPa0HNhHPJne9"
   },
   {
@@ -120991,7 +120990,7 @@
     "Latitude": 32.978496,
     "Location Type": "Pharmacy",
     "Longitude": -115.527733,
-    "Name": "CLINICA PHARMACY",
+    "Name": "Clinicas De Salud Del Pueblo Inc.",
     "id": "rectkkNUHCLf55Srg"
   },
   {
