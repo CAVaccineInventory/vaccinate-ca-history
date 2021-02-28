@@ -48892,14 +48892,21 @@
   {
     "Address": "4771 W Ashlan Ave, Fresno, CA 93722",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening#!"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T18:53:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T21:32:45.000Z",
+    "Latest report notes": [
+      "2/28: Appointments available, urging folks to sign up via https://www.walgreens.com/findcare/vaccination/covid-19/location-screening#!"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.793094,
     "Location Type": "Pharmacy",
     "Longitude": -119.879742,
@@ -91274,17 +91281,20 @@
     "Address": "515 W WASHINGTON ST, SAN DIEGO, CA 92103",
     "Affiliation": "Von's Pharmacy",
     "Appointment scheduling instructions": [
-      "vons.com"
+      "https://www.mhealthappointments.com/covidappt"
     ],
     "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T03:28:33.000Z",
+    "Latest report": "2021-02-28T21:27:46.000Z",
     "Latest report notes": [
-      "Appointments currently booked through March."
+      "2/28: Appointments currently booked through March."
     ],
     "Latest report yes?": 1,
     "Latitude": 32.749648,
@@ -102461,8 +102471,12 @@
   {
     "Address": "1625 E Main St Ste 100, El Cajon, CA 92021",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "San Diego County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T21:23:39.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.8094449,
@@ -113504,15 +113518,12 @@
   {
     "Address": "1415 Ross Avenue, El Centro, CA 92243",
     "Affiliation": "County",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: incorrect contact information"
     ],
     "County": "Imperial County",
     "Has Report": 1,
-    "Latest report": "2021-02-07T23:27:13.000Z",
+    "Latest report": "2021-02-28T21:33:13.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.78041,
