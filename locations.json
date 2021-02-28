@@ -16823,10 +16823,21 @@
   {
     "Address": "1207 E Florida Ave, Hemet, CA 92543",
     "Affiliation": "Apple Urgent Care",
+    "Appointment scheduling instructions": [
+      "http://www.appleurgentcare.com/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T20:38:05.000Z",
+    "Latest report notes": [
+      "Booked for the next two weeks, however cancellations have been occurring so check the website at 8:00am each day for same-day appt. For essential workers, need to have verification of job (i.e. paystub, badge, letter from employer. etc.)."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7473641,
     "Location Type": "Urgent care",
     "Longitude": -116.959341,
@@ -108347,15 +108358,12 @@
   {
     "Address": "15630 18th Avenue, Clearlake, CA 95422\n",
     "Affiliation": "Adventist Health",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Lake County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:26.000Z",
+    "Latest report": "2021-02-28T20:37:47.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.93570235222648,
@@ -124396,13 +124404,15 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T21:20:08.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T20:42:43.000Z",
+    "Latest report notes": [
+      "Feb 28,  offering only to residents of Catalina Island. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.3391987,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.3307081,
