@@ -18601,18 +18601,19 @@
     "Address": "2500 20th Street West, Rosamond, CA 93560",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "https://myturn.ca.gov"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Vaccinating essential workers"
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-25T21:59:24.000Z",
+    "Latest report": "2021-02-28T22:11:53.000Z",
     "Latest report notes": [
-      "Appointments for people 65+, and workers in healthcare, education, childcare, emergency services, and food and agriculture can sign up for appointments on https://myturn.ca.gov.\n\nWhen checked on 2/25, no appointments were available."
+      "Feb 28: phone recording today states to register via county website for folks in tiers 1a and 1b; documentation required for proof of age and / or profession\n\n\nOlder undated post: Appointments for people 65+, and workers in healthcare, education, childcare, emergency services, and food and agriculture can sign up for appointments on https://myturn.ca.gov. When checked on 2/25, no appointments were available."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.85751,
@@ -34876,15 +34877,12 @@
   {
     "Address": "2954 State Street\nSanta Barbara, CA 93105\n\n",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T03:20:22.000Z",
+    "Latest report": "2021-02-28T22:04:21.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.4405714,
@@ -64986,8 +64984,12 @@
   {
     "Address": "1246 W 155th St, Gardena, CA 90247",
     "Affiliation": "Kindred Hospital",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T22:15:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8901081,
@@ -102023,14 +102025,20 @@
   {
     "Address": "1046 COAST VILLAGE RD SUITE B, MONTECITO, CA 93108",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      "Uses county scheduling system"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 75+",
+      "Yes: appointment required"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-19T06:34:50.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T22:23:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.422008,
     "Location Type": "Pharmacy",
     "Longitude": -119.650583,
@@ -119211,8 +119219,12 @@
   {
     "Address": "14148 Francisquito Ave, Baldwin Park, CA 91706",
     "Affiliation": "Kindred Hospital",
+    "Availability Info": [
+      "No: not open to the public"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T22:01:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.063453,
@@ -133975,8 +133987,12 @@
   {
     "Address": "18785 Brookhurst St Suite 101, Fountain Valley, CA 92708",
     "Affiliation": "MemorialCare Health Service",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T22:06:11.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6898403,
