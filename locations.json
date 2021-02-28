@@ -41550,7 +41550,7 @@
     "Latitude": 36.22642449999999,
     "Location Type": "Pharmacy",
     "Longitude": -119.3258445,
-    "Name": "CVS Pharmacy",
+    "Name": "CVS Pharmacy #9176",
     "id": "recIJPa0HNhHPJne9"
   },
   {
@@ -54452,7 +54452,7 @@
     "Has Report": 1,
     "Latest report": "2021-02-27T23:07:42.000Z",
     "Latest report notes": [
-      "Feb 27.  Vaccinating phase1a and phase1b(tier 1).  See Kern County site for more info on eligible groups (https://kernpublichealth.com/covid-19-vaccine-schedule/).  "
+      "Feb 27.  Vaccinating phase 1a and phase 1b (tier 1).  See Kern County site for more info on eligible groups (https://kernpublichealth.com/covid-19-vaccine-schedule/).  "
     ],
     "Latest report yes?": 1,
     "Latitude": 35.340365,
@@ -59271,6 +59271,7 @@
     "id": "recQnmG6LxBrpZxUS"
   },
   {
+    "Address": "250 S Grand Ave, Glendora, CA 91741",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       null
@@ -74542,7 +74543,7 @@
     "Has Report": 1,
     "Latest report": "2021-02-27T18:28:48.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website. ONE APPOINTMENT AVAILABLE TODAY 2/27"
+      "Feb 27: This location is only scheduling appointments through their website. "
     ],
     "Latest report yes?": 1,
     "Latitude": 38.00888,
@@ -84504,7 +84505,7 @@
     "Has Report": 1,
     "Latest report": "2021-02-27T18:12:02.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "Feb 27: This location is only scheduling appointments through their website."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.017293,
@@ -111823,9 +111824,6 @@
     "County": "Alameda County",
     "Has Report": 1,
     "Latest report": "2021-02-27T18:17:42.000Z",
-    "Latest report notes": [
-      "She said they have Vaccines but didn't say how much just that you have to make an appointment online."
-    ],
     "Latest report yes?": 1,
     "Latitude": 37.717433,
     "Location Type": "Pharmacy",
