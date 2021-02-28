@@ -86909,15 +86909,12 @@
   {
     "Address": "875 N Brea Blvd, Brea, CA 92821",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: incorrect contact information"
+      "No: not open to the public"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-03T01:59:53.000Z",
+    "Latest report": "2021-02-28T23:02:38.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9344913,
