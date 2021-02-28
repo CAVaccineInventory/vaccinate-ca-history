@@ -33739,14 +33739,20 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "619-287-3270"
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:31:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T21:14:43.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.7764722,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.0572902,
@@ -75952,15 +75958,12 @@
   {
     "Address": "1600 N Rose Ave, Oxnard, CA 93030",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-03T17:07:42.000Z",
+    "Latest report": "2021-02-28T21:19:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2165793,
