@@ -56578,6 +56578,32 @@
     "id": "recPgIBWfkpa5BJD8"
   },
   {
+    "Address": "618 Everitt Memorial Hwy\nMt Shasta, CA 96067, USA",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.co.siskiyou.ca.us/publichealth/page/mt-shasta-covid-19-vaccination-clinic-342021"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
+    ],
+    "County": "Siskiyou County",
+    "Has Report": 1,
+    "Latest report": "2021-02-28T18:01:19.000Z",
+    "Latest report notes": [
+      "County has scheduled a 1st dose vaccine clinic on Thursday March 4th, 2021, from 10:00am-2:00pm.\n\nWhen last checked (Feb 28th), appointments were full. County recommends checking their website often as additional events are scheduled.\n\nhttps://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information\n\nEligibility: Phase 1a, Tiers 1-3 and Phase 1b, Tier 1\n- Healthcare Workers\n- Individuals 65 and over\n- Education & Childcare Workers\n- Food & Agriculture Workers\n- Emergency Services"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 41.32004,
+    "Location Type": "Super Site",
+    "Longitude": -122.30559,
+    "Name": "Mt. Shasta Armory - supersite",
+    "id": "recPj2SZazb2Art33"
+  },
+  {
     "Address": "100 Hospital Drive, 2nd Floor, Vallejo, CA 94589",
     "Affiliation": "Sutter",
     "Appointment scheduling instructions": [
