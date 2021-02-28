@@ -131543,14 +131543,20 @@
   {
     "Address": "3400 TELEGRAPH AVE, OAKLAND, CA 94609",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com "
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T20:32:46.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.823394,
     "Location Type": "Pharmacy",
     "Longitude": -122.266077,
