@@ -45539,6 +45539,19 @@
     "id": "recKCiHVhz25tZU5F"
   },
   {
+    "Address": "127 W El Portal Drive\nMerced, CA 95348",
+    "Affiliation": "None / Unknown / Unimportant",
+    "County": "Merced County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 37.32743,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -120.46973,
+    "Name": "Merced Faculty Associates - various locations",
+    "id": "recKDAAUb8xaZcIAC"
+  },
+  {
     "Address": "402 H ST, MODESTO, CA 95351",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
@@ -51388,21 +51401,14 @@
   {
     "Address": "885 EUCLID AVE, NATIONAL CITY, CA 91950",
     "Affiliation": "Walgreens",
-    "Appointment scheduling instructions": [
-      "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening"
-    ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "No: incorrect contact information"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T22:30:23.000Z",
-    "Latest report notes": [
-      "Feb 26: Appointments full through Tuesday, Mar. 2, and expected continue to fill quickly."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-28T19:11:14.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 32.68191,
     "Location Type": "Pharmacy",
     "Longitude": -117.08066,
