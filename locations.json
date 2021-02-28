@@ -1585,14 +1585,16 @@
     "Address": "1444 SHATTUCK PLACE, BERKELEY, CA 94709",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      null
+      "City website"
     ],
     "Availability Info": [
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:41:37.000Z",
+    "Latest report": "2021-02-28T20:00:06.000Z",
     "Latest report notes": [
       "Fill out interest form through them here: https://public.govdelivery.com/accounts/CABERKE/signup/22371. As of 2/16/2021, only vaccinating 65+"
     ],
@@ -68462,11 +68464,11 @@
     "Address": "100 W. California Blvd.\nPasadena, CA  91105",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T16:58:53.000Z",
+    "Latest report": "2021-02-28T19:59:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.13460499999999,
