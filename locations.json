@@ -47775,7 +47775,7 @@
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T23:52:28.000Z",
+    "Latest report": "2021-02-28T20:46:09.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.84803060000001,
@@ -72283,15 +72283,12 @@
   {
     "Address": "1900 Sullivan Ave\nDaly City, CA 94015",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Mateo County",
     "Has Report": 1,
-    "Latest report": "2021-02-07T22:14:54.000Z",
+    "Latest report": "2021-02-28T20:44:56.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.6799,
@@ -84612,11 +84609,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:18:36.000Z",
+    "Latest report": "2021-02-28T20:47:42.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8731648,
