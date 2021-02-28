@@ -9360,14 +9360,19 @@
   {
     "Address": "10877 Conductor Blvd. Ste 400, Sutter Creek, CA 95685",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via website (each date has a separate Calvax signup link) https://www.amadorgov.org/services/public-health/covid-19/vaccine-information"
+    ],
     "Availability Info": [
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+"
     ],
     "County": "Amador County",
     "Has Report": 1,
-    "Latest report": "2021-02-26T18:59:01.000Z",
+    "Latest report": "2021-02-28T13:50:33.000Z",
     "Latest report notes": [
-      "prompted to leave voicemail to get assistance registering for vaccine"
+      "As per the County, clinics scheduled for first week of March.\n\nWhen last checked via the website (Feb 28th), there was availability for events from March 2th through March 9th.\n\nEligibility:\nAmador residents 65 years and older ONLY. "
     ],
     "Latest report yes?": 1,
     "Latitude": 38.3648529,
