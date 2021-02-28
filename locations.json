@@ -47906,8 +47906,12 @@
   {
     "Address": "3081 Park Drive\nFrazier Park, CA 93225, USA",
     "Affiliation": "Adventist Health",
+    "Appointment scheduling instructions": [
+      "No appointment required "
+    ],
     "County": "Kern County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T14:59:48.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.8198,
