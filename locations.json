@@ -59346,10 +59346,13 @@
     "Address": "30th Medical Group\n338 S. Dakota Ave\nVandenberg AFB, CA 93437\nUnited States",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      "Appointments available via Eventbrite:\nhttps://www.eventbrite.com/o/30-mdg-32316332837"
+      "Appointments available to Vandenberg Airforce members and beneficiaries via Eventbrite:\nhttps://www.eventbrite.com/o/30-mdg-32316332837"
     ],
     "Availability Info": [
-      "Yes: must be a current patient"
+      "Yes: must be a current patient",
+      "Yes: appointment required",
+      "Yes: vaccinating 65+",
+      "No: not open to the public"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
