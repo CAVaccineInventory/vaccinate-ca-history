@@ -50674,7 +50674,7 @@
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T22:49:32.000Z",
+    "Latest report": "2021-02-28T21:41:17.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.1214679,
@@ -54702,15 +54702,17 @@
     "Address": "7100 AVENIDA ENCINAS  C, CARLSBAD, CA 92009",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      null
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:49:00.000Z",
+    "Latest report": "2021-02-28T21:45:08.000Z",
     "Latest report notes": [
       null
     ],
