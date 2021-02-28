@@ -50321,14 +50321,22 @@
   {
     "Address": "2589 Jensen Ave, Sanger, CA 93657",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "Walgreens website and Walgreens app."
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:46.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T18:58:46.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.706141,
     "Location Type": "Pharmacy",
     "Longitude": -119.573927,
@@ -76521,13 +76529,16 @@
     "Address": "900 WEST HENDERSON, PORTERVILLE, CA 93257",
     "Affiliation": "Save Mart Pharmacy",
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: appointment required"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T00:50:08.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T19:02:47.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.081695,
     "Location Type": "Pharmacy",
     "Longitude": -119.037901,
@@ -92996,7 +93007,7 @@
     "Latitude": 37.385787,
     "Location Type": "Pharmacy",
     "Longitude": -120.73315,
-    "Name": "LCH Pharmacy",
+    "Name": "Livingston Community Health (LCH) Pharmacy",
     "id": "recgWGiJGrrue65p1"
   },
   {
