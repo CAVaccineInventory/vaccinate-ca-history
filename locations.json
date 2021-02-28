@@ -7302,19 +7302,14 @@
   {
     "Address": "1165 ARNOLD DRIVE, MARTINEZ, CA 94553",
     "Affiliation": "Rite-Aid",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "Yes: vaccinating 75+"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T21:03:17.000Z",
-    "Latest report notes": [
-      "Feb 14 They receive patients through the Contra Costa County website. Cannot sign up through them. "
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-02-28T18:34:01.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 37.994904,
     "Location Type": "Pharmacy",
     "Longitude": -122.10138,
@@ -15424,14 +15419,20 @@
   {
     "Address": "1344 W Redondo Beach Blvd, GARDENA, CA 90247",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:23:13.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T18:30:08.000Z",
+    "Latest report notes": [
+      "Currently only vaccinating Seniors. Appointments encouraged but individuals can go in-person or sign up online a few days advance for some sort of walk-in list, and they will call if they have extra availability. Not restricted to county residents. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.891098,
     "Location Type": "Pharmacy",
     "Longitude": -118.299562,
@@ -112906,6 +112907,19 @@
     "Longitude": -120.205059,
     "Name": "RITE AID PHARMACY 06108",
     "id": "recpqSu5IgvgbUGWg"
+  },
+  {
+    "Address": "Buhach Colony High School\n1800 N Buhach Rd #1800, Atwater, CA 95301, United States",
+    "Affiliation": "County",
+    "County": "Merced County",
+    "Has Report": 0,
+    "Latest report notes": "",
+    "Latest report yes?": 0,
+    "Latitude": 37.31438,
+    "Location Type": "Super Site",
+    "Longitude": -120.57753,
+    "Name": "Buhach Colony High School - Castle Family Health Center supersite",
+    "id": "recprAh4pTCZ1iKKW"
   },
   {
     "Address": "12475 Rancho Bernardo Rd, San Diego, CA 92128",
