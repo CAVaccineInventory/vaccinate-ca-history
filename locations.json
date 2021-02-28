@@ -1455,17 +1455,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating staff",
-      "No: not open to the public",
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T20:10:14.000Z",
+    "Latest report": "2021-02-28T20:06:52.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7628876,
@@ -13965,14 +13960,21 @@
   {
     "Address": "9180 FRANKLIN BLVD, ELK GROVE, CA 95758",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "www.Walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T20:10:32.000Z",
+    "Latest report notes": [
+      "Feb 28: this location will accept vaccine appointments for educators"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.424239,
     "Location Type": "Pharmacy",
     "Longitude": -121.448618,
@@ -28598,14 +28600,20 @@
   {
     "Address": "1492 Blue Oaks Blvd, Roseville, CA 95747",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "www.Walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Placer County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T20:21:58.000Z",
+    "Latest report notes": [
+      "Feb 28: educators may also schedule appointments"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.795858,
     "Location Type": "Pharmacy",
     "Longitude": -121.328108,
@@ -76082,16 +76090,21 @@
     "Address": "2728 Ming Ave., Bakersfield, CA 93304",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "(661) 885-9900"
     ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T00:26:29.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T20:07:28.000Z",
+    "Latest report notes": [
+      "Feb 28: appointments full for 2 weeks but if you call, you can be added to a waitlist. They are now accepting education and agriculture employees for vaccination in addition to seniors 65+."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.34032218111076,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.03384903728741,
@@ -95461,11 +95474,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Butte County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T23:56:21.000Z",
+    "Latest report": "2021-02-28T20:23:31.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.3679716,
@@ -98705,8 +98718,12 @@
   {
     "Address": "8700 Beverly Blvd South Tower Lower Level Suite Rm A841, Los Angeles, CA 90048",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T20:15:55.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0750187,
