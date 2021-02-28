@@ -13155,10 +13155,21 @@
   {
     "Address": "1365 S Grand Ave, Glendora, CA 91740",
     "Affiliation": "Optumserve",
+    "Appointment scheduling instructions": [
+      "Optum is reaching out to its patients to schedule vaccination appointments."
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 75+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T21:54:13.000Z",
+    "Latest report notes": [
+      "Current Optum patients 75+ can request appointments through their Optum ID "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.1148582,
     "Location Type": "Urgent care",
     "Longitude": -117.8739222,
