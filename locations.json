@@ -47569,8 +47569,12 @@
   {
     "Address": "2110 N Bellflower Blvd, Long Beach, CA 90815",
     "Affiliation": "MemorialCare Health Service",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T22:51:44.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7953334,
@@ -78824,10 +78828,22 @@
   {
     "Address": "9460 No Name Uno, Gilroy, CA 95020 ",
     "Affiliation": "Bay Area Community Health",
+    "Appointment scheduling instructions": [
+      "https://bach.health/bach-south/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Santa Clara County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T22:45:36.000Z",
+    "Latest report notes": [
+      "Feb 28: essential workers such as educators, childcare, food service and healthcare providers"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.0378283,
     "Location Type": "Hospital / Clinic",
     "Longitude": -121.5709824,
