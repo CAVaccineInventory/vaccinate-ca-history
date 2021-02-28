@@ -56545,11 +56545,11 @@
     "Address": "255 Cochran St, SIMI VALLEY, CA 93065",
     "Affiliation": "Walmart",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:58.000Z",
+    "Latest report": "2021-02-28T22:55:02.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.281957,
@@ -107935,14 +107935,21 @@
   {
     "Address": "2899 JAMACHA RD, EL CAJON, CA 92019",
     "Affiliation": "Sav-on Pharmacy",
+    "Appointment scheduling instructions": [
+      "www.Albertsons.com"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T22:43:22.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T22:59:32.000Z",
+    "Latest report notes": [
+      "Feb 28: No vaccine in stock and do not expect to receive week of March 1 but hoping for a shipment week of March 8. \n\nFeb 23: Vaccinating in cycles - currently only doing 2nd doses. In March they will have availability again.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 32.739871,
     "Location Type": "Pharmacy",
     "Longitude": -116.938088,
