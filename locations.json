@@ -377,15 +377,15 @@
     "Address": "515 S State Highway 49, Jackson CA, 95642",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      "cvs.com/coronavirus"
+      "https://www.cvs.com/store-locator/details-directions/9233"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Amador County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T22:15:48.000Z",
+    "Latest report": "2021-02-28T18:14:09.000Z",
     "Latest report notes": [
       null
     ],
@@ -74974,16 +74974,13 @@
   {
     "Address": "906 E St., Marysville CA, 95901",
     "Affiliation": "CVS",
-    "Appointment scheduling instructions": [
-      "cvs.com/coronavirus"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Yuba County",
     "Has Report": 1,
-    "Latest report": "2021-02-14T22:21:09.000Z",
+    "Latest report": "2021-02-28T18:20:01.000Z",
     "Latest report notes": [
       null
     ],
@@ -120536,14 +120533,21 @@
   {
     "Address": "4733 E PALM CANYON DR, PALM SPRINGS, CA 92264",
     "Affiliation": "Von's Pharmacy",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T06:03:41.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-02-28T18:26:42.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.792095,
     "Location Type": "Pharmacy",
     "Longitude": -116.494555,
