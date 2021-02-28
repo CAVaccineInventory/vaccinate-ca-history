@@ -59343,6 +59343,28 @@
     "id": "recQoqWECHVJ6WCm2"
   },
   {
+    "Address": "30th Medical Group\n338 S. Dakota Ave\nVandenberg AFB, CA 93437\nUnited States",
+    "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Appointments available via Eventbrite:\nhttps://www.eventbrite.com/o/30-mdg-32316332837"
+    ],
+    "Availability Info": [
+      "Yes: must be a current patient"
+    ],
+    "County": "Santa Barbara County",
+    "Has Report": 1,
+    "Latest report": "2021-02-28T13:25:22.000Z",
+    "Latest report notes": [
+      "The 30th Medical Group is working in accordance with the DoD Population Schema to provide vaccines for the Airmen and Guardians of Team Vandenberg along with mission essential Government Civilians and Contractors.\n\nThere are several events scheduled in March (4th, 18th and 25th).\n\nEligibility:\n\n- Currently offering vaccines to ALL Active Duty members, Reservists, Government Civilians, and beneficiaries 65 years of age or with high risk medical conditions.\n- You must have base access to Vandenberg, AFB in order to attend this vaccine Point of Distribution (POD)."
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.74486,
+    "Location Type": "Hospital / Clinic",
+    "Longitude": -120.53844,
+    "Name": "30th Medical Group - Vandenberg AFB",
+    "id": "recQpM9Y4DAuJcZQ5"
+  },
+  {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: may be a vaccination site in the future"
