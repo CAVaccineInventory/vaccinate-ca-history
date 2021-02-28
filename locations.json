@@ -64973,10 +64973,21 @@
   {
     "Address": "1344 STOCKTON STREET, SAN FRANCISCO, CA 94133",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "San Francisco",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T20:51:56.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.798246,
     "Location Type": "Pharmacy",
     "Longitude": -122.408384,
