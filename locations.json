@@ -38788,8 +38788,12 @@
   {
     "Address": "18876 Van Buren Boulevard Suite 101, Riverside, CA 92508",
     "Affiliation": "Southern California Emergency Medicine",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T23:59:01.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8876533,
@@ -72046,10 +72050,22 @@
   {
     "Address": "1181 N Mt Vernon Ave, Colton, CA 92324",
     "Affiliation": "Southern California Emergency Medicine",
+    "Appointment scheduling instructions": [
+      "http://www.coltonurgentcare.com/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Scheduling second dose only"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-02-28T23:56:48.000Z",
+    "Latest report notes": [
+      "2/28  -They are only giving 2nd doses now to people they already gave 1st doses to. Their second dose appointments are full for the next three weeks. Check the website for when they will open to 1st doses again.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0772561,
     "Location Type": "Urgent care",
     "Longitude": -117.3148889,
