@@ -24128,10 +24128,23 @@
   {
     "Address": "651 N State St Ste 5, San Jacinto, CA 92583",
     "Affiliation": "Borrego Health",
+    "Appointment scheduling instructions": [
+      "(951) 487-8506"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient",
+      "Yes: restricted to county residents"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:00:14.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.79541,
     "Location Type": "Hospital / Clinic",
     "Longitude": -116.9701064,
@@ -24520,17 +24533,17 @@
   {
     "Address": "191 E Polk St, Coalinga, CA 93210",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:13:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T19:01:48.000Z",
+    "Latest report notes": [
+      "Mar 1: Vaccinations open to 65+.  Call to get put on waitlist; no hard appointments currently due to backlog.  This lovation had to cancel appoints in late February due to lack of supply. "
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.1368212,
     "Location Type": "Hospital / Clinic",
     "Longitude": -120.3598188,
@@ -48490,13 +48503,15 @@
   },
   {
     "Address": "10 Congress St Suite 208, Pasadena, CA 91105",
+    "Affiliation": "Huntington Hospitals",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1338093,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1506226,
-    "Name": "Internal Medicine - Congress",
+    "Name": "Huntington Health - Pasadena Congress Location",
     "id": "recLghiosKw0w6aZm"
   },
   {
@@ -88073,6 +88088,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1331764,
+    "Location Type": "Nursing home",
     "Longitude": -118.2569107,
     "Name": "Glenhaven Healthcare",
     "id": "receBa1pg7HW0JPew"
@@ -95002,6 +95018,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.068804,
+    "Location Type": "Nursing home",
     "Longitude": -118.1223739,
     "Name": "Heritage Manor",
     "id": "rechDPlW0ukxred87"
