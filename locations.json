@@ -24956,10 +24956,22 @@
   {
     "Address": "251 E. Webster St, Colusa, CA 95932",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "https://www.countyofcolusa.org/99/Public-Health"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "Colusa County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:06:39.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 39.2067889,
     "Location Type": "Health department",
     "Longitude": -121.9998117,
@@ -25369,11 +25381,13 @@
   },
   {
     "Address": "1311 N San Fernando Blvd, Burbank, CA 91504",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1893761,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3207868,
     "Name": "All-Inclusive CHC-Burbank",
     "id": "recBPP5CdVdPzjjVG"
@@ -28428,11 +28442,13 @@
   },
   {
     "Address": "3750 Garnet St, Torrance, CA 90503",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8430788,
+    "Location Type": "Nursing home",
     "Longitude": -118.3529621,
     "Name": "Bay Crest Care Center",
     "id": "recCdujFd8i7aLt8n"
@@ -29853,17 +29869,17 @@
     "Address": "2059 SOUTH GAREY AVENUE, POMONA, CA 91766",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:42:08.000Z",
+    "Latest report": "2021-03-01T18:03:02.000Z",
     "Latest report notes": [
-      null
+      "65+ and healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.033852,
@@ -39556,14 +39572,14 @@
       "https://www.cvs.com/immunizations/covid-19-vaccine"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:08:42.000Z",
+    "Latest report": "2021-03-01T17:58:05.000Z",
     "Latest report notes": [
-      "This location is only accepting appointments through their website."
+      "3/1/21: They opened a new tier today expanding which groups who are eligible, and right now there are plenty of appointments this week."
     ],
     "Latest report yes?": 1,
     "Latitude": 34.1073,
@@ -42241,11 +42257,13 @@
   },
   {
     "Address": "925 W Alameda Ave, Burbank, CA 91506",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1637894,
+    "Location Type": "Nursing home",
     "Longitude": -118.3130338,
     "Name": "Alameda Care Center",
     "id": "recIXTJn0kgApIl88"
@@ -45497,15 +45515,16 @@
     "Address": "6405 EL CAJON BOULEVARD, SAN DIEGO, CA 92115",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:53:26.000Z",
+    "Latest report": "2021-03-01T18:10:43.000Z",
     "Latest report notes": [
       null
     ],
@@ -50558,15 +50577,12 @@
   {
     "Address": "263 S. West St.\nTulare, CA 93274",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: incorrect contact information"
     ],
     "County": "Tulare County",
     "Has Report": 1,
-    "Latest report": "2021-02-03T00:51:42.000Z",
+    "Latest report": "2021-03-01T18:04:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 36.20504825282748,
@@ -54853,18 +54869,13 @@
     "Address": "320 W Cedar St Ste 103, San Diego, CA 92101",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "Yes: coming soon",
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T22:15:21.000Z",
-    "Latest report notes": [
-      "Jan 26: Currently fully booked, but new appointments come online each week. Sign up for the newsletter to be informed of new slots. https://www.remedyrx.com/pages/covid-vaccinations  2/16/2021:  Expecting more vaccine soon.  First priority will be for people due for second dose.  Then will follow county guidelines.  Appt. can be made a remedyrx.com  "
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-03-01T18:04:48.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 32.722117,
     "Location Type": "Pharmacy",
     "Longitude": -117.165878,
@@ -63786,11 +63797,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-16T17:39:15.000Z",
+    "Latest report": "2021-03-01T18:10:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8072978,
@@ -66289,11 +66300,13 @@
   },
   {
     "Address": "15115 S Vermont Ave, Gardena, CA 90247",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8943824,
+    "Location Type": "Nursing home",
     "Longitude": -118.2922745,
     "Name": "Kei Ai South Bay Healthcare Center",
     "id": "recTsw1KdoqMmhcaJ"
@@ -66336,17 +66349,18 @@
     "Address": "653 North Golden State Blvd, TURLOCK, CA 95380",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:47:56.000Z",
+    "Latest report": "2021-03-01T18:10:02.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "Healthcare workers eligible. Scheduling first doses only."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.499516,
@@ -66434,11 +66448,13 @@
   },
   {
     "Address": "4619 Rosemead Blvd, Rosemead, CA 91770",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0887274,
+    "Location Type": "Mental Health",
     "Longitude": -118.0738133,
     "Name": "BHC Alhambra",
     "id": "recTvl1B6okQYGI2y"
@@ -67567,11 +67583,13 @@
   },
   {
     "Address": "6600 Sepulveda Blvd, Van Nuys, CA 91411",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.190565,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.465281,
     "Name": "Berkley Valley",
     "id": "recUS37nrxKI0JPfi"
@@ -71613,11 +71631,13 @@
   },
   {
     "Address": "330 Mission Rd, Glendale, CA 91205",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1267509,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.25177,
     "Name": "Leisure Glen Post Acute Care Center",
     "id": "recWZmFJ563T87VuT"
@@ -77551,11 +77571,13 @@
   },
   {
     "Address": "13400 Sherman Way, Los Angeles, CA 91605",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.200861,
+    "Location Type": "Nursing home",
     "Longitude": -118.425303,
     "Name": "Valley Palms Care Center",
     "id": "recZKKnH8NydcrW8a"
@@ -87772,11 +87794,13 @@
   },
   {
     "Address": "43322 Gingham Ave, Suite 102, Lancaster, CA 93535",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.6699689,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1218721,
     "Name": "Bartz Altadonna CHC- 43322 Gingham Ave",
     "id": "rece1y536Kjv9TOz2"
@@ -93138,11 +93162,13 @@
   },
   {
     "Address": "9201 W Sunset Blvd Ste 812, West Hollywood, CA 90069",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0908596,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.3926447,
     "Name": "SoCal Men's Medical Group -Mezz 135",
     "id": "recgWY1EWIB77eRnj"
@@ -93559,15 +93585,15 @@
     "Address": "9133 KIEFER BOULEVARD, SACRAMENTO, CA 95826",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
+      "riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:22:43.000Z",
+    "Latest report": "2021-03-01T17:58:50.000Z",
     "Latest report notes": [
       null
     ],
@@ -93796,11 +93822,13 @@
   },
   {
     "Address": "3500 E Pacific Coast Hwy, Long Beach, CA 90804",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7896114,
+    "Location Type": "Specialist",
     "Longitude": -118.1509882,
     "Name": "AHF Long Beach HCC",
     "id": "recgoVkMO2cXKfKBe"
@@ -102775,15 +102803,12 @@
   {
     "Address": "72 S Ocean Ave, CAYUCOS, CA 93430",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "\nwww.cayucospharmacy.com"
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Luis Obispo County",
     "Has Report": 1,
-    "Latest report": "2021-02-12T01:02:04.000Z",
+    "Latest report": "2021-03-01T18:09:46.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.446874,
@@ -103972,11 +103997,13 @@
   },
   {
     "Address": "214 S Atlantic Blvd, Alhambra, CA 91801",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0889091,
+    "Location Type": "Nursing home",
     "Longitude": -118.1331634,
     "Name": "Atherton Baptist Homes",
     "id": "reclheayTzPEQeuSt"
@@ -104474,16 +104501,16 @@
     "Address": "5030 HAMNER AVE, EASTVALE, CA 91752",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/COVID-19-Vaccine"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: restricted to county residents",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:31:59.000Z",
+    "Latest report": "2021-03-01T18:01:52.000Z",
     "Latest report notes": [
       "This location is only scheduling vaccines through the county website."
     ],
@@ -112411,6 +112438,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0974311,
+    "Location Type": "Nursing home",
     "Longitude": -118.3023605,
     "Name": "Brier Oak On Sunset",
     "id": "recpariJ9ci2b9SGf"
@@ -122293,11 +122321,13 @@
   },
   {
     "Address": "2707 S Central Ave, Los Angeles, CA 90011",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0176099,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2557408,
     "Name": "Central Neighborhood Health Foundation",
     "id": "recuIjg8fMp7HIfh8"
@@ -133247,11 +133277,13 @@
   },
   {
     "Address": "1601 S Baldwin Ave, Arcadia, CA 91007",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1209329,
+    "Location Type": "Nursing home",
     "Longitude": -118.0557185,
     "Name": "Arcaida Care Center - 1601 S. Baldwin Ave",
     "id": "reczM5laRxTGdeeqA"
