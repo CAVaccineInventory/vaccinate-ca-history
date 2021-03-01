@@ -12188,15 +12188,16 @@
     "Address": "3515 DELMAR HEIGHTS RD, SAN DIEGO, CA 92130",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html"
+      null
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:17:59.000Z",
+    "Latest report": "2021-03-01T17:02:55.000Z",
     "Latest report notes": [
       "This location is only scheduling appointments through the county website."
     ],
@@ -22714,7 +22715,7 @@
     "Address": "4044 Eagle Rock Boulevard, Los Angeles, CA 90065",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19 "
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
@@ -22722,9 +22723,9 @@
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:28:45.000Z",
+    "Latest report": "2021-03-01T17:15:55.000Z",
     "Latest report notes": [
-      null
+      "Mar 1 Currently vaccinating healthcare workers, persons 65 years and older, food and agriculture , emergency services, education and childcare. Make appointment via website"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.120362,
@@ -38391,17 +38392,18 @@
     "Address": "1101 FRESNO STREET, FRESNO, CA 93706",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "riteaid.com"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:53:49.000Z",
+    "Latest report": "2021-03-01T16:58:01.000Z",
     "Latest report notes": [
-      null
+      "Also suggested Rite Aid in Reedley may have more availability\n"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.730475,
@@ -62821,17 +62823,18 @@
     "Address": "3230 WEST SLAUSON AVENUE, LOS ANGELES, CA 90043",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:29:47.000Z",
+    "Latest report": "2021-03-01T16:55:11.000Z",
     "Latest report notes": [
-      "This location does not vaccinate on Mondays. Check the listed scheduling website frequently as this location reports daily appointment cancellations and no-shows."
+      "they do not do shots on Saturdays and Sundays and they said you can also check the county website as well"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.98885,
@@ -112948,18 +112951,18 @@
     "Address": "1528 EAST AMAR ROAD, WEST COVINA, CA 91792",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:28:06.000Z",
+    "Latest report": "2021-03-01T17:14:26.000Z",
     "Latest report notes": [
-      null
+      "first responders, restaurant workers, teachers, frontline workers, 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.030814,
@@ -133731,15 +133734,17 @@
     "Address": "7506 PACIFIC AVE, STOCKTON, CA 95207",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      "sjready.org"
+      "savemart.com"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "San Joaquin County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:25:12.000Z",
+    "Latest report": "2021-03-01T17:09:56.000Z",
     "Latest report notes": [
       null
     ],
