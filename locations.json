@@ -5090,17 +5090,17 @@
     "Address": "1201 SOUTH COAST HIGHWAY, OCEANSIDE, CA 92054",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "riteaid.com/pharmacy/covid-qualifier"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:54:53.000Z",
+    "Latest report": "2021-03-01T17:18:05.000Z",
     "Latest report notes": [
-      null
+      "teachers, frontline workers, 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.183436,
@@ -10868,17 +10868,17 @@
     "Address": "1830 MITCHELL ROAD, CERES, CA 95307",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier "
+      "riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 75+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:59:46.000Z",
+    "Latest report": "2021-03-01T17:21:42.000Z",
     "Latest report notes": [
-      null
+      "food and agriculture, healthcare workers, 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 37.602509,
@@ -17178,18 +17178,17 @@
     "Address": "2011 WEST SHAW AVENUE, FRESNO, CA 93711",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "ritea.id/california"
+      null
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: appointment calendar currently full"
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T02:57:59.000Z",
+    "Latest report": "2021-03-01T17:34:03.000Z",
     "Latest report notes": [
-      null
+      "healthcare workers and 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.808,
@@ -22573,17 +22572,17 @@
     "Address": "10635 FOLSOM BLVD, RANCHO CORDOVA, CA 95670",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx"
+      "safeway.com/covid"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:39:31.000Z",
+    "Latest report": "2021-03-01T17:27:24.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through the county website."
+      null
     ],
     "Latest report yes?": 1,
     "Latitude": 38.595155,
@@ -28021,17 +28020,17 @@
     "Address": "507 TELEGRAPH CANYON ROAD, CHULA VISTA, CA 91910",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:36:54.000Z",
+    "Latest report": "2021-03-01T17:29:44.000Z",
     "Latest report notes": [
-      null
+      "All eligibility is done online, the pharmacist does not know if there are other groups or limits on accommodations."
     ],
     "Latest report yes?": 1,
     "Latitude": 32.628862,
@@ -34873,15 +34872,16 @@
     "Address": "1180 N STATE STREET, SAN JACINTO, CA 92583",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:01:15.000Z",
+    "Latest report": "2021-03-01T17:37:20.000Z",
     "Latest report notes": [
       "This location is only accepting appointments through their website."
     ],
@@ -41845,17 +41845,17 @@
     "Address": "1988 FREEDOM BOULEVARD PAJARO VALLEY CENTER, FREEDOM, CA 95019",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "county website or riteaid.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:05:07.000Z",
+    "Latest report": "2021-03-01T17:31:16.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      null
     ],
     "Latest report yes?": 1,
     "Latitude": 36.938683,
@@ -52830,17 +52830,17 @@
     "Address": "431 34th St, Bakersfield, CA 93301",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:22:04.000Z",
+    "Latest report": "2021-03-01T17:21:39.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "Mar 1 Currently offering COVID19 vaccines to Phase 1A all 3 tiers, Phase 1B Tier 1 only.  Appointments via website only."
     ],
     "Latest report yes?": 1,
     "Latitude": 35.39,
@@ -71215,17 +71215,17 @@
     "Address": "1001 NORTH CENTRAL AVENUE, COMPTON, CA 90222",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      null
+      "Uses county scheduling system"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T20:31:34.000Z",
+    "Latest report": "2021-03-01T17:36:02.000Z",
     "Latest report notes": [
-      "2/15/2021:  They have vaccine.  Appointment must be made through LA county vaccine website.  "
+      "3/1/2021: They have vaccine. Appointment must be made through LA county vaccine website. http://www.publichealth.lacounty.gov/media/Coronavirus/vaccine/index.htm"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.903123,
@@ -72846,21 +72846,14 @@
   {
     "Address": "720 3RD AVE, CHULA VISTA, CA 91910",
     "Affiliation": "Sav-on Pharmacy",
-    "Appointment scheduling instructions": [
-      "https://www.albertsons.com/pharmacy/covid-19.html"
-    ],
     "Availability Info": [
-      "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Yes: restricted to county residents"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T03:37:32.000Z",
-    "Latest report notes": [
-      "Jan 30: Vaccination site, but all appointments fully booked at this time. Unsure when will have new slots opening up."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-03-01T17:25:21.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 32.62659,
     "Location Type": "Pharmacy",
     "Longitude": -117.075233,
@@ -124113,15 +124106,17 @@
     "Address": "10465 SUNLAND BOULEVARD, SUNLAND, CA 91040",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "vaccinatelacounty.com "
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:59:19.000Z",
+    "Latest report": "2021-03-01T17:31:00.000Z",
     "Latest report notes": [
       null
     ],
