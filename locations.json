@@ -13653,17 +13653,17 @@
     "Address": "3795 WEST SHIELDS AVENUE, FRESNO, CA 93722",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier "
+      null
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T18:58:16.000Z",
+    "Latest report": "2021-03-01T17:51:55.000Z",
     "Latest report notes": [
-      "This location is only accepting appointments through their website."
+      "healthcare workers and 65+"
     ],
     "Latest report yes?": 1,
     "Latitude": 36.778788,
@@ -95114,18 +95114,17 @@
     "Address": "2240 WEST SEPULVEDA BOULEVARD, TORRANCE, CA 90501",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "riteaid.com/covid19"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
       "Yes: vaccinating 65+",
-      "Yes: appointment required",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:04:53.000Z",
+    "Latest report": "2021-03-01T17:49:22.000Z",
     "Latest report notes": [
-      null
+      "People should continue to check online, as appointments may open up at the last minute."
     ],
     "Latest report yes?": 1,
     "Latitude": 33.819662,
