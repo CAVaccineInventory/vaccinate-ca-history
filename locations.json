@@ -3083,13 +3083,15 @@
   },
   {
     "Address": "22520 Maple Ave, Torrance, CA 90505",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8230306,
+    "Location Type": "Nursing home",
     "Longitude": -118.3395743,
-    "Name": "Beachside Post Acute",
+    "Name": "Royalwood Care Center",
     "id": "rec1X3St8vRb6jViQ"
   },
   {
@@ -3853,11 +3855,13 @@
   },
   {
     "Address": "1740 S. San Dimas Ave, San Dimas, CA 91773",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0783768,
+    "Location Type": "Nursing home",
     "Longitude": -117.8168206,
     "Name": "Serento Casa",
     "id": "rec1wslkNMCGAK6L4"
@@ -4855,11 +4859,13 @@
   },
   {
     "Address": "8101 Hill Dr, Rosemead, CA 91770",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.046009,
+    "Location Type": "Nursing home",
     "Longitude": -118.0921401,
     "Name": "Green Acres Healthcare Center",
     "id": "rec2LMNGQHtLVXR8q"
@@ -5544,11 +5550,13 @@
   },
   {
     "Address": "1880 Dawson Ave., Signal Hill, CA 90755",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.791249,
+    "Location Type": "Nursing home",
     "Longitude": -118.165307,
     "Name": "Courtyard Care Center",
     "id": "rec2c7qRcRJqBeWuE"
@@ -5902,11 +5910,13 @@
   },
   {
     "Address": "3565 E. Imperial Hwy, lynwood, CA 90262",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9306813,
+    "Location Type": "Nursing home",
     "Longitude": -118.2064868,
     "Name": "Granada Post Acute",
     "id": "rec2kKlo4kG9AWQxY"
@@ -10207,11 +10217,13 @@
   },
   {
     "Address": "947 3rd St, Santa Monica, CA 90403",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.021564,
+    "Location Type": "Nursing home",
     "Longitude": -118.50252,
     "Name": "Fireside Health Care Center",
     "id": "rec4f8QjxkHuHpIsL"
@@ -12122,11 +12134,13 @@
   },
   {
     "Address": "20554 Roscoe Blvd., Canoga Park, CA 91306",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.219438,
+    "Location Type": "Nursing home",
     "Longitude": -118.58162,
     "Name": "Holiday Manor Care Center",
     "id": "rec5axOtC5AXPvvwW"
@@ -14032,11 +14046,13 @@
   },
   {
     "Address": "13524 Sherman Way, van nuys, CA 91405",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2007971,
+    "Location Type": "Nursing home",
     "Longitude": -118.4276831,
     "Name": "GRAND VALLEY HEALTH CARE CENTER",
     "id": "rec6RuvFF2RiAyxBQ"
@@ -15742,11 +15758,13 @@
   },
   {
     "Address": "14518 E. Los Angeles Street, Baldwin Park, CA 91706",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0918683,
+    "Location Type": "Nursing home",
     "Longitude": -117.9587527,
     "Name": "Coast Care Convalescent Center",
     "id": "rec7CITThDuoiEY64"
@@ -17390,11 +17408,13 @@
   },
   {
     "Address": "8925 Mines Avenue, Pico Rivera, CA 90660",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9927716,
+    "Location Type": "Nursing home",
     "Longitude": -118.0905953,
     "Name": "El Rancho Vista Healthcare",
     "id": "rec7tHTFl9lZEY0x9"
@@ -19668,11 +19688,13 @@
   },
   {
     "Address": "4333 Torrance Blvd., Torrance, CA 90503",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8377897,
+    "Location Type": "Nursing home",
     "Longitude": -118.3601297,
     "Name": "Torrance Care Center West, Inc.",
     "id": "rec8x9yMRHSOhPBLp"
@@ -21979,11 +22001,13 @@
   },
   {
     "Address": "1250 Pacific Avenue, Long Beach, CA 90813",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7820491,
+    "Location Type": "Nursing home",
     "Longitude": -118.1935072,
     "Name": "CareOnSite Long Beach",
     "id": "recA0nWH5fiorBNki"
@@ -26065,10 +26089,22 @@
   {
     "Address": "7117 Brockton Ave, Riverside, CA 92506",
     "Affiliation": "Riverside Medical Clinic",
+    "Appointment scheduling instructions": [
+      "(951) 683-6370"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: must be a current patient"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:23:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.9432482,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.396033,
@@ -27207,11 +27243,13 @@
   },
   {
     "Address": "1642 W Avenue J, Lancaster, CA 93534",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.688804,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.1596728,
     "Name": "Desert Canyon Post Acute",
     "id": "recC5f7JB1XgFFs2O"
@@ -27859,11 +27897,13 @@
   },
   {
     "Address": "11834 Inglewood Ave, Hawthorne, CA 90250",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9261986,
+    "Location Type": "Nursing home",
     "Longitude": -118.3609706,
     "Name": "Imperial Crest Healthcare Center",
     "id": "recCMA8c4xH2ufgzn"
@@ -39004,11 +39044,13 @@
   },
   {
     "Address": "22419 Kent Ave, Torrance, CA 90505",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8244445,
+    "Location Type": "Nursing home",
     "Longitude": -118.357009,
     "Name": "Del Amo Gardens Care Center",
     "id": "recHHJz5ksHAJP4AB"
@@ -40875,11 +40917,13 @@
   },
   {
     "Address": "605 W Broadway, Glendale, CA 91204",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.147026,
+    "Location Type": "Nursing home",
     "Longitude": -118.267054,
     "Name": "Broadway Manor Care Center",
     "id": "recI1Pfuw5s3C3Iex"
@@ -46912,11 +46956,13 @@
   },
   {
     "Address": "219 E Foothill Blvd, Pomona, CA 91767",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1078456,
+    "Location Type": "Nursing home",
     "Longitude": -117.7459611,
     "Name": "Claremont Care Center",
     "id": "recKqMbDZ7PDKpQGJ"
@@ -48838,11 +48884,13 @@
   },
   {
     "Address": "201 Allen Ave, Glendale, CA 91201",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1627655,
+    "Location Type": "Nursing home",
     "Longitude": -118.3057785,
     "Name": "Griffith Park Healthcare Center",
     "id": "recLrgC3y1Ds5JoF9"
@@ -49388,11 +49436,13 @@
   },
   {
     "Address": "7836 Reseda Blvd, Los Angeles, CA 91335",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2129456,
+    "Location Type": "Nursing home",
     "Longitude": -118.5358446,
     "Name": "Northridge Care Center",
     "id": "recM2SL652jj60qvd"
@@ -52166,11 +52216,13 @@
   },
   {
     "Address": "140 N. Avenue 19, Los Angeles, CA 90031",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.074769,
+    "Location Type": "First Responder",
     "Longitude": -118.222222,
     "Name": "Supply and Maintenance",
     "id": "recNVxdxVV2yopY1U"
@@ -52692,11 +52744,13 @@
   },
   {
     "Address": "10626 Balboa Blvd, Los Angeles, CA 91344",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2634113,
+    "Location Type": "Nursing home",
     "Longitude": -118.5020388,
     "Name": "Casitas Care Center",
     "id": "recNp6jOu0RtvXj9k"
@@ -53894,11 +53948,13 @@
   },
   {
     "Address": "638 E Colorado Ave, Glendora, CA 91740",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1270306,
+    "Location Type": "Nursing home",
     "Longitude": -117.8554395,
     "Name": "Mesa Glen Care Center",
     "id": "recOQgY5nUu4miXXo"
@@ -55203,11 +55259,13 @@
   },
   {
     "Address": "1208 S Central Ave. Glendale,, Glendale, CA 91204",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1319074,
+    "Location Type": "Nursing home",
     "Longitude": -118.2576493,
     "Name": "Glendale Healthcare Center",
     "id": "recP01ddJCOyiXplx"
@@ -55670,11 +55728,13 @@
   },
   {
     "Address": "2544 E Washington Blvd, Pasadena, CA 91107",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1689053,
+    "Location Type": "Private Practice",
     "Longitude": -118.0975912,
     "Name": "WASHINGTON MEDICAL GROUP",
     "id": "recPCgwykNVQXhsxU"
@@ -56694,16 +56754,15 @@
     ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
       "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
       "Vaccinating essential workers"
     ],
     "County": "Siskiyou County",
     "Has Report": 1,
-    "Latest report": "2021-02-28T18:01:19.000Z",
+    "Latest report": "2021-03-01T18:21:13.000Z",
     "Latest report notes": [
-      "County has scheduled a 1st dose vaccine clinic on Thursday March 4th, 2021, from 10:00am-2:00pm.\n\nWhen last checked (Feb 28th), appointments were full. County recommends checking their website often as additional events are scheduled.\n\nhttps://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information\n\nEligibility: Phase 1a, Tiers 1-3 and Phase 1b, Tier 1\n- Healthcare Workers\n- Individuals 65 and over\n- Education & Childcare Workers\n- Food & Agriculture Workers\n- Emergency Services"
+      "County has scheduled a 1st dose vaccine clinic on Thursday March 4th, 2021, from 10:00am-2:00pm.\n\nWhen last checked (Mar 1st), there was still availability for additional slots that were recently added.\n\nEligibility: Phase 1a, Tiers 1-3 and Phase 1b, Tier 1\n- Healthcare Workers\n- Individuals 65 and over\n- Education & Childcare Workers\n- Food & Agriculture Workers\n- Emergency Services"
     ],
     "Latest report yes?": 1,
     "Latitude": 41.32004,
@@ -57738,11 +57797,13 @@
   },
   {
     "Address": "250 N Verdugo Rd, Glendale, CA 91206",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1498,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.235554,
     "Name": "GLENDALE POST ACUTE CARE CENTER",
     "id": "recQArqoRonUmYFjL"
@@ -59667,11 +59728,13 @@
   },
   {
     "Address": "3050 Montrose Ave, La Crescenta, CA 91214",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.219368,
+    "Location Type": "Nursing home",
     "Longitude": -118.246281,
     "Name": "La Crescenta Healthcare Center",
     "id": "recQtwyOZ0cCRE2rb"
@@ -60740,11 +60803,13 @@
   },
   {
     "Address": "17650 Devonshire St, Los Angeles, CA 91325",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2566743,
+    "Location Type": "Nursing home",
     "Longitude": -118.5189968,
     "Name": "Brookdale Northridge",
     "id": "recROVgTcyBKTksai"
@@ -60769,14 +60834,20 @@
   {
     "Address": "800 S College Dr, Santa Maria, CA 93454",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://publichealthsbc.org/vaccine-appointments-for-emergency-service-workers/ OR\nhttps://publichealthsbc.org/vaccine-appointments-agriculture-and-food-workers/"
+    ],
     "Availability Info": [
-      "No: location permanently closed"
+      "Vaccinating essential workers",
+      "Yes: appointment required"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T18:05:52.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T18:31:06.000Z",
+    "Latest report notes": [
+      "As per the County, vaccine event is scheduled for March 3rd.\n\nWhen last checked (Mar 1st), there was some slots still available.\n\nEligibility:\n- Emergency Services workers OR\n- Grocery Store workers and Foodbank workers and volunteers only\n- Those registering must have regular face-to-face contact with the public"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.94390734780253,
     "Location Type": "Super Site",
     "Longitude": -120.42053490857342,
@@ -80909,11 +80980,13 @@
   },
   {
     "Address": "215 W Pearl St, Pomona, CA 91768",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0648736,
+    "Location Type": "Nursing home",
     "Longitude": -117.7527976,
     "Name": "Country Oaks Care Center",
     "id": "recany1iuumx2qiZQ"
@@ -82305,11 +82378,13 @@
   },
   {
     "Address": "325 S. Boyle Ave, Los Angeles, CA 90033",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0444563,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.2200376,
     "Name": "Sakura Intermediate Care Facility",
     "id": "recbSHvo1c52i669L"
@@ -91063,11 +91138,13 @@
   },
   {
     "Address": "2000 W Washington Blvd, Los Angeles, CA 90018",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0397015,
+    "Location Type": "Nursing home",
     "Longitude": -118.3032414,
     "Name": "SUNNYVIEW CARE CENTER",
     "id": "recfYiEwyfQy1ehom"
@@ -91736,11 +91813,13 @@
   },
   {
     "Address": "11810 Saticoy St, Los Angeles, CA 91605",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2075768,
+    "Location Type": "Nursing home",
     "Longitude": -118.3906627,
     "Name": "All Saints HealthCare",
     "id": "recfuFZ22yXBWlU5B"
@@ -97132,14 +97211,21 @@
   {
     "Address": "300 N Turnpike Rd, Santa Barbara, CA 93111",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://publichealthsbc.org/vaccine"
+    ],
     "Availability Info": [
-      "No: location permanently closed"
+      "Vaccinating essential workers",
+      "Yes: appointment calendar currently full",
+      "Yes: appointment required"
     ],
     "County": "Santa Barbara County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T18:09:10.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T18:27:24.000Z",
+    "Latest report notes": [
+      "As per the County, vaccine event is scheduled for March 2nd.\n\nWhen last checked (Mar 1st), there was no availability left.\n\nCounty recommends checking their website often as more clinics/events are added for each eligible group.\nhttps://publichealthsbc.org/vaccine\n\nEligibility:\n- Emergency Services workers OR\n- Grocery Store workers and Foodbank workers and volunteers only\n- Those registering must have regular face-to-face contact with the public"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.44504201023407,
     "Location Type": "Super Site",
     "Longitude": -119.7878823172371,
@@ -99042,11 +99128,13 @@
   },
   {
     "Address": "805 West Arrow Highway, Glendora, CA 91740",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1058955,
+    "Location Type": "Nursing home",
     "Longitude": -117.8766124,
     "Name": "Glendora Grand Inc.",
     "id": "recjFIH8aCzSeilcq"
@@ -103905,11 +103993,13 @@
   },
   {
     "Address": "12385 Washington Blvd, Whittier, CA 90606",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.96821,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.0496026,
     "Name": "The Orchard Post Acute Care",
     "id": "reclccRBFYq6NFAmg"
@@ -105088,11 +105178,13 @@
   },
   {
     "Address": "22035 S Vermont Avenue, Torrance, CA 90502",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8269634,
+    "Location Type": "Nursing home",
     "Longitude": -118.2907587,
     "Name": "Vermont Healthcare Center",
     "id": "recmEF9uZgip7JOS0"
@@ -112433,6 +112525,7 @@
   },
   {
     "Address": "5154 W Sunset Blvd, Los Angeles, CA 90027",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -112445,11 +112538,13 @@
   },
   {
     "Address": "7912 topley lane, Sunland, CA 91040",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2553683,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.3050452,
     "Name": "High Valley Lodge",
     "id": "recpcD7K0gwCPlikn"
@@ -115133,11 +115228,13 @@
   },
   {
     "Address": "7716 Pickering Ave, Whittier, CA 90602",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9713249,
+    "Location Type": "Nursing home",
     "Longitude": -118.0418993,
     "Name": "Whittier Pacific Care Center",
     "id": "recqp3ROf7qgeZD0O"
@@ -118871,14 +118968,21 @@
   {
     "Address": "2120 Polk St, SAN FRANCISCO, CA 94109",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:43:55.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T18:27:08.000Z",
+    "Latest report notes": [
+      "Must be California resident\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.796372,
     "Location Type": "Pharmacy",
     "Longitude": -122.42151,
@@ -121542,11 +121646,13 @@
   },
   {
     "Address": "3615 E. Imperial Hwy., Lynwood, CA 90262",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.931122,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.204128,
     "Name": "California Post-Acute Care",
     "id": "rectnZMS64sxQyZwV"
@@ -125816,11 +125922,13 @@
   },
   {
     "Address": "621 West Bonita Avenue, Claremont, CA 91711",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0966176,
+    "Location Type": "Nursing home",
     "Longitude": -117.7252491,
     "Name": "Claremont Manor Care Center",
     "id": "recvz8vKSh1D39rXm"
@@ -128455,11 +128563,13 @@
   },
   {
     "Address": "10610 Owensmouth Ave., Chatsworth, CA 91311",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2633399,
+    "Location Type": "Nursing home",
     "Longitude": -118.6015007,
     "Name": "Chatsworth Park Health Care Center",
     "id": "recx8cmcA7LyvjV9U"
@@ -128756,11 +128866,13 @@
   },
   {
     "Address": "2351 S Towne Ave, Pomona, CA 91766",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.028552,
+    "Location Type": "Nursing home",
     "Longitude": -117.7407192,
     "Name": "CHINO VALLEY HEALTHCARE CENTER",
     "id": "recxFl34jCQi744lv"
@@ -131583,11 +131695,13 @@
   },
   {
     "Address": "2222 santa ana blvd s, Los angeles, CA 90059",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9351213,
+    "Location Type": "Nursing home",
     "Longitude": -118.2331512,
     "Name": "Lighthouse Healthcare Center",
     "id": "recyWdofz4blm2c60"
