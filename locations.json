@@ -9051,11 +9051,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-27T00:50:50.000Z",
+    "Latest report": "2021-03-01T18:26:27.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9694666,
@@ -33148,18 +33148,17 @@
     "Address": "4309 CLAYTON RD, CONCORD, CA 94521",
     "Affiliation": "Safeway",
     "Appointment scheduling instructions": [
-      "https://cchealth.org/public-health/"
+      "https://www.safeway.com/pharmacy/covid-19.html"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
-      "Vaccinating essential workers"
+      "Yes: appointment required"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:16:35.000Z",
+    "Latest report": "2021-03-01T18:23:20.000Z",
     "Latest report notes": [
-      null
+      "Mar 1: Vaccine is also available for healthcare workers & long-term care residents."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.966179,
@@ -52808,11 +52807,13 @@
   },
   {
     "Address": "7150 Tampa Avenue, Reseda, CA 91335",
+    "Affiliation": "Los Angeles Jewish Homes",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.200262,
+    "Location Type": "Nursing home",
     "Longitude": -118.553216,
     "Name": "Grancell Village",
     "id": "recNrusreoDBReRqw"
@@ -54390,8 +54391,12 @@
   {
     "Address": "16330 WALNUT ST, STE #4, HESPERIA, CA 92345",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: incorrect contact information"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:16:35.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.421479,
@@ -63176,11 +63181,13 @@
   },
   {
     "Address": "9166 Tujunga Canyon Blvd., Tujunga, CA 91042",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2359607,
+    "Location Type": "Nursing home",
     "Longitude": -118.2700419,
     "Name": "Oakpark Healthcare Center",
     "id": "recSZYWcqxzOZTm6b"
@@ -66550,15 +66557,12 @@
   {
     "Address": "1100 W. Stewart Drive Pharmacy Department, Orange, CA 92868",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: only vaccinating health care workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Orange County",
     "Has Report": 1,
-    "Latest report": "2021-01-27T22:57:52.000Z",
+    "Latest report": "2021-03-01T18:40:23.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7811225,
@@ -72915,17 +72919,17 @@
     "Address": "29315 CENTRAL AVE, LAKE ELSINORE, CA 92532",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://www.rivcoph.org/COVID-19-Vaccine"
+      "https://www.costco.com/covid-vaccine.html "
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:14:37.000Z",
+    "Latest report": "2021-03-01T18:41:00.000Z",
     "Latest report notes": [
-      null
+      "Mar 1: Vaccine is also available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.696328,
@@ -76547,11 +76551,11 @@
     "Address": "10841 White Oak Ave Ste 101, Rancho Cucamonga, CA 91730",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-27T05:41:45.000Z",
+    "Latest report": "2021-03-01T18:35:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.103688,
@@ -77712,10 +77716,21 @@
   {
     "Address": "2040 Camfield Ave, Los Angeles, CA 90040",
     "Affiliation": "Altamed",
+    "Appointment scheduling instructions": [
+      "(323) 725-8751"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:38:51.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.008006,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.155171,
@@ -86863,11 +86878,13 @@
   },
   {
     "Address": "14122 Hubbard St, Sylmar, CA 91342",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2977671,
+    "Location Type": "Nursing home",
     "Longitude": -118.4398874,
     "Name": "The Grove Post Acute",
     "id": "recdZGD0jXRUJABlU"
@@ -89700,11 +89717,13 @@
   },
   {
     "Address": "18855 Victory Blvd, Reseda, CA 91335",
+    "Affiliation": "Los Angeles Jewish Homes",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.187711,
+    "Location Type": "Nursing home",
     "Longitude": -118.543706,
     "Name": "Eisenberg Village",
     "id": "recetbAPhgkTCf2BE"
@@ -94739,15 +94758,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
       "No: not open to the public"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-02T23:26:34.000Z",
+    "Latest report": "2021-03-01T18:41:58.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1988662,
@@ -98115,6 +98131,31 @@
     "Longitude": -119.112556,
     "Name": "Walmart Pharmacy 10-3138",
     "id": "recim1UFJ0FuqAAg2"
+  },
+  {
+    "Address": "530 W. Main St., Santa Paula, CA, 93060",
+    "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal"
+    ],
+    "Availability Info": [
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
+    ],
+    "County": "Ventura County",
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:51:52.000Z",
+    "Latest report notes": [
+      "As per the County, this is a 'popup' clinic scheduled for Monday Mar 1st and Friday Mar 5th.\n\nWhen last checked (Mar 1st) there was availability still for both dates.\n\nEligibility:\n- Individuals aged 65 and older\n- Healthcare workers\n- Long-term care residents\n- Essential workers in the following sectors:\n-- Food and Agriculture\n-- Education and Childcare\n-- Emergency Services\n- Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications"
+    ],
+    "Latest report yes?": 1,
+    "Latitude": 34.34695,
+    "Location Type": "Mobile clinic",
+    "Longitude": -119.0809,
+    "Name": "Santa Paula Community Clinic (INDOOR) - mobile site",
+    "id": "recinOptDqDyvHFFi"
   },
   {
     "Address": "455 N. Lake Ave, Pasadena, CA 91101",
@@ -112102,11 +112143,11 @@
     "Address": "6100 Redwood Boulevard Suite A, Novato, CA 94945",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: will never be a vaccination site"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Marin County",
     "Has Report": 1,
-    "Latest report": "2021-02-17T20:12:18.000Z",
+    "Latest report": "2021-03-01T18:26:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 38.096031,
@@ -123439,15 +123480,17 @@
     "Address": "11800 4TH ST, RANCHO CUCAMONGA, CA 91730",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "https://sb.fulgentgenetics.com/appointment/screen/landing"
+      "Uses county scheduling system"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:53:21.000Z",
+    "Latest report": "2021-03-01T18:40:26.000Z",
     "Latest report notes": [
       null
     ],
