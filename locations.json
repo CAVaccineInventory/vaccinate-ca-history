@@ -34033,11 +34033,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: may be a vaccination site in the future"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T17:26:21.000Z",
+    "Latest report": "2021-03-01T00:20:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 32.68503259999999,
@@ -46041,8 +46041,12 @@
   {
     "Address": "2121 Santa Monica Blvd, Santa Monica, CA 90404",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T00:26:43.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0307739,
@@ -60255,14 +60259,21 @@
   {
     "Address": "7560 Topanga Canyon Blvd, CANOGA PARK, CA 91303",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T00:57:51.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.207818,
     "Location Type": "Pharmacy",
     "Longitude": -118.605721,
@@ -90276,15 +90287,12 @@
   {
     "Address": "225 N Jackson Ave, San Jose, CA 95116",
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      "http://sccfreevax.org/"
-    ],
     "Availability Info": [
       "No: only vaccinating health care workers"
     ],
     "County": "Santa Clara County",
     "Has Report": 1,
-    "Latest report": "2021-01-28T04:30:04.000Z",
+    "Latest report": "2021-03-01T00:37:32.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.36277,
@@ -103551,17 +103559,17 @@
     "Address": "10570 TWIN CITIES ROAD, GALT, CA 95632",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T18:26:11.000Z",
+    "Latest report": "2021-03-01T00:47:55.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "[Feb 28] Appointments only available through their website. Start here: https://www.riteaid.com/covid-19"
     ],
     "Latest report yes?": 1,
     "Latitude": 38.290634,
@@ -109698,11 +109706,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-15T21:55:15.000Z",
+    "Latest report": "2021-03-01T00:20:51.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0570059,
@@ -112177,14 +112185,21 @@
   {
     "Address": "14280 San Pablo Ave, San Pablo, CA 94806",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T00:42:49.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T00:27:22.000Z",
+    "Latest report notes": [
+      "[Feb 28] Use Walgreen's website to screen for eligibility and appointments https://www.walgreens.com/findcare/vaccination/covid-19"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 37.964598,
     "Location Type": "Pharmacy",
     "Longitude": -122.344559,
@@ -113180,10 +113195,18 @@
   {
     "Address": "33494 Oak Glen Rd, Yucaipa, CA 92399",
     "Affiliation": "Southern California Emergency Medicine",
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Scheduling second dose only"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T00:59:16.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0324211,
     "Location Type": "Urgent care",
     "Longitude": -117.0741003,
@@ -129609,8 +129632,12 @@
   {
     "Address": "9080 Colima Rd, Whittier, CA 90605",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: only vaccinating staff"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T00:32:50.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9501491,
