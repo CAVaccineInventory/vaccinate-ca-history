@@ -11826,14 +11826,21 @@
   {
     "Address": "15480 MAIN ST, HESPERIA, CA 92345",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "walgreens.com"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T05:44:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T01:10:00.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.425847,
     "Location Type": "Pharmacy",
     "Longitude": -117.325276,
@@ -23711,15 +23718,15 @@
     "Address": "4980 FREEPORT BOULEVARD FREEPORT PLAZA, SACRAMENTO, CA 95822",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:04:11.000Z",
+    "Latest report": "2021-03-01T01:43:19.000Z",
     "Latest report notes": [
       null
     ],
@@ -25218,14 +25225,20 @@
   {
     "Address": "4172 NORTH 1ST ST, FRESNO, CA 93726",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_brandstory_tile_Jan2021"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Fresno County",
     "Has Report": 1,
-    "Latest report": "2021-02-20T05:08:44.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T01:35:55.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.793575,
     "Location Type": "Pharmacy",
     "Longitude": -119.772134,
@@ -45226,10 +45239,17 @@
   {
     "Address": "30261 Golden Lantern, Laguna Niguel CA, 92677",
     "Affiliation": "CVS",
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: appointment required"
+    ],
     "County": "Orange County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T01:48:09.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.523,
     "Location Type": "Pharmacy",
     "Longitude": -117.6879,
@@ -60399,6 +60419,7 @@
     "id": "recRD1h956bDEuIXj"
   },
   {
+    "Address": "2900 Chanticleer Avenue Santa Cruz, CA 95065",
     "Affiliation": "Sutter",
     "Appointment scheduling instructions": [
       null
@@ -116626,14 +116647,21 @@
   {
     "Address": "2020 W Cleveland Ave, Madera, CA 93637",
     "Affiliation": "Walgreens",
+    "Appointment scheduling instructions": [
+      "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp?ban=covid_vaccine_brandstory_tile_Jan2021"
+    ],
     "Availability Info": [
-      "No: may be a vaccination site in the future"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Madera County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T18:32:32.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T01:30:31.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 36.974457,
     "Location Type": "Pharmacy",
     "Longitude": -120.083906,
@@ -131417,7 +131445,7 @@
     ],
     "County": "Contra Costa County",
     "Has Report": 1,
-    "Latest report": "2021-02-22T18:40:40.000Z",
+    "Latest report": "2021-03-01T01:11:59.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.948584,
