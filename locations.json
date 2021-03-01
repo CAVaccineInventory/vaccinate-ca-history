@@ -77037,7 +77037,7 @@
     "id": "recZ5AmR7YZ2ZqXiR"
   },
   {
-    "Address": "13550 W PAXTON ST, PACOIMA, CA 91331",
+    "Address": "13550 PAXTON ST\nPACOIMA, CA\n91331-2352",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
       "Uses county scheduling system"
@@ -98149,6 +98149,7 @@
     "id": "reciqaSPUTVPeEsMw"
   },
   {
+    "Address": "999 San Bernardino Rd, Upland, CA 91786, United States",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       "covid19vaccine@sarch.org"
@@ -104737,6 +104738,7 @@
     "id": "recm7XJEoX72DlkUm"
   },
   {
+    "Address": "18300 CA-18, FL 1, Apple Valley, CA 92307, United States",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
       "sbcovid19.com"
@@ -109744,17 +109746,19 @@
     "Address": "3650 ADAMS AVENUE, SAN DIEGO, CA 92116",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "https://www.riteaid.com/pharmacy/covid-qualifier"
+      "https://www.riteaid.com/Covid-19"
     ],
     "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "San Diego County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:26:07.000Z",
+    "Latest report": "2021-03-01T01:59:19.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments through their website."
+      "They will receive some Thursday March 4th"
     ],
     "Latest report yes?": 1,
     "Latitude": 32.763599,
@@ -126506,6 +126510,7 @@
     "id": "recwFNDKUoqqrC9GK"
   },
   {
+    "Address": "3828 DelMas Terrace Culver City CA 90231",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
       "No: may be a vaccination site in the future"
