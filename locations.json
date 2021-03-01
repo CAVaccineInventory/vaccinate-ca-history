@@ -3633,11 +3633,13 @@
   },
   {
     "Address": "50 Alessandro Place Suite A30, Pasadena, CA 91105",
+    "Affiliation": "WelbeHealth",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.130781,
+    "Location Type": "In-home Senior Care",
     "Longitude": -118.1515367,
     "Name": "Pacific PACE",
     "id": "rec1o8wdCeuo0JTKV"
@@ -3937,11 +3939,11 @@
   {
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: not open to the public"
+      "No: will never be a vaccination site"
     ],
     "County": "San Francisco",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:58:26.000Z",
+    "Latest report": "2021-03-01T19:24:57.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.7859397,
@@ -12303,11 +12305,13 @@
   },
   {
     "Address": "2468 S St Andrews Pl, Los Angeles, CA 90018",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0332183,
+    "Location Type": "Nursing home",
     "Longitude": -118.3108062,
     "Name": "St. John of God Retirement and Care Center",
     "id": "rec5k0LqnKrdK56gC"
@@ -18212,7 +18216,7 @@
   },
   {
     "Address": "10431 Allen Way, Lucerne Valley, CA 92356",
-    "Affiliation": "None / Unknown / Unimportant",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+"
@@ -18225,7 +18229,7 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.44262,
-    "Location Type": "Nursing home",
+    "Location Type": "Mobile clinic",
     "Longitude": -116.941442,
     "Name": "Lucerne Valley Senior Center",
     "id": "rec8HA83kk4PbbIlZ"
@@ -21279,8 +21283,12 @@
   {
     "Address": "220 E Palisades   104, Santa Maria, CA 93454",
     "Affiliation": "Central Coast Family Care",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Santa Barbara County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:22:50.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.95142,
@@ -23960,11 +23968,13 @@
   },
   {
     "Address": "904 Mission St., South Pasadena, CA 91030",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1158649,
+    "Location Type": "Nursing home",
     "Longitude": -118.1581409,
     "Name": "South Pasadena Care Center",
     "id": "recAnbEBO9TwEcQ2r"
@@ -24114,8 +24124,12 @@
   {
     "Address": "4100 Truxtun Ave #200, Bakersfield, CA 93309",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Kern County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:52:40.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3734898,
@@ -27752,6 +27766,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.6748685,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.1678799,
     "Name": "Mt San Jacinto College - Menifee",
     "id": "recCGutEkhfoiMcxV"
@@ -30517,11 +30532,13 @@
   },
   {
     "Address": "3533 Motor Ave., Los Angeles, CA 90034",
+    "Affiliation": "Windsor Care Center",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0258366,
+    "Location Type": "Nursing home",
     "Longitude": -118.40827,
     "Name": "Windsor Care Center of Cheviot Hills",
     "id": "recDVprY5zxFZ5vuI"
@@ -30589,11 +30606,13 @@
   },
   {
     "Address": "1220 E 4th St, Long Beach, CA 90802",
+    "Affiliation": "WelbeHealth",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7714282,
+    "Location Type": "In-home Senior Care",
     "Longitude": -118.175624,
     "Name": "LA Coast PACE",
     "id": "recDY6mG2rh65ySw0"
@@ -30738,11 +30757,13 @@
   },
   {
     "Address": "7120 Corbin Ave., Reseda, CA 91335",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.199921,
+    "Location Type": "Nursing home",
     "Longitude": -118.5619415,
     "Name": "Woodland Care Center",
     "id": "recDcnKYzyqgC88JV"
@@ -31152,8 +31173,12 @@
   {
     "Address": "1015 Baker St  4, Bakersfield, CA 93305",
     "Affiliation": "Clinica Sierra Vista",
+    "Availability Info": [
+      "No: will never be a vaccination site"
+    ],
     "County": "Kern County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:22:00.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 35.3795355,
@@ -34812,14 +34837,20 @@
   {
     "Address": "4618 Fountain Ave, Los Angeles, CA 90029",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Persons are advised to contact their doctor to find out how they can access the vaccine once it's available"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T06:23:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T19:23:19.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.095358,
     "Location Type": "Pharmacy",
     "Longitude": -118.290197,
@@ -37266,8 +37297,12 @@
   {
     "Address": "39500 Liberty Street, Fremont, CA 94538",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: only vaccinating health care workers"
+    ],
     "County": "Alameda County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:23:53.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.5489421,
@@ -39527,16 +39562,17 @@
     "Address": "5610 STOCKTON BOULEVARD, SACRAMENTO, CA 95824",
     "Affiliation": "Rite-Aid",
     "Appointment scheduling instructions": [
-      "1-833-422-4255"
+      "https://www.riteaid.com/pharmacy/covid-qualifier?utm_source=state&utm_medium=web&utm_campaign=Covid19&utm_content=Covid19scheduler_CA_2_12_21"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required"
     ],
     "County": "Sacramento County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T19:50:48.000Z",
+    "Latest report": "2021-03-01T19:01:41.000Z",
     "Latest report notes": [
-      null
+      "Mar 1: Vaccine is also available for healthcare workers, long-term care residents and staff, pharmacy staff, public health employees."
     ],
     "Latest report yes?": 1,
     "Latitude": 38.52437,
@@ -40776,11 +40812,13 @@
   },
   {
     "Address": "909 W Santa Anita Ave, San Gabriel, CA 91776",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0951137,
+    "Location Type": "Nursing home",
     "Longitude": -118.112303,
     "Name": "Royal Vista Care Center",
     "id": "recHxH1ATdB5A7oV3"
@@ -46750,11 +46788,13 @@
   },
   {
     "Address": "14857 Roscoe Blvd, Panorama City, CA 91402",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2217143,
+    "Location Type": "Nursing home",
     "Longitude": -118.4572328,
     "Name": "The Meadows Post Acute",
     "id": "recKhYpTxZpb6esiA"
@@ -49721,11 +49761,13 @@
   },
   {
     "Address": "3541 Puente Ave, Baldwin Park, CA 91706",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0777586,
+    "Location Type": "Nursing home",
     "Longitude": -117.9545447,
     "Name": "Victoria Care Center",
     "id": "recM8rIYz5GnSurm3"
@@ -53578,6 +53620,7 @@
   },
   {
     "Address": "39707 Big Bear Blvd, Big Bear Lake, CA 92315",
+    "Affiliation": "County",
     "Availability Info": [
       "Yes: appointment required",
       "Yes: vaccinating 65+",
@@ -53591,8 +53634,9 @@
     ],
     "Latest report yes?": 1,
     "Latitude": 34.238545,
+    "Location Type": "Mobile clinic",
     "Longitude": -116.935684,
-    "Name": "Big Bear Lake – Civic Center",
+    "Name": "Big Bear Lake – Civic Center (mobile site)",
     "id": "recOD9FouA1OxaRoa"
   },
   {
@@ -59288,11 +59332,13 @@
   },
   {
     "Address": "14318 Ohio Street, Baldwin Park, CA 91706",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0946339,
+    "Location Type": "Nursing home",
     "Longitude": -117.9623963,
     "Name": "Sierra View Care Center",
     "id": "recQfEZeqacV9Lq8j"
@@ -62401,6 +62447,7 @@
   },
   {
     "Address": "5044 Buffington Road, El Monte, CA 91732",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -64839,14 +64886,21 @@
   {
     "Address": "8441 Foothill Blvd, Sunland, CA 91040",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "818-925-1321"
+    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-02-04T06:23:07.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T19:25:32.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.259873,
     "Location Type": "Pharmacy",
     "Longitude": -118.317121,
@@ -68176,11 +68230,13 @@
   },
   {
     "Address": "8167 W 3rd St, Los Angeles, CA 90048",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0724946,
+    "Location Type": "Nursing home",
     "Longitude": -118.3675711,
     "Name": "Sharon Care Center",
     "id": "recUk3tcqiF9AC8xU"
@@ -70140,11 +70196,13 @@
   },
   {
     "Address": "819 Buena Vista Street Manor Skilled Nursing, Duarte, CA 91010",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1419383,
+    "Location Type": "Nursing home",
     "Longitude": -117.9791069,
     "Name": "Santa Teresita Manor",
     "id": "recViSdblNznKEyGn"
@@ -82909,17 +82967,17 @@
     "Address": "26610 YNEZ RD, TEMECULA, CA 92591",
     "Affiliation": "Costco Pharmacy",
     "Appointment scheduling instructions": [
-      "rvcoh.org/costco"
+      "https://www.costco.com/covid-vaccine.html "
     ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:33:02.000Z",
+    "Latest report": "2021-03-01T19:23:35.000Z",
     "Latest report notes": [
-      null
+      "Mar 1: Vaccine is also available for healthcare workers"
     ],
     "Latest report yes?": 1,
     "Latitude": 33.520343,
@@ -87106,11 +87164,13 @@
   },
   {
     "Address": "6835 Hazeltine Ave, Los Angeles, CA 91405",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1949284,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.4405343,
     "Name": "The Care Center on Hazeltine",
     "id": "recdgGeMHknCDpkyN"
@@ -91308,7 +91368,7 @@
     ],
     "County": "Yuba County",
     "Has Report": 1,
-    "Latest report": "2021-02-18T22:16:38.000Z",
+    "Latest report": "2021-03-01T19:21:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 39.119946,
@@ -94657,15 +94717,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Riverside County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T00:15:03.000Z",
+    "Latest report": "2021-03-01T19:21:48.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.614781,
@@ -111071,15 +111128,12 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
-    "Appointment scheduling instructions": [
-      null
-    ],
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: will never be a vaccination site"
     ],
     "County": "San Bernardino County",
     "Has Report": 1,
-    "Latest report": "2021-01-31T19:24:14.000Z",
+    "Latest report": "2021-03-01T19:25:12.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.8329345,
@@ -119734,10 +119788,20 @@
   {
     "Address": "81880 Dr Carreon Blvd, Indio, CA 92201",
     "Affiliation": "Desert Oasis Healthcare",
+    "Appointment scheduling instructions": [
+      "mycdohc.com"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Riverside County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:29:56.000Z",
+    "Latest report notes": [
+      "can register to get called for appointment"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 33.7077039,
     "Location Type": "Hospital / Clinic",
     "Longitude": -116.2356757,
@@ -125148,10 +125212,18 @@
   {
     "Address": "954 W. Foothill Blvd  6D, Upland, CA 91786",
     "Affiliation": "ABC Pharmacy",
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Scheduling second dose only"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:23:05.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.1064029,
     "Location Type": "Pharmacy",
     "Longitude": -117.6646473,
@@ -125658,6 +125730,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8066221,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -116.9694101,
     "Name": "Mt San Jacinto College - San Jacinto",
     "id": "recvj3jqtGJVYuJ8p"
@@ -132206,10 +132279,22 @@
   {
     "Address": "1427 S. Lexington St, Delano, CA 93215",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "Patients who have received their first dose at this location are being called to schedule their second dose"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Scheduling second dose only"
+    ],
     "County": "Kern County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:30:37.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 35.74229,
     "Location Type": "Hospital / Clinic",
     "Longitude": -119.2410679,
@@ -133616,11 +133701,13 @@
   },
   {
     "Address": "11900 Artesia Boulevard, Artesia, CA 90701",
+    "Affiliation": "Windsor Care Center",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.872687,
+    "Location Type": "Nursing home",
     "Longitude": -118.079099,
     "Name": "Windsor Palms Care Center of Artesia",
     "id": "reczNIqIFNDcR0b0t"
