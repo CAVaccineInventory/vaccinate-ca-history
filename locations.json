@@ -1350,11 +1350,13 @@
   },
   {
     "Address": "795 E 2nd St Suite1, Pomona, CA 91766",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0581551,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -117.7423517,
     "Name": "WesternU Health",
     "id": "rec0b0LMSnMjCTcJI"
@@ -2298,11 +2300,13 @@
   },
   {
     "Address": "1430 W. 6th str., San Pedro, CA 90732",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7404107,
+    "Location Type": "Nursing home",
     "Longitude": -118.3082834,
     "Name": "Los Palos Post-Acute Care Center",
     "id": "rec113EGgvNutrV0W"
@@ -3800,8 +3804,12 @@
   {
     "Address": "3743 S La Brea Ave, Los Angeles, CA 90016",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "No: may be a vaccination site in the future"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T18:59:30.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.018727,
@@ -4182,11 +4190,13 @@
   },
   {
     "Address": "2600 Redondo Ave Suite 500, Long Beach, CA 90806",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8048893,
+    "Location Type": "Mental Health",
     "Longitude": -118.1507535,
     "Name": "Ocean View Psychiatric Health Facility",
     "id": "rec26OFphOxLzWY4m"
@@ -16703,11 +16713,13 @@
   },
   {
     "Address": "16955 Vanowen Street, Los Angeles, CA 91406",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1942129,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.5032154,
     "Name": "Lake Balboa Care Center",
     "id": "rec7ayK7FbFreDC0k"
@@ -18080,11 +18092,13 @@
   },
   {
     "Address": "21820 Craggyview St, Chatsworth, CA 91311",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2552174,
+    "Location Type": "Nursing home",
     "Longitude": -118.6049329,
     "Name": "Stoney Point Healthcare Center",
     "id": "rec8EFaEvDgpUZjl8"
@@ -19930,11 +19944,13 @@
   },
   {
     "Address": "5101 Tyler Avenue, Temple City, CA 91780",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.098397,
+    "Location Type": "Nursing home",
     "Longitude": -118.0259734,
     "Name": "Temple City Healthcare",
     "id": "rec92jx35g1sXa4aH"
@@ -27234,18 +27250,18 @@
     "Address": "455 S. Main St., Red Bluff CA, 96080",
     "Affiliation": "CVS",
     "Appointment scheduling instructions": [
-      null
+      "https://www.cvs.com/store-locator/details-directions/3937"
     ],
     "Availability Info": [
+      "Yes: vaccinating 65+",
       "Yes: appointment required",
-      "Yes: restricted to county residents",
-      "Yes: vaccinating 65+"
+      "Vaccinating essential workers"
     ],
     "County": "Tehama County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:55:52.000Z",
+    "Latest report": "2021-03-01T19:08:56.000Z",
     "Latest report notes": [
-      null
+      "Healthcare workers eligible."
     ],
     "Latest report yes?": 1,
     "Latitude": 40.1651,
@@ -28985,11 +29001,13 @@
   },
   {
     "Address": "3611 E. Imperial Hwy, Lynwood, CA 90262",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9309366,
+    "Location Type": "Nursing home",
     "Longitude": -118.2044338,
     "Name": "Lynwood Post Acute Care Center",
     "id": "recCqu41MLBa2ohBm"
@@ -30654,11 +30672,13 @@
   },
   {
     "Address": "2221 Lincoln Park Ave., Los Angeles, CA 90031",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0710079,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.2033533,
     "Name": "Kei-Ai Los Angeles Healthcare Center",
     "id": "recDbbj9L0JTMWDyA"
@@ -39182,11 +39202,13 @@
   },
   {
     "Address": "14906 Paramount Blvd, Paramount, CA 90723",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.8981397,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.1599051,
     "Name": "Medical Group of Paramount, Inc.",
     "id": "recHKJcZw0ujYSoQ5"
@@ -42177,11 +42199,13 @@
   },
   {
     "Address": "10064 St James Dr, Culver City, CA 90230",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.999777,
+    "Location Type": "Nursing home",
     "Longitude": -118.3832171,
     "Name": "Marycrest Manor",
     "id": "recITpscBH6JhmCdM"
@@ -45787,11 +45811,13 @@
   },
   {
     "Address": "2625 Maple Ave, Los Angeles, CA 90011",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0227674,
+    "Location Type": "Nursing home",
     "Longitude": -118.2660467,
     "Name": "Maple Health Care Center",
     "id": "recKGUG2whq6s3Meu"
@@ -46177,11 +46203,13 @@
   },
   {
     "Address": "6011 WEST BLVD, LOS ANGELES, CA 90043",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9848449,
+    "Location Type": "Nursing home",
     "Longitude": -118.3354494,
     "Name": "LOTUS CARE CENTER, INC",
     "id": "recKQTqFpkT7su7hC"
@@ -46756,11 +46784,13 @@
   },
   {
     "Address": "100 S HILL CREST BLVD, INGLEWOOD, CA 90301",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9623714,
+    "Location Type": "Nursing home",
     "Longitude": -118.3482241,
     "Name": "Inglewood Health Care Center",
     "id": "recKjLksdHHE5IawT"
@@ -49417,16 +49447,17 @@
       "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: appointment calendar currently full",
+      "Yes: appointment required",
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T09:17:36.000Z",
+    "Latest report": "2021-03-01T19:13:48.000Z",
     "Latest report notes": [
-      "When last checked (Feb 24th), there were no appointments left through March 1st.\n\nCounty recommends to check back regularly as more dates/events are added.\n\nEligibility:\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+      "Events next scheduled on Mar 2nd, 3rd and 4th.\n\nWhen last checked (Mar 1st) there was no availability left. County recommends checking website often as more events added.\n\nEligibility:\n- Individuals aged 65 and older\n- Healthcare workers\n- Long-term care residents\n- Essential workers in the following sectors:\n-- Food and Agriculture\n-- Education and Childcare\n-- Emergency Services\n- Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.20103490376719,
@@ -62065,11 +62096,13 @@
   },
   {
     "Address": "619 N Fairfax Ave, Los Angeles, CA 90036",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0823297,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.3616508,
     "Name": "Kennedy Post Acute Care Center",
     "id": "recS0AdVvFKcFN9qU"
@@ -62373,6 +62406,7 @@
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0934593,
+    "Location Type": "Nursing home",
     "Longitude": -118.0079365,
     "Name": "The Gardens of El Monte",
     "id": "recS8ljAOwjDmZAEH"
@@ -70705,14 +70739,16 @@
     ],
     "Availability Info": [
       "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:24:45.000Z",
+    "Latest report": "2021-03-01T19:16:03.000Z",
     "Latest report notes": [
-      "As per the county, this is a first-dose clinic with appointments via the county website. When last checked (Feb 23), there was availability for Feb 23 through Feb 27.\n\nEligibility:\n\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+      "Events next scheduled on Mar 1st through Mar 8th.\n\nWhen last checked (Mar 1st) there was no availability left through Mar 8th. County recommends checking website often as more events added.\n\nEligibility:\n- Individuals aged 65 and older\n- Healthcare workers\n- Long-term care residents\n- Essential workers in the following sectors:\n-- Food and Agriculture\n-- Education and Childcare\n-- Emergency Services\n- Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.21247,
@@ -70877,11 +70913,13 @@
   },
   {
     "Address": "1495 W Cameron Ave, West Covina, CA 91790",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0681529,
+    "Location Type": "Nursing home",
     "Longitude": -117.9403458,
     "Name": "west haven healthcare center",
     "id": "recW5K46DqhK2sXoj"
@@ -71344,11 +71382,13 @@
   },
   {
     "Address": "11441 Ventura Blvd, Studio City, CA 91604",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1400568,
+    "Location Type": "Nursing home",
     "Longitude": -118.3802959,
     "Name": "Imperial Care Center",
     "id": "recWLSg6csn7M9lox"
@@ -71997,18 +72037,11 @@
     "Appointment scheduling instructions": [
       "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
     ],
-    "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
-    ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-23T19:26:28.000Z",
-    "Latest report notes": [
-      "When last checked (Feb 23), there was availability for Feb 26 and Feb 27.\n\nEligibility:\n\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-03-01T19:05:22.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 34.44243,
     "Location Type": "Super Site",
     "Longitude": -119.26589,
@@ -73851,11 +73884,13 @@
   },
   {
     "Address": "1955 West Lomita Blvd, Lomita, CA 90717",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.7998741,
+    "Location Type": "Rehabilitation Center",
     "Longitude": -118.3135444,
     "Name": "Lomita Post Acute Care Center",
     "id": "recXXhyk09oWyeJf2"
@@ -73948,21 +73983,14 @@
   {
     "Address": "16 RANCHO DEL MAR, APTOS, CA 95003",
     "Affiliation": "Safeway",
-    "Appointment scheduling instructions": [
-      "appointments made by going to the website : santacruzhealth.org"
-    ],
     "Availability Info": [
-      "Yes: appointment required",
-      "Yes: vaccinating 65+",
-      "Vaccinating essential workers"
+      "No: may be a vaccination site in the future"
     ],
     "County": "Santa Cruz County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T22:58:20.000Z",
-    "Latest report notes": [
-      "Vaccines are being given to 65+, and those in phase 1 by making an appointment at the website: santacruzhealth.org"
-    ],
-    "Latest report yes?": 1,
+    "Latest report": "2021-03-01T18:56:08.000Z",
+    "Latest report notes": "",
+    "Latest report yes?": 0,
     "Latitude": 36.978329,
     "Location Type": "Pharmacy",
     "Longitude": -121.908027,
@@ -76635,11 +76663,13 @@
   },
   {
     "Address": "3032 Rowena Ave, Los Angeles, CA 90039",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1088389,
+    "Location Type": "Nursing home",
     "Longitude": -118.2706238,
     "Name": "Skyline Healthcare and Wellness Center",
     "id": "recYocFN5FKhzSm6x"
@@ -80824,11 +80854,13 @@
   },
   {
     "Address": "6615 E. Pacific Coast Hwy. Suite 170, Long Beach, CA 90803",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.754874,
+    "Location Type": "Shelter",
     "Longitude": -118.107234,
     "Name": "Interval House",
     "id": "recaj4cxmlQPiiGj8"
@@ -88083,6 +88115,7 @@
   },
   {
     "Address": "212 W. CHEVY CHASE DRIVE, GLENDALE, CA 91204",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -88708,10 +88741,21 @@
   {
     "Address": "43839 15th St W, Lancaster, CA 93534",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "(661) 945-5984"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: must be a current patient"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:08:50.000Z",
+    "Latest report notes": [
+      null
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.6788432,
     "Location Type": "Private Practice",
     "Longitude": -118.1579626,
@@ -89601,11 +89645,13 @@
   },
   {
     "Address": "3801 West Temple Avenue, Pomona, CA 91768",
+    "Affiliation": "County",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0588862,
+    "Location Type": "Super Site",
     "Longitude": -117.8193781,
     "Name": "KP Mass Vaccination Site - California State Polytechnic University,  Pomona",
     "id": "receqq3RbiNnzAAaz"
@@ -90977,11 +91023,13 @@
   },
   {
     "Address": "615 W Duarte Rd, Monrovia, CA 91016",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.1325912,
+    "Location Type": "Nursing home",
     "Longitude": -118.0120849,
     "Name": "Monrovia Gardens Healthcare Center",
     "id": "recfSgnQqlTlNWDzY"
@@ -95013,6 +95061,7 @@
   },
   {
     "Address": "610 N Garfield Ave, Monterey Park, CA 91754",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
@@ -100372,10 +100421,23 @@
   {
     "Address": "590 N D St, San Bernardino, CA 92401",
     "Affiliation": "Borrego Health",
+    "Appointment scheduling instructions": [
+      "(909) 453-6900 . A nurse will get back with you to screen for elibibility and then make an appointment for you."
+    ],
+    "Availability Info": [
+      "Yes: coming soon",
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers",
+      "Yes: restricted to county residents"
+    ],
     "County": "San Bernardino County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:18:57.000Z",
+    "Latest report notes": [
+      "You must live or work in San Bernardino County to use this clinic.  They will refer Riverside county residents to their clinic in Riverside."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.1099222,
     "Location Type": "Hospital / Clinic",
     "Longitude": -117.2922728,
@@ -105005,14 +105067,21 @@
   },
   {
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      null
+    ],
     "Availability Info": [
-      "No: not open to the public"
+      "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Vaccinating essential workers"
     ],
     "County": "Los Angeles County",
     "Has Report": 1,
-    "Latest report": "2021-01-14T17:52:09.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T19:14:31.000Z",
+    "Latest report notes": [
+      "Say \"Operator\""
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.22054059999999,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.5338644,
@@ -107522,11 +107591,13 @@
   },
   {
     "Address": "1530 S Olive St, Los Angeles, CA 90015",
+    "Affiliation": "Eisner Health",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0352575,
+    "Location Type": "Hospital / Clinic",
     "Longitude": -118.2649551,
     "Name": "Eisner Health",
     "id": "recnFkPlcBeuIpox6"
@@ -111580,18 +111651,19 @@
     "Address": "8787 HALL RD, LAMONT, CA 93241",
     "Affiliation": "None / Unknown / Unimportant",
     "Appointment scheduling instructions": [
-      null
+      "Uses county scheduling system"
     ],
     "Availability Info": [
-      "Yes: appointment calendar currently full",
       "Yes: vaccinating 65+",
-      "Yes: appointment required"
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers"
     ],
     "County": "Kern County",
     "Has Report": 1,
-    "Latest report": "2021-02-10T23:38:46.000Z",
+    "Latest report": "2021-03-01T19:12:13.000Z",
     "Latest report notes": [
-      "Feb 10: Currently putting interested patients on a waitlist for when the appointment calendar opens up again. For those with appointments already, please bring ID, insurance card, and clothing that makes your upper arm accessible, to your vaccination appointment. "
+      "Next appointment available April 2, 2021. For those with appointments already, please bring ID, insurance card, and clothing that makes your upper arm accessible, to your vaccination appointment."
     ],
     "Latest report yes?": 1,
     "Latitude": 35.259051,
@@ -113762,19 +113834,19 @@
     "Address": "2500 S. C Street \nOxnard CA, 93033\n(tent in the parking lot)",
     "Affiliation": "County",
     "Appointment scheduling instructions": [
-      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/\n\nThere is also a phone line (805-477-7161) for those with limited access to the internet."
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
     ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: appointment calendar currently full",
+      "Yes: restricted to county residents",
       "Yes: vaccinating 65+",
-      "Yes: restricted to county residents"
+      "Vaccinating essential workers"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T09:14:14.000Z",
+    "Latest report": "2021-03-01T19:07:45.000Z",
     "Latest report notes": [
-      "When last checked (Feb 24th), there were no appointments left through March 1st.\n\nCounty recommends to check back regularly as more dates/events are added.\n\nEligibility:\nIndividuals aged 65+ or working as a healthcare professional can be vaccinated at this time. You must be a resident or be employed in Ventura County AND a member of the current phase to be vaccinated."
+      "When last checked (Mar 1st) there was availability still for a first-dose event on Mar 4, 5th and 8th.\n\nEligibility:\n- Individuals aged 65 and older\n- Healthcare workers\n- Long-term care residents\n- Essential workers in the following sectors:\n-- Food and Agriculture\n-- Education and Childcare\n-- Emergency Services\n- Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications"
     ],
     "Latest report yes?": 1,
     "Latitude": 34.17662107392549,
@@ -115809,11 +115881,13 @@
   },
   {
     "Address": "1323 17th Street, Santa Monica, CA 90404",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0273681,
+    "Location Type": "Nursing home",
     "Longitude": -118.4836264,
     "Name": "Pacific Post-Acute",
     "id": "recr63ie5ZjaHtlH3"
@@ -116371,11 +116445,13 @@
   },
   {
     "Address": "676 S. Bonnie Brae St., Los Angeles, CA 90057",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0560266,
+    "Location Type": "Nursing home",
     "Longitude": -118.2740425,
     "Name": "Mid-Wilshire Healthcare Center",
     "id": "recrO5PJ0s1FLz9ha"
@@ -116548,11 +116624,11 @@
     "Address": "20353 LAKE CHABOT RD STE 101, CASTRO VALLEY, CA 94546",
     "Affiliation": "None / Unknown / Unimportant",
     "Availability Info": [
-      "No: no vaccine inventory"
+      "No: not open to the public"
     ],
     "County": "Alameda County",
     "Has Report": 1,
-    "Latest report": "2021-02-24T05:11:00.000Z",
+    "Latest report": "2021-03-01T19:11:16.000Z",
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 37.696373,
@@ -118428,18 +118504,20 @@
     "Address": "2237 CLARIBEL ROAD, RIVERBANK, CA 95367",
     "Affiliation": "Save Mart Pharmacy",
     "Appointment scheduling instructions": [
-      null
+      "www.savemart.com"
     ],
     "Availability Info": [
-      "Yes: appointment required",
       "Yes: vaccinating 65+",
+      "Yes: appointment required",
+      "Yes: appointment calendar currently full",
+      "Vaccinating essential workers",
       "Yes: restricted to county residents"
     ],
     "County": "Stanislaus County",
     "Has Report": 1,
-    "Latest report": "2021-02-15T23:13:30.000Z",
+    "Latest report": "2021-03-01T19:05:41.000Z",
     "Latest report notes": [
-      "This location is only scheduling appointments by calling the pharmacy directly."
+      "3/1 - they are currently giving vaccinations but are full.\nThis location is only scheduling appointments by calling the pharmacy directly."
     ],
     "Latest report yes?": 1,
     "Latitude": 37.713441,
@@ -119146,11 +119224,13 @@
   },
   {
     "Address": "5240 Sepulveda Blvd, Culver City, CA 90230",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.999231,
+    "Location Type": "Nursing home",
     "Longitude": -118.399583,
     "Name": "Marina Pointe healthcare   Subacute",
     "id": "recsZtsFIKQtQAJh2"
@@ -120268,11 +120348,20 @@
   {
     "Address": "501 Asti Road, Cloverdale, CA 95425",
     "Affiliation": "None / Unknown / Unimportant",
+    "Appointment scheduling instructions": [
+      "https://alexandervalleyhealthcare.org/covid-19-update/"
+    ],
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Sonoma County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T01:11:56.000Z",
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Latest report": "2021-03-01T19:15:22.000Z",
+    "Latest report notes": [
+      "Mar 1: offering vaccines to seniors 65+, and must be residents of Cloverdale, Geyserville, and Hopland\n\nAlendander Valley Healthcare has a vaccination clinic at the Cloverdale Train depot. As of 2/15 they are scheduling 2nd dose appointments for AVH patients only.\n"
+    ],
+    "Latest report yes?": 1,
     "Latitude": 38.7981002,
     "Location Type": "Hospital / Clinic",
     "Longitude": -123.0178016,
@@ -120910,11 +120999,13 @@
   },
   {
     "Address": "5043 Peck Rd, El Monte, CA 91732",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.0950112,
+    "Location Type": "Nursing home",
     "Longitude": -118.0131653,
     "Name": "Mayflower Care Center",
     "id": "rectWQgFSMLIfTbdt"
@@ -122486,10 +122577,17 @@
   {
     "Address": "2707 S Central Ave, Los Angeles, CA 90011",
     "Affiliation": "None / Unknown / Unimportant",
+    "Availability Info": [
+      "Yes: vaccinating 65+",
+      "Yes: appointment required"
+    ],
     "County": "Los Angeles County",
-    "Has Report": 0,
-    "Latest report notes": "",
-    "Latest report yes?": 0,
+    "Has Report": 1,
+    "Latest report": "2021-03-01T19:14:26.000Z",
+    "Latest report notes": [
+      "Backed up, back call daily to see where they are with doses."
+    ],
+    "Latest report yes?": 1,
     "Latitude": 34.0176099,
     "Location Type": "Hospital / Clinic",
     "Longitude": -118.2557408,
@@ -123800,15 +123898,20 @@
   {
     "Address": "10 W Harbor Blvd. Ventura 93001",
     "Affiliation": "County",
+    "Appointment scheduling instructions": [
+      "Appointments via https://www.venturacountyrecovers.org/vaccine-information/portal/"
+    ],
     "Availability Info": [
       "Yes: appointment required",
-      "Yes: vaccinating 65+"
+      "Yes: restricted to county residents",
+      "Yes: vaccinating 65+",
+      "Vaccinating essential workers"
     ],
     "County": "Ventura County",
     "Has Report": 1,
-    "Latest report": "2021-02-16T04:00:57.000Z",
+    "Latest report": "2021-03-01T19:09:43.000Z",
     "Latest report notes": [
-      "More 1st dose vaccine appointments will open on February 16, 2021. The online appointment portal will be available beginning at 7 am at the following link: https://www.venturacountyrecovers.org/vaccine-information/portal/.\nThe registration phone line will also have appointments available beginning at 8 am. The phone line is for those with limited access to the internet. The phone number is 805-477-7161. \nApproximately 6,000 appointments will be available for those in Phase 1A healthcare sector or for those age 65 or older. Appointments had been filled but the County received more allocations from the State which has allowed for more appointments to open. "
+      "When last checked (Mar 1st), there was still availability for Pfizer first-dose appointments from Mar 3rd through Mar 8th.\n\nEligibility:\n- Individuals aged 65 and older\n- Healthcare workers\n- Long-term care residents\nEssential workers in the following sectors:\n-- Food and Agriculture\n-- Education and Childcare\n-- Emergency Services\n- Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications "
     ],
     "Latest report yes?": 1,
     "Latitude": 34.27519080369019,
@@ -128447,11 +128550,13 @@
   },
   {
     "Address": "11926 La Mirada Blvd, La Mirada, CA 90638",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 33.9218142,
+    "Location Type": "Nursing home",
     "Longitude": -118.0107455,
     "Name": "Imperial Healthcare Center",
     "id": "recx4yXQ9TzQ5zBXt"
@@ -128558,11 +128663,13 @@
   },
   {
     "Address": "7447 Sepulveda Blvd, Van Nuys, CA, 91405, CA 91405",
+    "Affiliation": "None / Unknown / Unimportant",
     "County": "Los Angeles County",
     "Has Report": 0,
     "Latest report notes": "",
     "Latest report yes?": 0,
     "Latitude": 34.2061332,
+    "Location Type": "Nursing home",
     "Longitude": -118.4664313,
     "Name": "Windsor Terrace Healthcare  Center",
     "id": "recx7KGPK5kv7uPWS"
