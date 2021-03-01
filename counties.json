@@ -247,7 +247,7 @@
     "Notes": "[Feb 9]: Currently Vaccinating Phase 1A, Tiers 1, 2, 3 and Phase 1B, Tier 1\n\n**Phase 1A – Tiers 1, 2, 3 **All identified** **EMS/Paramedics, Skilled Nursing Facility Staff and Residents, Health Care Providers & Clinicians with face to face appointments, HHS/Community Health Field Staff with public face to face appointments, In Home Supportive Services Providers, and Dentists working in Sierra County.\n\n**Phase 1B - Tier 1 **Using Closed PODs (Points of Dispensing) by appointment only for those at risk of exposure at work in the following sectors: education, childcare, emergency services, and food and agriculture. Over 75 years of age.\n\nIf you would like to be contacted when vaccine is available for the phase and tier you fall: <https://myturn.ca.gov/>\n\n**Registering for Vaccines:**\n\nFill out a vaccine registration card posted at the county website here: <https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19> \n\nSierra County Public Health will confirm receipt of your request and will call you when they are ready to schedule your appointment. \n\nCopies of the Vaccination Registration Card can be found at the post office, Sierra County Offices, Loyalton Schools, Downieville Schools, The Family Resource Center and Grocery stores. \n\nIndividuals who are eligible to be vaccinated are encouraged to contact their personal healthcare provider for information for vaccine information and to check for availability.\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Sierra.html>\n \n",
     "Total reports": 2,
     "Vaccine info URL": "https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19",
-    "Yeses": 0,
+    "Yeses": 1,
     "id": "recQYGuJuebVYxg7I"
   },
   {
@@ -286,7 +286,7 @@
     "Notes": "[Feb 20] Vaccinating all tiers of Phase 1A, and individuals age 65 or older in Tier 1 of Phase 1B\n\n## To make an appointment:\nFrom the county web page:\n\n> Vaccine appointments will now be booked through the Statewide MyTurn portal, https://myturn.ca.gov/ Appointments will become available as additional vaccine clinics are booked, based on supply. To determine eligibility and/or get notified when appointments become available in your area, use the register for updates feature through the same MyTurn portal linked to above.\n> If you need assistance making an appointment, please call the CA COVID-19 Hotline at 1-833-422-4255 (M-F 8am-8pm, Sa-Su 8am-5pm) for assistance.\"\n\n",
     "Total reports": 33,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Yeses": 9,
+    "Yeses": 10,
     "id": "recVhw3mOj2KaUWvx"
   },
   {
@@ -309,7 +309,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 347,
+    "Yeses": 351,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -394,7 +394,7 @@
     "Total reports": 178,
     "Twitter Page": "https://twitter.com/CountyVentura",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Yeses": 33,
+    "Yeses": 34,
     "id": "recgC68ghhJW0EDz4"
   },
   {
@@ -448,7 +448,7 @@
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/MercedCounty",
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
-    "Yeses": 12,
+    "Yeses": 13,
     "id": "recl8GEIaG1m1qokG"
   },
   {
@@ -513,7 +513,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 72,
+    "Yeses": 74,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -579,7 +579,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 118,
+    "Yeses": 123,
     "id": "recvQcNeuIr14uskB"
   },
   {
