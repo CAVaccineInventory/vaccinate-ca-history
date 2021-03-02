@@ -27,7 +27,7 @@
     "Total reports": 12,
     "Twitter Page": "https://twitter.com/tuolumnehealth",
     "Vaccine info URL": "https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
-    "Yeses": 2,
+    "Yeses": 3,
     "id": "rec1wHp8vuiDzVdMw"
   },
   {
@@ -226,7 +226,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 52,
+    "Yeses": 53,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -461,7 +461,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 120,
+    "Yeses": 121,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -623,7 +623,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 57,
+    "Yeses": 58,
     "id": "reczthUUHssxaQj7X"
   }
 ]
