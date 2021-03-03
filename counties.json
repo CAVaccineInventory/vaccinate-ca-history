@@ -309,7 +309,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 396,
+    "Yeses": 395,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -343,7 +343,7 @@
     "Twitter Page": "https://twitter.com/StanCounty",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Yeses": 29,
+    "Yeses": 30,
     "id": "recb6ibrCGCw71RbX"
   },
   {
@@ -354,7 +354,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 56,
+    "Yeses": 57,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -395,7 +395,7 @@
     "Total reports": 178,
     "Twitter Page": "https://twitter.com/CountyVentura",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Yeses": 38,
+    "Yeses": 39,
     "id": "recgC68ghhJW0EDz4"
   },
   {
@@ -417,7 +417,7 @@
     "Twitter Page": "https://twitter.com/TulareCo_HHSA",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Yeses": 30,
+    "Yeses": 31,
     "id": "recipKOzQdBxv0mAf"
   },
   {
@@ -501,9 +501,10 @@
     "County": "Colusa County",
     "Facebook Page": "https://www.facebook.com/ColusaCountyPublicHealth/",
     "Notes": "[Feb 15] Colusa County is currently in Phase 1B of California’s COVID-19 Vaccine Plan.\n\nAll persons age 65 and older and all those 16-64 years old with medical conditions that increase the risk for severe COVID-19 are encouraged to contact their personal health care provider for vaccine information and availability.\n\nCounty Tier updates will be posted at noon every Tuesday.\n\nA weekly calender reflecting the county's status is available online. For the schedule as of Jan 21, see\n<https://www.countyofcolusa.org/DocumentCenter/View/13507/Colusa-County-Vaccine-Schedule-1-21>\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Colusa.html> \n",
-    "Total reports": 7,
+    "Total reports": 8,
+    "Twitter Page": "https://twitter.com/ColusaDHHS",
     "Vaccine info URL": "https://www.countyofcolusa.org/771/COVID19",
-    "Yeses": 3,
+    "Yeses": 4,
     "id": "recnWwqVyXQCTDOAJ"
   },
   {
@@ -580,7 +581,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 148,
+    "Yeses": 149,
     "id": "recvQcNeuIr14uskB"
   },
   {
