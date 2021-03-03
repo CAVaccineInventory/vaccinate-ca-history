@@ -18,7 +18,7 @@
     ],
     "Provider": "Kaiser Permanente",
     "Provider network type": "Health Plan",
-    "Public Notes": "As of March 2:  Kaiser statewide is vaccinating healthcare workers, residents of long-term care facilities, people 65+, and educators (K-12) who have an accessibility code. In Northern California, there is an expanded list, open to agriculture and food workers, child care workers and emergency services workers.\nDetailed appointment information available the Kaiser website. You also can try to get an appointment by calling the central hotline at [866-454-8855](tel:1-866-454-8855). Existing eligible patients may also receive information on booking a vaccine appointment via letter or email.\n",
+    "Public Notes": "As of March 2:  Kaiser statewide is vaccinating healthcare workers, residents of long-term care facilities, people 65+, and educators (K-12) who have an accessibility code. In Northern California, there is an expanded list, open to agriculture and food workers, child care workers and emergency services workers.\nDetailed appointment information available the Kaiser website, <http://kp.org>  You also can try to get an appointment by calling the central hotline at [866-454-8855](tel:1-866-454-8855). Existing eligible patients may also receive information on booking a vaccine appointment via letter or email.\n",
     "Vaccine info URL": "http://kp.org",
     "id": "rec4OacL3zjqLaBqY"
   },
