@@ -132,9 +132,10 @@
     "County": "San Joaquin County",
     "County vaccination reservations URL": "https://sjready.org/events/covid19/vaccines.html",
     "Facebook Page": "https://www.facebook.com/SJCPHS/",
-    "Notes": "[Mar 4] Vaccinating Phase 1A and 1B\n",
+    "Notes": "[Mar 4] Vaccinating Phase 1A and 1B (as supplies allow) including individuals 65 and older, food and agriculture, education and childcare, and emergency services.\n\nIf you are eligible:\n1. You should check with your Primary Care Physician, Doctor, or Healthcare Provider for vaccination opportunities first.\n2. Next, check with the Providers under the \"Approved Vaccine Providers in San Joaquin County\" section.\n3. Finally, additional vaccination events will be posted as they become available under \"Upcoming Vaccine Events\".\n",
     "Total reports": 106,
     "Twitter Page": "https://twitter.com/SJC_OES",
+    "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Yeses": 29,
     "id": "recAJsHK8yXnzdl6w"
@@ -632,9 +633,9 @@
     "County": "Modoc County",
     "County vaccination reservations URL": "https://publichealth.co.modoc.ca.us/covid-19_information/index.php",
     "Facebook Page": "https://www.facebook.com/ModocCountyPublicHealth",
-    "Notes": "[Feb 9]: Currently vaccinating 1b tier 1 (including individuals age 65 or over), and waitlisting 1b tier 2.\n\nHighly recommend calling the county Covid WarmLine at 530-233-1350 or 530-640-3171 for any questions, to get scheduled, or if you are in Phase 1b Tier 2 and would like to get on the waitlist.\n\nIndividuals who are eligible to be vaccinated are encouraged to contact their personal healthcare provider for information for vaccine information and to check for availability.\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Modoc.html>\n\n",
+    "Notes": "\n\n",
     "Total reports": 5,
-    "Vaccine info URL": "https://modochealthservices.org/corona-virus",
+    "Vaccine info URL": "https://publichealth.co.modoc.ca.us/covid-19_information/covid-19_vaccine/index.php",
     "Yeses": 2,
     "id": "recwQTax8QogfC8kF"
   },
