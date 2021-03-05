@@ -177,7 +177,7 @@
   },
   {
     "County": "Butte County",
-    "County vaccination reservations URL": "https://www.cognitoforms.com/ButteCounty1/individualcovid19vaccinerequestform",
+    "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
     "Notes": "### [Feb 27]: Currently vaccinating Phase 1a Tiers 1-3, and part of Phase 1b Tier 1. Residents 65 and older and Healthcare Workers are among those eligible. \n\nFrom the County website:\n**There are currently no first dose community vaccination clinics scheduled through the county. First Dose clinics will be scheduled based on vaccine supply and allocations for Butte County.**\n\nThe County is just beginning the process of offering second doses of the vaccine. The county asks that the public please be patient during this process and understand that everyone who received their first dose is guaranteed a second dose.\n\n**Vaccine Scheduling Hotline:**\nFor residents without internet, you may call the Vaccine Scheduling Hotline for assistance – **please reserve this line for those without internet. **Calling the hotline WILL NOT book your appointment faster. If you have internet, scheduling your second dose is fast and easy.\n\n- The hotline is currently closed and will re-open when new clinics are available for scheduling.\n\n**If you received your first dose Feb 1 – 4**\n- Individuals who received their first dose from the Enloe clinic at _2454 Builders Place Chico, CA _from February 1 to February 4.  Please **[schedule online](https://www.signupgenius.com/go/4090A4FADAE2DAAF58-march)** or call 530-552-3020 to schedule your second dose. Second doses will be administered on **March 1 to March 4.**\n- You must bring your CDC COVID Vaccination Card to your second dose appointment. If you misplaced your card, staff will be onsite with computer access to verify your first dose.\nFor more information about upcoming clinics and to check on who is currently being vaccinated, visit: \n<http://www.buttecounty.net/ph/COVID19/vaccine> \n",
     "Total reports": 51,
@@ -424,6 +424,7 @@
   },
   {
     "County": "Del Norte County",
+    "County vaccination reservations URL": "https://www.covid19.dnco.org/vaccines",
     "Facebook Page": "https://www.facebook.com/CountyofDelNorte/",
     "Notes": "# [Feb 9] Vaccinating Phase 1a, Tier 1-3\n\n**Seniors over 65 **are asked to reach out to your healthcare provider to find out how they plan to notify you when the vaccine is available for you. \n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/del_norte>.\n\n\n\n",
     "Official volunteering opportunities": "https://forms.gle/dAwBGpj6qsfHLSNz8",
@@ -501,6 +502,7 @@
   },
   {
     "County": "Colusa County",
+    "County vaccination reservations URL": "https://www.countyofcolusa.org/949/Vaccine",
     "Facebook Page": "https://www.facebook.com/ColusaCountyPublicHealth/",
     "Notes": "[Feb 15] Colusa County is currently in Phase 1B of California’s COVID-19 Vaccine Plan.\n\nAll persons age 65 and older and all those 16-64 years old with medical conditions that increase the risk for severe COVID-19 are encouraged to contact their personal health care provider for vaccine information and availability.\n\nCounty Tier updates will be posted at noon every Tuesday.\n\nA weekly calender reflecting the county's status is available online. For the schedule as of Jan 21, see\n<https://www.countyofcolusa.org/DocumentCenter/View/13507/Colusa-County-Vaccine-Schedule-1-21>\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Colusa.html> \n",
     "Total reports": 8,
@@ -522,6 +524,7 @@
   },
   {
     "County": "El Dorado County",
+    "County vaccination reservations URL": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx",
     "Facebook Page": "https://www.facebook.com/ElDoradoCountyNews/",
     "Notes": "### [Feb 21] **_As of February 16, 2021, eligible populations are those in Phase 1A, all tiers and Phase 1B tier 1 with an emphasis on residents 75 and older._**_ _\nThe County has a**ssistance for those 75+ **who need extra help scheduling an appointment for the vaccine. **Call (530) 295-4101. **\n\nThe county has a form to sign up for notifications about phases/tier changes: <https://forms.gle/J152S7TYTv3pmDu97>\n\n## To make an appointment:\nResidents can be notified by email or text when they become eligible for a vaccine AND when an appointment becomes available. Signing up for the service is simple and takes less than 5 minutes. You'll get an email or text confirming your eligibility and another email or text when an appointment is available. It does not work with landline phones. Visit [My Turn](https://myturn.ca.gov/) for more information. \n\nFor the El Dorado Public Health Clinic locations, it will help the provider if you are able to fill out the Public Health Screening Registration Form before your appointment if possible. The form is available at <https://drive.google.com/file/d/1ENNOGV79vcD_TR2EN_hBRBdiO0H5II-5/view>.  \n\nIf you need help booking online, you can call 530-295-4101 or visit the Cameron Park Library, El Dorado Hills Library or Georgetown Library for assistance.\n",
     "Total reports": 32,
