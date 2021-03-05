@@ -110,7 +110,7 @@
     "County": "Santa Cruz County",
     "County vaccination reservations URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Facebook Page": "https://www.facebook.com/PublicHealthSCC",
-    "Notes": "[March 5]\n\n[Feb 9] Vaccinating Phase 1A, and 65+, depending on healthcare system\n\nThe county has published information specific to healthcare system about how to sign up for appointments, at https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx\n\nIf you are in Phase 1a but are not linked to any of the healthcare systems on the site, please fill out this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=NE0EUssEpEGgzVSubu_7n0mP2K6pU19KiFXAeqjaFFZUNENWSUtZRk1LSVNBTjlROUVNNlhMVFpaRy4u&wdLOR=c0DB12563-A6E3-4AF9-BCBE-3192ADAB878F) to be notified on where to receive your vaccine.\n\nIf you are not 75+ or a Healthcare Worker and would like to be notified when it is your turn. Sign up at: <https://myturn.ca.gov/>\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/santa_cruz.html>.\n\n",
+    "Notes": "[March 5] Currently, Santa Cruz County is vaccinating Phase 1A-all Tiers and Phase 1B- Tier 1 (a more limited weekly supply), this includes individuals age 65 and older.\nMost residents will receive their vaccines through their medical provider, and residents should contact their doctor or clinic for more information. The Public Health Division will distribute vaccine through our **[local vaccine plan](https://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/2020.12.7_FINAL%20C19%20Vax%20Template%20for%20Santa%20Cruz%20County.pdf)**.\n\nSanta Cruz County Public Health is expanding access to COVID-19 vaccination AS SUPPLIES ALLOW to workers in education and childcare, emergency services, and food and agriculture industries. Eligibility will be based on **[occupation definitions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/VaccineAllocationGuidelines.aspx)** from the California Department of Public Health. If you are an organization with staff in these sector occupations, the county urges you to fill out the following survey. . Please only submit one survey per organization. This survey is intended for Santa Cruz County residents only and should take about two minutes to complete. **[COVID Vaccine Interest](https://forms.office.com/Pages/ResponsePage.aspx?id=NE0EUssEpEGgzVSubu_7n0mP2K6pU19KiFXAeqjaFFZUNENWSUtZRk1LSVNBTjlROUVNNlhMVFpaRy4u)**\n\n\n\n[Feb 9] Vaccinating Phase 1A, and 65+, depending on healthcare system\n\nThe county has published information specific to healthcare system about how to sign up for appointments, at https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx\n\nIf you are in Phase 1a but are not linked to any of the healthcare systems on the site, please fill out this [survey](https://forms.office.com/Pages/ResponsePage.aspx?id=NE0EUssEpEGgzVSubu_7n0mP2K6pU19KiFXAeqjaFFZUNENWSUtZRk1LSVNBTjlROUVNNlhMVFpaRy4u&wdLOR=c0DB12563-A6E3-4AF9-BCBE-3192ADAB878F) to be notified on where to receive your vaccine.\n\nIf you are not 75+ or a Healthcare Worker and would like to be notified when it is your turn. Sign up at: <https://myturn.ca.gov/>\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/santa_cruz.html>.\n\n",
     "Total reports": 50,
     "Twitter Page": "https://twitter.com/sccounty",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
@@ -333,7 +333,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 424,
+    "Yeses": 425,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -381,7 +381,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 70,
+    "Yeses": 71,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -497,7 +497,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 135,
+    "Yeses": 136,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -510,7 +510,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 158,
+    "Yeses": 157,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
