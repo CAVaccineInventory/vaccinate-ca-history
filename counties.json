@@ -210,7 +210,7 @@
     "Total reports": 108,
     "Twitter Page": "https://twitter.com/SMCHealth",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Yeses": 14,
+    "Yeses": 15,
     "id": "recMxizpwIMytvJ2r"
   },
   {
@@ -230,7 +230,7 @@
     "County": "Mono County",
     "County vaccination reservations URL": "https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/",
     "Facebook Page": "https://www.facebook.com/monohealthdepartment",
-    "Notes": "**Updated**: Mar 6\n\n**Eligibility**: Individuals aged 50 years or older; emergency services, education and childcare and food and agriculture workers; AND**_ _**individuals 16 and older with certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Listed here: https://covid19.ca.gov/vaccines/)\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccinations pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department at the appointed time to register for your vaccination appointment. \n \n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process. \n\n**Additional information: **Second homeowners are not eligible to receive the vaccine in Mono County.\n\n",
+    "Notes": "\n**Updated**: Mar 6\n\n**Eligibility**: Individuals aged 50 years or older; emergency services, education and childcare and food and agriculture workers; AND**_ _**individuals 16 and older with certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Listed here: <https://covid19.ca.gov/vaccines/> )\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccination pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department to register for your vaccination appointment. \n\n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process.\n\n**Additional information: **Second homeowners are not eligible to receive the vaccine in Mono County.\n\n",
     "Total reports": 10,
     "Twitter Page": "https://twitter.com/CountyMono",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
@@ -335,7 +335,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 437,
+    "Yeses": 438,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -365,13 +365,13 @@
     "County": "Stanislaus County",
     "County vaccination reservations URL": "http://schsa.org/coronavirus/vaccine/public/",
     "Facebook Page": "https://www.facebook.com/stanislauscounty/",
-    "Notes": "# [Mar 6] Vaccinating Phase 1A, 1B including 65+\n\nCounty is currently vaccinating the following:\n- Phase 1A\n- Phase 1B includes:\n    - people ages 65 and older, regardless of occupation, and\n    - people ages 16 and older who work in Education and Childcare, Food and Agriculture, and Emergency Services. (16 and 17 year olds who work in these sectors are only eligible to receive the Pfizer vaccine)\n\nVaccines are available to Stanislaus County Residents only. If you reside in a different county but work in Stanislaus County, you may be eligible to receive the vaccine if your job falls under the current Phases\n\n## To make an appointment:\nThe county has details on clinics on their website at <http://schsa.org/coronavirus/vaccine/>, updated every Friday or as vaccine availability changes.\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Stanislaus.html>\n\n## Volunteer opportunities:\nIf you are interested in volunteering to assist the county with their vaccine effort, you can visit <http://schsa.org/coronavirus/vaccine/> to find contact information to sign up as a medically licensed or non-licensed volunteer.\n## \n## For additional information:\nFor additional coronavirus information, the county has made available a Public Information line at (209) 558-7535 and publishes general vaccine information at <http://schsa.org/coronavirus/vaccine/public/>.\n\n## Preparing for your appointment:\n### Vaccination Screening Form\nAccording to the county, vaccination screening forms will be provided at the clincs. If you wish to fill out your screening prior to ariving at the clinic, the form is available for you to print at <http://schsa.org/coronavirus/vaccine/pdf/covid-vaccine-screening.pdf>.\n\n",
+    "Notes": "# [Mar 6] Vaccinating Phase 1A, 1B including 65+\n\nCounty is currently vaccinating the following:\n- Phase 1A\n- Phase 1B includes:\n    - people ages 65 and older, regardless of occupation, and\n    - people ages 16 and older who work in Education and Childcare, Food and Agriculture, and Emergency Services. (16 and 17 year olds who work in these sectors are only eligible to receive the Pfizer vaccine)\n\nVaccines are available to Stanislaus County Residents only. If you reside in a different county but work in Stanislaus County, you may be eligible to receive the vaccine if your job falls under the current Phases\n\n## To make an appointment:\nThe county has details on clinics (mostly first-come, first-served, ie no appointments needed) on their website at <http://schsa.org/coronavirus/vaccine/>, updated every Friday or as vaccine availability changes.\n\n## For additional information:\nFor additional coronavirus information, the county has made available a Public Information line at (209) 558-7535 and publishes general vaccine information at <http://schsa.org/coronavirus/vaccine/public/>.\n\n## Preparing for your appointment:\n### Vaccination Screening Form\nAccording to the county, vaccination screening forms will be provided at the clinics. If you wish to fill out your screening prior to ariving at the clinic, the form is available for you to print at <http://schsa.org/coronavirus/vaccine/pdf/covid-vaccine-screening.pdf>.\n\n",
     "Official volunteering opportunities": "http://schsa.org/coronavirus/vaccine/",
     "Total reports": 94,
     "Twitter Page": "https://twitter.com/StanCounty",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Yeses": 32,
+    "Yeses": 33,
     "id": "recb6ibrCGCw71RbX"
   },
   {
@@ -588,7 +588,7 @@
     "County": "Plumas County",
     "County vaccination reservations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Facebook Page": "https://www.facebook.com/PlumasHealth",
-    "Notes": "# [Feb 9] Vaccinating Phase 1B Tier 1 (75+) \nEducation and Childcare workers are on pause for now.\n\nAccording the to county, at this time, all county vaccine clinics are closed. Based on anticipated supply, the next round of vaccine clinics will hopefully be scheduled for the 2nd week of February. Eligible Residents are encouraged to sign up via <https://www.plumascounty.us/2761/COVID-19-Vaccine>\n\n## To make an appointment:\nDedicated Information Portal now available at <https://www.plumascounty.us/2761/COVID-19-Vaccine>\n\nIf you would like a COVID 19 vaccine you can provide your information via the Information Portal. For those with no internet access call 530-283-6188.\n\nIf you have already added your name to a waitlist at Plumas District Hospital, Eastern Plumas Health Care, or Seneca Healthcare District, your name has already been added to this information portal. Please call (530) 283-6188 to confirm your information.\n\nIf you have questions, need assistance, or do not have internet access, please call the Plumas County COVID-19 Vaccine Information Line at (530) 283-6188 during business hours (M-F 8 AM - 5 PM) for assistance. If calling during business hours, please leave a message and your call will be returned in 1-2 business days.\n\nIndividuals who are eligible to be vaccinated are encouraged to contact their personal healthcare provider or employer for information for vaccine information and to check for availability.\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Plumas.html>\n\n",
+    "Notes": "**Updated**: Mar 6\n**Eligibility**: 65+, or in Emergency services, Education & Childcare, and Food and Agriculture workers\n**County restrictions**: Must be a Plumas county resident or work in Plumas county\n**Appointment Information**:\nCounty is in the middle of transitioning to the State's MyTurn Vaccine platform as required by the State.\nThey are recommending residents to enter their information in the State's portal (MyTurn) as well as their Information Portal.\n<https://www.plumascounty.us/2761/COVID-19-Vaccine>\nMore information will be provided by COB March 8th regarding this transition. \n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 530-283-6188.\nCall the CA COVID-19 Hotline at 1-833-422-4255 \n(M-F 8AM-8PM, Sa-Su 8AM-5PM) for assistance with MyTurn.\n**Additional Info: **County site updated weekly by Friday at 5 PM.\n\n\n\n",
     "Total reports": 6,
     "Vaccine info URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
@@ -675,7 +675,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 75,
+    "Yeses": 76,
     "id": "reczthUUHssxaQj7X"
   }
 ]
