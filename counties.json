@@ -87,7 +87,7 @@
     "County": "Humboldt County",
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Facebook Page": "https://www.facebook.com/HumCoGov/",
-    "Notes": "[Mar 5] Vaccinating Phase 1A-Tiers 1-3, and Phase 1B- Tier 1. They have just started to reach out to those who are 70+\n\nAn Overview of each phase can be seen here: <https://humboldtgov.org/DocumentCenter/View/92364/Vaccine-Timeline---Overview?bidId=> \n\nYou can fill out this form to be notified when a vaccine is available in Humboldt County for your tier: https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform \n\nThe county has a COVID Community Information Line at 707-441-5000 to answer questions, but they are not making appointments there at this time. \n\nIndividuals who are eligible to be vaccinated are encouraged to contact their personal healthcare provider for information for vaccine information and to check for availability.\n\n**Para información en español: [Información sobre la Vacuna de COVID-19](https://humboldtgov.org/2887/La-Vacuna)**\n",
+    "Notes": "[Mar 5] Vaccinating Phase 1A Tiers 1-3 and Phase 1B Tier 1-2 including 65+, education, childcare, emergency services, food and agriculture, veterinary services, incarcerated, homeless, transportation and logistics, critical manufacturing, and industrial, commercial, residential, and sheltering facilities, and services.\n\nVaccine appointments are made by invitation only. County residents can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform) to be notified when a vaccine is available for your tier:\n\nContact the COVID Community Information Line at 707-441-5000 or covidinfo@co.humboldt.ca.us with any questions.\n\n**Para información en español: [Información sobre la Vacuna de COVID-19](https://humboldtgov.org/2887/La-Vacuna)**\n",
     "Total reports": 41,
     "Twitter Page": "https://twitter.com/humcogov",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 63,
+    "Yeses": 62,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -292,7 +292,7 @@
     "Twitter Page": "https://twitter.com/icpublichealth",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
-    "Yeses": 17,
+    "Yeses": 16,
     "id": "recTuH0G20ua9ErUU"
   },
   {
@@ -564,7 +564,7 @@
     "County": "El Dorado County",
     "County vaccination reservations URL": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx",
     "Facebook Page": "https://www.facebook.com/ElDoradoCountyNews/",
-    "Notes": "### [Feb 21] **_As of February 16, 2021, eligible populations are those in Phase 1A, all tiers and Phase 1B tier 1 with an emphasis on residents 75 and older._**_ _\nThe County has a**ssistance for those 75+ **who need extra help scheduling an appointment for the vaccine. **Call (530) 295-4101. **\n\nThe county has a form to sign up for notifications about phases/tier changes: <https://forms.gle/J152S7TYTv3pmDu97>\n\n## To make an appointment:\nResidents can be notified by email or text when they become eligible for a vaccine AND when an appointment becomes available. Signing up for the service is simple and takes less than 5 minutes. You'll get an email or text confirming your eligibility and another email or text when an appointment is available. It does not work with landline phones. Visit [My Turn](https://myturn.ca.gov/) for more information. \n\nFor the El Dorado Public Health Clinic locations, it will help the provider if you are able to fill out the Public Health Screening Registration Form before your appointment if possible. The form is available at <https://drive.google.com/file/d/1ENNOGV79vcD_TR2EN_hBRBdiO0H5II-5/view>.  \n\nIf you need help booking online, you can call 530-295-4101 or visit the Cameron Park Library, El Dorado Hills Library or Georgetown Library for assistance.\n",
+    "Notes": "### [Mar 5] **_As of February 16, 2021, eligible populations are those in Phase 1A all tiers, and Phase 1B tier 1 with an emphasis on residents 75 and older._**_ _\nThe County has a**ssistance for those 75+ **who need extra help scheduling an appointment for the vaccine. **Call (530) 295-4101. **\n\nThe county has a form to sign up for notifications about phases/tier changes: <https://forms.gle/J152S7TYTv3pmDu97>\n\n## To make an appointment:\nResidents can be notified by email or text when they become eligible for a vaccine AND when an appointment becomes available. Signing up for the service is simple and takes less than 5 minutes. You'll get an email or text confirming your eligibility and another email or text when an appointment is available. It does not work with landline phones. Visit [My Turn](https://myturn.ca.gov/) for more information. \n\nFor the El Dorado Public Health Clinic locations, it will help the provider if you are able to fill out the Public Health Screening Registration Form before your appointment if possible. The form is available at <https://drive.google.com/file/d/1ENNOGV79vcD_TR2EN_hBRBdiO0H5II-5/view>.  \n\nIf you need help booking online, you can call 530-295-4101 or visit the Cameron Park Library, El Dorado Hills Library or Georgetown Library for assistance.\n",
     "Total reports": 32,
     "Twitter Page": "https://twitter.com/CountyElDorado",
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
