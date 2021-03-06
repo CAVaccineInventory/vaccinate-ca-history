@@ -247,7 +247,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 71,
+    "Yeses": 72,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -335,7 +335,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 437,
+    "Yeses": 438,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -358,7 +358,7 @@
     "Total reports": 698,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 98,
+    "Yeses": 99,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -512,7 +512,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 163,
+    "Yeses": 164,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -552,7 +552,7 @@
     "County": "Kern County",
     "County vaccination reservations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Facebook Page": "https://www.facebook.com/kernpublichealthservices/",
-    "Notes": "[March 6]  The county is currently vaccinating Phase 1a and  Phase 1b, which includes health care workers and individuals aged 65 years and older.\n\n**To make an appointment:**\nAppointments are available only for individuals currently eligible to receive a vaccine. \nTo view a map of sites in Kern County that have been approved to offer COVID-19 vaccinations and find a location near you, you can go here: \n[COVID19 Vaccination (kerncounty.com)](https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#)\nEach location has information about how to make an appointment.\n\nIndividuals without access to the internet can call the Public Health Services Department at 661-321-3000 for information about booking an appointment at a county-run site.\n\nMy Turn allows Californians to check their vaccine eligibility, sign-up for vaccine notifications and schedule vaccine appointments. Sign-up for My Turn here: [myturn.ca.gov](http://myturn.ca.gov/?fbclid=IwAR2JEc1t4iyVEXlAkEEmbBotR_11BeudzP_UwUDyQ9o5_LxnZmw995tEDig) or call 833-422-4255.\n\nYou can also get updates on the Kern County Public Health Facebook page: [(8) Kern County Public Health | Facebook](https://www.facebook.com/kernpublichealthservices/)\n\nFor more information: \nKern County Public Health Services Department at 661-321-3000.\n",
+    "Notes": "**Updated**: Mar 6\n\n**Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Kern county resident or work in Kern county\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n",
     "Total reports": 235,
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
