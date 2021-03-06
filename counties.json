@@ -121,7 +121,7 @@
     "County": "Alameda County",
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Facebook Page": "https://www.facebook.com/Dare2BWell",
-    "Notes": "**Updated**: Mar 6\n\n**County Restrictions**: Must live or work in Alameda County.\n\n**Eligibility**: 65+, Education and Child Care, Emergency Services (including Law Enforcement), and Food/Agriculture.\n\n**Appointment Information**: For locations and appointment information please click this link: <https://covid-19.acgov.org/vaccines.page?#eligibility-hcp>. Sign up to be notified when a vaccine is available for you by filling out this form: <https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUwwTk8yTFNHWDA3UUFGSzE4NlQ4RlNMWi4u> (also available in [Spanish](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUVYUTEwU1lPU0VIM1paVzI4RTZaQzQ3Sy4u) and [Chinese](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUNTRFTlA1Qk9NUjU2VVQwMlJWUjRYOVlDMi4u)).\n",
+    "Notes": "**Updated**: Mar 6\n\n**Eligibility**: 65+, Education and Child Care, Emergency Services (including Law Enforcement), and Food/Agriculture.\n\n**County Restrictions:** Must live or work in Alameda County.\n\n**Appointment Information**: For locations and appointment information please click this link: <https://covid-19.acgov.org/vaccines.page?#eligibility-hcp>. Sign up to be notified when a vaccine is available for you by filling out this form: <https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUwwTk8yTFNHWDA3UUFGSzE4NlQ4RlNMWi4u> (also available in [Spanish](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUVYUTEwU1lPU0VIM1paVzI4RTZaQzQ3Sy4u) and [Chinese](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUNTRFTlA1Qk9NUjU2VVQwMlJWUjRYOVlDMi4u)).\n",
     "Official volunteering opportunities": "https://covid-19.acgov.org/vaccines.page?#opptohelp",
     "Total reports": 242,
     "Twitter Page": "https://twitter.com/Dare2BWell",
@@ -335,7 +335,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 440,
+    "Yeses": 442,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
