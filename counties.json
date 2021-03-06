@@ -121,7 +121,7 @@
     "County": "Alameda County",
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Facebook Page": "https://www.facebook.com/Dare2BWell",
-    "Notes": "[Mar 5] Vaccinating Phase 1A (Health Care Workers) and Phase 1B (65+, Education and Child Care, Emergency Services including Law Enforcement, and Food/Agriculture).\n\nMore information on eligibility through providers and vaccine sites is available at <https://covid-19.acgov.org/vaccines.page?#eligibility-hcp>\n",
+    "Notes": "**Updated**: Mar 6\n\n**County Restrictions**: Must live or work in Alameda County.\n\n**Eligibility**: 65+, Education and Child Care, Emergency Services (including Law Enforcement), and Food/Agriculture.\n\n**Appointment Information**: For locations and appointment information please click this link: <https://covid-19.acgov.org/vaccines.page?#eligibility-hcp>. Sign up to be notified when a vaccine is available for you by filling out this form: <https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUwwTk8yTFNHWDA3UUFGSzE4NlQ4RlNMWi4u> (also available in [Spanish](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUMUVYUTEwU1lPU0VIM1paVzI4RTZaQzQ3Sy4u) and [Chinese](https://forms.office.com/Pages/ResponsePage.aspx?id=LP_9Mm74o0ukfWpEp_RaZJQMTGauARpLj6XkpVpiJ3FUNTRFTlA1Qk9NUjU2VVQwMlJWUjRYOVlDMi4u)).\n",
     "Official volunteering opportunities": "https://covid-19.acgov.org/vaccines.page?#opptohelp",
     "Total reports": 242,
     "Twitter Page": "https://twitter.com/Dare2BWell",
@@ -146,7 +146,7 @@
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
-    "Notes": "\n**Updated**: Mar 6 \n\n**Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers.\n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255 . For assistance from Tehama County Health Services Agency dial: (530) 527-6824\n\n**Additional information **You also can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n# \n# \n# \n# \n",
+    "Notes": "\n**Updated**: Mar 6 \n\n**Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers.\n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255 . For assistance from Tehama County Health Services Agency dial: (530) 527-6824\n\n**Additional information**: You also can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n# \n# \n# \n# \n",
     "Official volunteering opportunities": "https://www.tehamacohealthservices.net/emergency-preparedness/get-involved/",
     "Total reports": 16,
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
@@ -230,7 +230,7 @@
     "County": "Mono County",
     "County vaccination reservations URL": "https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/",
     "Facebook Page": "https://www.facebook.com/monohealthdepartment",
-    "Notes": "\n**Updated**: Mar 6\n\n**Eligibility**: Individuals aged 50 years or older; emergency services, education and childcare and food and agriculture workers; AND**_ _**individuals 16 and older with certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Listed here: <https://covid19.ca.gov/vaccines/> )\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccination pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department to register for your vaccination appointment. \n\n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process.\n\n**Additional information**: Second homeowners are not eligible to receive the vaccine in Mono County.\n\n",
+    "Notes": "\n**Updated**: Mar 6\n\n**Eligibility**: Individuals aged 50 years or older; emergency services, education and childcare and food and agriculture workers. Also, starting this date, eligibility includes individuals 16 and older with certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Conditions listed here: <https://covid19.ca.gov/vaccines/> )\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccination pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department to register for your vaccination appointment. \n\n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process.\n\n**Additional information**: Second homeowners are not eligible to receive the vaccine in Mono County.\n\n",
     "Total reports": 10,
     "Twitter Page": "https://twitter.com/CountyMono",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
@@ -335,7 +335,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 439,
+    "Yeses": 440,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -358,7 +358,7 @@
     "Total reports": 698,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 100,
+    "Yeses": 101,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -513,7 +513,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 164,
+    "Yeses": 165,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
