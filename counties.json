@@ -143,6 +143,11 @@
     "id": "recAJsHK8yXnzdl6w"
   },
   {
+    "Total reports": 0,
+    "Yeses": 0,
+    "id": "recEkxAJzu6VricaA"
+  },
+  {
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
@@ -176,6 +181,11 @@
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Yeses": 20,
     "id": "recGbLZ8Ng6aB3SF9"
+  },
+  {
+    "Total reports": 0,
+    "Yeses": 0,
+    "id": "recGcuHbNLbB4ysNX"
   },
   {
     "County": "San Luis Obispo County",
@@ -266,7 +276,7 @@
     "County": "Sierra County",
     "County vaccination reservations URL": "https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19",
     "Facebook Page": "https://www.facebook.com/sierracosheriff/",
-    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: All Sierra County Residents 18 years or older regardless of medical conditions, as well as previous tiers of 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Sierra county resident\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n\n**Additional Info**:\n\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: All Sierra County Residents 18 years or older regardless of medical conditions, as well as previous tiers of 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Sierra county resident\n\n**Appointment Information**: For information about getting an appointment, please click this link: <https://sierracounty.ca.gov/DocumentCenter/View/5531/Get-on-the-list-03-02-21> \n\n",
     "Total reports": 2,
     "Vaccine info URL": "https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19",
     "Yeses": 1,
@@ -276,7 +286,7 @@
     "County": "Siskiyou County",
     "County vaccination reservations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-frequently-asked-questions",
     "Facebook Page": "https://www.facebook.com/siskiyoucountyph/",
-    "Notes": "[Mar 4] Siskiyou County is vaccinating residents 65+ as well as people who are in Phase 1a or 1b, tier 1 (healthcare workers, teachers, emergency services, childcare providers, and agriculture).\n\nAt this time, Siskiyou County Public Health is not maintaining a waitlist. Visit <https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information>  and click on the CalVax Providers button to see options for receiving the vaccine.\n\nResidents are encouraged to visit Siskiyou County Facebook page (https://www.facebook.com/siskiyoucountyph/) for updates as to when and how you will be able to receive the vaccine.\n\nFor questions or concerns please call (530) 841-2134 or email phinfo@co.siskiyou.ca.us.\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information>. You can see a list of CalVax providers by clicking this link: <https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers> \n\n**Phone numbers**: For questions or concerns please call (530) 841-2134\n",
     "Total reports": 26,
     "Vaccine info URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information",
     "Vaccine locations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers",
@@ -287,7 +297,7 @@
     "County": "Imperial County",
     "County vaccination reservations URL": "https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/",
     "Facebook Page": "https://www.facebook.com/icpublichealth/",
-    "Notes": "[Mar 4] Currently vaccinating Phase 1A, and (when supply allows) those 65 years of age and older and those at risk of exposure at work in the following sectors: education, childcare, emergency services, and food and agriculture.\n\nBefore your scheduled appointment, please have the following ready: [click here](https://www.icphd.org/media/managed/0covid19vaccine/Vaccine_Registration_Questions_.pdf)\n\nPhone assistance at 442-265-1444, will be available Monday through Friday from 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm. The office will be closed for lunch from 12:00 pm to 1:00 pm \n\nPersons 65 and older who may need additional assistance, please contact the Area Agency on Aging at 442-265-7033 or 442-265-7040\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/> \n\n**Phone numbers**: Phone assistance at 442-265-1444, will be available Monday through Friday from 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm. The office will be closed for lunch from 12:00 pm to 1:00 pm.\n\nPersons 65 and older who may need additional assistance, please contact the Area Agency on Aging at 442-265-7033 or 442-265-7040\n\n",
     "Total reports": 50,
     "Twitter Page": "https://twitter.com/icpublichealth",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
@@ -299,7 +309,7 @@
     "County": "Inyo County",
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform",
     "Facebook Page": "https://www.facebook.com/ExploreInyoCounty/",
-    "Notes": "[Mar 4]: Inyo County is currently vaccinating all Priority 1A residents; and has begun Priority 1B Tier 1 Residents. \n\nInyo residents can enter their information to get on the COVID-19 vaccine list. You will receive updates on vaccine rollout and will be contacted when vaccine appointments are available for people in your priority tier. \n**[COVID Vaccine Registration](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)**\n\n**Who is being vaccinated NOW?  **\n- **Individuals aged 65 and older**\n- **Healthcare workers**\n- **Non-medical first responders **including law enforcement, fire fighters, front line social workers, people who work with high risk populations such as in homeless shelters.  \n- **Teachers and childcare workers** including support staff.\n- **Essential Workers from the Food and Agriculture industries **including those who must face the general public every day while working in grocery stores, restaurants, food banks, and food manufacturing.\n\nTo check the status of who the county is vaccinating, you can go [here](https://www.inyocounty.us/covid-19/vaccine-information) , as the availability changes frequently.\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or Non-medical first responders, Teachers and Childcare workers, and Food and Agriculture workers.\n\n**County restrictions**: Must be an Inyo county resident\n\n**Appointment Information**: If you believe you are eligible, please fill out this form: <https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform> \n",
     "Total reports": 5,
     "Vaccine info URL": "https://www.inyocounty.us/covid-19/vaccine-information",
     "Yeses": 3,
@@ -383,13 +393,18 @@
     "County": "Sacramento County",
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Facebook Page": "https://www.facebook.com/SacramentoCounty/",
-    "Notes": "# [Feb 9]  Vaccinating Phase 1A, Tiers 1-3, and some sites for 65+ and 75+\n\nStarting February, Sacramento County has begun coordinating vaccinations at various sites for those who are living in Sacramento County and are 75 years old and older, and at other sites for those 65 years old and older. Sacramento County is also u​sing the limited vaccine allocation to continue vaccinating [Phase 1a Tier 1 – 3 priority list of workers – healthcare, first responders and congregate care setting staff](https://www.saccounty.net/Documents/SacCountyVaccinatingNow%20Flyer.pdf). \n## \nMore information is available here: <https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx>\n\n## To make an appointment:\n\nFor ages 65 and up living in Sacramento County, make an appointment: <http://bit.ly/COVIDvax65plus> ​\n\nIndividuals who are eligible to be vaccinated are encouraged to contact their personal healthcare provider or their employer for information for vaccine information and to check for availability.\n\nYou can also find most recent county-level information compiled by our volunteers by visiting <https://www.vaccinateca.com/counties/Sacramento.html>\n\n\n## For more information:\nIf you have questions about your eligibility, the county is accepting questions by email at COVID19vaccine@saccounty.net. You can also call the SCPH COVID-19 Hotline: 916-875-2400\n\n---\n### Previous status:\n[1/14 7:34PM] \"At this time, residents ​who are 65+ should wait to receive more information from their healthcare provider and/or public health regarding vaccination information.​ \"\n\n\n\n",
+    "Notes": "**(**Updated: Mar 6) **Eligibility**: Sacramento County residents who are 65+, as well as people who live or work in Sacramento County who are Education or childcare workers, Food service workers, Agricultural, farm or ranch workers, Emergency Services personnel, and licensed caregivers.\n\n**Appointment Information**: Some sites in the county are only for residents 65+. Please see <https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx> for more information.\n\n**Phone numbers**: SCPH COVID-19 Hotline is available for vaccination questions: 916-875-2400\n\n**Additional Info**: SacRT offers free rides to vaccination appointments: https://www.sacrt.com/apps/your-free-ride-to-receive-the-covid-19-vaccine/\n",
     "Total reports": 250,
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Yeses": 73,
     "id": "recbziYEC1C89DvF3"
+  },
+  {
+    "Total reports": 0,
+    "Yeses": 0,
+    "id": "recc3maWvn2xXhKOk"
   },
   {
     "County": "San Benito County",
@@ -491,7 +506,7 @@
     "County": "Merced County",
     "County vaccination reservations URL": "https://vaccinatemercedcounty.com/registration/",
     "Facebook Page": "https://www.facebook.com/MercedCounty/",
-    "Notes": "**Updated**: Mar 6\n\n**Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Merced county resident or work in Merced county\n\n**Appointment Information**: For locations and appointment information please click this link: <https://vaccinatemercedcounty.com/registration/>\n\n**Phone numbers**:\n\n**Additional Info**: \n",
+    "Notes": "**(Updated**: Mar 6)  **Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Merced county resident or work in Merced county\n\n**Appointment Information**: For locations and appointment information please click this link: <https://vaccinatemercedcounty.com/registration/>\n\n**Phone numbers**:\n\n**Additional Info**: \n",
     "Official volunteering opportunities": "https://vaccinatemercedcounty.com/volunteer/",
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/MercedCounty",
@@ -517,7 +532,7 @@
     "County": "San Diego County",
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Facebook Page": "https://www.facebook.com/SDCountyHHSA",
-    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or in Emergency services, Childcare and Education, and Food and Agriculture workers\n\n**County restrictions**: Must be a San Diego county resident or work in San Diego county\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html> \n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or in Emergency services, Childcare and Education, and Food and Agriculture workers\n\n**County restrictions**: Must be a San Diego county resident or work in San Diego county\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html>  \n",
     "Official volunteering opportunities": "https://health.ucsd.edu/coronavirus/Pages/vaccine-volunteer.aspx",
     "Total reports": 565,
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
@@ -587,7 +602,7 @@
     "County": "Mendocino County",
     "County vaccination reservations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Facebook Page": "https://www.facebook.com/mendocinocounty/",
-    "Notes": "[Mar 4] Eligibility opened up to Phase 1A, all tiers of Phase 1B, and for those between 16 and 64 with comorbities.\n\nLatest eligibility details are here:\n<https://www.mendocinocounty.org/Home/Components/News/News/5412/3242>\n\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, or workers in food, agriculture, logging, education and childcare (including school bus drivers), emergency services, and lodging. Also open to those between the ages of 16 and 64 with the some comorbidities or disabilities, click this link for full details: <https://www.mendocinocounty.org/Home/Components/News/News/5412/626> \n\n**County restrictions**: Must be a Mendocino county resident or work in Mendocino county\n\n**Appointment Information**: For information about county clinics and booking appointments please click this link: <https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics> \n\n**Phone numbers**: Contact the call center_(hablamos español)_ for more information at 707-472-2759, Monday to Friday 8:30am - 5:00pm.\n\n",
     "Total reports": 31,
     "Twitter Page": "https://twitter.com/countymendocino",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
@@ -678,10 +693,15 @@
     "id": "recyKBuA9lxrJc339"
   },
   {
+    "Total reports": 0,
+    "Yeses": 0,
+    "id": "reczRCqQpAXg9r43Q"
+  },
+  {
     "County": "Fresno County",
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Facebook Page": "https://www.facebook.com/FresnoCountyCA",
-    "Notes": "[Mar 4] Now Vaccinating: Food & Ag Workers and Education & Childcare\n\nAppointments are scheduled on the [MyTurn ](https://myturn.ca.gov/)website and are reserved for residents who live or work in Fresno County, and meet the eligibility requirements. Proof of residence is required.\n\nYou can sign the vaccine interest form here: https://www.surveymonkey.com/r/fresnocountyvaccine\n\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, and Education, Childcare, and Food and Agriculture workers.\n\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\n\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n\n**Additional Info**:\n\n",
     "Total reports": 207,
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
