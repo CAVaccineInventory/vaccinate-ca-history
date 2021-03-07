@@ -6,8 +6,8 @@
     ],
     "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Sam's Club pharmacists expect that they will be part of the vaccination effort, but corporate has not yet announced California distribution plans.\n",
-    "Vaccine info URL": "https://corporate.samsclub.com/member-update-steps-were-taking-in-response-to-covid-19",
+    "Public Notes": "Mar 6: Sam's Club locations in California are not currently offering the COVID-19 vaccine\n",
+    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "id": "rec2G6j5wu5gri77g"
   },
   {
@@ -53,7 +53,7 @@
     ],
     "Provider": "Walmart",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of February 7, 2021: Walmart has not yet announced any plans to distribute the covid vaccine in California. From our conversations with pharmacists, we think they will be a vaccination option sometime this spring.\n",
+    "Public Notes": "Mar 6: Walmart is not yet offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine\n",
     "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
     "id": "recHdfz54RnV9NckR"
   },
@@ -66,7 +66,7 @@
     ],
     "Provider": "Albertson's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of February 7, many locations are offering the vaccine to people who are eligible based on county guidelines.  Vaccine appointments can be made online, though space is typically limited.\n",
+    "Public Notes": "Mar 6: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "id": "recImxzlTSTVz7meQ"
   },
@@ -113,7 +113,7 @@
     ],
     "Provider": "The Medicine Shoppe",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of February 7, 2021: The Medicine Shoppe is not currently distributing the covid vaccine in California with no announced plans to do so.\n",
+    "Public Notes": "Mar 6: As of this date, we do not believe The Medicine Shoppe is distributing COVID-\n",
     "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
     "id": "recL6J9nNdt52LGBv"
   },
@@ -141,7 +141,7 @@
     ],
     "Provider": "Ralph's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Limited quantities available now at most locations, for people who meet county eligibility guidelines\n\n",
+    "Public Notes": "Mar 6: Limited quantities available at select locations\nCurrent eligibility varies by county; learn more [here](https://covid19.ca.gov/get-local-information/). _Note:_ _Residents must reside in the county they are receiving vaccines, per local public health regulations_\n[Check appointment availability](https://www.ralphs.com/rx/covid-eligibility)\n_Note: Patients who received their first dose of COVID vaccine from Ralphs will be assigned a second dose appointment._\n\n",
     "Vaccine info URL": "https://www.ralphs.com/i/coronavirus-update/vaccine",
     "id": "recN5zutK3efQf1f9"
   },
@@ -169,7 +169,7 @@
     ],
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Von's, Safeway, Sav-on.\n",
+    "Public Notes": "Mar 6: Many Safeway Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Vons vaccination program at <https://www.safeway.com/pharmacy/covid-19.html> \n",
     "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
     "id": "recRMqc5LyYA5khcy"
   },
@@ -181,7 +181,7 @@
     ],
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Vons vaccination program ahttps://www.vons.com/pharmacy/covid-19.html\n",
+    "Public Notes": "Mar 6: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>\n\n",
     "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
     "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
     "id": "recSnMrHoR5f4eSfE"
@@ -194,7 +194,7 @@
     ],
     "Provider": "Blue Cross Blue Shield of CA",
     "Provider network type": "Health Plan",
-    "Public Notes": "2021-02-08 BCBS of CA is taking over the roll out of the vaccine- they will be tracking the vaccine from order to injection. They use the [Myturn](https://myturn.ca.gov/) website for allowing people to check their eligibility and schedule appointments. Their [website links to pharmacies that may have vaccines.](https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/sites_content_en/coronavirus/vaccine-locations)\n",
+    "Public Notes": "Mar 6: Blue Cross recommends that their members consult this list of vaccination clinic options: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/sites\\_content\\_en/coronavirus/vaccine-locations\n",
     "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
     "id": "recaEHL19VRr2MaT1"
   },
@@ -231,7 +231,7 @@
     ],
     "Provider": "Raley's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Raley's expects to receive vaccine allocations \"soon\" but as of Feb 7, has yet to announce when it will begin vaccination\n",
+    "Public Notes": "Mar 6: To the best of our knowledge, no Raley's location in California is currently offering the COVID-19 vaccine\n",
     "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
     "id": "reclvFVOFSJNaQCNK"
   },
@@ -254,7 +254,7 @@
     ],
     "Provider": "John Muir Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 1: We are contacting our patients to schedule COVID-19 vaccine appointments. This is being done by group. Consistent with state and county guidelines, we are currently vaccinating John Muir Health patients who are in the 75+ age group and patients in the 65 - 74 age group. If you are in one of the age groups we are currently vaccinating, depending on the information in your medical record, we will be contacting you via MyChart message, email, text message or phone call. You may contact your doctor's office if you would like to update your contact information or add additional methods of contact. They also encourage you to sign up for a MyChart account by visiting their [MyChart sign up information page](https://www.johnmuirhealth.com/patients-and-visitors/mjmh-find-out-more/mychart-faq.html#signup).\n\n",
+    "Public Notes": "Mar 1: They are contacting our patients to schedule COVID-19 vaccine appointments. This is being done by group. Consistent with state and county guidelines, we are currently vaccinating John Muir Health patients who are in the 75+ age group and patients in the 65 - 74 age group. If you are in one of the age groups they are currently vaccinating, depending on the information in your medical record, they will be contacting you via MyChart message, email, text message or phone call. You may contact your doctor's office if you would like to update your contact information or add additional methods of contact. They also encourage you to sign up for a MyChart account by visiting their [MyChart sign up information page](https://www.johnmuirhealth.com/patients-and-visitors/mjmh-find-out-more/mychart-faq.html#signup).\n",
     "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
     "id": "recpmxzduDvlnP9qD"
   },
@@ -265,7 +265,7 @@
     ],
     "Provider": "Costco Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "This information was double checked on 2021-01-18\nAs of 2021-02-08 Costco is still not vaccinating in CA. They are vaccinating on a very \"limited\" basis in OR, WA, NYC, and PR. Check back frequently as they will expand their distribution as supply increases. \n",
+    "Public Notes": "Mar 6: Costco is currently offering COVID-19 vaccines at locations in the following counties: \n[Imperial County](https://book-costcopharmacy.appointment-plus.com/d0cgp222/?&e_id=6665#/) [Los Angeles County](http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/) [Marin County](https://book-costcopharmacy.appointment-plus.com/d0bm29vq/?e_id=5515) [Riverside County](https://www.rivcoph.org/Costco) [San Bernardino County](https://sbcovid19.com/vaccine/locations/pharmacies/#load) [San Joaquin County](https://sjready.org/events/covid19/vaccines.html#clinics)\n\nYou can find updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html\n",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
     "id": "recsiKWQK5zbpqUj5"
   },
@@ -276,7 +276,7 @@
     ],
     "Provider": "Lucky Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of Feb 7, we do not believe Lucky Pharmacy is vaccinating for covid in California and they have not yet announced when they expect to receive supply.\n",
+    "Public Notes": "Mar 6: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>\n\n",
     "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
     "id": "recyq0ZnLhX26FHmr"
   }
