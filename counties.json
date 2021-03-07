@@ -37,7 +37,7 @@
     "County": "Sonoma County",
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Facebook Page": "https://www.facebook.com/CountyofSonoma/",
-    "Notes": "[Mar 4] Vaccinating Phase 1A, and Phase 1b Tier 1, including Education and childcare, Agriculture and food manufacturing workers, Emergency services, and Grocery and restaurant workers\n\nA list of clinics open to Sonoma County residents is available here: <https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/>\n\nQuestions or concerns? Call 2-1-1 or text your zip code to 898-211 to talk/text with a call taker 24/7. Pre-recorded information and resources can be found by texting \"COVID19\" to 211211.\n",
+    "Notes": "(Updated: Mar 6) **Eligibility**: Vaccinating people 65+, Childcare and educators and Healthcare workers\n\n**County restrictions**: Vaccine clinics are open to those living in Sonoma County.\n\n**Appointment Information**: A list of vaccination clinics is available here: https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/\n\n",
     "Official volunteering opportunities": "https://socoemergency.org/emergency/how-to-help/",
     "Total reports": 103,
     "Twitter Page": "https://twitter.com/countyofsonoma",
@@ -194,7 +194,7 @@
     "County": "Butte County",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
-    "Notes": "(Updated: Mar 6) **Eligibility**: Vaccinating people 65+, and people working in essential emergency services, e\n\n**County restrictions**:\n\n**Appointment Information**:\n\n**Phone numbers**:\n\n**Additional Info**\n### \n### [Feb 27]: Currently vaccinating Phase 1a Tiers 1-3, and part of Phase 1b Tier 1. Residents 65 and older and Healthcare Workers are among those eligible. \n\nFrom the County website:\n**There are currently no first dose community vaccination clinics scheduled through the county. First Dose clinics will be scheduled based on vaccine supply and allocations for Butte County.**\n\nThe County is just beginning the process of offering second doses of the vaccine. The county asks that the public please be patient during this process and understand that everyone who received their first dose is guaranteed a second dose.\n\n**Vaccine Scheduling Hotline:**\nFor residents without internet, you may call the Vaccine Scheduling Hotline for assistance – **please reserve this line for those without internet. **Calling the hotline WILL NOT book your appointment faster. If you have internet, scheduling your second dose is fast and easy.\n\n- The hotline is currently closed and will re-open when new clinics are available for scheduling.\n\n**If you received your first dose Feb 1 – 4**\n- Individuals who received their first dose from the Enloe clinic at _2454 Builders Place Chico, CA _from February 1 to February 4.  Please **[schedule online](https://www.signupgenius.com/go/4090A4FADAE2DAAF58-march)** or call 530-552-3020 to schedule your second dose. Second doses will be administered on **March 1 to March 4.**\n- You must bring your CDC COVID Vaccination Card to your second dose appointment. If you misplaced your card, staff will be onsite with computer access to verify your first dose.\nFor more information about upcoming clinics and to check on who is currently being vaccinated, visit: \n<http://www.buttecounty.net/ph/COVID19/vaccine> \n",
+    "Notes": "(Updated: Mar 6) **Eligibility**: Vaccinating people 65+, and people working in essential emergency services, education and childcare, and food and agriculture.\n\n**Appointment Information**: Appointment information can be found here: https://www.buttecounty.net/ph/COVID19/vaccine\n\n**Phone numbers**: For residents without internet, you may call the Vaccine Scheduling Hotline at 530-552-3020 for assistance – please reserve this line for those without internet. Calling the hotline will not book your appointment faster.\n\n**Additional Info:** Transportation is available to vaccination sites through the B-Line’s Paratransit service for persons 70 and older. An application must be completed in advance of the first ride. Applications can be requested over the phone at 530-809-4614, or downloaded at [tinyurl.com/ButteParatransit](http://tinyurl.com/ButteParatransit). A one-way ride on the Paratransit is $3.50.\n",
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
@@ -313,6 +313,11 @@
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Yeses": 15,
     "id": "recVhw3mOj2KaUWvx"
+  },
+  {
+    "Total reports": 0,
+    "Yeses": 0,
+    "id": "recY19PvzaNyZHMhR"
   },
   {
     "County": "Nevada County",
