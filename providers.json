@@ -30,7 +30,7 @@
     ],
     "Provider": "Sutter Health",
     "Provider network type": "Hospital",
-    "Public Notes": "As of Feb 13: Sutter's website reports 'Due to a lack of vaccine supply we are currently unable to book appointments for a first vaccination until further notice.'\n \n\nSutter patients can book appointments by signing into My Health Online using the sign-in button here: <https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine>\n\nOnce you choose a date and location to book an appointment, you can also choose to be added to a waitlist in case an earlier spot opens up.\n\n",
+    "Public Notes": "Mar 6: Sutter is not currently accepting first-dose appointments. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine\n",
     "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
     "id": "rec5DV4DNGdWDMquu"
   },
@@ -91,8 +91,8 @@
     ],
     "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
-    "Vaccine info URL": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
+    "Public Notes": "Mar 6: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
+    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
     "id": "recKMdplNPLCwFMua"
   },
   {
@@ -127,7 +127,7 @@
     ],
     "Provider": "El Camino Health",
     "Provider network type": "Hospital",
-    "Public Notes": "As of February 7, the location is vaccinating people 65+ who live or work in Santa Clara County.  However, appointment slots are fully booked.  Appointments can be booked online.\n",
+    "Public Notes": "Mar 6: El Camino Health is currently vaccinating eligible individuals. Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine\n",
     "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
     "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
     "id": "recMuxZ6lf0M4wzI2"
@@ -157,7 +157,7 @@
     ],
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Most locations \n",
+    "Public Notes": "Mar 6: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california\n",
     "Vaccine info URL": "https://www.riteaid.com/Covid-19",
     "id": "recPPKwiDAPGruO9u"
   },
@@ -181,7 +181,7 @@
     ],
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Safeway, Sav-on. \n",
+    "Public Notes": "Mar 6: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Vons vaccination program ahttps://www.vons.com/pharmacy/covid-19.html\n",
     "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
     "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
     "id": "recSnMrHoR5f4eSfE"
@@ -206,7 +206,7 @@
     ],
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
-    "Public Notes": "[2/4] Established patients of Stanford Health Care who meet the following criteria may schedule a vaccination via [MyHealth](https://myhealth.stanfordhealthcare.org/#/appointments/apptmake) or by calling 650-498-9000.\n\nWe are now able to schedule vaccination appointments through MyHealth for:\n- Health care workers who work in Alameda, Contra Costa, San Mateo, or Santa Clara county\n- Patients who have received care at Stanford Health Care at least once in the last three years, are aged 65+, and live in Alameda, Contra Costa, San Mateo, or Santa Clara county\n\nFor more information, visit [https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html](https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)).\n\n2021-02-08: Stanford Health Care patients who are 65+ and Health Care Workers (and meet the criteria, patients who have had care at least once in the past three years with Stanford Health Care, and who meet current eligibility requirements set by the state and county), can schedule appointments at four Stanford Health Care locations, as well as wherever it is the most convenient through County Resources. \nThey continue to use [MyHealth](https://myhealth.stanfordhealthcare.org/#/appointments/apptmake) or by calling 650-498-9000. for scheduling.\n",
+    "Public Notes": "Mar 6: Currently vaccinating \n- Health care workers\n- Individuals 65+ \n- Persons at risk of occupational exposure to COVID-19 through their work in any role in the following sectors will be eligible:\n    - Education and childcare (including staff and any other workers involved in child and/or student care)\n    - Emergency services\n    - Agriculture and food\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
     "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
     "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
     "id": "recde0nSOAhIbnOwn"
@@ -220,7 +220,7 @@
     ],
     "Provider": "One Medical",
     "Provider network type": "Other",
-    "Public Notes": "As of February 7, 2021: One Medical is offering the covid vaccine to members who meet eligibility requirements in a number of counties. Some locations are still restricted to 1a / healthcare workers, while others are also vaccinating patients 65 or 75+.  Supply is limited.\n\nOne Medical will contact members via email to let them know if their region has moved to the next eligibility phase. When a member is eligible, they can self-book appointments using the app or web portal.  No appointments will be made by phone.\n\n",
+    "Public Notes": "Mar 6: One Medical does not currently have first dose appointments available in California. You can find updates online https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area\n",
     "Vaccine info URL": "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
     "id": "reckyDfrqjTM27CgO"
   },
@@ -243,7 +243,7 @@
     ],
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
+    "Public Notes": "Mar 6: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "id": "recnnxsQHkx4l7V80"
   },
@@ -254,8 +254,8 @@
     ],
     "Provider": "John Muir Health",
     "Provider network type": "Hospital",
-    "Public Notes": "As of 2021-02-07: John Muir Health is offering vaccines to patients age 75+. On February 15, they will begin to offer vaccine appointments to patients age 65-74, and will also continue to offer appointments to patients age 75+. Both age groups will have appointment slots reserved. \nJohn Muir is reaching out to patients to schedule vaccination appointments. There is no way to request an appointment nor a waitlist or registry. They will be contacting patients in a variety of ways including MyChart messages, email, text messages and phone calls. \nTheir vaccine clinics are operating 12 hours per day, five days per week. Based on the vaccine supply allocated by the County, they are currently able to provide 3,000 vaccination appointments per week. They expect to increase to 6,000 appointments per week by mid-February, based on the vaccine supply they expect to receive.\nJohn Muir has a COVID-19 hotline with recorded information at 925-952-2300. \n\n",
-    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine/covid-vaccine-program.html",
+    "Public Notes": "Mar 1: We are contacting our patients to schedule COVID-19 vaccine appointments. This is being done by group. Consistent with state and county guidelines, we are currently vaccinating John Muir Health patients who are in the 75+ age group and patients in the 65 - 74 age group. If you are in one of the age groups we are currently vaccinating, depending on the information in your medical record, we will be contacting you via MyChart message, email, text message or phone call. You may contact your doctor's office if you would like to update your contact information or add additional methods of contact. They also encourage you to sign up for a MyChart account by visiting their [MyChart sign up information page](https://www.johnmuirhealth.com/patients-and-visitors/mjmh-find-out-more/mychart-faq.html#signup).\n\n",
+    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
     "id": "recpmxzduDvlnP9qD"
   },
   {
