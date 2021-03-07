@@ -87,7 +87,7 @@
     "County": "Humboldt County",
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Facebook Page": "https://www.facebook.com/HumCoGov/",
-    "Notes": "[Mar 5] Vaccinating Phase 1A Tiers 1-3 and Phase 1B Tier 1-2 including 65+, education, childcare, emergency services, food and agriculture, veterinary services, incarcerated, homeless, transportation and logistics, critical manufacturing, and industrial, commercial, residential, and sheltering facilities, and services.\n\nVaccine appointments are made by invitation only. County residents can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform) to be notified when a vaccine is available for your tier:\n\nContact the COVID Community Information Line at 707-441-5000 or covidinfo@co.humboldt.ca.us with any questions.\n\n**Para información en español: [Información sobre la Vacuna de COVID-19](https://humboldtgov.org/2887/La-Vacuna)**\n",
+    "Notes": "(Updated: Mar 7) **Eligibility:** 65+, Education and Childcare, Emergency Services, Food and Agriculture, Veterinary Services, Transportation and Logistics, Critical Manufacturing, and Industrial, Commercial, Residential, and Sheltering Facilities and services, and those who are incarcerated or homeless in congregate settings.\n\n**County Restrictions:** Must be a resident of Humboldt County.\n\n**Appointment Information:** The county or a local healthcare provider will notify residents when they are eligible and the vaccine is available. County residents can sign up to be notified when a vaccine is available for your tier by clicking here: <https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform>. For more information about eligibility, please click here: <https://humboldtgov.org/DocumentCenter/View/93109/Vaccine-Timeline---Phase-1B> \n\n**Phone Numbers:** Individuals without access to email or the internet can contact the COVID Community Information Line at 707-441-5000.\n\n**Additional Info:** Contact the COVID Community Information Line at 707-441-5000 or covidinfo@co.humboldt.ca.us. Para información en español: [Información sobre la Vacuna de COVID-19](https://humboldtgov.org/2887/La-Vacuna)\n",
     "Total reports": 41,
     "Twitter Page": "https://twitter.com/humcogov",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
@@ -114,7 +114,7 @@
     "Total reports": 50,
     "Twitter Page": "https://twitter.com/sccounty",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
-    "Yeses": 10,
+    "Yeses": 11,
     "id": "rec8EEJmJzCdopVzu"
   },
   {
@@ -414,7 +414,7 @@
     "County": "Lake County",
     "County vaccination reservations URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Facebook Page": "https://www.facebook.com/lakecountycagov/",
-    "Notes": "(Updated: Mar 7) **Eligibility:** 65+, Education and Childcare, Emergency Services, Food and Agriculture.\n\n**County Restrictions:** Must live or work in Lake County.\n\n**Appointment Information:** All eligible groups will need to show ID and proof of residence at the time of the appointment. Eligible workers must additionally show proof of employment. For locations and appointment information please click this link: <http://health.co.lake.ca.us/Coronavirus/Vaccines.htm> \n\n**Phone numbers:** County residents 65+, who do not have the ability to schedule online, can call 707-993-4644 for assistance. County farmworkers can call 707-262-4162, 707-262-4153 or 707-262-4159, Monday - Friday, 9-5 for assistance. Please do not call these numbers if appointments are filled. If you have questions about the vaccine, call 211 or text\"covid19\" to 211-211\n\n**Additional Info:** If you are a healthcare worker, school staff, or long-term care resident, contact your medical provider. If they are unable to assist, please email your name, contact phone number and qualifying reason to [MHOAC@lakecountyca.gov](mailto:mhoac@lakecountyca.gov) and someone will contact you when a spot is available.\n",
+    "Notes": "(Updated: Mar 7) **Eligibility:** 65+, Education and Childcare, Emergency Services, Food and Agriculture.\n\n**County Restrictions:** Must live or work in Lake County.\n\n**Appointment Information:** All eligible groups will need to show ID and proof of residence at the time of the appointment. Eligible workers must additionally show proof of employment. For locations and appointment information please click this link: <http://health.co.lake.ca.us/Coronavirus/Vaccines.htm> \n\n**Phone Numbers:** County residents 65+, who do not have the ability to schedule online, can call 707-993-4644 for assistance. County farmworkers can call 707-262-4162, 707-262-4153 or 707-262-4159, Monday - Friday, 9-5 for assistance. Please do not call these numbers if appointments are filled. If you have questions about the vaccine, call 211 or text \"covid19\" to 211-211.\n\n**Additional Info:** If you are a healthcare worker, school staff, or long-term care resident, contact your medical provider. If they are unable to assist, please email your name, contact phone number and qualifying reason to [MHOAC@lakecountyca.gov](mailto:mhoac@lakecountyca.gov) and someone will contact you when a spot is available.\n",
     "Total reports": 16,
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Yeses": 6,
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 142,
+    "Yeses": 143,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -566,7 +566,7 @@
     "County": "El Dorado County",
     "County vaccination reservations URL": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx",
     "Facebook Page": "https://www.facebook.com/ElDoradoCountyNews/",
-    "Notes": "[Mar 5] As of February 16, 2021, eligible populations are those in Phase 1A all tiers, and Phase 1B tier 1 with an emphasis on residents 75 and older. \n\nSeniors 75+ who need extra help scheduling an appointment for the vaccine can call (530) 295-4101 or visit a county library.\n\nFor those who are not currently eligible to receive a vaccine, you can sign up for notifications about phases/tier changes using [this form](https://docs.google.com/forms/d/e/1FAIpQLSc7cX_d5rE6fEdy-MUv1_Sfy6KcKzjuJIR32NsEpssGTjl1hA/viewform).\n\nContact EDCCOVID-19@edcgov.us with any questions.\n\nIf you are eligible, you can schedule an appointment at a vaccine clinic [here](https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx). Residents can also be notified by email or text when they become eligible for a vaccine AND when an appointment becomes available by signing up for [My Turn](https://myturn.ca.gov/). You'll get an email or text confirming your eligibility and another email or text when an appointment is available. It does not work with landline phones. If you have questions, including verifying your appointment, you can use the Chat function at the bottom of the homepage or call the hotline for assistance 7 days a week: 1-833-422-4255.\n",
+    "Notes": "(Updated: Mar 7) **Eligibility:** 65+, Education and Childcare, Emergency Services, Food and Agriculture.\n\n**Appointment Information:** \n\n**Phone Numbers:** Seniors 75+ who need extra help scheduling an appointment for the vaccine can call 530-295-4101.\n\nFor those who are not currently eligible to receive a vaccine, you can sign up for notifications about phases/tier changes using [this form](https://docs.google.com/forms/d/e/1FAIpQLSc7cX_d5rE6fEdy-MUv1_Sfy6KcKzjuJIR32NsEpssGTjl1hA/viewform).\n\n**Additional Info:** The county is also offering assistance to seniors 75+ at each of its county libraries \nContact EDCCOVID-19@edcgov.us with any questions.\n\nIf you are eligible, you can schedule an appointment at a vaccine clinic [here](https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx). Residents can also be notified by email or text when they become eligible for a vaccine AND when an appointment becomes available by signing up for [My Turn](https://myturn.ca.gov/). You'll get an email or text confirming your eligibility and another email or text when an appointment is available. It does not work with landline phones. If you have questions, including verifying your appointment, you can use the Chat function at the bottom of the homepage or call the hotline for assistance 7 days a week: 1-833-422-4255.\n",
     "Total reports": 32,
     "Twitter Page": "https://twitter.com/CountyElDorado",
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
