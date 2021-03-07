@@ -308,7 +308,7 @@
   {
     "County": "Kings County",
     "County vaccination reservations URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Notes": "[Feb 20] Vaccinating all tiers of Phase 1A, and individuals age 65 or older in Tier 1 of Phase 1B\n\n## To make an appointment:\nFrom the county web page:\n\n> Vaccine appointments will now be booked through the Statewide MyTurn portal, https://myturn.ca.gov/ Appointments will become available as additional vaccine clinics are booked, based on supply. To determine eligibility and/or get notified when appointments become available in your area, use the register for updates feature through the same MyTurn portal linked to above.\n> If you need assistance making an appointment, please call the CA COVID-19 Hotline at 1-833-422-4255 (M-F 8am-8pm, Sa-Su 8am-5pm) for assistance.\"\n\n",
+    "Notes": "**Updated**: Mar 8\n**Eligibility**: 65+, or employed in education, emergency services, childcare, or Food and Agriculture.\n\n**County restrictions**: Must \n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n**Additional Info**:\n\n\n\n\n[Feb 20] Vaccinating all tiers of Phase 1A, and individuals age 65 or older in Tier 1 of Phase 1B\n\n## To make an appointment:\nFrom the county web page:\n\n> Vaccine appointments will now be booked through the Statewide MyTurn portal, https://myturn.ca.gov/ Appointments will become available as additional vaccine clinics are booked, based on supply. To determine eligibility and/or get notified when appointments become available in your area, use the register for updates feature through the same MyTurn portal linked to above.\n> If you need assistance making an appointment, please call the CA COVID-19 Hotline at 1-833-422-4255 (M-F 8am-8pm, Sa-Su 8am-5pm) for assistance.\"\n\n",
     "Total reports": 33,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Yeses": 15,
@@ -335,7 +335,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 444,
+    "Yeses": 443,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -600,7 +600,7 @@
     "County": "Solano County",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
-    "Notes": "**Updated**: Mar 8\n\n**Eligibility**: 65+, emergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the vaccine interest form: <https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkITmQkAJBpD5Ap6ySli1u7o1UMlBMV0VWMzdDOEJNVkc2U1VSTVpIWk1JMC4u>\n\n**Phone number**:  Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on  in Solano County: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
+    "Notes": "**Updated**: Mar 8\n\n**Eligibility**: 65+, emergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the vaccine interest form: <https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkITmQkAJBpD5Ap6ySli1u7o1UMlBMV0VWMzdDOEJNVkc2U1VSTVpIWk1JMC4u>\n\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
     "Total reports": 65,
     "Twitter Page": "https://twitter.com/solanooes",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
