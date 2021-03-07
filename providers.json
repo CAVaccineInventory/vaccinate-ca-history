@@ -146,6 +146,9 @@
     "id": "recN5zutK3efQf1f9"
   },
   {
+    "id": "recNrJTpXrrAyMqFk"
+  },
+  {
     "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
     "Last Updated": "2021-02-07",
     "Phase": [
@@ -154,7 +157,7 @@
     ],
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of February 7, 2021: many but not all Rite-Aid locations are offering vaccine to the public in line with county guidelines.\n",
+    "Public Notes": "Mar 6: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Most locations \n",
     "Vaccine info URL": "https://www.riteaid.com/Covid-19",
     "id": "recPPKwiDAPGruO9u"
   },
@@ -178,7 +181,7 @@
     ],
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Von's, Safeway, Sav-on. \n",
+    "Public Notes": "Appointments are typically booked out online until more supply arrives but people might cancel. Availability and eligibility is managed on a county-by-county basis.\n\nSame pharmacy chain as Safeway, Sav-on. \n",
     "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
     "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
     "id": "recSnMrHoR5f4eSfE"
@@ -240,7 +243,7 @@
     ],
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "CVS appointments can be made online at https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns\n",
+    "Public Notes": "CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "id": "recnnxsQHkx4l7V80"
   },
