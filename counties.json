@@ -143,11 +143,6 @@
     "id": "recAJsHK8yXnzdl6w"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recEkxAJzu6VricaA"
-  },
-  {
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
@@ -181,11 +176,6 @@
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Yeses": 20,
     "id": "recGbLZ8Ng6aB3SF9"
-  },
-  {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recGcuHbNLbB4ysNX"
   },
   {
     "County": "San Luis Obispo County",
@@ -325,11 +315,6 @@
     "id": "recVhw3mOj2KaUWvx"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recWY6GAwRzcNO6ud"
-  },
-  {
     "County": "Nevada County",
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
@@ -402,11 +387,6 @@
     "id": "recbziYEC1C89DvF3"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recc3maWvn2xXhKOk"
-  },
-  {
     "County": "San Benito County",
     "County vaccination reservations URL": "https://hhsa.cosb.us/vaccine-registration-portal/",
     "Facebook Page": "https://www.facebook.com/PublicHealthSBC",
@@ -460,11 +440,6 @@
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
     "Yeses": 3,
     "id": "rechyq0ZDsgfqek3O"
-  },
-  {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recieywkLWMz4diBD"
   },
   {
     "County": "Tulare County",
@@ -693,15 +668,10 @@
     "id": "recyKBuA9lxrJc339"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "reczRCqQpAXg9r43Q"
-  },
-  {
     "County": "Fresno County",
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Facebook Page": "https://www.facebook.com/FresnoCountyCA",
-    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, and Education, Childcare, and Food and Agriculture workers.\n\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\n\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n\n**Additional Info**:\n\n",
+    "Notes": "**Updated**: Mar 6 \n\n**Eligibility**: 65+, and Education, Childcare, and Food and Agriculture workers.\n\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\n\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \n\n**Phone numbers**: Fresno County residents who do not have internet access can call MyTurn at 1-833-422-4255 to sign up for a notification for when it’s their turn to get vaccinated against COVID-19. MyTurn operators speak English and Spanish, with an ability to add a third-party operator in 254 languages. \n\n",
     "Total reports": 207,
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
