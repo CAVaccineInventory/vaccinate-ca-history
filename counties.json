@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 43,
+    "Yeses": 44,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -68,7 +68,7 @@
     "Twitter Page": "https://twitter.com/MaderaCounty",
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
-    "Yeses": 10,
+    "Yeses": 11,
     "id": "rec2j4TlWO7zJT5AE"
   },
   {
@@ -624,7 +624,7 @@
     "County": "Riverside County",
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Facebook Page": "https://www.facebook.com/countyriversidedepartmentofpublichealth/",
-    "Notes": "[March 6] COVID-19 vaccine is currently available to **Riverside County** **residents **and those **who work in Riverside County who are in **\n**_Phase 1A – all tiers: _Healthcare workers and Long-term care residents**\n**Phase 1B: Individuals 65 and older and the following Sector populations:**\n·       **Agriculture and food**\n·       **Education and childcare**\n·       **Emergency services_ _**\n\n**What is needed:**\n-For workers in phase 1A and 1B– Tier 1, an appointment and worker id badge/letter from place of employment required or you will not be vaccinated\n-For seniors 65 and older, an appointment and ID is required\n-For seniors 65 years and older who need assistance, \nPlease Dial 2-1-1 or 951-329-4703\n\n**To register for an appointment:**\nTo register for an appointment at one of the Riverside County Public Health Clinics, FOR A FIRST DOSE, go here: \n[COVID-19 Vaccine (rivcoph.org)](https://www.rivcoph.org/COVID-19-Vaccine-with-Registration) or call **877-218-0381**\n\nTo be vaccinated at Riverside County Vaccination Partners:\nRiverside Convention Center, Palm Springs Convention Center, Bob Glass Gym- Perris, or Desert Hot Springs, Norco, Temecula, you can register for an appointment here: [COVID-19 Vaccine (rivcoph.org)](https://www.rivcoph.org/COVID-19-Vaccine)\n\nFor SECOND DOSES:\nFor those who received a first dose at a county vaccine clinic, Riverside County health officials will reach out to residents through the **contact method provided at the first appointment**. At that time, the county will provide instructions for receiving the second dose conforming to the current CDC guideline on timeframes. \nResidents who received their first dose at a private provider, should contact that same provider to schedule their second dose.\n\nFor a list of **Community Providers Offering Vaccination Clinics In**\n**Riverside County, go to: **[COVID-19 Vaccine Providers (rivcoph.org)](https://www.rivcoph.org/COVID-19-Vaccine-Providers)\n",
+    "Notes": "**Updated**: Mar 6\n\n**Eligibility**: Age 65+, or in Education and Childcare, Emergency services, and Food and Agriculture workers\n\n**County restrictions**: Must be a Riverside county resident or work in Riverside county\n\n**Appointment Information**: For FIRST DOSE Vaccine please click on this link:  [COVID-19 Vaccine (rivcoph.org)](https://www.rivcoph.org/COVID-19-Vaccine-with-Registration) or                                                \nfor a SECOND DOSE appointment, Riverside County health officials will reach out to residents through the contact method provided at the first appointment.\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at  **877-218-0381**\n\n**Additional Info**: Residents who received their first dose at a private provider, should contact that same provider to schedule their second dose.\n",
     "Total reports": 499,
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
