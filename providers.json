@@ -91,7 +91,7 @@
     ],
     "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
-    "Public Notes": "As of Feb 7, 2021: Some Walgreens have begun vaccinating people who are eligible according to county guidelines. In other counties, Walgreens are only vaccinating residents of long-term care facilities.  Walgreens intends to increase vaccine availability to the public over the course of the spring.\n",
+    "Public Notes": "Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
     "Vaccine info URL": "https://www.walgreens.com/topic/promotion/covid-vaccine.jsp",
     "id": "recKMdplNPLCwFMua"
   },
@@ -240,7 +240,7 @@
     ],
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "CVS has announced they will start vaccinating statewide at “select” locations on February 11, 2021. Appointments will be open for scheduling on February 9, 2021 at <https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns> \n",
+    "Public Notes": "CVS appointments can be made online at https://www.cvs.com/vaccine/intake/store/covid-screener/covid-qns\n",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "id": "recnnxsQHkx4l7V80"
   },
