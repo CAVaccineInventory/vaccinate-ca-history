@@ -75,7 +75,7 @@
     "County": "Yuba County",
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Facebook Page": "https://www.facebook.com/YubaCounty/",
-    "Notes": "(Updated: Mar 6) **Eligibility**: Age 65+, or age 50+ AND ALSO work in one of the following groups: Education & Childcare, Food & Agriculture, Emergency Services\n\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \n\n**Appointment Information**: To make an appointment for the FIRST VACCINE, click on this link:  <https://tinyurl.com/mmmmj4fx> or to make an appointment for the SECOND VACCINE (if you received the first dose through the county), click on this link: <https://tinyurl.com/skuwh36b> \n\n**Phone numbers**: To make appointments by phone calls can only be made to (530) 634-7496 Wednesdays after 9:00 am\n\n**Additional Info**: New Clinic information is released on Wednesdays at 9am. Click on this link to see the clinics, <https://tinyurl.com/mmmmj4fx>\nInformación en español: <https://tinyurl.com/bfz54743> \n",
+    "Notes": "(Updated: Mar 7) **Eligibility**: Age 65+, or age 18++ AND ALSO work in one of the following groups: Education & Childcare, Food & Agriculture, Emergency Services\n\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \n\n**Appointment Information**: To make an appointment for the FIRST VACCINE, click on this link:  <https://tinyurl.com/mmmmj4fx> or to make an appointment for the SECOND VACCINE (if you received the first dose through the county), click on this link: <https://tinyurl.com/skuwh36b> \n\n**Phone numbers**: To make appointments by phone, calls can only be made to (530) 634-7496 Wednesdays after 9:00 am\n\n**Additional Info**: New Clinic information is released on Wednesdays at 9am. Click on this link to see the clinics, <https://tinyurl.com/mmmmj4fx>\nInformación en español: <https://tinyurl.com/bfz54743> \n",
     "Total reports": 14,
     "Twitter Page": "https://twitter.com/YubaCounty",
     "Vaccine info URL": "https://www.yuba.org/coronavirus/vaccines.php",
@@ -143,11 +143,6 @@
     "id": "recAJsHK8yXnzdl6w"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recDQjyHzq0hkD6DQ"
-  },
-  {
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
@@ -174,18 +169,13 @@
     "County": "Yolo County",
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Facebook Page": "https://www.facebook.com/YoloCounty/",
-    "Notes": "(Updated:March 7 ) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency services. Healthcare providers and pharmacies are also vaccinating Yolo County residents but may have different eligibility requirements. \n\n**County restrictions:**Live or work in Yolo**.**\n\n**Appointment Information**:Check for available clinics at https://www.yolocounty.org/coronavirus-vaccine \n\n**Phone numbers**:(833) 965-6268.\n\n**Additional Info**:If you need a ride to a clinic.[Yolobus is offering free rides](https://www.yolobus.com/news/index.php/684) to Yolo County residents on their vaccine appointment days.\nIf you are homebound and need an in-home vaccine, call 211 or their toll free number: (855) 866-1783.\nYolo County's Facebook page has COVID briefings twice a week Mondays and Thursdays at 10am at <https://www.facebook.com/YoloCounty/> with the latest county information.\n\n",
+    "Notes": "(Updated:March 7 ) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency services. Healthcare providers and pharmacies are also vaccinating Yolo County residents but may have different eligibility requirements. \n\n**County restrictions**:Live or work in Yolo.\n\n**Appointment Information**:Check for available clinics at https://www.yolocounty.org/coronavirus-vaccine \n\n**Phone numbers**:(833) 965-6268.\n\n**Additional Info**:If you need a ride to a clinic.[Yolobus is offering free rides](https://www.yolobus.com/news/index.php/684) to Yolo County residents on their vaccine appointment days.\nIf you are homebound and need an in-home vaccine, call 211 or their toll free number: (855) 866-1783.\nYolo County's Facebook page has COVID briefings twice a week Mondays and Thursdays at 10am at <https://www.facebook.com/YoloCounty/> with the latest county information.\n\n",
     "Official volunteering opportunities": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Total reports": 49,
     "Twitter Page": "https://twitter.com/YoloCountyCA",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Yeses": 20,
     "id": "recGbLZ8Ng6aB3SF9"
-  },
-  {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recMBam6J6PgKkiRn"
   },
   {
     "County": "San Luis Obispo County",
@@ -325,11 +315,6 @@
     "id": "recVhw3mOj2KaUWvx"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recY19PvzaNyZHMhR"
-  },
-  {
     "County": "Nevada County",
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
@@ -413,11 +398,6 @@
     "id": "reccGVb82uJTXcyzA"
   },
   {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recdTrzqmZlW8F7kb"
-  },
-  {
     "County": "Marin County",
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Facebook Page": "https://www.facebook.com/CountyOfMarin",
@@ -443,7 +423,7 @@
     "County": "Ventura County",
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Facebook Page": "https://www.facebook.com/CountyOfVentura/",
-    "Notes": "March 4  \nTo make an appointment, visit the COVID-19 Vaccination Registration Portal at [www.venturacountyrecovers.org/portal/](https://www.venturacountyrecovers.org/vaccine-information/portal/). \n\n **All 1st Dose vaccination appointments are now full. There is limited supply of vaccines. Appointments open on Monday mornings at 7 am online and at 8 am on the phoneline for those with limited internet access at 805-477-7161. Appointments also open throughout the week from cancellations and/or additional allocations from the state.**\n\n Currently vaccinating county residents in the following categories,  age 65 and older, healthcare workers, long-term care residents,Tri-Counties Regional Centers. Family member caregivers with direct risk of COVID-19 exposure who care for regional center consumers at high risk of COVID-19 complications. Also, essential workers in the following sectors: Food and Agriculture, Education and Childcare, Emergency Services.\n\nThe Area Agency on Aging provides transportation services for older adults that are in need of transportation to a vaccine appointment or for COVID-19 testing. This includes people that need lift assist as well as gurney transportation. The driver will take the individual, wait for them, help them at the site and take them home. To schedule a ride call 805-477-7300\n\nRegister for vaccine updates with the county at <https://www.venturacountyrecovers.org/vaccine-information/subscribe-vaccine/>.  \n\n",
+    "Notes": "\n(Updated:March 7) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency service\n\n**County restrictions**:Live or work in Ventura County\n\n**Appointment Information**:Appointment registration at https://www.venturacountyrecovers.org/vaccine-information/\n\n**Phone numbers**:805-477-7161(for those with limited internet access) \n\n**Additional Info**:Appointments open on Monday mornings at 7 am online and at 8 am on the phoneline . Appointments also open throughout the week from cancellations and/or additional allocations from the state.\nThe Area Agency on Aging provides transportation services for older adults that are in need of transportation to a vaccine appointment or for COVID-19 testing. This includes people that need lift assist as well as gurney transportation. The driver will take the individual, wait for them, help them at the site and take them home. To schedule a ride call 805-477-7300\n\n",
     "Official volunteering opportunities": "https://www.venturacountyrecovers.org/vaccine-information/subscribe-volunteer-vaccinator/",
     "Total reports": 178,
     "Twitter Page": "https://twitter.com/CountyVentura",
@@ -484,13 +464,6 @@
     "Vaccine info URL": "https://www.covid19.dnco.org/vaccines",
     "Yeses": 5,
     "id": "reciwvE3uydUJmPr9"
-  },
-  {
-    "County": "please delete this",
-    "Notes": "please delete this\n",
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recjLfEzBLlMAm2Sf"
   },
   {
     "County": "Napa County ",
@@ -597,7 +570,7 @@
     "Twitter Page": "https://twitter.com/CountyElDorado",
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
-    "Yeses": 12,
+    "Yeses": 13,
     "id": "recq5HeJCFHGSIzrq"
   },
   {
@@ -658,11 +631,6 @@
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Yeses": 172,
     "id": "recvQcNeuIr14uskB"
-  },
-  {
-    "Total reports": 0,
-    "Yeses": 0,
-    "id": "recvkr7VGj6dYG3Ao"
   },
   {
     "County": "Modoc County",
