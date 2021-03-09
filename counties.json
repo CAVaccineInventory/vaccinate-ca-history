@@ -19,7 +19,7 @@
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
-    "Yeses": 15,
+    "Yeses": 16,
     "id": "rec1rvcyGSS6AgQEq"
   },
   {
@@ -43,7 +43,7 @@
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Yeses": 38,
+    "Yeses": 39,
     "id": "rec21xHBYYJxXXOiq"
   },
   {
@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 53,
+    "Yeses": 54,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -194,7 +194,7 @@
     "County": "Butte County",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
-    "Notes": "(Updated: Mar 6) **Eligibility**: Vaccinating people 65+, and people working in essential emergency services, education and childcare, and food and agriculture.\n\n**Appointment Information**: Appointment information can be found here: https://www.buttecounty.net/ph/COVID19/vaccine\n\n**Phone numbers**: For residents without internet, you may call the Vaccine Scheduling Hotline at 530-552-3020 for assistance – please reserve this line for those without internet. Calling the hotline will not book your appointment faster.\n\n**Additional Info:** Transportation is available to vaccination sites through the B-Line’s Paratransit service for persons 70 and older. An application must be completed in advance of the first ride. Applications can be requested over the phone at 530-809-4614, or downloaded at [tinyurl.com/ButteParatransit](http://tinyurl.com/ButteParatransit). A one-way ride on the Paratransit is $3.50.\n",
+    "Notes": "(Updated: Mar 8) **Eligibility**: Vaccinating people 65+, and people working in essential emergency services, education and childcare, and food and agriculture,** **public works, public utilities and public transportation, and and persons with at-risk health conditions, and residents 16-64 with severe health conditions. A complete list of qualifying health conditions is available [at this link](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx?fbclid=IwAR3BIlD4fN9-2fAFaFolpwAXP6RTRBNhfhADv3A8BXt6oUpC3B-AkvJ3W7A).\n\n**Appointment Information**: Appointment information can be found here: https://www.buttecounty.net/ph/COVID19/vaccine\n\n**Phone numbers**: For residents without internet, you may call the Vaccine Scheduling Hotline at 530-552-3020 for assistance – please reserve this line for those without internet. Calling the hotline will not book your appointment faster.\n\n**Additional Info:** Transportation is available to vaccination sites through the B-Line’s Paratransit service for persons 70 and older. An application must be completed in advance of the first ride. Applications can be requested over the phone at 530-809-4614, or downloaded at [tinyurl.com/ButteParatransit](http://tinyurl.com/ButteParatransit). A one-way ride on the Paratransit is $3.50.\n",
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 471,
+    "Yeses": 475,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -384,7 +384,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 77,
+    "Yeses": 78,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 172,
+    "Yeses": 175,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
