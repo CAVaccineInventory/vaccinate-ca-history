@@ -15,11 +15,11 @@
     "County vaccination reservations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_6",
     "Facebook Page": "https://www.facebook.com/shastahhsa",
     "Notes": "(Updated: Mar 10)  **Eligibility**: 65+, or working in Emergency services, Education & Childcare, Restaurants, grocery stores and food banks\n\n**County restrictions:** Must be a Shasta county resident or work in Shasta county.\n\n**Appointment Information**: List of locations taking appointments are on the County site \n<https://www.co.shasta.ca.us/ready/covid-19/vaccinations>\n\nNote: County is still well short of the number of vaccines needed for everyone in Phase 1A and 1B who wants to be vaccinated.\n\nIf you don’t see an option that works for you and if you are eligible now, get on the waiting list by clicking on the blue oval on the County site (see above for link) and then Public Health will call or email you to set up an appointment.\n\n**Phone numbers:** Individuals without access to the internet can call the Public Health Services Department at (530) 245-7890.\n\n**Additional Info:**\n",
-    "Total reports": 42,
+    "Total reports": 43,
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
-    "Yeses": 17,
+    "Yeses": 18,
     "id": "rec1rvcyGSS6AgQEq"
   },
   {
@@ -470,7 +470,7 @@
     "County": "Napa County ",
     "County vaccination reservations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Facebook Page": "https://www.facebook.com/NapaCounty/",
-    "Notes": "(Updated: March 9)**Eligibility**:Individuals 65 and older (priority given to 75+) and the following sector populations,  Agriculture and food, Education and childcare, Emergency services. \n\n**County restrictions**:Napa County's vaccination efforts are available for those who either live or work in Napa County \n\n**Appointment Information**:<https://www.countyofnapa.org/3096/COVID-19-Vaccines>\n\n**Phone numbers:** [(707) 253-4270](https://www.google.com/search?client=safari&rls=en&q=Napa+County+department+of+public+health&ie=UTF-8&oe=UTF-8#) Napa County Public Health\n\n**Additional Info**:Website also in Spanish\nRegistration Information.\n[The State of California’s MyTurn website](https://myturn.ca.gov/), which will become the primary registration site for vaccination scheduling statewide in the coming weeks. Check if you’re eligible for vaccination, sign up for notifications, and schedule appointments in select areas.\n[Kaiser Permanente](https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine) has a COVID-19 vaccine webpage for members to check their vaccine status online.\n[Rite Aid's](https://www.riteaid.com/pharmacy/covid-qualifier) COVID-19 Vaccine Scheduler\n[St. Joseph Health](https://coronavirus.providence.org/blog/uf/646123480) outlines how they're reaching out to eligible patients.\n[Sutter Health's vaccine resource page](https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine) has ways to check eligibility and schedule appointments. \n\n\n\n",
+    "Notes": "(Updated: March )**Eligibility**:Individuals 65 and older (priority given to 75+) and the following sector populations,  Agriculture and food, Education and childcare, Emergency services. \n\n**County restrictions**:Napa County's vaccination efforts are available for those who either live or work in Napa County \n\n**Appointment Information**:<https://www.countyofnapa.org/3096/COVID-19-Vaccines>\n\n**Phone numbers:** [(707) 253-4270](https://www.google.com/search?client=safari&rls=en&q=Napa+County+department+of+public+health&ie=UTF-8&oe=UTF-8#) Napa County Public Health\n\n**Additional Info**:Website also in Spanish\nRegistration Information.\n[The State of California’s MyTurn website](https://myturn.ca.gov/), which will become the primary registration site for vaccination scheduling statewide in the coming weeks. Check if you’re eligible for vaccination, sign up for notifications, and schedule appointments in select areas.\n[Kaiser Permanente](https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine) has a COVID-19 vaccine webpage for members to check their vaccine status online.\n[Rite Aid's](https://www.riteaid.com/pharmacy/covid-qualifier) COVID-19 Vaccine Scheduler\n[St. Joseph Health](https://coronavirus.providence.org/blog/uf/646123480) outlines how they're reaching out to eligible patients.\n[Sutter Health's vaccine resource page](https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine) has ways to check eligibility and schedule appointments. \n\n\n\n",
     "Total reports": 30,
     "Twitter Page": "https://twitter.com/CountyofNapa",
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 191,
+    "Yeses": 192,
     "id": "recvQcNeuIr14uskB"
   },
   {
