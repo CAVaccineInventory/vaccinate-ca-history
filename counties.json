@@ -62,7 +62,7 @@
     "County": "Madera County",
     "County vaccination reservations URL": "https://qaz1.az1.qualtrics.com/jfe/form/SV_6MB5PrXgaf6OWrj",
     "Facebook Page": "https://www.facebook.com/MaderaCounty/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: Age 65+, or those who are 16+ in the following groups: Long-Term Care staff and residents, Medical first responders, Emergency Services, Food & Ag, Educational Institutions, or Licensed Childcare; Certain High-Risk Patients may be eligible, click this link for more information: <https://tinyurl.com/x55trpxd>  \n\nCertain High-Risk Patients may be eligible based upon this [guidance](https://www.maderacounty.com/home/showpublisheddocument?id=25503). A [physician referral form](https://www.maderacounty.com/home/showpublisheddocument?id=25757) must be submitted, reviewed, and approved PRIOR to making an appointment as stated in the instructions _(Once physician submits referral to public health, allow 3 business days for review)._\n\n**County restrictions**: Must be a Madera county resident or work in Madera county\n\n**Appointment Information**: To make an appointment for the FIRST VACCINE, fill out the form at this link: <https://tinyurl.com/j5u6bj89> or to make an appointment for the SECOND VACCINE, fill out the form at this link: <https://tinyurl.com/nca9kufw>\n\n**Phone numbers**: Individuals who have questions can call the county at 3-1-1. To receive text updates, text MADERAVAX to 888777\n\n**Additional Info: **There is also an Overflow list, when appointments are filled. To add your name to the Waitlist, click this link: [Online Survey Software | Qualtrics Survey Solutions](https://qaz1.az1.qualtrics.com/jfe/form/SV_5baCrN1FQJQEoQK)\n",
+    "Notes": "(Updated: Mar 12) **Eligibility**: Age 65+, or those who are 16+ in the following groups: Long-Term Care staff and residents, Medical first responders, Emergency Services, Food & Ag, Educational Institutions, or Licensed Childcare.\n\nCertain High-Risk Patients may be eligible based upon this [guidance](https://www.maderacounty.com/home/showpublisheddocument?id=25503). A [physician referral form](https://www.maderacounty.com/home/showpublisheddocument?id=25757) must be submitted, reviewed, and approved PRIOR to making an appointment as stated in the instructions _(Once physician submits referral to public health, allow 3 business days for review)._\n\n**County restrictions**: Must be a Madera county resident or work in Madera county\n\n**Appointment Information**: To make an appointment for the FIRST VACCINE, fill out the form at this link: <https://tinyurl.com/j5u6bj89> or to make an appointment for the SECOND VACCINE, fill out the form at this link: <https://tinyurl.com/nca9kufw>\n\n**Phone numbers**: Individuals who have questions can call the county at 3-1-1. To receive text updates, text MADERAVAX to 888777\n\n**Additional Info: **There is also an Overflow list, when appointments are filled. To add your name to the Waitlist, click this link: [Online Survey Software | Qualtrics Survey Solutions](https://qaz1.az1.qualtrics.com/jfe/form/SV_5baCrN1FQJQEoQK)\n",
     "Official volunteering opportunities": "https://www.maderacounty.com/government/public-health/covid-19/covid-19vaxclinicvolunteer",
     "Total reports": 27,
     "Twitter Page": "https://twitter.com/MaderaCounty",
@@ -114,7 +114,7 @@
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/sccounty",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
-    "Yeses": 13,
+    "Yeses": 14,
     "id": "rec8EEJmJzCdopVzu"
   },
   {
@@ -198,7 +198,7 @@
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Yeses": 17,
+    "Yeses": 16,
     "id": "recMF4xBLqll2wYtk"
   },
   {
@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 76,
+    "Yeses": 75,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -260,7 +260,7 @@
     "Twitter Page": "https://twitter.com/cocohealth",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Yeses": 53,
+    "Yeses": 54,
     "id": "recP7bxtLsyO94BOI"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 520,
+    "Yeses": 521,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -384,7 +384,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 82,
+    "Yeses": 83,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -436,7 +436,7 @@
     "County": "Calaveras County",
     "County vaccination reservations URL": "https://covid19.calaverasgov.us/Vaccines",
     "Facebook Page": "https://www.facebook.com/calaveraspublichealth/",
-    "Notes": "(Updated: Mar 11)  **Eligibility:** 65+, or in Emergency services, Education & Childcare, Food and agriculture\n\n**County restrictions:** Must be a Calaveras county resident or work in Calaveras county\n\n**Appointment Information:** Persons 65 and older interested in getting the COVID-19 vaccine, you can schedule online at this link: **[https://myturn.ca.gov](https://myturn.ca.gov/?fbclid=IwAR05FFeC0O-dTtESyEd3Wq5csdmGwgMjm3DwRSp_ffth5cVaXUWDax9eVUg)** or you can call 1-833-422-4255 to schedule an appointment. \n\n**Phone numbers:** Individuals without access to the internet can call Call (209) 754-2564 and provide your full name, date of birth, and a phone number to best reach you.\n\n**Additional Info:** If you are not currently eligible, Calaveras Public Health will notify the public through local media outlets and social media when it's your turn.\n",
+    "Notes": "(Updated: Mar 12)  **Eligibility:** 65+, or in Emergency services, Education & Childcare, Food and agriculture, Transportation and logistics, industrial, commercial, residential, and sheltering facilities and services, critical manufacturing. Congregate settings with outbreak risk: Incarcerated, Homeless \n\n**County restrictions:** Must be a Calaveras county resident or work in Calaveras county\n\n**Appointment Information:** Persons 65 and older interested in getting the COVID-19 vaccine, you can schedule online at this link: **[https://myturn.ca.gov](https://myturn.ca.gov/?fbclid=IwAR05FFeC0O-dTtESyEd3Wq5csdmGwgMjm3DwRSp_ffth5cVaXUWDax9eVUg)** or you can call 1-833-422-4255 to schedule an appointment. \n\n**Phone numbers:** Individuals without access to the internet can call Call (209) 754-2564 and provide your full name, date of birth, and a phone number to best reach you.\n\n**Additional Info:** If you are not currently eligible, Calaveras Public Health will notify the public through local media outlets and social media when it's your turn.\n",
     "Total reports": 9,
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
     "Yeses": 3,
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 190,
+    "Yeses": 191,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -554,7 +554,7 @@
     "County": "Kern County",
     "County vaccination reservations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Facebook Page": "https://www.facebook.com/kernpublichealthservices/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Kern county resident or work in Kern county\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n",
+    "Notes": "(Updated: Mar 12) **Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Kern county resident or work in Kern county\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n",
     "Total reports": 238,
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
@@ -618,7 +618,7 @@
     "Twitter Page": "https://twitter.com/SBCPublicHealth",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Yeses": 36,
+    "Yeses": 37,
     "id": "recuweSK9OqJ7C2l4"
   },
   {
@@ -648,7 +648,7 @@
     "County": "Amador County",
     "County vaccination reservations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Facebook Page": "https://www.facebook.com/AmadorPublicHealthDept",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 75+ PLEASE NOTE: Some County vaccine clinics will vaccinate 65+, grocery store workers, agriculture workers, health care workers, first responders, educators, and community outreach workers, as supplies allow.\n\n**County restrictions**: Must be a resident of Amador County. \n\n**Appointment Information**: To see upcoming vaccine clinics and make an appointment, please click this link: <https://tinyurl.com/drwue7k3>\n\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\n\n**Additional Info**: Upcoming clinics on Mar 11, Mar 12 and Mar 17. To register for an appointment, click this link: <https://tinyurl.com/drwue7k3>\n",
+    "Notes": "(Updated: Mar 12) **Eligibility**: 75+ PLEASE NOTE: Some County vaccine clinics will vaccinate residents 65 years & older, residents with chronic health conditions (age 18 & over), grocery store workers, agriculture workers, restaurant and food service workers, health care workers, first responders, educators, and community outreach workers. .\n\n**County restrictions**: Must be a resident of Amador County. \n\n**Appointment Information**: To see upcoming vaccine clinics and make an appointment, please click this link: <https://tinyurl.com/drwue7k3>\n\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\n\n**Additional Info**: Upcoming clinic on Mar 16, 17, 18, and 19. To register for an appointment, click this link: <https://tinyurl.com/drwue7k3>\n",
     "Official volunteering opportunities": "https://californiavolunteers.ca.gov/",
     "Total reports": 10,
     "Twitter Page": "https://twitter.com/amadorhlthdept",
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 85,
+    "Yeses": 86,
     "id": "reczthUUHssxaQj7X"
   }
 ]
