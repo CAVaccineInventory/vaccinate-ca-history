@@ -114,7 +114,7 @@
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/sccounty",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
-    "Yeses": 14,
+    "Yeses": 15,
     "id": "rec8EEJmJzCdopVzu"
   },
   {
@@ -230,7 +230,7 @@
     "County": "Mono County",
     "County vaccination reservations URL": "https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/",
     "Facebook Page": "https://www.facebook.com/monohealthdepartment",
-    "Notes": "(Updated: Mar 11) **Eligibility**: Individuals aged 50+, regardless of occupation. Emergency services, education and childcare and food and agriculture workers. Individuals 16+ who have certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Conditions listed here: <https://covid19.ca.gov/vaccines/> )\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccination pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department to register for your vaccination appointment. \n\n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process.\n\n**Additional information**: Second homeowners are not eligible to receive the vaccine in Mono County.\n\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: Individuals aged 50+, regardless of occupation. Emergency services, education and childcare and food and agriculture workers. Individuals 16+ who have certain underlying medical conditions that pose increased risk for severe illness related to COVID-19. (Conditions listed here: <https://covid19.ca.gov/vaccines/> )\n\n**County restrictions**: Must live or work in Mono County.\n\n**Appointment Information**: Vaccination pre-registration required via this form: <https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/> . You will be contacted by the Public Health Department to register for your vaccination appointment. \n\n**Phone numbers**: Individuals without access to the internet can call (760) 924-1830 for assistance in the pre-registration process.\n\n**Additional information**: Second homeowners are not eligible to receive the vaccine in Mono County. Acceptable proofs of permanent residency can be found here: <https://coronavirus.monocounty.ca.gov/pages/vaccinations/#eligibility>\n\n\n",
     "Total reports": 10,
     "Twitter Page": "https://twitter.com/CountyMono",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
@@ -242,7 +242,7 @@
     "County": "San Francisco",
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Facebook Page": "https://www.facebook.com/SFDEM/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+, or education, childcare, emergency services, transit and food/restaurant/agriculture workers \n\n**County restrictions**: Vaccinations are free for people who live or work in San Francisco\n\n**Appointment Information**: The page includes appointments for county and private-provider sites: https://sf.gov/get-vaccinated-against-covid-19\n\n**Phone number**: For those who don't have internet access or have difficulty using websites, San Francisco recommends calling the state's MyTurn appointment system: (833) 422-4255.\n\n**Additional Information**: Starting March 15, people who have certain disabilities or health conditions will be eligible for the vaccine. [See details from the state](https://covid19.ca.gov/vaccines/#Vaccinating-those-at-higher-risk).\n",
+    "Notes": "(Updated: Mar 12) **Eligibility**: 65+, or education, childcare, emergency services, transit and food/restaurant/agriculture workers \n\n**County restrictions**: Vaccinations are free for people who live or work in San Francisco\n\n**Appointment Information**: The page includes appointments for county and private-provider sites: https://sf.gov/get-vaccinated-against-covid-19\n\n**Phone number**: For those who don't have internet access or have difficulty using websites, San Francisco recommends calling the state's MyTurn appointment system: (833) 422-4255.\n\n**Additional Information**: Starting March 15, people who have certain disabilities or health conditions will be eligible for the vaccine. [See details from the state](https://covid19.ca.gov/vaccines/#Vaccinating-those-at-higher-risk).\n",
     "Official volunteering opportunities": "https://sfdhr.org/emergency-healthcare-volunteers",
     "Total reports": 199,
     "Twitter Page": "https://twitter.com/SF_DPH",
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 524,
+    "Yeses": 525,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
