@@ -260,7 +260,7 @@
     "Twitter Page": "https://twitter.com/cocohealth",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Yeses": 54,
+    "Yeses": 55,
     "id": "recP7bxtLsyO94BOI"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 526,
+    "Yeses": 527,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -495,13 +495,13 @@
     "County": "San Bernardino County",
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Facebook Page": "https://www.facebook.com/SBCPublicHealth",
-    "Notes": "(Updated: Mar 12) **Eligibility**: 65+, or education, emergency services and food and agriculture workers\n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n**Additional Info**: Beginning next week, county residents who are disabled or who have a serious health condition will be eligible for vaccine. Details here: https://wp.sbcounty.gov/cao/countywire/\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, or education, emergency services and food and agriculture workers. \n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n**Additional Info**: Beginning March 15, those who are disabled or who have a serious health condition will be eligible for vaccine. Also eligible will be public transit workers, utility workers, foster parents, social workers, those who serve the homeless, airport workers, and janitors. Details here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx>\n\n",
     "Official volunteering opportunities": "https://hr.sbcounty.gov/volunteerhub/",
     "Total reports": 406,
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 152,
+    "Yeses": 153,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -521,7 +521,7 @@
     "County": "Lassen County",
     "County vaccination reservations URL": "https://lassencares.org/home-1",
     "Facebook Page": "https://www.facebook.com/LassenCares",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+ \n\n**County restrictions**: Must live or work full-time in Lassen County\n\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\n\n**Phone number**: Call (530) 249-8628 to submit your appointment request information. \n\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+ \n\n**County restrictions**: Must live or work full-time in Lassen County\n\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\n\n**Phone number**: Call (530) 249-8628 to submit your appointment request information. \n\n",
     "Total reports": 8,
     "Vaccine info URL": "https://lassencares.org/home-1",
     "Yeses": 3,
