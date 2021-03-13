@@ -146,7 +146,7 @@
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers.\n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers. Beginning March 15, vaccination will be made available to those with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness. \n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
     "Official volunteering opportunities": "https://www.tehamacohealthservices.net/emergency-preparedness/get-involved/",
     "Total reports": 16,
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
@@ -309,7 +309,7 @@
   {
     "County": "Kings County",
     "County vaccination reservations URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+, or employed in education, emergency services, childcare, or food and agriculture.\n\n**County restrictions**: Must live or work in Kings County\n\n**Appointment Information**: Complete the eligibility and appointment form at: <https://bookkcdphvax.timetap.com/#/>\n\n**Phone number**: For those without internet access, call Kings County Dept. of Public Health: (559) 584-1401\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, or employed in education, emergency services, childcare, or food and agriculture.\n\n**County restrictions**: Must live or work in Kings County\n\n**Appointment Information**: Complete the eligibility and appointment form at: <https://bookkcdphvax.timetap.com/#/>\n\n**Phone number**: For those without internet access, call Kings County Dept. of Public Health: (559) 584-1401\n",
     "Total reports": 36,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Yeses": 19,
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 525,
+    "Yeses": 526,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -601,7 +601,7 @@
     "County": "Solano County",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: 65+, emergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the vaccine interest form: <https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkITmQkAJBpD5Ap6ySli1u7o1UMlBMV0VWMzdDOEJNVkc2U1VSTVpIWk1JMC4u>\n\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, emergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the vaccine interest form: <https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkITmQkAJBpD5Ap6ySli1u7o1UMlBMV0VWMzdDOEJNVkc2U1VSTVpIWk1JMC4u>\n\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
     "Total reports": 66,
     "Twitter Page": "https://twitter.com/solanooes",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
