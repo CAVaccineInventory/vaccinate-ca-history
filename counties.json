@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 80,
+    "Yeses": 81,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -319,7 +319,7 @@
     "County": "Nevada County",
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
-    "Notes": "(Updated: Mar 11) **Eligibility**: Nevada County is currently focusing on vaccination of people 65+ in 1B countywide.\n\n**Appointment Information**: Currently limited eligibility in Nevada County for 65+ via direct outreach from vaccine partners to their 65+ patients and will be via appointments released on [MyTurn.ca.gov](http://myturn.ca.gov/). Please do not reach out directly to your healthcare provider. If they are a vaccine partner and have sufficient vaccine, they will contact their patients directly.\n\n**Additional Info**: A standby list is available for those working in Education and childcare, Emergency services. and Food and Agriculture. This list is for same-day appointments at our Grass Valley clinic to ensure that no dose is wasted. Information about the standby list is available here: <https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3632>\n\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: Nevada County is currently focusing on vaccination of people 65+ in 1B countywide, as well as those working in education & childcare, emergency services and food/agriculture.\n\n**Appointment Information**: Currently limited eligibility in Nevada County for 65+ via direct outreach from vaccine partners to their 65+ patients and will be via appointments released on [MyTurn.ca.gov](http://myturn.ca.gov/). Please do not reach out directly to your healthcare provider. If they are a vaccine partner and have sufficient vaccine, they will contact their patients directly.\n\n**Additional Info**: A standby list is available for those working in Education and childcare, Emergency services. and Food and Agriculture. This list is for same-day appointments at our Grass Valley clinic to ensure that no dose is wasted. Information about the standby list is available here: <https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3632>\n\nStarting March 15, people with certain significant, high-risk medical conditions or disabilities will become eligible for vaccines statewide. [More details here](https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3686)\n\nTo protect confidentiality, verification documentation of the diagnosis or type of disability is not required but instead anyone meeting the eligibility requirements will be asked to sign a self-attestation that they meet the criteria for high-risk medical conditions or disabilities.\n\n",
     "Total reports": 25,
     "Twitter Page": "https://twitter.com/NevadaCountyCA",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
@@ -554,7 +554,7 @@
     "County": "Kern County",
     "County vaccination reservations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Facebook Page": "https://www.facebook.com/kernpublichealthservices/",
-    "Notes": "(Updated: Mar 12) **Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Kern county resident or work in Kern county\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n",
+    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Kern county resident or work in Kern county\n\n**Appointment Information**: For locations and appointment information please click this link: [https://kernpublichealth.com](https://kernpublichealth.com/)\n\n**Phone numbers**: Individuals without access to the internet can call the Public Health Services Department at 661-321-3000\n\n**Additional information:** Beginning March 15, COVID-19 vaccine becomes available to those with certain health conditions, disabilities, illness, and living spaces or work environments that put them at higher risk for serious COVID-19 illness. [More details here](https://kernpublichealth.com/wp-content/uploads/2021/03/NewVaccineEligible-3.12.pdf)\n",
     "Total reports": 238,
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
@@ -618,7 +618,7 @@
     "Twitter Page": "https://twitter.com/SBCPublicHealth",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Yeses": 37,
+    "Yeses": 38,
     "id": "recuweSK9OqJ7C2l4"
   },
   {
