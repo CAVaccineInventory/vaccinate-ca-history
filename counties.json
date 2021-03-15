@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 83,
+    "Yeses": 84,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -260,7 +260,7 @@
     "Twitter Page": "https://twitter.com/cocohealth",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Yeses": 60,
+    "Yeses": 61,
     "id": "recP7bxtLsyO94BOI"
   },
   {
@@ -323,7 +323,7 @@
     "Total reports": 25,
     "Twitter Page": "https://twitter.com/NevadaCountyCA",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
-    "Yeses": 11,
+    "Yeses": 12,
     "id": "recY8ARCBGpH545Jv"
   },
   {
@@ -343,7 +343,7 @@
     "County": "Trinity County",
     "County vaccination reservations URL": "https://www.trinitycounty.org/COVID-19/Vaccine-Registration",
     "Facebook Page": "https://www.facebook.com/TrinityHHSD/",
-    "Notes": "(Updated: March 14)**Eligibility**: 65+, Health care workers, Essential workers and others age 16-64 with certain chronic health care conditions (see Press Release 2-08-21) \n\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \n\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\n\n**Phone numbers**: 530-623-8235\n\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>\n\n\n",
+    "Notes": "(Updated: March 15)**Eligibility**: 65+, Health care workers, Essential workers and others age 16-64 with certain chronic health care conditions (see Press Release 2-08-21) \n\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \n\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\n\n**Phone numbers**: 530-623-8235\n\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>\n\n\n",
     "Total reports": 5,
     "Vaccine info URL": "https://www.trinitycounty.org/COVID19-Vaccine",
     "Vaccine locations URL": "https://www.trinitycounty.org/sites/default/files/Public_Health/Documents/Covid/COVID-19_Press_Release_1.11.2021.pdf",
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 165,
+    "Yeses": 166,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 199,
+    "Yeses": 200,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -559,7 +559,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 122,
+    "Yeses": 123,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 210,
+    "Yeses": 208,
     "id": "recvQcNeuIr14uskB"
   },
   {
