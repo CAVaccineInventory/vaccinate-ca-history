@@ -50,7 +50,7 @@
     "County": "Santa Clara County",
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Facebook Page": "https://www.facebook.com/sccpublichealth",
-    "Notes": "(Updated: March 14) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency services\n\n**County restrictions**:As healthcare providers are providing vaccine in Santa Clara County, some providers have restrictions.\n\n**Appointment Information**:Go to <https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx> to see sites where healthcare providers offering vaccine and to make appointments.\n\n**Phone numbers**:(408) 792-5050 Santa Clara Dept of Public Health \n\n**Additional Info**:Santa Clara County, VTA has created an [interactive map](https://www.vta.org/sites/default/files/2021-02/FINAL%20VaccinationMap-02-23-21b_SHR.pdf) for the public to find a list of the current vaccination locations, along with the bus or light rail routes to take to each site. Transit trips are free as VTA is [currently not collecting fares](https://www.vta.org/blog/service-frequency-improvements-no-fare-collection-effect-feb-8). When viewers click on any vaccination location on the map, they will be taken to the Google Maps transit option to find the most efficient transit route to get to the destination.\nWebsite has information in Spanish, Chinese, Vietnamese, Tagalong\n\n\n",
+    "Notes": "(Updated: March 15) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency services ** Individuals age 16-64 with [qualifying high-risk medical conditions or disabilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx) are eligible to be vaccinated, though vaccine supply remains limited.**\n\n**County restrictions**:As healthcare providers are providing vaccine in Santa Clara County, some providers have restrictions.\n\n**Appointment Information**:Go to <https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx> to see sites where healthcare providers offering vaccine and to make appointments.\n\n**Phone numbers**:(408) 792-5050 Santa Clara Dept of Public Health \n\n**Additional Info**:Santa Clara County, VTA has created an [interactive map](https://www.vta.org/sites/default/files/2021-02/FINAL%20VaccinationMap-02-23-21b_SHR.pdf) for the public to find a list of the current vaccination locations, along with the bus or light rail routes to take to each site. Transit trips are free as VTA is [currently not collecting fares](https://www.vta.org/blog/service-frequency-improvements-no-fare-collection-effect-feb-8). When viewers click on any vaccination location on the map, they will be taken to the Google Maps transit option to find the most efficient transit route to get to the destination.\nWebsite has information in Spanish, Chinese, Vietnamese, Tagalong\n\n\n",
     "Total reports": 285,
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 81,
+    "Yeses": 82,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -146,7 +146,7 @@
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
-    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers. \nAlso, 16-64 with cancer, current with debilitated or immunocompromised state;| Chronic kidney disease, stage 4 or above | Chronic pulmonary disease, oxygen dependent | Down syndrome | Immunocompromised state from solid organ transplant | Pregnancy | Sickle cell disease | Heart conditions, excluding hypertension | Severe obesity with a Body Mass Index >= 40 kg/m2 | Type 2 diabetes mellitus with hemoglobin A1c level greater than 7.5%\nsignificant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness. \n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
+    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, and education, childcare, emergency services and food and agriculture workers. \nAlso, people 16-64 with cancer, current with debilitated or immunocompromised state; chronic kidney disease, stage 4 or above; chronic pulmonary disease, oxygen dependent; Down syndrome;| immunocompromised state from solid organ transplant; pregnancy; sickle cell disease; heart conditions, excluding hypertension; severe obesity with a BMI >= 40 kg/m2 | Type 2 diabetes mellitus with hemoglobin A1c level greater than 7.5%\nOr: a physical or mental disability that is so severe and high-risk that one of the following applies: 1) a COVID-19 infection is likely to result in severe, life-threatening illness or death; OR 2) acquiring COVID-19 will limit the ability to receive ongoing care or services vital to well-being and survival; OR 3) providing adequate and timely COVID care will be particularly challenging as a result of a disability.\n\n**County restrictions**: Must live or work in Tehama County.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
     "Official volunteering opportunities": "https://www.tehamacohealthservices.net/emergency-preparedness/get-involved/",
     "Total reports": 16,
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 551,
+    "Yeses": 552,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -384,7 +384,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 87,
+    "Yeses": 88,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -402,7 +402,7 @@
     "County": "Marin County",
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Facebook Page": "https://www.facebook.com/CountyOfMarin",
-    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, or education, childcare, food service, agriculture, and emergency services.\n\n**County restrictions**: Must live in Marin County.\n\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\n \n**Phone number**: County residents who cannot make appointments via the internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm.\n\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.\n",
+    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, or education, childcare, food service, agriculture, and emergency services.\n\n**County restrictions**: Must live in Marin County.\n\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\n \n**Phone number**: County residents who cannot make appointments via the internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm.\n\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.\n",
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/maringov",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
@@ -495,13 +495,13 @@
     "County": "San Bernardino County",
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Facebook Page": "https://www.facebook.com/SBCPublicHealth",
-    "Notes": "(Updated: Mar 13) **Eligibility**: 65+, or education, emergency services and food and agriculture workers. \n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n**Additional Info**: Beginning March 15, those who are disabled or who have a serious health condition will be eligible for vaccine. Also eligible will be public transit workers, utility workers, foster parents, social workers, those who serve the homeless, airport workers, and janitors. Details here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx>\n\n",
+    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, or education, emergency services and food and agriculture workers. Persons age 16-64 with serious underlying medical conditions or disabilities. Also eligible: public transit workers, utility workers, foster parents, social workers, those who serve the homeless, airport workers, and janitors.  [Details on eligibility here.](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx) \n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n\n",
     "Official volunteering opportunities": "https://hr.sbcounty.gov/volunteerhub/",
     "Total reports": 408,
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 163,
+    "Yeses": 164,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -521,7 +521,7 @@
     "County": "Lassen County",
     "County vaccination reservations URL": "https://lassencares.org/home-1",
     "Facebook Page": "https://www.facebook.com/LassenCares",
-    "Notes": "(Updated: Mar 13) **Eligibility**: 65+ \n\n**County restrictions**: Must live or work full-time in Lassen County\n\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\n\n**Phone number**: Call (530) 249-8628 to submit your appointment request information. \n\n",
+    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, healthcare workers ([details on eligibility here](https://lassencares.org/covid-19%2Fflu-vaccination))\n\n**County restrictions**: Must live or work full-time in Lassen County\n\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\n\n**Phone number**: Call (530) 249-8628 to submit your appointment request information. \n\n",
     "Total reports": 8,
     "Vaccine info URL": "https://lassencares.org/home-1",
     "Yeses": 3,
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 206,
+    "Yeses": 208,
     "id": "recvQcNeuIr14uskB"
   },
   {
@@ -648,7 +648,7 @@
     "County": "Amador County",
     "County vaccination reservations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Facebook Page": "https://www.facebook.com/AmadorPublicHealthDept",
-    "Notes": "(Updated: Mar 15) **Eligibility**: 75+ PLEASE NOTE: Some County vaccine clinics will vaccinate residents 65 years & older, residents with chronic health conditions (age 18 & over), grocery store workers, agriculture workers, restaurant and food service workers, health care workers, first responders, educators, and community outreach workers. .\n\n**County restrictions**: Must be a resident of Amador County. \n\n**Appointment Information**: To see upcoming vaccine clinics and make an appointment, please click this link: <https://tinyurl.com/drwue7k3>\n\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\n\n**Additional Info**: Upcoming clinic on Mar 17, 18, and 19. To register for an appointment, click this link: <https://tinyurl.com/drwue7k3>\n",
+    "Notes": "(Updated: Mar 15) **Eligibility**: 75+ PLEASE NOTE: Upcoming County vaccine clinics will vaccinate Amador residents with chronic health conditions (age 18 & over), in addition to residents 65 years & older,  grocery store workers, agriculture workers, restaurant and food service workers, health care workers, first responders, educators, community outreach workers, childcare providers and caregivers. \n\n**County restrictions**: Must be a resident of Amador County. \n\n**Appointment Information**: To see upcoming vaccine clinics and make an appointment, please click this link: <https://tinyurl.com/drwue7k3>\n\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\n\n**Additional Info**: Upcoming clinic on Mar 17, 18, and 19. To register for an appointment, click this link: <https://tinyurl.com/drwue7k3>\n",
     "Official volunteering opportunities": "https://californiavolunteers.ca.gov/",
     "Total reports": 10,
     "Twitter Page": "https://twitter.com/amadorhlthdept",
