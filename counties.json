@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 69,
+    "Yeses": 68,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -260,7 +260,7 @@
     "Twitter Page": "https://twitter.com/cocohealth",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Yeses": 63,
+    "Yeses": 62,
     "id": "recP7bxtLsyO94BOI"
   },
   {
@@ -417,7 +417,7 @@
     "Notes": "(Updated: Mar 16) **Eligibility:** 65+, Education and Childcare, Emergency Services, Food and Agriculture, individuals 16-64 who have certain disabilities or health conditions, incarcerated, homeless, Transportation and Logistics according to state guidelines found here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx>\n\n**County Restrictions:** Must live or work in Lake County.\n\n**Appointment Information:** Individuals will need to show ID and proof of residence at the time of the appointment, as well as proof of eligibility if applicable (or fill out the self-attestation form found here: <http://health.co.lake.ca.us/Assets/Departments/Health/Public+Health+Division/COVID-19/Vaccines/3.15.21+COVID+Vaccine+Self-Attestation+form.pdf>). Eligible workers must additionally show proof of employment. For locations and appointment information please click this link: <http://health.co.lake.ca.us/Coronavirus/Vaccines.htm> \n\n**Phone Numbers:** County residents 65+, who do not have the ability to schedule online, can call 707-993-4644 for assistance. County farmworkers can call 707-262-4162, 707-262-4153 or 707-262-4159, Monday - Friday, 9-5 for assistance. Please do not call these numbers if appointments are filled. If you have questions about the vaccine, call 211 or 707-263-8174, or text \"covid19\" to 211-211.\n\n**Additional Info:** New links to schedule first dose appointments are posted every few days on the county website. You may also contact your medical provider to inquire about vaccine appointments.\n",
     "Total reports": 19,
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
-    "Yeses": 8,
+    "Yeses": 7,
     "id": "recgAENHoupyViJxe"
   },
   {
@@ -429,7 +429,7 @@
     "Total reports": 180,
     "Twitter Page": "https://twitter.com/CountyVentura",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Yeses": 53,
+    "Yeses": 52,
     "id": "recgC68ghhJW0EDz4"
   },
   {
@@ -452,7 +452,7 @@
     "Twitter Page": "https://twitter.com/TulareCo_HHSA",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Yeses": 51,
+    "Yeses": 50,
     "id": "recipKOzQdBxv0mAf"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 207,
+    "Yeses": 205,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 211,
+    "Yeses": 210,
     "id": "recvQcNeuIr14uskB"
   },
   {
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 91,
+    "Yeses": 90,
     "id": "reczthUUHssxaQj7X"
   }
 ]
