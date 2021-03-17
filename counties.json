@@ -51,7 +51,7 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Facebook Page": "https://www.facebook.com/sccpublichealth",
     "Notes": "(Updated: March 17) **Eligibility**:65+, Agriculture and food services, education and childcare, emergency services ** Individuals age 16-64 with [qualifying high-risk medical conditions or disabilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx) are eligible to be vaccinated, though vaccine supply remains limited.**\n\n**County restrictions**:As healthcare providers are providing vaccine in Santa Clara County, some providers have restrictions.\n\n**Appointment Information**:Go to <https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx> to see sites where healthcare providers offering vaccine and to make appointments.\n\n**Phone numbers**:(408) 792-5050 Santa Clara Dept of Public Health \n\n**Additional Info**:Santa Clara County, VTA has created an [interactive map](https://www.vta.org/sites/default/files/2021-02/FINAL%20VaccinationMap-02-23-21b_SHR.pdf) for the public to find a list of the current vaccination locations, along with the bus or light rail routes to take to each site. Transit trips are free as VTA is [currently not collecting fares](https://www.vta.org/blog/service-frequency-improvements-no-fare-collection-effect-feb-8). When viewers click on any vaccination location on the map, they will be taken to the Google Maps transit option to find the most efficient transit route to get to the destination.\nWebsite has information in Spanish, Chinese, Vietnamese, Tagalong\n\n\n",
-    "Total reports": 285,
+    "Total reports": 286,
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 78,
+    "Yeses": 77,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -198,7 +198,7 @@
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Yeses": 15,
+    "Yeses": 16,
     "id": "recMF4xBLqll2wYtk"
   },
   {
@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 67,
+    "Yeses": 68,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -332,11 +332,11 @@
     "Facebook Page": "https://www.facebook.com/lapublichealth",
     "Notes": "(Updated: Mar 15) **Eligibility**: LA County Residents 65 and Older; and people working in Education and Childcare; Emergency Services; Food and Agriculture; Janitorial, Custodial, and Maintenance Services; Transportation and Logistics; people who live or work in congregate living spaces; and people with any health conditions and disabilities [listed here](http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/?level_1=step-1-eligibility&level_2=elig-health-conditions).\n\n**Appointment Information**: Information to sign up for an appointment can be found here: http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/ \n\n**Phone numbers**: Residents with disabilities or without computer access can call [833-540-0473](tel:1-833-540-0473) between 8:00 am and 8:30 pm 7 days a week for assistance with appointments.\n",
     "Official volunteering opportunities": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/volunteertovaccinate/",
-    "Total reports": 2270,
+    "Total reports": 2272,
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 553,
+    "Yeses": 557,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
