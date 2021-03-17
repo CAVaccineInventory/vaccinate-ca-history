@@ -312,7 +312,7 @@
     "Notes": "(Updated: Mar 15) **Eligibility**: 65+, or employed in education, emergency services, childcare, or food and agriculture. Also people living or working in homeless shelters or congregate behavioral health settings; people experiencing homelessness.\nAlso: People 16-64 with high-risk medical conditions including but not limited to: cancer, chronic kidney disease, chronic pulmonary disease, down syndrome, immunocompromised state, pregnancy, sickle-cell disease, heart conditions (excludes hypertension), severe obesity, type II diabetes; individuals with a developmental or severe high-risk disability that puts them at risk for severe illness or interferes with their ability to receive effective treatment for COVID-19.\n\n**County restrictions**: Must live or work in Kings County\n\n**Appointment Information**: Complete the eligibility and appointment form at: <https://bookkcdphvax.timetap.com/#/>\n\n**Phone number**: For those without internet access, call Kings County Dept. of Public Health: (559) 584-1401\n",
     "Total reports": 36,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Yeses": 19,
+    "Yeses": 18,
     "id": "recVhw3mOj2KaUWvx"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 558,
+    "Yeses": 557,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -407,7 +407,7 @@
     "Twitter Page": "https://twitter.com/maringov",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Yeses": 25,
+    "Yeses": 24,
     "id": "recfGCTuJg8X3CHzK"
   },
   {
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 165,
+    "Yeses": 164,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 205,
+    "Yeses": 204,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -559,7 +559,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 122,
+    "Yeses": 121,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -673,11 +673,11 @@
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Facebook Page": "https://www.facebook.com/FresnoCountyCA",
     "Notes": "(Updated Mar 15) **Eligibility**: 65+, and Education, Childcare, and Food and Agriculture workers, and individuals with high-risk medical conditions.\n\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\n\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \n\n**Phone numbers**: Fresno County residents who do not have internet access can call MyTurn at 1-833-422-4255 to sign up for a notification for when it’s their turn to get vaccinated against COVID-19. MyTurn operators speak English and Spanish, with an ability to add a third-party operator in 254 languages. \n\n**Additional Information**: Those with high-risk medical conditions and unable to visit a medical provider can complete and bring the following form indicating they self-attest to having a medical condition under the [CDPH High-Risk Medical Conditions eligibility criteria](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx):\n- High-Risk Medical Condition Self Attestation Form ([English](https://www.co.fresno.ca.us/home/showpublisheddocument?id=53028)) ([Spanish](https://www.co.fresno.ca.us/home/showpublisheddocument?id=53030))\n\n",
-    "Total reports": 211,
+    "Total reports": 212,
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 90,
+    "Yeses": 91,
     "id": "reczthUUHssxaQj7X"
   }
 ]
