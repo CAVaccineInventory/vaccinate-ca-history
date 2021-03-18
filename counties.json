@@ -187,7 +187,7 @@
     "Twitter Page": "https://twitter.com/SLOPublicHealth",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Yeses": 14,
+    "Yeses": 15,
     "id": "recMD5hrJf1iGh0On"
   },
   {
@@ -293,7 +293,7 @@
     "Twitter Page": "https://twitter.com/icpublichealth",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
-    "Yeses": 21,
+    "Yeses": 22,
     "id": "recTuH0G20ua9ErUU"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 552,
+    "Yeses": 551,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 714,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 107,
+    "Yeses": 108,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -372,7 +372,7 @@
     "Twitter Page": "https://twitter.com/StanCounty",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Yeses": 42,
+    "Yeses": 41,
     "id": "recb6ibrCGCw71RbX"
   },
   {
