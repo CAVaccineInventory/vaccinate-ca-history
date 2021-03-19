@@ -43,7 +43,7 @@
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Yeses": 41,
+    "Yeses": 42,
     "id": "rec21xHBYYJxXXOiq"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 574,
+    "Yeses": 577,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -402,7 +402,7 @@
     "County": "Marin County",
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Facebook Page": "https://www.facebook.com/CountyOfMarin",
-    "Notes": "Updated: Mar 16) **Eligibility**: 65+, or education, childcare, food service, agriculture, and emergency services. Also: Age 16-64 with severe, high-risk medical conditions; age 16-64 with significant, high-risk disabilities; people working in transportation and logistics; people working or living in congregate living space. [For more details](https://coronavirus.marinhhs.org/vaccine/distribution)\n\n**County restrictions**: Must live in Marin County.\n\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\n \n**Phone number**: County residents who cannot make appointments via the internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm.\n\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.\n",
+    "Notes": "Updated: Mar 19) **Eligibility**: 65+, or workers in  education, childcare, food service, agriculture, emergency services, transportation and logistics. Also: Age 16-64 with severe, high-risk medical conditions; age 16-64 with significant, high-risk disabilities; congregate living residents and workers. [Check here](https://coronavirus.marinhhs.org/vaccine/distribution)\n[for more details](https://coronavirus.marinhhs.org/vaccine/distribution).\n\n**County restrictions**: Must live in Marin County.\n\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\n \n**Phone number**: County residents who cannot make appointments via the internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm.\n\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.\n",
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/maringov",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
@@ -495,7 +495,7 @@
     "County": "San Bernardino County",
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Facebook Page": "https://www.facebook.com/SBCPublicHealth",
-    "Notes": "(Updated: Mar 15) **Eligibility**: 65+, or education, emergency services and food and agriculture workers. Persons age 16-64 with serious underlying medical conditions or disabilities. Also eligible: public transit workers, utility workers, foster parents, social workers, those who serve the homeless, airport workers, and janitors.  [Details on eligibility here.](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx) \n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n\n",
+    "Notes": "(Updated: Mar 19) **Eligibility**: 65+, or education, emergency services and food and agriculture workers. Persons age 16-64 with serious underlying medical conditions or disabilities. Also eligible: public transit workers, utility workers, foster parents, social workers, those who serve the homeless, airport workers, and janitors.  [Details on eligibility here.](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx) \n\n**County restrictions**: Must live or work in San Bernardino County\n\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\n\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\n\n**Additional information**: While no doctor's notes are required for those who claim eligibility because of a medical condition, you will need to show a sgned self-attestation form at your appointment. The form can be found here: https://sbcovid19.com/wp-content/uploads/sites/41/2021/03/Self-Attestation.pdf\n\n\n",
     "Official volunteering opportunities": "https://hr.sbcounty.gov/volunteerhub/",
     "Total reports": 418,
     "Twitter Page": "https://twitter.com/SBCountyPH",
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 219,
+    "Yeses": 220,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -559,7 +559,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 125,
+    "Yeses": 126,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -601,7 +601,7 @@
     "County": "Solano County",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
-    "Notes": "(Updated: Mar 17) **Eligibility**: All people 50+\nPeople 16-49 with underlying health conditions. [See CDC list for details](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html). \nEmergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\nHomeless/unhoused people.\nTransportation and logistics workers, including non-emergency transport providers\nIndustrial sector workers (commercial and residential\nCritical manufacturing workers \nEssential workers in chemical, communications/IT, defense, energy, finance, water and wasteland, government operations and community services. \n[Details on these essential workforce segments](https://covid19.ca.gov/essential-workforce/)\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the vaccine interest form: <https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkITmQkAJBpD5Ap6ySli1u7o1UMlBMV0VWMzdDOEJNVkc2U1VSTVpIWk1JMC4u>\n\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
+    "Notes": "(Updated: Mar 19) **Eligibility**: All people 50+\nPeople 16-49 with underlying health conditions. [See CDC list for details](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html). \nEmergency services workers, food and agriculture workers, Solano school employees, childcare workers and adult day care workers (staff only).\nHomeless/unhoused people.\nTransportation and logistics workers, including non-emergency transport providers\nIndustrial sector workers (commercial and residential\nCritical manufacturing workers \nEssential workers in chemical, communications/IT, defense, energy, finance, water and wasteland, government operations and community services. \n[Details on these essential workforce segments](https://covid19.ca.gov/essential-workforce/)\n\n**County restrictions**: Must live or work in Solano County.\n\n**Appointment Information**: Complete the[ vaccine interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkIeMEzssrcWhHjglhgOOdcIxUOFA2UFpQSDY2MDNTWVRZVEpBOUQwTk5QTS4u)\n\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\n\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>\n",
     "Total reports": 68,
     "Twitter Page": "https://twitter.com/solanooes",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
