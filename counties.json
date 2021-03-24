@@ -7,7 +7,7 @@
     "Total reports": 11,
     "Twitter Page": "https://twitter.com/glenncountyoes",
     "Vaccine info URL": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-vaccine-information",
-    "Yeses": 3,
+    "Yeses": 4,
     "id": "rec0QOd7EXzSuZZvN"
   },
   {
@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 86,
+    "Yeses": 87,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -187,7 +187,7 @@
     "Twitter Page": "https://twitter.com/SLOPublicHealth",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Yeses": 18,
+    "Yeses": 19,
     "id": "recMD5hrJf1iGh0On"
   },
   {
@@ -198,7 +198,7 @@
     "Total reports": 51,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Yeses": 17,
+    "Yeses": 18,
     "id": "recMF4xBLqll2wYtk"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 659,
+    "Yeses": 661,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 716,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 136,
+    "Yeses": 140,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -407,7 +407,7 @@
     "Twitter Page": "https://twitter.com/maringov",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Yeses": 22,
+    "Yeses": 23,
     "id": "recfGCTuJg8X3CHzK"
   },
   {
@@ -583,7 +583,7 @@
     "Twitter Page": "https://twitter.com/countymendocino",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
-    "Yeses": 12,
+    "Yeses": 13,
     "id": "rectD96YQWb5CnHV4"
   },
   {
@@ -618,7 +618,7 @@
     "Twitter Page": "https://twitter.com/SBCPublicHealth",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Yeses": 38,
+    "Yeses": 39,
     "id": "recuweSK9OqJ7C2l4"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 242,
+    "Yeses": 243,
     "id": "recvQcNeuIr14uskB"
   },
   {
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 109,
+    "Yeses": 110,
     "id": "reczthUUHssxaQj7X"
   }
 ]
