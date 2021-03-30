@@ -135,11 +135,11 @@
     "County vaccination reservations URL": "https://sjready.org/events/covid19/vaccines.html",
     "Facebook Page": "https://www.facebook.com/SJCPHS/",
     "Notes": "(Updated: Mar 30) **Eligibility**: 65+, Food and Agriculture (including Veterinary Services), Education and Childcare, Emergency Services, Congregate Living Spaces, Transportation and Logistics (public transit/airport and commercial airlines), and 16+ who have certain disabilities or health conditions according to the guidelines found here: <https://sjready.org/events/covid19/vaccines.html> \n\n**Appointment Information**: If you are eligible for a vaccine, please check with your Primary Care Physician, Doctor, or Healthcare Provider for vaccination opportunities first. Next, check with the Providers under the \"Approved Vaccine Providers in San Joaquin County\" and \"Upcoming Vaccine Events\" sections by clicking this link: [sjready.org/events/covid19/vaccines.html](https://sjready.org/events/covid19/vaccines.html). \n\n**Phone Numbers**: Contact 211 with any questions.\n\n**Additional Info:** San Joaquin RTD is now providing free rides on all fixed-route buses traveling to county SJReady vaccination sites. To ride free, check your eligibility and book your appointment on MyTurn ([myturn.ca.gov](https://myturn.ca.gov)) or on SJReady ([sjready.org/events/covid19/vaccines.html](https://sjready.org/events/covid19/vaccines.html)), then show your appointment confirmation via a print-out or on your phone to the operator when boarding. More information can be found here: <https://sanjoaquinrtd.com/covid-19/#freerides> \n",
-    "Total reports": 117,
+    "Total reports": 118,
     "Twitter Page": "https://twitter.com/SJC_OES",
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
-    "Yeses": 63,
+    "Yeses": 64,
     "id": "recAJsHK8yXnzdl6w"
   },
   {
@@ -187,7 +187,7 @@
     "Twitter Page": "https://twitter.com/SLOPublicHealth",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Yeses": 26,
+    "Yeses": 25,
     "id": "recMD5hrJf1iGh0On"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 782,
+    "Yeses": 781,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
