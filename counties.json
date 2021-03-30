@@ -88,7 +88,7 @@
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Facebook Page": "https://www.facebook.com/HumCoGov/",
     "Notes": "(Updated: Mar 30) **Eligibility:** 65+, Education and Childcare, Emergency Services, 16+ with specific high-risk medical conditions or disabilities according to state guidelines: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx> \n\n**County Restrictions:** Must be a resident of Humboldt County.\n\n**Appointment Information:** The best way for county residents to be notified of an available appointment at a Public Health clinic is to fill out the online Interest Form in [English](http://humboldtgov.org/InterestForm) or [Spanish](https://docs.google.com/forms/d/e/1FAIpQLSdkkP56aNbxfW98_FebzcRj9qZV2e64RXPz8W0EDr7xLUZOcw/viewform). The county or a local healthcare provider will notify residents when they are eligible and the vaccine is available. For more information about eligibility and appointment scheduling, please click here: <https://humboldtgov.org/CivicAlerts.aspx?AID=3779> \n\n**Phone Numbers:** Individuals without access to email or the internet can contact the COVID Community Information Line at 707-441-5000 between 8 AM - 5 PM Monday through Friday.\n\n**Additional Info:** Contact the COVID Community Information Line at 707-441-5000 or covidinfo@co.humboldt.ca.us. Para información en español: [Información sobre la Vacuna de COVID-19](https://humboldtgov.org/2887/La-Vacuna).\n",
-    "Total reports": 42,
+    "Total reports": 43,
     "Twitter Page": "https://twitter.com/humcogov",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
     "Yeses": 19,
@@ -303,7 +303,7 @@
     "Notes": "(Updated Mar 27) **Eligibility**: 65+, or Non-medical first responders, Teachers and Childcare workers, and Food and Agriculture workers, and those with medical conditions that put them under higher risk.\n\nSee this press release for a list of health conditions that will make you eligible to get the vaccine: <https://www.inyocounty.us/sites/default/files/2021-03/Vaccine_Expands.pdf> \n\n**County restrictions**: Must be an Inyo county resident\n\n**Additional Information: **Please sign up for **[the Inyo County Registration list](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)** to receive email updates to find out when vaccine will be available to you. Updates are sent weekly to everyone on the Inyo County Registration list. \n",
     "Total reports": 6,
     "Vaccine info URL": "https://www.inyocounty.us/covid-19/vaccine-information",
-    "Yeses": 5,
+    "Yeses": 4,
     "id": "recVCgGTLt7PpNSkb"
   },
   {
@@ -392,10 +392,10 @@
     "County vaccination reservations URL": "https://hhsa.cosb.us/vaccine-registration-portal/",
     "Facebook Page": "https://www.facebook.com/PublicHealthSBC",
     "Notes": "(Updated: March 29)**Eligibility**:65+, Agriculture and food services, education and childcare, emergency services. Vaccination is now available to those age 16-64 with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness. \n\n**County restrictions**:You must live or work in San Benito County to be eligible. \n\n**Appointment Information**:Go to <https://hhsa.cosb.us/covid-19-vaccine-info/#> to sign up for an appointment with a Federal Pharmacy Partner. \n**Phone numbers**: Public Health Hotline  831-636-4113\n\n**Additional Info**: Vaccine FAQs available on website. \n\n### \n\n",
-    "Total reports": 12,
+    "Total reports": 13,
     "Twitter Page": "https://twitter.com/PublicHealthSBC",
     "Vaccine info URL": "https://hhsa.cosb.us/covid-19-vaccine-info/",
-    "Yeses": 7,
+    "Yeses": 8,
     "id": "reccGVb82uJTXcyzA"
   },
   {
@@ -463,7 +463,7 @@
     "Official volunteering opportunities": "https://forms.gle/dAwBGpj6qsfHLSNz8",
     "Total reports": 10,
     "Vaccine info URL": "https://www.covid19.dnco.org/vaccines",
-    "Yeses": 8,
+    "Yeses": 7,
     "id": "reciwvE3uydUJmPr9"
   },
   {
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 222,
+    "Yeses": 223,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -605,7 +605,7 @@
     "Total reports": 70,
     "Twitter Page": "https://twitter.com/solanooes",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
-    "Yeses": 31,
+    "Yeses": 30,
     "id": "rectXRYX9gh3dALJJ"
   },
   {
