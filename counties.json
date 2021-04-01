@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 108,
+    "Yeses": 106,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -91,7 +91,7 @@
     "Total reports": 43,
     "Twitter Page": "https://twitter.com/humcogov",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
-    "Yeses": 20,
+    "Yeses": 19,
     "id": "rec7kL5TGBqWVlkHm"
   },
   {
@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 114,
+    "Yeses": 113,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 803,
+    "Yeses": 800,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 720,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 242,
+    "Yeses": 240,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -436,7 +436,7 @@
     "County": "Calaveras County",
     "County vaccination reservations URL": "https://covid19.calaverasgov.us/Vaccines",
     "Facebook Page": "https://www.facebook.com/calaveraspublichealth/",
-    "Notes": "(Updated: Apr 1)  **Eligibility:** 65+, or in Emergency services, Education & Childcare, Food and agriculture, Transportation and logistics, industrial, commercial, residential, and sheltering facilities and services, critical manufacturing. Congregate settings with outbreak risk: Incarcerated, Homeless \n\n**County restrictions:** Must be a Calaveras county resident or work in Calaveras county\n\n**Appointment Information:** Persons 65 and older interested in getting the COVID-19 vaccine, you can schedule online at this link: **[https://myturn.ca.gov](https://myturn.ca.gov/?fbclid=IwAR05FFeC0O-dTtESyEd3Wq5csdmGwgMjm3DwRSp_ffth5cVaXUWDax9eVUg)** or you can call 1-833-422-4255 to schedule an appointment. \n\nDue to a technical issue with the My Turn program, those registering on <https://myturn.ca.gov/> to schedule a COVID-19 vaccine and live in the 95223 area (Arnold) should enter 95222 as their zip code when searching for a location near you.\n\n**Phone numbers:** Individuals without access to the internet can call Call (209) 754-2564 and provide your full name, date of birth, and a phone number to best reach you. Also, COVID Community Call Center \n(209) 754-2896\n\n**Additional Info:** If you are not currently eligible, Calaveras Public Health will notify the public through local media outlets and social media when it's your turn.\n",
+    "Notes": "(Updated: Apr 1)  **Eligibility:** 50+, or in Emergency services, Education & Childcare, Food and agriculture, Transportation and logistics, industrial, commercial, residential, and sheltering facilities and services, critical manufacturing. Congregate settings with outbreak risk: Incarcerated, Homeless \n\n**County restrictions:** Must be a Calaveras county resident or work in Calaveras county\n\n**Appointment Information:** Persons 65 and older interested in getting the COVID-19 vaccine, you can schedule online at this link: **[https://myturn.ca.gov](https://myturn.ca.gov/?fbclid=IwAR05FFeC0O-dTtESyEd3Wq5csdmGwgMjm3DwRSp_ffth5cVaXUWDax9eVUg)** or you can call 1-833-422-4255 to schedule an appointment. \n\nDue to a technical issue with the My Turn program, those registering on <https://myturn.ca.gov/> to schedule a COVID-19 vaccine and live in the 95223 area (Arnold) should enter 95222 as their zip code when searching for a location near you.\n\n**Phone numbers:** Individuals without access to the internet can call Call (209) 754-2564 and provide your full name, date of birth, and a phone number to best reach you. Also, COVID Community Call Center \n(209) 754-2896\n\n**Additional Info:** If you are not currently eligible, Calaveras Public Health will notify the public through local media outlets and social media when it's your turn.\n",
     "Total reports": 12,
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
     "Yeses": 6,
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 224,
+    "Yeses": 223,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 280,
+    "Yeses": 279,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 287,
+    "Yeses": 285,
     "id": "recvQcNeuIr14uskB"
   },
   {
