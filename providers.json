@@ -110,11 +110,12 @@
   {
     "Last Updated": "2021-03-06",
     "Phase": [
-      "Not currently vaccinating"
+      "",
+      "It's complicated"
     ],
     "Provider": "The Medicine Shoppe",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: As of this date, we do not believe The Medicine Shoppe is distributing COVID-19 vaccines in California\n",
+    "Public Notes": "Apr 2: Some Medicine Shoppe locations are vaccinating.\n",
     "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
     "id": "recL6J9nNdt52LGBv"
   },
