@@ -54,7 +54,7 @@
     ],
     "Provider": "Walmart",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Walmart is not yet offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine\n",
+    "Public Notes": "Apr 2: Walmart is not yet offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine\n",
     "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
     "id": "recHdfz54RnV9NckR"
   },
@@ -92,7 +92,7 @@
     ],
     "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
+    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
     "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
     "id": "recKMdplNPLCwFMua"
   },
@@ -218,7 +218,7 @@
     ],
     "Provider": "One Medical",
     "Provider network type": "Other",
-    "Public Notes": "Mar 6: One Medical does not currently have first dose appointments available in California. You can find updates online https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area\n",
+    "Public Notes": "Mar 30: _One Medical anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use_ _[MyTurn](http://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere._ Updates can be found online at https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area\n",
     "Vaccine info URL": "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
     "id": "reckyDfrqjTM27CgO"
   },
