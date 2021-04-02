@@ -110,12 +110,11 @@
   {
     "Last Updated": "2021-03-06",
     "Phase": [
-      "",
-      "It's complicated"
+      ""
     ],
     "Provider": "The Medicine Shoppe",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Some Medicine Shoppe locations are vaccinating.\n",
+    "Public Notes": "Apr 2: Several Medicine Shoppe locations are vaccinating.\n",
     "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
     "id": "recL6J9nNdt52LGBv"
   },
