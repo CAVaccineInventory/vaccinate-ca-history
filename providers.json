@@ -144,7 +144,7 @@
     ],
     "Provider": "Ralph's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Limited quantities available at select locations\nCurrent eligibility varies by county; learn more [here](https://covid19.ca.gov/get-local-information/). _Note:_ _Residents must reside in the county they are receiving vaccines, per local public health regulations_\n[Check appointment availability](https://www.ralphs.com/rx/covid-eligibility)\n_Note: Patients who received their first dose of COVID vaccine from Ralphs will be assigned a second dose appointment._\n\n",
+    "Public Notes": "Apr 2: Limited quantities available at select locations\nCurrent eligibility varies by county; learn more [here](https://covid19.ca.gov/get-local-information/). _Note:_ _Residents must reside in the county they are receiving vaccines, per local public health regulations_\n[Check appointment availability](https://www.ralphs.com/rx/covid-eligibility)\n_Note: Patients who received their first dose of COVID vaccine from Ralphs will be assigned a second dose appointment._\n\n",
     "Vaccine info URL": "https://www.ralphs.com/i/coronavirus-update/vaccine",
     "id": "recN5zutK3efQf1f9"
   },
@@ -157,7 +157,7 @@
     ],
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california\n",
+    "Public Notes": "Apr 2: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california\n",
     "Vaccine info URL": "https://www.riteaid.com/Covid-19",
     "id": "recPPKwiDAPGruO9u"
   },
