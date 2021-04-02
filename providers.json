@@ -130,7 +130,7 @@
     ],
     "Provider": "El Camino Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 6: El Camino Health is currently vaccinating eligible individuals. Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine\n",
+    "Public Notes": "Apr 2: El Camino Health is currently vaccinating eligible individuals based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine\n",
     "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
     "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
     "id": "recMuxZ6lf0M4wzI2"
@@ -206,7 +206,7 @@
     ],
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 6: Currently vaccinating \n- Health care workers\n- Individuals 65+ \n- Persons at risk of occupational exposure to COVID-19 through their work in any role in the following sectors will be eligible:\n    - Education and childcare (including staff and any other workers involved in child and/or student care)\n    - Emergency services\n    - Agriculture and food\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
+    "Public Notes": "Apr : Currently vaccinating:\n- Health care workers\n- Patients who are aged 50 or older\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\n- Individuals who work or reside in high-risk congregate settings\n- Persons experiencing homelessness who may move to congregate settings at short notice\n- Emergency services workers\n- Food or agriculture workers\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\n- Public transit, airports, and commercial airlines workers\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
     "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
     "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
     "id": "recde0nSOAhIbnOwn"
@@ -254,7 +254,7 @@
     ],
     "Provider": "John Muir Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 6: They are contacting patients to schedule COVID-19 vaccine appointments. This is being done by group. Consistent with state and county guidelines, we are currently vaccinating John Muir Health patients who are in the 75+ age group and patients in the 65 - 74 age group. If you are in one of the age groups they are currently vaccinating, depending on the information in your medical record, they will be contacting you via MyChart message, email, text message or phone call. You may contact your doctor's office if you would like to update your contact information or add additional methods of contact. They also encourage you to sign up for a MyChart account by visiting their [MyChart sign up information page](https://www.johnmuirhealth.com/patients-and-visitors/mjmh-find-out-more/mychart-faq.html#signup).\n",
+    "Public Notes": "Mar 30: John Muir Health is offering vaccinations to current patients who meet state and county guidelines.  Those in one of the eligible categories, depending on the information in your medical record, we will be contacted via MyChart message, email, text message or phone call.  More info can be found at https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program\n",
     "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
     "id": "recpmxzduDvlnP9qD"
   },
