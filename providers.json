@@ -31,7 +31,7 @@
     ],
     "Provider": "Sutter Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 6: Sutter is not currently accepting first-dose appointments. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine\n",
+    "Public Notes": "Apr 2 Sutter Health is currently administering vaccines based on government guidance. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine\n",
     "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
     "id": "rec5DV4DNGdWDMquu"
   },
@@ -68,7 +68,7 @@
     ],
     "Provider": "Albertson's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
+    "Public Notes": "Apr 2: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "id": "recImxzlTSTVz7meQ"
   },
@@ -81,7 +81,7 @@
     ],
     "Provider": "UCSF",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 6: UCSF is currently vaccinating:\n- Phase 1A: Health care workers and other on-site employees and learners whose responsibilities involve high-risk exposure\n- UCSF employees, under the state eligibility for staff of colleges and universities\n- UCSF patients age 65 and over\n- Patients who work in education, childcare, food & agriculture, or as first responders\nFurther information and appointment booking instructions for eligible patients can be found online at: <https://coronavirus.ucsf.edu/vaccines>\n\n",
+    "Public Notes": "Apr 2: UCSF is currently vaccinating:\n- Adults age 50 and over, or age 16-64 with co-morbidities\n- Workers in education, formal or informal childcare, libraries, foster care or children’s residential care facilities\n- Workers in food & agriculture, transportation, utilities or disaster services\n- Documented direct caregivers\n- Individuals who are unhoused or live in a high-risk congregate setting\n- Second doses for those who received their first dose at a UCSF vaccination site\n\nFurther information and appointment booking instructions for eligible patients can be found online at: <https://coronavirus.ucsf.edu/vaccines>\n\n",
     "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
     "id": "recJzaX5zclC6pwTl"
   },
@@ -206,7 +206,7 @@
     ],
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr : Currently vaccinating:\n- Health care workers\n- Patients who are aged 50 or older\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\n- Individuals who work or reside in high-risk congregate settings\n- Persons experiencing homelessness who may move to congregate settings at short notice\n- Emergency services workers\n- Food or agriculture workers\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\n- Public transit, airports, and commercial airlines workers\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
+    "Public Notes": "Apr 1: Currently vaccinating:\n- Health care workers\n- Patients who are aged 50 or older\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\n- Individuals who work or reside in high-risk congregate settings\n- Persons experiencing homelessness who may move to congregate settings at short notice\n- Emergency services workers\n- Food or agriculture workers\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\n- Public transit, airports, and commercial airlines workers\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
     "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
     "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
     "id": "recde0nSOAhIbnOwn"
@@ -243,7 +243,7 @@
     ],
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
+    "Public Notes": "Apr 2: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "id": "recnnxsQHkx4l7V80"
   },
@@ -259,24 +259,26 @@
     "id": "recpmxzduDvlnP9qD"
   },
   {
+    "Appointments URL": "https://www.costco.com/covid-vaccine.html",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
     ],
     "Provider": "Costco Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Costco is currently offering COVID-19 vaccines at locations in the following counties: \n[Imperial County](https://book-costcopharmacy.appointment-plus.com/d0cgp222/?&e_id=6665#/) [Los Angeles County](http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/) [Marin County](https://book-costcopharmacy.appointment-plus.com/d0bm29vq/?e_id=5515) [Riverside County](https://www.rivcoph.org/Costco) [San Bernardino County](https://sbcovid19.com/vaccine/locations/pharmacies/#load) [San Joaquin County](https://sjready.org/events/covid19/vaccines.html#clinics)\n\nYou can find updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html\n",
+    "Public Notes": "Apr 2: Costco is currently offering COVID-19 vaccines at multiple locations; eligibility is based on county guidelines. Updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html\n",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
     "id": "recsiKWQK5zbpqUj5"
   },
   {
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
     ],
     "Provider": "Lucky Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>\n\n",
+    "Public Notes": "Apr 2: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>\n\n",
     "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
     "id": "recyq0ZnLhX26FHmr"
   }
