@@ -42,7 +42,7 @@
     ],
     "Provider": "Sav-on Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Many Sav-on Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
+    "Public Notes": "Apr 2: Many Sav-on Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "id": "recB3eVZ3t6gTZg5n"
   },
@@ -97,13 +97,14 @@
     "id": "recKMdplNPLCwFMua"
   },
   {
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/patient/advisory",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
     ],
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: Some locations are offering COVID-19 Vaccines. Find more details online at <https://www.savemart.com/covid-19-vaccine>\n\n",
+    "Public Notes": "Apr 2: Some locations are offering COVID-19 Vaccines. Find more details online at <https://www.savemart.com/covid-19-vaccine>\n\n",
     "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
     "id": "recKNEDBUWM1IXwF9"
   },
