@@ -15,7 +15,7 @@
     "County vaccination reservations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_6",
     "Facebook Page": "https://www.facebook.com/shastahhsa",
     "Notes": "(Updated: Apr 3)  **Eligibility**: 50+, or working in Emergency services, Education & Childcare, Restaurants, grocery stores and food banks, People age 16-64 with severe health conditions. A complete list of qualifying issues is at [covid19.ca.gov/vaccines](https://covid19.ca.gov/vaccines/)\n16+ Here are some examples of people who qualify NOW: People who work in restaurants, pharmacies, grocery stores, convenience stores, pet stores, take-out and delivery, farmers, janitors, educators, veterinarians, healthcare workers, sawmills, lumber, animal control, security staff, emergency workers, and people who support any of those businesses  , even if you're perfectly healthy.\n\n**County restrictions:** Must be a Shasta county resident or work in Shasta county.\n\n**Appointment Information**: Registration for the COVID vaccine through the state My Turn system. <https://myturn.ca.gov>\nDidn't find an appointment on my turn? Check mass vaccination clinic and Shasta County vaccination locations \n<https://www.co.shasta.ca.us/ready/covid-19/vaccinations>\n\n\n**Phone numbers:** Individuals without access to the internet can call the Public Health Services Department at (530) 245-7890.\nIf you're having trouble with MyTurn or don't have an email address or mobile phone, call the California COVID-19 Hotline at 1-833-422-4255 (M-F 8AM-8PM, Sa-Su 8AM-5PM) for assistance.\n**Additional Info:**\n",
-    "Total reports": 50,
+    "Total reports": 51,
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 112,
+    "Yeses": 111,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -323,7 +323,7 @@
     "Total reports": 25,
     "Twitter Page": "https://twitter.com/NevadaCountyCA",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
-    "Yeses": 14,
+    "Yeses": 15,
     "id": "recY8ARCBGpH545Jv"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 856,
+    "Yeses": 857,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 722,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 265,
+    "Yeses": 269,
     "id": "recarUDlLAO0MtvA7"
   },
   {
