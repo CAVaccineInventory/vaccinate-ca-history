@@ -146,7 +146,7 @@
     "County": "Tehama County",
     "County vaccination reservations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Facebook Page": "https://www.facebook.com/TehamaTogether/",
-    "Notes": "(Updated: Apr 5 ) **Eligibility**: 50+, as well as education, childcare, emergency services and food and agriculture workers over 16. \nAlso eligible are people 16+ with cancer, current with debilitated or immunocompromised state; chronic kidney disease, stage 4 or above; chronic pulmonary disease, oxygen dependent; Down syndrome;| immunocompromised state from solid organ transplant; pregnancy; sickle cell disease; heart conditions, excluding hypertension; severe obesity with a BMI >= 40 kg/m2 | Type 2 diabetes mellitus with hemoglobin A1c level greater than 7.5%\nOr: a physical or mental disability that is so severe and high-risk that one of the following applies: 1) a COVID-19 infection is likely to result in severe, life-threatening illness or death; OR 2) acquiring COVID-19 will limit the ability to receive ongoing care or services vital to well-being and survival; OR 3) providing adequate and timely COVID care will be particularly challenging as a result of a disability.\n\n**County restrictions**: Must live or work in Tehama County. Proof of residence or employment will be required at the time of vaccination. Acceptable forms are a photo ID, employer ID badge, employer payment stub or official letter from the employer.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
+    "Notes": "(Updated: Apr 5 ) **Eligibility**: 16+ (18+ for Moderna vaccine)\n\n**County restrictions**: Must live or work in Tehama County. Proof of residence or employment will be required at the time of vaccination. Acceptable forms are a photo ID, employer ID badge, employer payment stub or official letter from the employer.\n\n**Appointment Information**: Tehama County uses My Turn, the California Department of Public Health COVID-19 Vaccine scheduling system: <https://myturn.ca.gov>\n\n**Phone numbers**: For assistance in registering with My Turn, dial: (833) 422-4255. To talk to the Tehama County Health Services Agency about topics other than vaccine appointment scheduling, dial: (530) 527-6824.\n\n**Additional information**: You can contact the Tehama County Health Services Agency at: [publichealth@tchsa.net](mailto:publichealth@tchsa.net)\n\n",
     "Official volunteering opportunities": "https://www.tehamacohealthservices.net/emergency-preparedness/get-involved/",
     "Total reports": 17,
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 887,
+    "Yeses": 886,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 724,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 286,
+    "Yeses": 287,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -417,7 +417,7 @@
     "Notes": "(Updated: Apr 5) **Eligibility:** 50+, Education and Childcare, Emergency Services, Food and Agriculture, individuals 16-64 who have certain disabilities or health conditions, incarcerated, homeless, Transportation and Logistics according to state guidelines found here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx>\n\n**County Restrictions:** Must live or work in Lake County.\n\n**Appointment Information:** 16+ who are interested in scheduling an appointment on short or no notice can fill out this form to be contacted if leftover doses are available: <http://health.co.lake.ca.us/Coronavirus/Vaccines/Vaccination_Request_Form.htm>. All appointments are now being scheduled on MyTurn ([myturn.ca.gov](https://myturn.ca.gov/)), where appointments will be released 48 hours in advance. For more information please click this link: <http://health.co.lake.ca.us/Coronavirus/Vaccines.htm>. Individuals will need to show ID and proof of residence at the time of the appointment, as well as proof of eligibility if applicable (or fill out the self-attestation form found here: <http://health.co.lake.ca.us/Assets/Departments/Health/Public+Health+Division/COVID-19/Vaccines/3.15.21+COVID+Vaccine+Self-Attestation+form.pdf>).\n\n**Phone Numbers:** County farmworkers can call 707-262-4162, 707-262-4153, or 707-262-4159, Monday - Friday, 9-5 for assistance. Please do not call these numbers if appointments are filled. If you have questions about the vaccine, call 211 or 707-263-8174, or text \"covid19\" to 211-211.\n\n**Additional Info:** You may also contact your medical provider to inquire about vaccine appointments. Starting April 15, all individuals 16+ are expected to be eligible. \n",
     "Total reports": 20,
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
-    "Yeses": 8,
+    "Yeses": 9,
     "id": "recgAENHoupyViJxe"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 287,
+    "Yeses": 289,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 304,
+    "Yeses": 305,
     "id": "recvQcNeuIr14uskB"
   },
   {
