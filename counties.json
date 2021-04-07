@@ -19,7 +19,7 @@
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
-    "Yeses": 32,
+    "Yeses": 33,
     "id": "rec1rvcyGSS6AgQEq"
   },
   {
@@ -103,7 +103,7 @@
     "Total reports": 74,
     "Twitter Page": "https://twitter.com/MCHDPIO",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
-    "Yeses": 50,
+    "Yeses": 49,
     "id": "rec7vkrMOgPeUg6Z2"
   },
   {
@@ -235,7 +235,7 @@
     "Twitter Page": "https://twitter.com/CountyMono",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Vaccine locations URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
-    "Yeses": 8,
+    "Yeses": 9,
     "id": "recOtOQyjwtIAB9vs"
   },
   {
@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 122,
+    "Yeses": 123,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -309,7 +309,7 @@
   {
     "County": "Kings County",
     "County vaccination reservations URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Notes": "(Updated: Apr 6) **Eligibility**: 50+, or employed in education, emergency services, childcare, or food and agriculture. Also people living or working in homeless shelters or congregate behavioral health settings; people experiencing homelessness.\nAlso eligible now are people 16-64 with high-risk medical conditions including but not limited to: cancer, chronic kidney disease, chronic pulmonary disease, down syndrome, immunocompromised state, pregnancy, sickle-cell disease, heart conditions (excludes hypertension), severe obesity, Type II diabetes; individuals with a developmental or severe high-risk disability that puts them at risk for severe illness or interferes with their ability to receive effective treatment for COVID-19.\n\n**County restrictions**: Must live or work in Kings County. Proof of address and/or employment status in Kings County will be required at the time of your appointment.\n\n**Appointment Information**: To check eligibility and book an appointment at Kings County Public Health use: <https://myturn.ca.gov> . If you need assistance in making an appointment, Call the California COVID-19 Hotline: (833) 422-4255 (M-F 8AM-8PM, Sa-Su 8AM-5PM)\nTransportation is available by KART: Please call (559)852-2776 to request transportation to your vaccine appointment. Please provide a 24 hour notice prior to your appointment time. \n",
+    "Notes": "(Updated: Apr 7) **Eligibility**: 16+ (16 or 17 years old can receive the Pfizer vaccine; 18+ can receive the Pfizer, Moderna or Johnson & Johnson vaccine.) \n\n**County restrictions**: Must live or work in Kings County. Proof of address and/or employment status in Kings County will be required at the time of your appointment.\n\n**Appointment Information**: To check eligibility and book an appointment at Kings County Public Health use: <https://myturn.ca.gov> . If you need assistance in making an appointment, Call the California COVID-19 Hotline: (833) 422-4255 (M-F 8AM-8PM, Sa-Su 8AM-5PM)\nTransportation is available by KART: Please call (559)852-2776 to request transportation to your vaccine appointment. Please provide a 24 hour notice prior to your appointment time. \n",
     "Total reports": 37,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Yeses": 26,
@@ -439,7 +439,7 @@
     "Notes": "(Updated: Apr 6)  **Eligibility:** Age 50+, or in Emergency services, Education & Childcare, Food and agriculture, Transportation and logistics, industrial, commercial, residential, and sheltering facilities and services, critical manufacturing. Congregate settings with outbreak risk: Incarcerated, Homeless \n\n**County restrictions:** Must be a Calaveras county resident or work in Calaveras county\n\n**Appointment Information:** Persons 50 and older interested in getting the COVID-19 vaccine, you can schedule online at this link: **[https://myturn.ca.gov](https://myturn.ca.gov/?fbclid=IwAR05FFeC0O-dTtESyEd3Wq5csdmGwgMjm3DwRSp_ffth5cVaXUWDax9eVUg)** or you can call 1-833-422-4255 to schedule an appointment. \n\nDue to a technical issue with the My Turn program, those registering on <https://myturn.ca.gov/> to schedule a COVID-19 vaccine and live in the 95223 area (Arnold) should enter 95222 as their zip code when searching for a location near you.\n\n**Phone numbers:** Individuals without access to the internet can call Call (209) 754-2564 and provide your full name, date of birth, and a phone number to best reach you. Also, COVID Community Call Center \n(209) 754-2896\n\n**Additional Info:** If you are not currently eligible, Calaveras Public Health will notify the public through local media outlets and social media when it's your turn.\n",
     "Total reports": 13,
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
-    "Yeses": 6,
+    "Yeses": 7,
     "id": "rechyq0ZDsgfqek3O"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 309,
+    "Yeses": 310,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
