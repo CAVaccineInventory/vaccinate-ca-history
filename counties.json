@@ -19,7 +19,7 @@
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
-    "Yeses": 33,
+    "Yeses": 34,
     "id": "rec1rvcyGSS6AgQEq"
   },
   {
@@ -43,7 +43,7 @@
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Yeses": 59,
+    "Yeses": 60,
     "id": "rec21xHBYYJxXXOiq"
   },
   {
@@ -103,7 +103,7 @@
     "Total reports": 74,
     "Twitter Page": "https://twitter.com/MCHDPIO",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
-    "Yeses": 50,
+    "Yeses": 51,
     "id": "rec7vkrMOgPeUg6Z2"
   },
   {
@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 127,
+    "Yeses": 128,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 251,
+    "Yeses": 252,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 312,
+    "Yeses": 313,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -583,7 +583,7 @@
     "Twitter Page": "https://twitter.com/countymendocino",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
-    "Yeses": 19,
+    "Yeses": 20,
     "id": "rectD96YQWb5CnHV4"
   },
   {
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 136,
+    "Yeses": 137,
     "id": "reczthUUHssxaQj7X"
   }
 ]
