@@ -43,7 +43,7 @@
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Yeses": 62,
+    "Yeses": 63,
     "id": "rec21xHBYYJxXXOiq"
   },
   {
@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 129,
+    "Yeses": 130,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -127,7 +127,7 @@
     "Twitter Page": "https://twitter.com/Dare2BWell",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Yeses": 135,
+    "Yeses": 136,
     "id": "rec8Jdl4558rVpGc5"
   },
   {
@@ -187,7 +187,7 @@
     "Twitter Page": "https://twitter.com/SLOPublicHealth",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Yeses": 31,
+    "Yeses": 30,
     "id": "recMD5hrJf1iGh0On"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 913,
+    "Yeses": 916,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 724,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 317,
+    "Yeses": 318,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -384,7 +384,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 142,
+    "Yeses": 144,
     "id": "recbziYEC1C89DvF3"
   },
   {
@@ -452,7 +452,7 @@
     "Twitter Page": "https://twitter.com/TulareCo_HHSA",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Yeses": 76,
+    "Yeses": 77,
     "id": "recipKOzQdBxv0mAf"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 323,
+    "Yeses": 325,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
@@ -559,7 +559,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 176,
+    "Yeses": 177,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 141,
+    "Yeses": 142,
     "id": "reczthUUHssxaQj7X"
   }
 ]
