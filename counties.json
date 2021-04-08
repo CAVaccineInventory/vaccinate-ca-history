@@ -19,7 +19,7 @@
     "Twitter Page": "https://twitter.com/ShastaHHSA",
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
-    "Yeses": 33,
+    "Yeses": 34,
     "id": "rec1rvcyGSS6AgQEq"
   },
   {
@@ -55,7 +55,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 134,
+    "Yeses": 135,
     "id": "rec2V4GnfzE4qF2a0"
   },
   {
@@ -210,7 +210,7 @@
     "Total reports": 113,
     "Twitter Page": "https://twitter.com/SMCHealth",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Yeses": 51,
+    "Yeses": 52,
     "id": "recMxizpwIMytvJ2r"
   },
   {
@@ -312,7 +312,7 @@
     "Notes": "(Updated: Apr 7) **Eligibility**: 16+ (16 or 17 years old can receive the Pfizer vaccine; 18+ can receive the Pfizer, Moderna or Johnson & Johnson vaccine.) \n\n**County restrictions**: Must live or work in Kings County. Proof of address and/or employment status in Kings County will be required at the time of your appointment.\n\n**Appointment Information**: To check eligibility and book an appointment at Kings County Public Health use: <https://myturn.ca.gov> . If you need assistance in making an appointment, Call the California COVID-19 Hotline: (833) 422-4255 (M-F 8AM-8PM, Sa-Su 8AM-5PM)\nTransportation is available by KART: Please call (559)852-2776 to request transportation to your vaccine appointment. Please provide a 24 hour notice prior to your appointment time. \n",
     "Total reports": 37,
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
-    "Yeses": 27,
+    "Yeses": 26,
     "id": "recVhw3mOj2KaUWvx"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 922,
+    "Yeses": 925,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -359,7 +359,7 @@
     "Total reports": 724,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 319,
+    "Yeses": 321,
     "id": "recarUDlLAO0MtvA7"
   },
   {
@@ -429,7 +429,7 @@
     "Total reports": 184,
     "Twitter Page": "https://twitter.com/CountyVentura",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Yeses": 99,
+    "Yeses": 100,
     "id": "recgC68ghhJW0EDz4"
   },
   {
@@ -514,7 +514,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 324,
+    "Yeses": 326,
     "id": "recm5wnoHs38ZYhzu"
   },
   {
