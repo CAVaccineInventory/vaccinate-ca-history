@@ -162,7 +162,7 @@
     "Total reports": 6,
     "Twitter Page": "https://twitter.com/mariposacounty",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
-    "Yeses": 1,
+    "Yeses": 2,
     "id": "recFriRxcb5aA4Crq"
   },
   {
@@ -174,7 +174,7 @@
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/YoloCountyCA",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
-    "Yeses": 29,
+    "Yeses": 30,
     "id": "recGbLZ8Ng6aB3SF9"
   },
   {
@@ -210,7 +210,7 @@
     "Total reports": 113,
     "Twitter Page": "https://twitter.com/SMCHealth",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Yeses": 53,
+    "Yeses": 52,
     "id": "recMxizpwIMytvJ2r"
   },
   {
@@ -248,7 +248,7 @@
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 127,
+    "Yeses": 128,
     "id": "recOuBZk28GMl7mVw"
   },
   {
@@ -336,7 +336,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 935,
+    "Yeses": 936,
     "id": "recZNvS1ogJzGOPgG"
   },
   {
@@ -488,7 +488,7 @@
     "Twitter Page": "https://twitter.com/MercedCounty",
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
-    "Yeses": 34,
+    "Yeses": 35,
     "id": "recl8GEIaG1m1qokG"
   },
   {
@@ -501,7 +501,7 @@
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Yeses": 265,
+    "Yeses": 266,
     "id": "reclZ8DWOEuoluStG"
   },
   {
@@ -559,7 +559,7 @@
     "Twitter Page": "https://twitter.com/KCPublichealth",
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
-    "Yeses": 182,
+    "Yeses": 181,
     "id": "recoq6vXe53Z3Tnbw"
   },
   {
@@ -630,7 +630,7 @@
     "Twitter Page": "https://twitter.com/rivcodoc",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Yeses": 311,
+    "Yeses": 312,
     "id": "recvQcNeuIr14uskB"
   },
   {
@@ -677,7 +677,7 @@
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Yeses": 147,
+    "Yeses": 148,
     "id": "reczthUUHssxaQj7X"
   }
 ]
