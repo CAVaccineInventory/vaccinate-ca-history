@@ -46,7 +46,7 @@
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Yeses": 63,
+    "Yeses": 59,
     "age_floor_without_restrictions": 50,
     "id": "rec21xHBYYJxXXOiq"
   },
@@ -188,7 +188,7 @@
     "Total reports": 52,
     "Twitter Page": "https://twitter.com/YoloCountyCA",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
-    "Yeses": 30,
+    "Yeses": 29,
     "age_floor_without_restrictions": 50,
     "id": "recGbLZ8Ng6aB3SF9"
   },
@@ -202,7 +202,7 @@
     "Twitter Page": "https://twitter.com/SLOPublicHealth",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Yeses": 31,
+    "Yeses": 29,
     "age_floor_without_restrictions": 16,
     "id": "recMD5hrJf1iGh0On"
   },
@@ -214,7 +214,7 @@
     "Total reports": 53,
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Yeses": 38,
+    "Yeses": 36,
     "age_floor_without_restrictions": 16,
     "id": "recMF4xBLqll2wYtk"
   },
@@ -281,7 +281,7 @@
     "Twitter Page": "https://twitter.com/cocohealth",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Yeses": 109,
+    "Yeses": 108,
     "age_floor_without_restrictions": 16,
     "id": "recP7bxtLsyO94BOI"
   },
@@ -364,7 +364,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 952,
+    "Yeses": 951,
     "age_floor_without_restrictions": 50,
     "id": "recZNvS1ogJzGOPgG"
   },
@@ -372,7 +372,7 @@
     "County": "Trinity County",
     "County vaccination reservations URL": "https://www.trinitycounty.org/COVID-19/Vaccine-Registration",
     "Facebook Page": "https://www.facebook.com/TrinityHHSD/",
-    "Notes": "(Updated: Apr 7)**Eligibility**: 18+, \n\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \n\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\n\n**Phone numbers**: 530-623-8235\n\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>\n\n–Trinity County Public Health Branch (TCPHB) COVID-19 vaccine Point of Distribution Site (PODS) on Friday April 9, 2021 is now accepting appointments for all persons 18 years of age and older. All TCPHB COVID-19 vaccination PODS will now be open to all who want vaccine. \nRegister at https://myturn.ca.gov\n\n",
+    "Notes": "(Updated: Apr 9)**Eligibility**: 18+, \n\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \n\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\n\n**Phone numbers**: 530-623-8235\n\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>\n\n–Trinity County Public Health Branch (TCPHB) COVID-19 vaccine Point of Distribution Site (PODS) on Friday April 9, 2021 is now accepting appointments for all persons 18 years of age and older. All TCPHB COVID-19 vaccination PODS will now be open to all who want vaccine. \nRegister at https://myturn.ca.gov\n\n",
     "Total reports": 5,
     "Vaccine info URL": "https://www.trinitycounty.org/COVID19-Vaccine",
     "Vaccine locations URL": "https://www.trinitycounty.org/sites/default/files/Public_Health/Documents/Covid/COVID-19_Press_Release_1.11.2021.pdf",
@@ -389,7 +389,7 @@
     "Total reports": 724,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 337,
+    "Yeses": 336,
     "age_floor_without_restrictions": 50,
     "id": "recarUDlLAO0MtvA7"
   },
@@ -403,7 +403,7 @@
     "Twitter Page": "https://twitter.com/StanCounty",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Yeses": 64,
+    "Yeses": 61,
     "age_floor_without_restrictions": 16,
     "id": "recb6ibrCGCw71RbX"
   },
@@ -416,7 +416,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 146,
+    "Yeses": 145,
     "age_floor_without_restrictions": 50,
     "id": "recbziYEC1C89DvF3"
   },
@@ -465,7 +465,7 @@
     "Total reports": 184,
     "Twitter Page": "https://twitter.com/CountyVentura",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Yeses": 101,
+    "Yeses": 97,
     "age_floor_without_restrictions": 50,
     "id": "recgC68ghhJW0EDz4"
   },
@@ -490,7 +490,7 @@
     "Twitter Page": "https://twitter.com/TulareCo_HHSA",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Yeses": 74,
+    "Yeses": 73,
     "age_floor_without_restrictions": 16,
     "id": "recipKOzQdBxv0mAf"
   },
