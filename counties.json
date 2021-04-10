@@ -227,7 +227,7 @@
     "Total reports": 113,
     "Twitter Page": "https://twitter.com/SMCHealth",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Yeses": 52,
+    "Yeses": 53,
     "age_floor_without_restrictions": 50,
     "id": "recMxizpwIMytvJ2r"
   },
@@ -364,7 +364,7 @@
     "Twitter Page": "https://twitter.com/lapublichealth",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Yeses": 957,
+    "Yeses": 958,
     "age_floor_without_restrictions": 50,
     "id": "recZNvS1ogJzGOPgG"
   },
@@ -557,7 +557,7 @@
     "Twitter Page": "https://twitter.com/SanDiegoCounty",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Yeses": 335,
+    "Yeses": 334,
     "age_floor_without_restrictions": 50,
     "id": "recm5wnoHs38ZYhzu"
   },
