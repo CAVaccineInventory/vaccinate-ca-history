@@ -113,7 +113,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 22,
+    "Yeses": 23,
     "age_floor_without_restrictions": 50
   },
   {
@@ -191,7 +191,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 695,
-    "Yeses": 345,
+    "Yeses": 346,
     "age_floor_without_restrictions": 50
   },
   {
@@ -256,7 +256,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 576,
-    "Yeses": 337,
+    "Yeses": 338,
     "age_floor_without_restrictions": 50
   },
   {
@@ -481,7 +481,7 @@
     "County vaccination reservations URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Total reports": 37,
-    "Yeses": 28,
+    "Yeses": 29,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,8 +555,8 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Total reports": 194,
-    "Yeses": 133,
+    "Total reports": 195,
+    "Yeses": 134,
     "age_floor_without_restrictions": 50
   },
   {
