@@ -39,6 +39,18 @@
     "age_floor_without_restrictions": 18
   },
   {
+    "id": "rec0QOd7EXzSuZZvN",
+    "County": "Glenn County",
+    "Notes": "(Updated: Apr 11) **Eligibility**:50+, Agriculture and food services, education and childcare, emergency services. People age 16 to 64 years with certain significant, high-risk medical conditions or disabilities will become eligible for vaccines statewide, to help save the lives of people who are at high-risk of death and severe complications from COVID-19. [State Fact Sheet identifying health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx)\r\n\r\n**County restrictions**: County Residents and eligible sector residents employed in county.\r\n\r\n**Appointment Information**: ** schedule through the [California MyTurn](https://myturn.ca.gov/)system online at: <https://myturn.ca.gov/>**\r\n\r\n**Phone numbers:** (833) 422-4255.(For those without internet access)\r\n\r\n**Additional Info**: .\r\nInformación Sobre La Vacuna COVID 19: [Información Sobre La Vacuna COVID 19 | County of Glenn](https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/informaci%C3%B3n-sobre-la-vacuna-covid-19)\r\n\r\n**_Persons registering for an appointment will be required to show identification to prove eligibility at time of vaccine. _**\r\n\r\nFor residents interested in being on a quick call list for last minute vaccine availability (i.e. at the end of a clinic), fill out the Vaccine Quick Call Survey on our website [www.countyofglenn.net/COVID19](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.countyofglenn.net%2FCOVID19&h=AT2z3bX3-e0sn3iO7I4WzwqgXdE_qq0e1IqFsOXRw6X4ASD8ag-bjhXO6brzQVHY0crdTYUWffxAEj6GkQL2f8p5AvLNkjDC67gE7rf9UmYsoV-beFdDlCdMhGb5fsyzCSmv8LxWV0c5ICYKwTU9qj-lUwptoZZIAhrxi0FNEp4m5b3QnTfdxeWSa7DTo7AU5aR52MQkXzyeTsQzaAUF6RY6pcnIvf7hpFk45rmZrtbNF5NqCCQF8MrRvBzfrGLagSWJv6TtZoNaTPq3wzGk5JZR_Ie7dzekCSXfSwDzOIh-h1j1vUAd141zo7eilMkdNXPqWANrcFCTA-1zut8-d2uBcIQvFenC7g7U0-5rws8hIqV3w4UNRAYLncDPSGHYp3ad4aglKNEXBDwMdfpZvpGKwGawBaRmGABJR2g7IqfK16_XdO5IQc7FCW2GP8Gmf61xoud9FQAzAGMV4pSESQ-H0A8yC_HuPWwiFxQw2SCz7uZ5b8a5dnb9x4JD3_JK9vU811WgbsBRxkRr1aM93_AeP3v6uRr_S6RvezVfyMPKYjs9QSQ4xPmwaPhPdJq9Hu3BIT_V7v0tbIFl_jJU32XsE8w5AYYe_eLGOHUFwnZ4LXA0BD5UCPmqKA)\r\nAppointments are opened up to the public weekly, typically on Sunday night, for this Site through [#MyTurn](https://twitter.com/hashtag/MyTurn?src=hashtag_click)",
+    "Twitter Page": "https://twitter.com/glenncountyoes",
+    "Facebook Page": "https://www.facebook.com/GlennCountyHHSA/",
+    "County vaccination reservations URL": "https://www.countyofglenn.net/news/press-release-public-health-public-information-public-notice/20210301/covid-19-vaccine-interest",
+    "Vaccine info URL": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-vaccine-information",
+    "Total reports": 10,
+    "Yeses": 5,
+    "age_floor_without_restrictions": 50
+  },
+  {
     "id": "rec8EEJmJzCdopVzu",
     "County": "Santa Cruz County",
     "Notes": "(Updated: Apr 9) **Eligibility**: Age 50+, and (as supplies allow) workers in education, childcare, food & agriculture, fire, law enforcement, and emergency services, Transit and transportation workers, Residents and staff of homeless shelters, behavioral health facilities, incarceration/ detention centers and other at risk congregate setting.\n\nIndividuals age 16-64 with a medical condition or disability that puts them at high risk for severe sickness and death as defined by the California Department of Public Health (CDPH). Click this link: <https://tinyurl.com/z8exakt8> to see the CDPH prioritization list. \n\n**County restrictions**: Must be a resident of Santa Cruz. \n\n**Appointment Information**: If you wish to sign up  for vaccines, please click this link:  **[http://MyTurn.ca.gov](http://myturn.ca.gov/)**.\n\n**Phone numbers**: If you are over 65, call the Bridges to Access Vaccination Helpline to get assistance in obtaining the COVID-19\nvaccine at (831) 219-8607. Leave a message with your name, phone number, age and zip code and you will  get a call back within 48 hours.\n\n**Additional Info**: Residents interested in vaccines should first contact their medical provider. Vaccines are also available through sites listed on the chart below. Residents should also sign up for MyTurn to be notified once they are eligible, by visiting **[MyTurn.ca.gov](https://myturn.ca.gov/)**. The Public Health Division will distribute vaccine through the counties\n**[local vaccine plan](https://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/2020.12.7_FINAL%20C19%20Vax%20Template%20for%20Santa%20Cruz%20County.pdf)**.\n\nFor information about registering for an appointment with various health care providers, click this link: <https://tinyurl.com/ync6h3r7>\n",
@@ -48,18 +60,6 @@
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Total reports": 47,
     "Yeses": 27,
-    "age_floor_without_restrictions": 50
-  },
-  {
-    "id": "rec0QOd7EXzSuZZvN",
-    "County": "Glenn County",
-    "Notes": "(Updated: Apr 9) **Eligibility**:50+, Agriculture and food services, education and childcare, emergency services. People age 16 to 64 years with certain significant, high-risk medical conditions or disabilities will become eligible for vaccines statewide, to help save the lives of people who are at high-risk of death and severe complications from COVID-19. [State Fact Sheet identifying health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/vaccine-high-risk-factsheet.aspx)\n\n**County restrictions**: County Residents and eligible sector residents employed in county.\n\n**Appointment Information**: ** schedule through the [California MyTurn](https://myturn.ca.gov/)system online at: <https://myturn.ca.gov/>**\n\n**Phone numbers:** (833) 422-4255.(For those without internet access)\n\n**Additional Info**: .\nInformación Sobre La Vacuna COVID 19: [Información Sobre La Vacuna COVID 19 | County of Glenn](https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/informaci%C3%B3n-sobre-la-vacuna-covid-19)\n\n**_Persons registering for an appointment will be required to show identification to prove eligibility at time of vaccine. _**\n\nFor residents interested in being on a quick call list for last minute vaccine availability (i.e. at the end of a clinic), fill out the Vaccine Quick Call Survey on our website [www.countyofglenn.net/COVID19](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.countyofglenn.net%2FCOVID19&h=AT2z3bX3-e0sn3iO7I4WzwqgXdE_qq0e1IqFsOXRw6X4ASD8ag-bjhXO6brzQVHY0crdTYUWffxAEj6GkQL2f8p5AvLNkjDC67gE7rf9UmYsoV-beFdDlCdMhGb5fsyzCSmv8LxWV0c5ICYKwTU9qj-lUwptoZZIAhrxi0FNEp4m5b3QnTfdxeWSa7DTo7AU5aR52MQkXzyeTsQzaAUF6RY6pcnIvf7hpFk45rmZrtbNF5NqCCQF8MrRvBzfrGLagSWJv6TtZoNaTPq3wzGk5JZR_Ie7dzekCSXfSwDzOIh-h1j1vUAd141zo7eilMkdNXPqWANrcFCTA-1zut8-d2uBcIQvFenC7g7U0-5rws8hIqV3w4UNRAYLncDPSGHYp3ad4aglKNEXBDwMdfpZvpGKwGawBaRmGABJR2g7IqfK16_XdO5IQc7FCW2GP8Gmf61xoud9FQAzAGMV4pSESQ-H0A8yC_HuPWwiFxQw2SCz7uZ5b8a5dnb9x4JD3_JK9vU811WgbsBRxkRr1aM93_AeP3v6uRr_S6RvezVfyMPKYjs9QSQ4xPmwaPhPdJq9Hu3BIT_V7v0tbIFl_jJU32XsE8w5AYYe_eLGOHUFwnZ4LXA0BD5UCPmqKA)\nAppointments are opened up to the public weekly, typically on Sunday night, for this Site through [#MyTurn](https://twitter.com/hashtag/MyTurn?src=hashtag_click) \n\n\n",
-    "Twitter Page": "https://twitter.com/glenncountyoes",
-    "Facebook Page": "https://www.facebook.com/GlennCountyHHSA/",
-    "County vaccination reservations URL": "https://www.countyofglenn.net/news/press-release-public-health-public-information-public-notice/20210301/covid-19-vaccine-interest",
-    "Vaccine info URL": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-vaccine-information",
-    "Total reports": 10,
-    "Yeses": 5,
     "age_floor_without_restrictions": 50
   },
   {
@@ -233,6 +233,19 @@
     "age_floor_without_restrictions": 50
   },
   {
+    "id": "recjptepZLP1mzVDC",
+    "County": "Napa County",
+    "Notes": "(Updated: Apr 11)**Eligibility**:Individuals 50 and older (priority given to 75+) and the following sector populations,  Agriculture and food, Education and childcare, Emergency services. Vaccination is now available to those age 16-64 with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness.\r\nIndividuals with these conditions are strongly encouraged to seek vaccination with a primary health care provider or system, or in an alternate clinical setting. Check first with your usual health care provider.\r\n\r\n**County restrictions**:Napa County's vaccination efforts are available for those who either live or work in Napa County \r\n\r\n**Appointment Information**:S**chedule through the California MyTurn system online at: <https://myturn.ca.gov/>**\r\n\r\n\r\n\r\n**Phone numbers: **(833) 422-4255. or [(707) 253-4270](https://www.google.com/search?client=safari&rls=en&q=Napa+County+department+of+public+health&ie=UTF-8&oe=UTF-8#) Napa County Public Health\r\n\r\n**Additional Info**:Website also in Spanish\r\n[Kaiser Permanente](https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine) has a COVID-19 vaccine webpage for members to check their vaccine status online.\r\n[Rite Aid's](https://www.riteaid.com/pharmacy/covid-qualifier) COVID-19 Vaccine Scheduler\r\n[St. Joseph Health](https://coronavirus.providence.org/blog/uf/646123480) outlines how they're reaching out to eligible patients.\r\n[Sutter Health's vaccine resource page](https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine) has ways to check eligibility and schedule appointments.",
+    "Twitter Page": "https://twitter.com/CountyofNapa",
+    "Facebook Page": "https://www.facebook.com/NapaCounty/",
+    "County vaccination reservations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
+    "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
+    "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
+    "Total reports": 30,
+    "Yeses": 14,
+    "age_floor_without_restrictions": 50
+  },
+  {
     "id": "recm5wnoHs38ZYhzu",
     "County": "San Diego County",
     "Notes": "(Updated Apr 6) **Eligibility**: 50+, or in Emergency services, Childcare and Education, Food and Agriculture workers, people aged 16-64 deemed to be at the very highest risk to get very sick from COVID-19, people in congregate residential settings, and public transit workers.\n\n**County restrictions**: Must be a San Diego county resident or work in San Diego county\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html>\n\n**Additional Information:** For information about health or living conditions that will make you eligible to receive the vaccine now, and for documentation needed, including additional conditions added like Asthma and BMI limits, please click: <https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/Epidemiology/covid19/vaccines/Phase%201B%20Next%20Groups_Who%20is%20Eligible_Medical_Conditions.pdf> \n",
@@ -244,19 +257,6 @@
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 576,
     "Yeses": 337,
-    "age_floor_without_restrictions": 50
-  },
-  {
-    "id": "recjptepZLP1mzVDC",
-    "County": "Napa County",
-    "Notes": "(Updated: Apr 9)**Eligibility**:Individuals 50 and older (priority given to 75+) and the following sector populations,  Agriculture and food, Education and childcare, Emergency services. Vaccination is now available to those age 16-64 with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness.\nIndividuals with these conditions are strongly encouraged to seek vaccination with a primary health care provider or system, or in an alternate clinical setting. Check first with your usual health care provider.\n\n**County restrictions**:Napa County's vaccination efforts are available for those who either live or work in Napa County \n\n**Appointment Information**:S**chedule through the California MyTurn system online at: <https://myturn.ca.gov/>**\n\n\n\n**Phone numbers: **(833) 422-4255. or [(707) 253-4270](https://www.google.com/search?client=safari&rls=en&q=Napa+County+department+of+public+health&ie=UTF-8&oe=UTF-8#) Napa County Public Health\n\n**Additional Info**:Website also in Spanish\n[Kaiser Permanente](https://mydoctor.kaiserpermanente.org/covid-19/covid-19-vaccine) has a COVID-19 vaccine webpage for members to check their vaccine status online.\n[Rite Aid's](https://www.riteaid.com/pharmacy/covid-qualifier) COVID-19 Vaccine Scheduler\n[St. Joseph Health](https://coronavirus.providence.org/blog/uf/646123480) outlines how they're reaching out to eligible patients.\n[Sutter Health's vaccine resource page](https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine) has ways to check eligibility and schedule appointments. \n\n\n\n",
-    "Twitter Page": "https://twitter.com/CountyofNapa",
-    "Facebook Page": "https://www.facebook.com/NapaCounty/",
-    "County vaccination reservations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
-    "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
-    "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
-    "Total reports": 30,
-    "Yeses": 14,
     "age_floor_without_restrictions": 50
   },
   {
@@ -350,7 +350,7 @@
   {
     "id": "reccGVb82uJTXcyzA",
     "County": "San Benito County",
-    "Notes": "(Updated: Apr 9)**Eligibility**:50+, Agriculture and food services, education and childcare, emergency services. Vaccination is now available to those age 16-64 with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness. \n\n**County restrictions**:You must live or work in San Benito County to be eligible. \n\n**Appointment Information**:Go to <https://hhsa.cosb.us/covid-19-vaccine-info/#> to sign up for an appointment with a Federal Pharmacy Partner. \n**Phone numbers**: Public Health Hotline  831-636-4113\n\n**Additional Info**: Vaccine FAQs available on website. \n\nVaccination Site is now open at Rancho San Justo Middle School! Register at [http://MyTurn.Ca.Gov](https://t.co/mCzFq1jtss?amp=1) to schedule your appointment\n### \n\n",
+    "Notes": "(Updated: Apr 11)**Eligibility**:50+, Agriculture and food services, education and childcare, emergency services. Vaccination is now available to those age 16-64 with certain significant, high-risk medical conditions, disabilities, illness, living spaces, or work environments that put them at higher risk for serious COVID-19 illness. \r\n\r\n**County restrictions**:You must live or work in San Benito County to be eligible. \r\n\r\n**Appointment Information**:Go to <https://hhsa.cosb.us/covid-19-vaccine-info/#> to sign up for an appointment with a Federal Pharmacy Partner. \r\n**Phone numbers**: Public Health Hotline  831-636-4113\r\n\r\n**Additional Info**: Vaccine FAQs available on website. \r\n\r\nVaccination Site is now open at Rancho San Justo Middle School! Register at [http://MyTurn.Ca.Gov](https://t.co/mCzFq1jtss?amp=1) to schedule your appointment\r\n###",
     "Twitter Page": "https://twitter.com/PublicHealthSBC",
     "Facebook Page": "https://www.facebook.com/PublicHealthSBC",
     "County vaccination reservations URL": "https://hhsa.cosb.us/vaccine-registration-portal/",
