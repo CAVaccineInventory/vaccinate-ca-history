@@ -100,7 +100,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 268,
-    "Yeses": 143,
+    "Yeses": 142,
     "age_floor_without_restrictions": 50
   },
   {
@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 967,
+    "Yeses": 968,
     "age_floor_without_restrictions": 50
   },
   {
@@ -256,7 +256,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 576,
-    "Yeses": 339,
+    "Yeses": 338,
     "age_floor_without_restrictions": 50
   },
   {
