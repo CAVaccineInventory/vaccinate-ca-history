@@ -59,7 +59,7 @@
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Yeses": 142,
+    "Yeses": 143,
     "age_floor_without_restrictions": 50,
     "id": "rec2V4GnfzE4qF2a0"
   },
@@ -264,11 +264,11 @@
     "Facebook Page": "https://www.facebook.com/SFDEM/",
     "Notes": "(Updated: Apr 10) **Eligibility**: People 50 years and older; education and childcare workers; emergency services workers; food and agriculture workers; people with [certain health conditions or disabilities](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf); people living or working in [congregate living settings](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf) (homeless shelters, correctional facilities, or other treatment facilities); people experiencing homelessness; healthcare workers [See vaccination options for healthcare workers)](https://sf.gov/information/healthcare-worker-vaccination-san-francisco)\n\n**County restrictions**: Vaccinations are free for people who live or work in San Francisco\n\n**Appointment Information**: The page includes appointments for county and private-provider sites: https://sf.gov/get-vaccinated-against-covid-19\n\n**Phone number**: For those who don't have internet access or have difficulty using websites, San Francisco recommends calling the state's MyTurn appointment system: (833) 422-4255.\n\n**Additional information**: [Sign up to get notified](https://sf.gov/get-notified-when-its-your-turn-vaccine/form) when it's your turn for the vaccine.\nYou can ride [Muni or Paratransit for free](https://www.sfmta.com/blog/free-muni-and-paratransit-covid-19-vaccine-appointments), to and from your appointment.\n",
     "Official volunteering opportunities": "https://sfdhr.org/emergency-healthcare-volunteers",
-    "Total reports": 205,
+    "Total reports": 206,
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
-    "Yeses": 131,
+    "Yeses": 132,
     "age_floor_without_restrictions": 50,
     "id": "recOuBZk28GMl7mVw"
   },
@@ -389,7 +389,7 @@
     "Total reports": 724,
     "Twitter Page": "https://twitter.com/ochealth",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Yeses": 343,
+    "Yeses": 344,
     "age_floor_without_restrictions": 50,
     "id": "recarUDlLAO0MtvA7"
   },
@@ -416,7 +416,7 @@
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Yeses": 146,
+    "Yeses": 147,
     "age_floor_without_restrictions": 50,
     "id": "recbziYEC1C89DvF3"
   },
