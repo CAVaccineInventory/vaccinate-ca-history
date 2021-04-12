@@ -73,7 +73,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 94,
-    "Yeses": 56,
+    "Yeses": 55,
     "age_floor_without_restrictions": 16
   },
   {
@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 969,
+    "Yeses": 968,
     "age_floor_without_restrictions": 50
   },
   {
@@ -548,7 +548,7 @@
   {
     "id": "recOuBZk28GMl7mVw",
     "County": "San Francisco",
-    "Notes": "(Updated: Apr 10) **Eligibility**: People 50 years and older; education and childcare workers; emergency services workers; food and agriculture workers; people with [certain health conditions or disabilities](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf); people living or working in [congregate living settings](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf) (homeless shelters, correctional facilities, or other treatment facilities); people experiencing homelessness; healthcare workers [See vaccination options for healthcare workers)](https://sf.gov/information/healthcare-worker-vaccination-san-francisco)\n\n**County restrictions**: Vaccinations are free for people who live or work in San Francisco\n\n**Appointment Information**: The page includes appointments for county and private-provider sites: https://sf.gov/get-vaccinated-against-covid-19\n\n**Phone number**: For those who don't have internet access or have difficulty using websites, San Francisco recommends calling the state's MyTurn appointment system: (833) 422-4255.\n\n**Additional information**: [Sign up to get notified](https://sf.gov/get-notified-when-its-your-turn-vaccine/form) when it's your turn for the vaccine.\nYou can ride [Muni or Paratransit for free](https://www.sfmta.com/blog/free-muni-and-paratransit-covid-19-vaccine-appointments), to and from your appointment.\n",
+    "Notes": "(Updated: Apr 12) **Eligibility**: People 50 years and older; education and childcare workers; emergency services workers; food and agriculture workers; people with [certain health conditions or disabilities](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf); people living or working in [congregate living settings](https://sf.gov/information/other-conditions-eligible-covid-19-vaccine-sf) (homeless shelters, correctional facilities, or other treatment facilities); people experiencing homelessness; healthcare workers [See vaccination options for healthcare workers)](https://sf.gov/information/healthcare-worker-vaccination-san-francisco)\r\n\r\n**County restrictions**: Vaccinations are free for people who live or work in San Francisco\r\n\r\n**Appointment Information**: The page includes appointments for county and private-provider sites: https://sf.gov/get-vaccinated-against-covid-19\r\n\r\n**Phone number**: For those who don't have internet access or have difficulty using websites, San Francisco recommends calling the state's MyTurn appointment system: (833) 422-4255.\r\n\r\n**Additional information**: [Sign up to get notified](https://sf.gov/get-notified-when-its-your-turn-vaccine/form) when it's your turn for the vaccine.\r\nYou can ride [Muni or Paratransit for free](https://www.sfmta.com/blog/free-muni-and-paratransit-covid-19-vaccine-appointments), to and from your appointment.",
     "Twitter Page": "https://twitter.com/SF_DPH",
     "Facebook Page": "https://www.facebook.com/SFDEM/",
     "Official volunteering opportunities": "https://sfdhr.org/emergency-healthcare-volunteers",
@@ -556,7 +556,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Total reports": 195,
-    "Yeses": 134,
+    "Yeses": 133,
     "age_floor_without_restrictions": 50
   },
   {
