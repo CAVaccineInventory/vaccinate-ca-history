@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 968,
+    "Yeses": 967,
     "age_floor_without_restrictions": 50
   },
   {
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 107,
+    "Yeses": 106,
     "age_floor_without_restrictions": 50
   },
   {
@@ -344,7 +344,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 210,
-    "Yeses": 153,
+    "Yeses": 154,
     "age_floor_without_restrictions": 50
   },
   {
@@ -542,7 +542,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 173,
-    "Yeses": 108,
+    "Yeses": 109,
     "age_floor_without_restrictions": 16
   },
   {
@@ -608,7 +608,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 101,
-    "Yeses": 59,
+    "Yeses": 58,
     "age_floor_without_restrictions": 50
   },
   {
