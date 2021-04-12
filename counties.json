@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 104,
+    "Yeses": 106,
     "age_floor_without_restrictions": 50
   },
   {
@@ -408,7 +408,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 421,
-    "Yeses": 271,
+    "Yeses": 272,
     "age_floor_without_restrictions": 16
   },
   {
@@ -542,7 +542,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 173,
-    "Yeses": 109,
+    "Yeses": 108,
     "age_floor_without_restrictions": 16
   },
   {
@@ -582,7 +582,7 @@
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
     "Total reports": 57,
-    "Yeses": 35,
+    "Yeses": 36,
     "age_floor_without_restrictions": 16
   },
   {
@@ -608,7 +608,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 101,
-    "Yeses": 58,
+    "Yeses": 59,
     "age_floor_without_restrictions": 50
   },
   {
