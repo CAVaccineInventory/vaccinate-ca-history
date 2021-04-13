@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 967,
+    "Yeses": 968,
     "age_floor_without_restrictions": 50
   },
   {
@@ -256,7 +256,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 577,
-    "Yeses": 340,
+    "Yeses": 339,
     "age_floor_without_restrictions": 50
   },
   {
@@ -284,6 +284,18 @@
     "age_floor_without_restrictions": 50
   },
   {
+    "id": "recY8ARCBGpH545Jv",
+    "County": "Nevada County",
+    "Notes": "(Updated: Apr 11) **Eligibility**: Nevada County Public Health has opened up vaccine eligibility to everyone 16 and older at our Public Health clinics. [More details here](https://www.mynevadacounty.com/3148/Get-Vaccine-Information).\r\n\r\n**Appointment Information**: Public Health is releasing appointments every Friday at noon on [MyTurn.ca.gov](http://myturn.ca.gov/) for appointments at the Whispering Pines Grass Valley vaccine clinic. \r\n\r\n**Additional Info**: A standby list is available for those working in Education and childcare, Emergency services. and Food and Agriculture. This list is for same-day appointments at our Grass Valley clinic to ensure that no dose is wasted. Information about the standby list is available here: <https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3632>\r\n \r\nTo protect confidentiality, verification documentation of the diagnosis or type of disability is not required but instead anyone meeting the eligibility requirements will be asked to sign a self-attestation that they meet the criteria for high-risk medical conditions or disabilities.",
+    "Twitter Page": "https://twitter.com/NevadaCountyCA",
+    "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
+    "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
+    "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
+    "Total reports": 25,
+    "Yeses": 16,
+    "age_floor_without_restrictions": 16
+  },
+  {
     "id": "recipKOzQdBxv0mAf",
     "County": "Tulare County",
     "Notes": "(Updated: Apr 5)  **Eligibility:** 16+\n\n**County restrictions:** Must be a Tulare county resident or work in Tulare county.\n\n**Appointment Information:**\nTo view locations where the vaccine is available and register for an appointment if in an eligible group, go here: \n[COVID-19 Vaccine - COVID 19 (ca.gov)](https://covid19.tularecounty.ca.gov/covid-19-vaccine/)\n\n\n[My Turn - California COVID-19 Vaccine Scheduling & Notifications](https://myturn.ca.gov/)  \n\nIn addition, there is a complete list of local healthcare providers currently offering COVID vaccinations on the County webpage here:\n<https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/>\n\n**Phone numbers:** Individuals without access to the internet can call the MyTurn Hotline at 1-833-422-4255 to make an appointment.\nPhone our COVID Call Center at (559) 685-2260.\n\n**Additional Info: **Tulare County is immediately expanding its COVID vaccine to anyone age 16 and older. Mass vaccinations are at the Tulare International Agri-Center. Make your appointment at [http://bit.ly/31HJJpz](https://t.co/gNJuHKhnhd?amp=1).\n",
@@ -295,18 +307,6 @@
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 118,
     "Yeses": 75,
-    "age_floor_without_restrictions": 16
-  },
-  {
-    "id": "recY8ARCBGpH545Jv",
-    "County": "Nevada County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: Nevada County is currently focusing on vaccination of people 50+, as well as those working in education & childcare, emergency services and food/agriculture, and people with health conditions that put you at the highest risk for extreme complications from COVID-19. [More details here](https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3686).\n\n**Appointment Information**: Public Health is releasing appointments every Friday at noon on [MyTurn.ca.gov](http://myturn.ca.gov/) for appointments at the Whispering Pines Grass Valley vaccine clinic. \n\n**Additional Info**: A standby list is available for those working in Education and childcare, Emergency services. and Food and Agriculture. This list is for same-day appointments at our Grass Valley clinic to ensure that no dose is wasted. Information about the standby list is available here: <https://www.mynevadacounty.com/CivicAlerts.aspx?AID=3632>\n \nTo protect confidentiality, verification documentation of the diagnosis or type of disability is not required but instead anyone meeting the eligibility requirements will be asked to sign a self-attestation that they meet the criteria for high-risk medical conditions or disabilities.\n\n",
-    "Twitter Page": "https://twitter.com/NevadaCountyCA",
-    "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
-    "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
-    "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
-    "Total reports": 25,
-    "Yeses": 16,
     "age_floor_without_restrictions": 16
   },
   {
@@ -324,7 +324,7 @@
   {
     "id": "recbziYEC1C89DvF3",
     "County": "Sacramento County",
-    "Notes": "(Updated: Mar 29) **Eligibility**: Sacramento County residents who are 65+, as well as people who live or work in Sacramento County who are Education or childcare workers, Food service workers, Agricultural, farm or ranch workers, Emergency Services personnel, licensed caregivers, those living in high-risk congregate settings, and people 16-64 with high-risk medical conditions.\n\n**Appointment Information**: Some sites in the county are only for residents 65+. Please see <https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx> for more information.\n\n**Phone numbers**: SCPH COVID-19 Hotline is available for vaccination questions: 916-875-2400\n\n**Additional Info**: SacRT offers free rides to vaccination appointments: https://www.sacrt.com/apps/your-free-ride-to-receive-the-covid-19-vaccine/\n",
+    "Notes": "(Updated: April 11) **Eligibility**: Sacramento County residents who are 50+, as well as people who live or work in Sacramento County who are Education or childcare workers, Food service workers, Agricultural, farm or ranch workers, Emergency Services personnel, licensed caregivers, those living in high-risk congregate settings, and people 16-64 with high-risk medical conditions.\r\n\r\n**Appointment Information**: Some sites in the county are only for residents 65+. Please see <https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx> for more information.\r\n\r\n**Phone numbers**: SCPH COVID-19 Hotline is available for vaccination questions: 916-875-2400\r\n\r\n**Additional Info**: SacRT offers free rides to vaccination appointments: https://www.sacrt.com/apps/your-free-ride-to-receive-the-covid-19-vaccine/",
     "Twitter Page": "https://twitter.com/SacPublicHealth",
     "Facebook Page": "https://www.facebook.com/SacramentoCounty/",
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
@@ -375,7 +375,7 @@
   {
     "id": "recnWwqVyXQCTDOAJ",
     "County": "Colusa County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: Vaccinating people 50+, and those who work in law enforcement, food and agriculture, education and childcare, postal workers, public transit workers, and those 16-64 with medical conditions that increase covid-19 risk.\n\n**Appointment Information**: Information about how and where to schedule a vaccine appointment can be found here: https://www.countyofcolusa.org/771/COVID19\n",
+    "Notes": "(Updated: Apr 11) **Eligibility**: Vaccinating people 50+, and those who work in law enforcement, food and agriculture, education and childcare, postal workers, public transit workers, and those 16-64 with medical conditions that increase covid-19 risk.\r\n\r\n**Appointment Information**: Information about how and where to schedule a vaccine appointment can be found here: https://www.countyofcolusa.org/771/COVID19",
     "Twitter Page": "https://twitter.com/ColusaDHHS",
     "Facebook Page": "https://www.facebook.com/ColusaCountyPublicHealth/",
     "County vaccination reservations URL": "https://www.countyofcolusa.org/949/Vaccine",
@@ -414,7 +414,7 @@
   {
     "id": "recmKHVjaO9gDpzN7",
     "County": "Placer County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: Currently vaccinating the following groups: People aged 50 and older; Education, childcare, emergency services and food/agriculture workers; and Persons 16-64 with [certain high-risk medical conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx).\n\n**County restrictions**:  The Placer County Public Health Division is currently conducting vaccine clinics for people who live OR work in Placer County.\n\n**Appointment Information**: Information about vaccine clinics can be found here: https://www.placer.ca.gov/vaccineclinics. Be sure to scroll down to the list of clinics at the bottom of that page.\n",
+    "Notes": "(Updated: Apr 11) **Eligibility**: Currently vaccinating the following groups: People aged 50 and older; Education, childcare, emergency services and food/agriculture workers; and Persons 16-64 with [certain high-risk medical conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx).\r\n\r\nThe Placer County clinic is vaccinating county residents 16+. Other vaccination locations will expand to 16+ on April 15.\r\n\r\n**County restrictions**:  The Placer County Public Health Division is currently conducting vaccine clinics for people who live OR work in Placer County.\r\n\r\n**Appointment Information**: Information about vaccine clinics can be found here: https://www.placer.ca.gov/vaccineclinics. Be sure to scroll down to the list of clinics at the bottom of that page.",
     "Twitter Page": "https://twitter.com/PlacerCA",
     "Facebook Page": "https://www.facebook.com/PlacerCA",
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
@@ -487,7 +487,7 @@
   {
     "id": "recMxizpwIMytvJ2r",
     "County": "San Mateo County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: People 50+, as well as teachers and child care providers, first responders, food and agricultural workers, individuals experiencing homelessness, and inmates in county jails. \n\n**Appointment Information**: Information about vaccine appointments can be found here: https://www.smchealth.org/covid-19-vaccination\n\n**Additional Info: **SamTrans will provide free bus rides on existing service to COVID-19 vaccination sites for people living or working within San Mateo County. [Read more here](https://www.samtrans.com/about/MediaRelations/news/SamTrans_to_Provide_Free_Rides_to_Vaccination_Sites_in_San_Mateo_County.html).\n\n",
+    "Notes": "(Updated: Apr 11) **Eligibility**: People 50+, as well as teachers and child care providers, first responders, food and agricultural workers, individuals experiencing homelessness, and inmates in county jails. \r\n\r\n**Appointment Information**: Information about vaccine appointments can be found here: https://www.smchealth.org/covid-19-vaccination\r\n\r\n**Additional Info: **SamTrans will provide free bus rides on existing service to COVID-19 vaccination sites for people living or working within San Mateo County. [Read more here](https://www.samtrans.com/about/MediaRelations/news/SamTrans_to_Provide_Free_Rides_to_Vaccination_Sites_in_San_Mateo_County.html).",
     "Twitter Page": "https://twitter.com/SMCHealth",
     "Facebook Page": "https://www.facebook.com/SMCHealth/",
     "Official volunteering opportunities": "https://smcgov.knack.com/volunteers#volunteer-home/",
@@ -600,7 +600,7 @@
   {
     "id": "rec21xHBYYJxXXOiq",
     "County": "Sonoma County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: Vaccinating people 50+, childcare and educators, agriculture and food manufacturing workers, emergency services, and grocery and restaurant workers,  individuals aged 16-64 at the highest risk from COVID-19 as a result of one or more severe health conditions, and individuals who reside in high-risk congregate settings.\n\n**County restrictions**: Vaccine clinics are open to those living in Sonoma County.\n\n**Appointment Information**: A list of vaccination clinics is available here: https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/\n\n",
+    "Notes": "(Updated: Apr 11) **Eligibility**: Vaccinating people 50+, childcare and educators, agriculture and food manufacturing workers, emergency services, and grocery and restaurant workers,  individuals aged 16-64 at the highest risk from COVID-19 as a result of one or more severe health conditions, and individuals who reside in high-risk congregate settings.\r\n\r\n**County restrictions**: Vaccine clinics are open to those living in Sonoma County.\r\n\r\n**Appointment Information**: A list of vaccination clinics is available here: https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Twitter Page": "https://twitter.com/countyofsonoma",
     "Facebook Page": "https://www.facebook.com/CountyofSonoma/",
     "Official volunteering opportunities": "https://socoemergency.org/emergency/how-to-help/",
@@ -678,14 +678,14 @@
   {
     "id": "rec1wHp8vuiDzVdMw",
     "County": "Tuolumne County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: 45+, and those who are 16-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx), based on vaccine availability. This includes those **age 45 and older** as well as the education & childcare, foster/resource parents, emergency services, food and agriculture, utilities, and transportation sectors, high-risk congregate settings (shelters, detention facilities), and those who work with the homeless population. \n\n**County restrictions**: Proof of Tuolumne County residence or employment is required.\n\n**Appointment Information**: Vaccine clinic information and a vaccine interest form for eligible residents can be found here: https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine\n",
+    "Notes": "(Updated: Apr 11) **Eligibility**: We are now vaccinating anyone age 16 and older.\r\n\r\n**County restrictions**: Proof of Tuolumne County residence or employment is required.\r\n\r\n**Appointment Information**: Vaccine clinic information and a vaccine interest form for eligible residents can be found here: https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
     "Twitter Page": "https://twitter.com/tuolumnehealth",
     "Facebook Page": "https://www.facebook.com/tuolumnecountygovernment/",
     "County vaccination reservations URL": "https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
     "Vaccine info URL": "https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
     "Total reports": 13,
     "Yeses": 10,
-    "age_floor_without_restrictions": 45
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "rec7vkrMOgPeUg6Z2",
