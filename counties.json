@@ -138,7 +138,7 @@
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
     "Total reports": 61,
-    "Yeses": 42,
+    "Yeses": 43,
     "age_floor_without_restrictions": 50
   },
   {
@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 967,
+    "Yeses": 966,
     "age_floor_without_restrictions": 50
   },
   {
@@ -337,7 +337,7 @@
   {
     "id": "reczthUUHssxaQj7X",
     "County": "Fresno County",
-    "Notes": "(Updated Apr 6) **Eligibility**: 50+, Cafeteria workers, fast food and restaurant employees, delivery systems, recycling operations, crosswalk guards, bus drivers, daycare providers, food, feed, beverage distribution, education, childcare, public transit, and  Emergency Services including couriers, social workers, utility workers (electricity, gas, water, waste, roads/highways) that provide emergency support, individuals with high-risk medical conditions, and family members of all vaccine eligible persons.\n\n**Effective March 25, 2021:** If a person that is eligible under the current criteria **comes in with a family member, the family member is allowed to receive the vaccine “no questions asked”**\n\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\n\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \n\n**Phone numbers**: Fresno County residents who do not have internet access can call MyTurn at 1-833-422-4255 to sign up for a notification for when it’s their turn to get vaccinated against COVID-19. MyTurn operators speak English and Spanish, with an ability to add a third-party operator in 254 languages. \n\n**Additional Information**: Those with high-risk medical conditions and unable to visit a medical provider can complete and bring the following form indicating they self-attest to having a medical condition under the [CDPH High-Risk Medical Conditions eligibility criteria](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx):\n- High-Risk Medical Condition Self Attestation Form ([English](https://www.co.fresno.ca.us/home/showpublisheddocument?id=53028)) ([Spanish](https://www.co.fresno.ca.us/home/showpublisheddocument?id=53030))\n**Upcoming changes to the COVID-19 vaccine eligibility:**\n- **Effective April 1, 2021, all individuals 50+ years and older** will be eligible to receive the vaccine.\n- **Effective April 15, 2021, all individuals 16+ years and older** will be eligible to receive the vaccine.\n\n\n",
+    "Notes": "(Updated Apr 13) **Eligibility**: All individuals 16+ years and older are eligible to receive the vaccine\r\n\r\n**County restrictions**: Must be a Fresno county resident or work in Fresno county\r\n\r\n**Appointment Information**: Appointments can be booked through MyTurn at <https://myturn.ca.gov> \r\n\r\n**Phone numbers**: Fresno County residents who do not have internet access can call MyTurn at 1-833-422-4255. MyTurn operators speak English and Spanish, with an ability to add a third-party operator in 254 languages.",
     "Twitter Page": "https://twitter.com/FresnoCountyCA",
     "Facebook Page": "https://www.facebook.com/FresnoCountyCA",
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
@@ -435,7 +435,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 64,
+    "Yeses": 63,
     "age_floor_without_restrictions": 16
   },
   {
@@ -542,7 +542,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 173,
-    "Yeses": 109,
+    "Yeses": 108,
     "age_floor_without_restrictions": 16
   },
   {
