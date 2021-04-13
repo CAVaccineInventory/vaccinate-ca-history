@@ -87,7 +87,7 @@
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
     "Total reports": 54,
-    "Yeses": 32,
+    "Yeses": 31,
     "age_floor_without_restrictions": 16
   },
   {
@@ -608,7 +608,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 101,
-    "Yeses": 59,
+    "Yeses": 58,
     "age_floor_without_restrictions": 50
   },
   {
