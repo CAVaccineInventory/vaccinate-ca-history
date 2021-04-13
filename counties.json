@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 968,
+    "Yeses": 969,
     "age_floor_without_restrictions": 50
   },
   {
@@ -197,7 +197,7 @@
   {
     "id": "recfGCTuJg8X3CHzK",
     "County": "Marin County",
-    "Notes": "(Updated: Apr 12) **Eligibility**: 50+, or workers in  education, childcare, food service, agriculture, emergency services, transportation and logistics 16+. Also: Age 16-64 with severe, high-risk medical conditions; age 16-64 with significant, high-risk disabilities; congregate living residents and workers. [Check here](https://coronavirus.marinhhs.org/vaccine/distribution)\r\n[for more details](https://coronavirus.marinhhs.org/vaccine/distribution). \r\n\r\n**County restrictions**: Must live in Marin County.\r\n\r\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\r\n \r\n**Phone number**: County residents who have limited or no internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm. This number  also is available to county residents age 65 or older; those living with disabilities and age 18 or older; those in need of home care or personal assistance; those who need language interpretation (including ASL); or those who need help arranging transportation to a vaccination appointment. \r\n\r\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \r\n\r\nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.",
+    "Notes": "(Updated: Apr 13) **Eligibility**: 50+, or workers in  education, childcare, food service, agriculture, emergency services, transportation and logistics 16+. Also: Age 16-64 with severe, high-risk medical conditions; age 16-64 with significant, high-risk disabilities; congregate living residents and workers. [Check here](https://coronavirus.marinhhs.org/vaccine/distribution)\r\n[for more details](https://coronavirus.marinhhs.org/vaccine/distribution). \r\n\r\n**County restrictions**: Must live in Marin County.\r\n\r\n**Appointment Information**: Complete the vaccination interest form: <https://marincountyhc.jotform.com/210187732830049>\r\n \r\n**Phone number**: County residents who have limited or no internet can call (833) 641-1988 to get live help, Mon-Fri, 8 am to 5 pm. This number  also is available to county residents age 65 or older; those living with disabilities and age 18 or older; those in need of home care or personal assistance; those who need language interpretation (including ASL); or those who need help arranging transportation to a vaccination appointment. \r\n\r\n**Additional information:** New appointments are opened on Friday afternoons.  The county asks that you not call or email Marin Public Health to make an appointment. \r\n\r\nFree public transit is offered by Sonoma-Marin Area Rail Transit for vaccine appointment holders to either the Civic Center or Larkspur train stations. Marin Transit will offer a free shuttle to/from the train station to the nearby vaccine sites.",
     "Twitter Page": "https://twitter.com/maringov",
     "Facebook Page": "https://www.facebook.com/CountyOfMarin",
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 107,
+    "Yeses": 106,
     "age_floor_without_restrictions": 50
   },
   {
@@ -542,7 +542,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 173,
-    "Yeses": 110,
+    "Yeses": 109,
     "age_floor_without_restrictions": 16
   },
   {
