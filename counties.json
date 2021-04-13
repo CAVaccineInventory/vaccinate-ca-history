@@ -113,7 +113,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 24,
+    "Yeses": 25,
     "age_floor_without_restrictions": 50
   },
   {
@@ -255,8 +255,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 576,
-    "Yeses": 339,
+    "Total reports": 577,
+    "Yeses": 340,
     "age_floor_without_restrictions": 50
   },
   {
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 107,
+    "Yeses": 108,
     "age_floor_without_restrictions": 50
   },
   {
@@ -312,7 +312,7 @@
   {
     "id": "recMF4xBLqll2wYtk",
     "County": "Butte County",
-    "Notes": "(Updated: Apr 1) **Eligibility**: Vaccinating people 16+ who live or work in Butte County. \n\nPlease note: residents who book a vaccination appointment through a community or hospital vaccination clinic that utilizes the MyTurn, the State’s scheduling system, will need to check the ’65-74’ age range option to get the scheduling process started. This is due to a current limitation within the State’s online scheduling system. You will then be prompted to enter your date of birth at which time you will enter your actual date of birth.\n\n**Appointment Information**: Appointment information can be found here: https://www.buttecounty.net/ph/COVID19/vaccine\n\n**Phone numbers**: For residents without internet, you may call the Vaccine Scheduling Hotline at 530-552-3020 for assistance – please reserve this line for those without internet. Calling the hotline will not book your appointment faster.\n\n**Additional Info:** Transportation is available to vaccination sites through the B-Line’s Paratransit service for persons 70 and older. An application must be completed in advance of the first ride. Applications can be requested over the phone at 530-809-4614, or downloaded at [tinyurl.com/ButteParatransit](http://tinyurl.com/ButteParatransit). A one-way ride on the Paratransit is $3.50.\n",
+    "Notes": "(Updated: Apr 12) **Eligibility**: Vaccinating people 16+ who live or work in Butte County. \r\n\r\nPlease note: residents who book a vaccination appointment through a community or hospital vaccination clinic that utilizes the MyTurn, the State’s scheduling system, will need to check the ’65-74’ age range option to get the scheduling process started. This is due to a current limitation within the State’s online scheduling system. You will then be prompted to enter your date of birth at which time you will enter your actual date of birth.\r\n\r\n**Appointment Information**: Appointment information can be found here: https://www.buttecounty.net/ph/COVID19/vaccine\r\n\r\n**Phone numbers**: For residents without internet, you may call the Vaccine Scheduling Hotline at 530-552-3020 for assistance – please reserve this line for those without internet. Calling the hotline will not book your appointment faster.\r\n\r\n**Additional Info:** Transportation is available to vaccination sites through the B-Line’s Paratransit service for persons 70 and older. An application must be completed in advance of the first ride. Applications can be requested over the phone at 530-809-4614, or downloaded at [tinyurl.com/ButteParatransit](http://tinyurl.com/ButteParatransit). A one-way ride on the Paratransit is $3.50.",
     "Twitter Page": "https://twitter.com/BC_PubHealth",
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
