@@ -87,7 +87,7 @@
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
     "Total reports": 54,
-    "Yeses": 31,
+    "Yeses": 30,
     "age_floor_without_restrictions": 16
   },
   {
@@ -542,7 +542,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 173,
-    "Yeses": 107,
+    "Yeses": 106,
     "age_floor_without_restrictions": 16
   },
   {
