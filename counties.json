@@ -93,7 +93,7 @@
   {
     "id": "rec2V4GnfzE4qF2a0",
     "County": "Santa Clara County",
-    "Notes": "(Updated: Apr 13) **Eligibility**:50+, **though vaccine supply remains limited.**\r\n\r\n**County restrictions**:As healthcare providers are providing vaccine in Santa Clara County, some providers have restrictions.\r\n\r\n**Appointment Information**:Go to <https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx> to see sites where healthcare providers offering vaccine and to make appointments.\r\n\r\n**Phone numbers**:(408) 792-5050 Santa Clara Dept of Public Health \r\n\r\n**Additional Info**:Santa Clara County, VTA has created an [interactive map](https://www.vta.org/sites/default/files/2021-02/FINAL%20VaccinationMap-02-23-21b_SHR.pdf) for the public to find a list of the current vaccination locations, along with the bus or light rail routes to take to each site. Transit trips are free as VTA is [currently not collecting fares](https://www.vta.org/blog/service-frequency-improvements-no-fare-collection-effect-feb-8). When viewers click on any vaccination location on the map, they will be taken to the Google Maps transit option to find the most efficient transit route to get to the destination.\r\nWebsite has information in Spanish, Chinese, Vietnamese, Tagalong",
+    "Notes": "(Updated: Apr 13) **Eligibility**: Ages 16+\r\n\r\n**County restrictions**:As healthcare providers are providing vaccine in Santa Clara County, some providers have restrictions.\r\n\r\n**Appointment Information**:Go to <https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx> to see sites where healthcare providers offering vaccine and to make appointments.\r\n\r\n**Phone numbers**:(408) 792-5050 Santa Clara Dept of Public Health \r\n\r\n**Additional Info**:Santa Clara County, VTA has created an [interactive map](https://www.vta.org/sites/default/files/2021-02/FINAL%20VaccinationMap-02-23-21b_SHR.pdf) for the public to find a list of the current vaccination locations, along with the bus or light rail routes to take to each site. Transit trips are free as VTA is [currently not collecting fares](https://www.vta.org/blog/service-frequency-improvements-no-fare-collection-effect-feb-8). When viewers click on any vaccination location on the map, they will be taken to the Google Maps transit option to find the most efficient transit route to get to the destination.\r\nWebsite has information in Spanish, Chinese, Vietnamese, Tagalong",
     "Twitter Page": "https://twitter.com/HealthySCC",
     "Facebook Page": "https://www.facebook.com/sccpublichealth",
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
@@ -101,7 +101,7 @@
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 268,
     "Yeses": 142,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recq5HeJCFHGSIzrq",
@@ -157,7 +157,7 @@
   {
     "id": "recGbLZ8Ng6aB3SF9",
     "County": "Yolo County",
-    "Notes": "(Updated: Apr 13) **Eligibility**:50+, Agriculture and food services, education and childcare, emergency services. Healthcare providers and pharmacies are also vaccinating Yolo County residents but may have different eligibility requirements. \r\nIndividuals aged 16-64 who are deemed to be at the very highest risk to get very sick from COVID-19 will be eligible. Please see [CDHP Provider bulletin](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx).Verification of your diagnosis or disability is not required but you will be asked to self-attest in writing or verbally that you meet [this criteria from the State.](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)  Also,  Public transit and Airport Workers for Commercial Airlines\r\n**County restrictions**:Live or work in Yolo.\r\n\r\n**Appointment Information**:Check for available clinics at https://www.yolocounty.org/coronavirus-vaccine \r\n\r\n**Phone numbers**:(833) 965-6268.\r\n\r\n**Additional Info**:If you need a ride to a clinic.[Yolobus is offering free rides](https://www.yolobus.com/news/index.php/684) to Yolo County residents on their vaccine appointment days.\r\nIf you are homebound and need an in-home vaccine, call 211 or their toll free number: (855) 866-1783.\r\nYolo County's Facebook page has COVID briefings twice a week Mondays and Thursdays at 10am at <https://www.facebook.com/YoloCounty/> with the latest county information.",
+    "Notes": "(Updated: Apr 13) **Eligibility**:16+\r\n\r\n**County restrictions**:Live or work in Yolo.\r\n\r\n**Appointment Information**:Check for available clinics at https://www.yolocounty.org/coronavirus-vaccine \r\n\r\n**Phone numbers**:(833) 965-6268.\r\n\r\n**Additional Info**:If you need a ride to a clinic.[Yolobus is offering free rides](https://www.yolobus.com/news/index.php/684) to Yolo County residents on their vaccine appointment days.\r\nIf you are homebound and need an in-home vaccine, call 211 or their toll free number: (855) 866-1783.\r\nYolo County's Facebook page has COVID briefings twice a week Mondays and Thursdays at 10am at <https://www.facebook.com/YoloCounty/> with the latest county information.",
     "Twitter Page": "https://twitter.com/YoloCountyCA",
     "Facebook Page": "https://www.facebook.com/YoloCounty/",
     "Official volunteering opportunities": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
@@ -165,7 +165,7 @@
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 51,
     "Yeses": 28,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recZNvS1ogJzGOPgG",
@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 970,
+    "Yeses": 969,
     "age_floor_without_restrictions": 50
   },
   {
@@ -345,7 +345,7 @@
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 211,
     "Yeses": 158,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "reccGVb82uJTXcyzA",
