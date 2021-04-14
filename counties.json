@@ -126,7 +126,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 247,
-    "Yeses": 181,
+    "Yeses": 182,
     "age_floor_without_restrictions": 16
   },
   {
@@ -435,7 +435,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 62,
+    "Yeses": 63,
     "age_floor_without_restrictions": 16
   },
   {
