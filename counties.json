@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2300,
-    "Yeses": 968,
+    "Yeses": 969,
     "age_floor_without_restrictions": 50
   },
   {
@@ -191,7 +191,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 696,
-    "Yeses": 344,
+    "Yeses": 345,
     "age_floor_without_restrictions": 50
   },
   {
@@ -318,7 +318,7 @@
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
     "Total reports": 53,
-    "Yeses": 34,
+    "Yeses": 33,
     "age_floor_without_restrictions": 16
   },
   {
