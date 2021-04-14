@@ -73,7 +73,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 94,
-    "Yeses": 56,
+    "Yeses": 57,
     "age_floor_without_restrictions": 16
   },
   {
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 101,
+    "Yeses": 100,
     "age_floor_without_restrictions": 50
   },
   {
@@ -331,7 +331,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 250,
-    "Yeses": 150,
+    "Yeses": 151,
     "age_floor_without_restrictions": 50
   },
   {
@@ -408,7 +408,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 422,
-    "Yeses": 264,
+    "Yeses": 263,
     "age_floor_without_restrictions": 16
   },
   {
@@ -556,7 +556,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Total reports": 197,
-    "Yeses": 135,
+    "Yeses": 134,
     "age_floor_without_restrictions": 16
   },
   {
