@@ -164,7 +164,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 51,
-    "Yeses": 29,
+    "Yeses": 28,
     "age_floor_without_restrictions": 16
   },
   {
@@ -230,7 +230,7 @@
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Total reports": 20,
     "Yeses": 10,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 18
   },
   {
     "id": "recjptepZLP1mzVDC",
@@ -408,7 +408,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 421,
-    "Yeses": 263,
+    "Yeses": 264,
     "age_floor_without_restrictions": 16
   },
   {
@@ -441,7 +441,7 @@
   {
     "id": "recVCgGTLt7PpNSkb",
     "County": "Inyo County",
-    "Notes": "(Updated Apr 6) **Eligibility**: 50+, or Non-medical first responders, Teachers and Childcare workers, and Food and Agriculture workers, and those with medical conditions that put them under higher risk.\n\nSee this press release for a list of health conditions that will make you eligible to get the vaccine: <https://www.inyocounty.us/sites/default/files/2021-03/Vaccine_Expands.pdf> \n\n**County restrictions**: Must be an Inyo county resident\n\n**Additional Information: **Please sign up for **[the Inyo County Registration list](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)** to receive email updates to find out when vaccine will be available to you. Updates are sent weekly to everyone on the Inyo County Registration list. You can also see details about vaccine clinics opening up in the county and their eligibility criteria here: https://www.inyocounty.us/covid-19/local-updates\n",
+    "Notes": "(Updated Apr 13) **Eligibility**: 50+, or Non-medical first responders, Teachers and Childcare workers, and Food and Agriculture workers, and those with medical conditions that put them under higher risk.\r\n\r\nSee this press release for a list of health conditions that will make you eligible to get the vaccine: <https://www.inyocounty.us/sites/default/files/2021-03/Vaccine_Expands.pdf> \r\n\r\n**County restrictions**: Must be an Inyo county resident\r\n\r\n**Additional Information: **Please sign up for **[the Inyo County Registration list](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)** to receive email updates to find out when vaccine will be available to you. Updates are sent weekly to everyone on the Inyo County Registration list. You can also see details about vaccine clinics opening up in the county and their eligibility criteria here: https://www.inyocounty.us/covid-19/local-updates",
     "Facebook Page": "https://www.facebook.com/ExploreInyoCounty/",
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform",
     "Vaccine info URL": "https://www.inyocounty.us/covid-19/vaccine-information",
@@ -452,15 +452,15 @@
   {
     "id": "recTuH0G20ua9ErUU",
     "County": "Imperial County",
-    "Notes": "(Updated Apr 6) **Eligibility**: 50+, or in Education, Emergency services, Childcare, and Food and Agriculture workers, Utility workers, disaster service workers, social workers, and 16-64 age group that are at highest risk due to health conditions\n\n**Appointment Information**: For locations and appointment information please click this link: <https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/> \n\n**Phone numbers**: Phone assistance at 442-265-1444, will be available Monday through Friday from 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm. The office will be closed for lunch from 12:00 pm to 1:00 pm.\n\nPersons 65 and older who may need additional assistance, please contact the Area Agency on Aging at 442-265-7033 or 442-265-7040\n\n**Additional Information: **For a list of conditions that make 16-64 year old people eligible to the vaccine, please click this link: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx> \n",
+    "Notes": "(Updated Apr 13) **Eligibility**: Ages 16+\r\n\r\n**Appointment Information**: For locations and appointment information please click this link: <https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/> \r\n\r\n**Phone numbers**: Phone assistance at 442-265-1444, will be available Monday through Friday from 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm. The office will be closed for lunch from 12:00 pm to 1:00 pm.\r\n\r\nPersons 65 and older who may need additional assistance, please contact the Area Agency on Aging at 442-265-7033 or 442-265-7040\r\n\r\n**Additional Information: **For a list of conditions that make 16-64 year old people eligible to the vaccine, please click this link: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx>",
     "Twitter Page": "https://twitter.com/icpublichealth",
     "Facebook Page": "https://www.facebook.com/icpublichealth/",
     "County vaccination reservations URL": "https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
     "Total reports": 52,
-    "Yeses": 35,
-    "age_floor_without_restrictions": 50
+    "Yeses": 36,
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recyKBuA9lxrJc339",
