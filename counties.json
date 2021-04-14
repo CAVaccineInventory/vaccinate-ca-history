@@ -229,7 +229,7 @@
     "County vaccination reservations URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Total reports": 20,
-    "Yeses": 10,
+    "Yeses": 9,
     "age_floor_without_restrictions": 18
   },
   {
@@ -318,7 +318,7 @@
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
     "Total reports": 53,
-    "Yeses": 35,
+    "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
   {
