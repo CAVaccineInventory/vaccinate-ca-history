@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 102,
+    "Yeses": 103,
     "age_floor_without_restrictions": 50
   },
   {
@@ -421,7 +421,7 @@
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Total reports": 71,
-    "Yeses": 42,
+    "Yeses": 41,
     "age_floor_without_restrictions": 16
   },
   {
