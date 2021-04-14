@@ -23,7 +23,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 17,
-    "Yeses": 9,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
   {
@@ -494,7 +494,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 53,
+    "Yeses": 54,
     "age_floor_without_restrictions": 50
   },
   {
