@@ -132,14 +132,14 @@
   {
     "id": "rectXRYX9gh3dALJJ",
     "County": "Solano County",
-    "Notes": "(Updated: Apr 14) **Eligibility**: Solano residents who are 50+ or 16-49 years old who have underlying conditions\r\nEssential workers living and working in Solano County as defined by the state's essential workforce: [covid19.ca.gov/essential-workforce](https://l.facebook.com/l.php?u=http%3A%2F%2Fcovid19.ca.gov%2Fessential-workforce%3Ffbclid%3DIwAR2ZWOjw0jKVxiqVVTD89Rku2_aGVPozv4eBNaEsP69yWgRe8sPDoJxngL4&h=AT3UchI41Q1kw1mLOj7r6pwBy9RZN74fHJLHegHtg0TSGueTj0s61IL976sPzACxkS9xZvjyIn-P1ZuhzBE7FJNpUZN0wmo6nx-N60NHpDCnWFlm5218aWRBPTU9LlkOul9C&__tn__=-UK-R&c%5b0%5d=AT1cMUikCqf-2BK3bLDVA6Y2BUdiIDZry36HXih8t0ijhsCzxu-k9VKDiwP93pw89acIQx2EcwaK65DwxmIXhOoIHkpGEZEffvIhH641RvucTF8KDQ9EtCP41I2lKMDvnJ0gqrzG4D-veT4totjRoQ-mFP2QmsR3ViU7SDtBSC1ZCaw6cjRdypjVcBgm6lWvidPwgtcf)\r\n\r\n**County restrictions**: Must live or work in Solano County.\r\n\r\n**Appointment Information**: County recommends that residents complete the[ vaccine interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkIeMEzssrcWhHjglhgOOdcIxUOFA2UFpQSDY2MDNTWVRZVEpBOUQwTk5QTS4u) and register with <https://myturn.ca.gov>\r\n\r\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\r\n\r\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>",
+    "Notes": "(Updated: Apr 14) **Eligibility**: 16+  Individuals age 16-17 years old can only receive the Pfizer vaccine and must be accompanied by a parent or guardian to their appointment, or have a parent/guardian we can contact by phone during the appointment. \r\n\r\n\r\n**County restrictions**: Must live or work in Solano County.\r\n\r\n**Appointment Information**: County recommends that residents complete the[ vaccine interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=rCB_XvHlg0-MO85EuEhkIeMEzssrcWhHjglhgOOdcIxUOFA2UFpQSDY2MDNTWVRZVEpBOUQwTk5QTS4u) and register with <https://myturn.ca.gov>\r\n\r\n**Phone number**: Solano Public Health COVID-19 \"warmline\":  (707) 784-8988\r\n\r\n**Additional Info**: Information on vaccinations by healthcare providers in Solano County is available at: <https://solanocounty.com/civicax/filebank/blobdload.aspx?BlobID=33980>",
     "Twitter Page": "https://twitter.com/solanooes",
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
     "Total reports": 61,
     "Yeses": 42,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recOtOQyjwtIAB9vs",
