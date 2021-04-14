@@ -100,7 +100,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 270,
-    "Yeses": 144,
+    "Yeses": 143,
     "age_floor_without_restrictions": 16
   },
   {
@@ -164,7 +164,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 51,
-    "Yeses": 29,
+    "Yeses": 30,
     "age_floor_without_restrictions": 16
   },
   {
@@ -529,7 +529,7 @@
     "Vaccine info URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Total reports": 9,
-    "Yeses": 5,
+    "Yeses": 4,
     "age_floor_without_restrictions": 50
   },
   {
@@ -634,7 +634,7 @@
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
     "Total reports": 27,
-    "Yeses": 19,
+    "Yeses": 20,
     "age_floor_without_restrictions": 16
   },
   {
@@ -697,7 +697,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 75,
-    "Yeses": 60,
+    "Yeses": 59,
     "age_floor_without_restrictions": 50
   },
   {
