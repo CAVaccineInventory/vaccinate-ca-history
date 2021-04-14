@@ -99,8 +99,8 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Total reports": 269,
-    "Yeses": 143,
+    "Total reports": 270,
+    "Yeses": 144,
     "age_floor_without_restrictions": 16
   },
   {
@@ -407,8 +407,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 422,
-    "Yeses": 263,
+    "Total reports": 423,
+    "Yeses": 264,
     "age_floor_without_restrictions": 16
   },
   {
