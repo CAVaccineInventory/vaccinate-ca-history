@@ -53,14 +53,14 @@
   {
     "id": "rec8EEJmJzCdopVzu",
     "County": "Santa Cruz County",
-    "Notes": "(Updated: Apr 13) **Eligibility**: Age 50+, and (as supplies allow) workers in education, childcare, food & agriculture, fire, law enforcement, and emergency services, Transit and transportation workers, Residents and staff of homeless shelters, behavioral health facilities, incarceration/ detention centers and other at risk congregate setting.\r\n\r\nIndividuals age 16-64 with a medical condition or disability that puts them at high risk for severe sickness and death as defined by the California Department of Public Health (CDPH). Click this link: <https://tinyurl.com/z8exakt8> to see the CDPH prioritization list. \r\n\r\n**County restrictions**: Must be a resident of Santa Cruz. \r\n\r\n**Appointment Information**: If you wish to sign up  for vaccines, please click this link:  **[http://MyTurn.ca.gov](http://myturn.ca.gov/)**.\r\n\r\n**Phone numbers**: If you are over 65, call the Bridges to Access Vaccination Helpline to get assistance in obtaining the COVID-19\r\nvaccine at (831) 219-8607. Leave a message with your name, phone number, age and zip code and you will  get a call back within 48 hours.\r\n\r\n**Additional Info**: Residents interested in vaccines should first contact their medical provider. Vaccines are also available through sites listed on the chart below. Residents should also sign up for MyTurn to be notified once they are eligible, by visiting **[MyTurn.ca.gov](https://myturn.ca.gov/)**. The Public Health Division will distribute vaccine through the counties\r\n**[local vaccine plan](https://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/2020.12.7_FINAL%20C19%20Vax%20Template%20for%20Santa%20Cruz%20County.pdf)**.\r\n\r\nFor information about registering for an appointment with various health care providers, click this link: <https://tinyurl.com/ync6h3r7>",
+    "Notes": "(Updated: Apr 15) **Eligibility**: Age 16+\r\n\r\n**County restrictions**: Must be a resident of Santa Cruz. \r\n\r\n**Appointment Information**: If you wish to sign up  for vaccines, please click this link:  **[http://MyTurn.ca.gov](http://myturn.ca.gov/)**.\r\n\r\n**Phone numbers**: If you are over 65, call the Bridges to Access Vaccination Helpline to get assistance in obtaining the COVID-19\r\nvaccine at (831) 219-8607. Leave a message with your name, phone number, age and zip code and you will  get a call back within 48 hours.\r\n\r\n**Additional Info**: Residents interested in vaccines should first contact their medical provider. Vaccines are also available through sites listed on the chart below. Residents should also sign up for MyTurn to be notified once they are eligible, by visiting **[MyTurn.ca.gov](https://myturn.ca.gov/)**. The Public Health Division will distribute vaccine through the counties\r\n**[local vaccine plan](https://www.santacruzhealth.org/Portals/7/pdfs/coronavirus/2020.12.7_FINAL%20C19%20Vax%20Template%20for%20Santa%20Cruz%20County.pdf)**.\r\n\r\nFor information about registering for an appointment with various health care providers, click this link: <https://tinyurl.com/ync6h3r7>",
     "Twitter Page": "https://twitter.com/sccounty",
     "Facebook Page": "https://www.facebook.com/PublicHealthSCC",
     "County vaccination reservations URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Total reports": 47,
     "Yeses": 27,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recuweSK9OqJ7C2l4",
@@ -441,13 +441,13 @@
   {
     "id": "recVCgGTLt7PpNSkb",
     "County": "Inyo County",
-    "Notes": "(Updated Apr 13) **Eligibility**: 50+, or Non-medical first responders, Teachers and Childcare workers, and Food and Agriculture workers, and those with medical conditions that put them under higher risk.\r\n\r\nSee this press release for a list of health conditions that will make you eligible to get the vaccine: <https://www.inyocounty.us/sites/default/files/2021-03/Vaccine_Expands.pdf> \r\n\r\nCounty is expanding to 18+ as of April 15\r\n\r\n**County restrictions**: Must be an Inyo county resident\r\n\r\n**Additional Information: **Please sign up for **[the Inyo County Registration list](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)** to receive email updates to find out when vaccine will be available to you. Updates are sent weekly to everyone on the Inyo County Registration list. You can also see details about vaccine clinics opening up in the county and their eligibility criteria here: https://www.inyocounty.us/covid-19/local-updates",
+    "Notes": "(Updated Apr 15) **Eligibility**: 16+\r\n\r\n**County restrictions**: Must be an Inyo county resident\r\n\r\n**Additional Information: **Please sign up for **[the Inyo County Registration list](https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform)** to receive email updates to find out when vaccine will be available to you. Updates are sent weekly to everyone on the Inyo County Registration list. You can also see details about vaccine clinics opening up in the county and their eligibility criteria here: https://www.inyocounty.us/covid-19/local-updates",
     "Facebook Page": "https://www.facebook.com/ExploreInyoCounty/",
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSfxml4iOjuCy2dwsppYDHK-bpCbZA2uU0lM699zlVtllE7o5Q/viewform",
     "Vaccine info URL": "https://www.inyocounty.us/covid-19/vaccine-information",
     "Total reports": 6,
     "Yeses": 4,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recTuH0G20ua9ErUU",
@@ -703,7 +703,7 @@
   {
     "id": "rectD96YQWb5CnHV4",
     "County": "Mendocino County",
-    "Notes": "(Updated Apr 13) **Eligibility**: 50+, or workers in food, agriculture, logging, education and childcare (including school bus drivers), emergency services, and lodging. Also open to those between the ages of 16 and 64 with the some comorbidities or disabilities, click this link for full details: <https://www.mendocinocounty.org/Home/Components/News/News/5412/626> \r\n\r\n**County restrictions**: Must be a Mendocino county resident or work in Mendocino county\r\n\r\n**Appointment Information**: For information about county clinics and booking appointments please click this link: <https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics> \r\n\r\n**Phone numbers**: Contact the call center (hablamos español) for more information at 707-472-2759, Monday to Friday 8:30am - 5:00pm.\r\n\r\n**Additional Info**: The county is scheduling vaccination events for first doses, to learn more call (707) 472-2663 or email DOC-vaccine@mendocinocounty.org with the subject line, “1st dose of Pfizer.”",
+    "Notes": "(Updated Apr 15) **Eligibility**: 16+\r\n\r\n**County restrictions**: Must be a Mendocino county resident or work in Mendocino county\r\n\r\n**Appointment Information**: For information about county clinics and booking appointments please click this link: <https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics> \r\n\r\n**Phone numbers**: Contact the call center (hablamos español) for more information at 707-472-2759, Monday to Friday 8:30am - 5:00pm.\r\n\r\n**Additional Info**: The county is scheduling vaccination events for first doses, to learn more call (707) 472-2663 or email DOC-vaccine@mendocinocounty.org with the subject line, “1st dose of Pfizer.”",
     "Twitter Page": "https://twitter.com/countymendocino",
     "Facebook Page": "https://www.facebook.com/mendocinocounty/",
     "County vaccination reservations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
