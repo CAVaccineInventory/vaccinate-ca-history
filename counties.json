@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2306,
-    "Yeses": 974,
+    "Yeses": 973,
     "age_floor_without_restrictions": 16
   },
   {
@@ -530,7 +530,7 @@
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Total reports": 9,
     "Yeses": 4,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recP7bxtLsyO94BOI",
@@ -614,14 +614,14 @@
   {
     "id": "recSgrpyStTR7XfmZ",
     "County": "Siskiyou County",
-    "Notes": "(Updated Apr 13) **Eligibility**: 50+, or Education & Childcare Workers, Food & Agriculture Workers and Emergency services, and Individuals 16-64 with underlying health conditions\r\n\r\n**Expanding to 16+ effective April 15, 2021 **(County already scheduling appointments for a 16+ clinic on this date)\r\n\r\n**Appointment Information**: For locations and appointment information please click this link: <https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information>. \r\n\r\n**Phone numbers**: For questions or concerns please call (530) 841-2134 or email [phinfo@co.siskiyou.ca.us](mailto:phinfo@co.siskiyou.ca.us)\r\n\r\n**Additional Information**: For information about underlying health conditions that make you eligible to receive the vaccine please click here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx> \r\n\r\nEligibility is expanding soon to cover:\r\n- Individuals 50 or older - **effective April 1, 2021** \r\n- Every Californian 16 or older - **effective April 15, 2021**",
+    "Notes": "(Updated Apr 15) **Eligibility**: 16+\r\n\r\n**Appointment Information**: For locations and appointment information please click this link: <https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information>. \r\n\r\n**Phone numbers**: For questions or concerns please call (530) 841-2134 or email [phinfo@co.siskiyou.ca.us](mailto:phinfo@co.siskiyou.ca.us)\r\n\r\n**Additional Information**: For information about underlying health conditions that make you eligible to receive the vaccine please click here: <https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx> \r\n\r\nEligibility is expanding soon to cover:\r\n- Individuals 50 or older - **effective April 1, 2021** \r\n- Every Californian 16 or older - **effective April 15, 2021**",
     "Facebook Page": "https://www.facebook.com/siskiyoucountyph/",
     "County vaccination reservations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-frequently-asked-questions",
     "Vaccine info URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information",
     "Vaccine locations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers",
     "Total reports": 27,
     "Yeses": 22,
-    "age_floor_without_restrictions": 50
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "rec2j4TlWO7zJT5AE",
