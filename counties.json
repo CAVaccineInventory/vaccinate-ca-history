@@ -23,7 +23,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 17,
-    "Yeses": 8,
+    "Yeses": 7,
     "age_floor_without_restrictions": 16
   },
   {
@@ -435,7 +435,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 63,
+    "Yeses": 62,
     "age_floor_without_restrictions": 16
   },
   {
