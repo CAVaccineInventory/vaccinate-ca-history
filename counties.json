@@ -667,13 +667,13 @@
   {
     "id": "recmEBjsHW6t9GDHg",
     "County": "Lassen County",
-    "Notes": "(Updated: Apr 13) **Eligibility:** 18+\r\n\r\n**County restrictions**: Must live or work full-time in Lassen County\r\n\r\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\r\n\r\n**Phone number**: You can also call (530) 249-8628 to submit your appointment request information.",
+    "Notes": "(Updated: Apr 13) **Eligibility:** 16+\r\n\r\n**County restrictions**: Must live or work full-time in Lassen County\r\n\r\n**Appointment Information**: Submit an appointment request form, available at <https://lassencares.org/>\r\n\r\n**Phone number**: You can also call (530) 249-8628 to submit your appointment request information.",
     "Facebook Page": "https://www.facebook.com/LassenCares",
     "County vaccination reservations URL": "https://lassencares.org/home-1",
     "Vaccine info URL": "https://lassencares.org/home-1",
     "Total reports": 9,
     "Yeses": 6,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "rec1wHp8vuiDzVdMw",
