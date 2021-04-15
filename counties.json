@@ -100,7 +100,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 270,
-    "Yeses": 146,
+    "Yeses": 145,
     "age_floor_without_restrictions": 16
   },
   {
@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2306,
-    "Yeses": 971,
+    "Yeses": 969,
     "age_floor_without_restrictions": 16
   },
   {
@@ -344,7 +344,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 211,
-    "Yeses": 156,
+    "Yeses": 155,
     "age_floor_without_restrictions": 16
   },
   {
@@ -494,7 +494,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 54,
+    "Yeses": 53,
     "age_floor_without_restrictions": 16
   },
   {
@@ -529,7 +529,7 @@
     "Vaccine info URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Total reports": 9,
-    "Yeses": 4,
+    "Yeses": 5,
     "age_floor_without_restrictions": 16
   },
   {
@@ -661,7 +661,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 233,
-    "Yeses": 141,
+    "Yeses": 140,
     "age_floor_without_restrictions": 16
   },
   {
