@@ -256,7 +256,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 577,
-    "Yeses": 339,
+    "Yeses": 338,
     "age_floor_without_restrictions": 16
   },
   {
@@ -408,7 +408,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 423,
-    "Yeses": 262,
+    "Yeses": 261,
     "age_floor_without_restrictions": 16
   },
   {
@@ -541,8 +541,8 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 174,
-    "Yeses": 110,
+    "Total reports": 176,
+    "Yeses": 111,
     "age_floor_without_restrictions": 16
   },
   {
@@ -661,7 +661,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 233,
-    "Yeses": 139,
+    "Yeses": 138,
     "age_floor_without_restrictions": 16
   },
   {
