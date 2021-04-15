@@ -177,7 +177,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2309,
+    "Total reports": 2310,
     "Yeses": 971,
     "age_floor_without_restrictions": 16
   },
@@ -459,7 +459,7 @@
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
     "Total reports": 52,
-    "Yeses": 35,
+    "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
   {
@@ -541,8 +541,8 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 176,
-    "Yeses": 111,
+    "Total reports": 179,
+    "Yeses": 114,
     "age_floor_without_restrictions": 16
   },
   {
@@ -582,7 +582,7 @@
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
     "Total reports": 57,
-    "Yeses": 35,
+    "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
   {
@@ -661,7 +661,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 233,
-    "Yeses": 138,
+    "Yeses": 136,
     "age_floor_without_restrictions": 16
   },
   {
