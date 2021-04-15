@@ -256,7 +256,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 577,
-    "Yeses": 341,
+    "Yeses": 342,
     "age_floor_without_restrictions": 50
   },
   {
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 102,
+    "Yeses": 101,
     "age_floor_without_restrictions": 50
   },
   {
