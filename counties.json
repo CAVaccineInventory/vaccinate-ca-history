@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 179,
-    "Yeses": 98,
+    "Yeses": 97,
     "age_floor_without_restrictions": 16
   },
   {
@@ -344,7 +344,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 211,
-    "Yeses": 154,
+    "Yeses": 153,
     "age_floor_without_restrictions": 16
   },
   {
@@ -408,7 +408,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 423,
-    "Yeses": 262,
+    "Yeses": 261,
     "age_floor_without_restrictions": 16
   },
   {
@@ -556,7 +556,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Total reports": 199,
-    "Yeses": 132,
+    "Yeses": 131,
     "age_floor_without_restrictions": 16
   },
   {
