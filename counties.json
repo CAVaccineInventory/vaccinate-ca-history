@@ -511,14 +511,14 @@
   {
     "id": "recafMhaFNhRpDlFR",
     "County": "Trinity County",
-    "Notes": "(Updated: Apr 12)**Eligibility**: 18+\r\n\r\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \r\n\r\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\r\n\r\n**Phone numbers**: 530-623-8235\r\n\r\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>",
+    "Notes": "(Updated: Apr 17)**Eligibility**: 18+\r\n\r\n**County restrictions**:Eligible residents of Trinity County, or neighboring counties if employed in Trinity County \r\n\r\n**Appointment Information**:https://www.trinitycounty.org/COVID19-Vaccine\r\n\r\n**Phone numbers**: 530-623-8235\r\n\r\n**Additional Info**: Based on Website information from press releases in February. For latest press releases visit: <https://www.trinitycounty.org/COVID-19/Press-Releases>",
     "Facebook Page": "https://www.facebook.com/TrinityHHSD/",
     "County vaccination reservations URL": "https://www.trinitycounty.org/COVID-19/Vaccine-Registration",
     "Vaccine info URL": "https://www.trinitycounty.org/COVID19-Vaccine",
     "Vaccine locations URL": "https://www.trinitycounty.org/sites/default/files/Public_Health/Documents/Covid/COVID-19_Press_Release_1.11.2021.pdf",
     "Total reports": 5,
     "Yeses": 4,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "rectLKwoh8OStFdqH",
@@ -716,7 +716,7 @@
   {
     "id": "rec5FGk70LKjdkynb",
     "County": "Yuba County",
-    "Notes": "(Updated: Apr 12) **Eligibility**: Age 18+ \r\n\r\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \r\n\r\n**Appointment Information**: To make appointments online, click this website: https://www.yuba.org/coronavirus/register_for_vaccination.php   To make appointments by phone, call (530) 634-7496.\r\n\r\n**Phone numbers**: \r\nYuba Sutter transit is offering free rides for Covid-19 vaccination appointments,\r\nFor Yuba-Sutter Transit service, route, and schedule information, visit http://www.yubasuttertransit.com or call (530) 742-2877.\r\n\r\n**Additional Information** New clinic information is posted on the county website each Wednesday at 9 A.M.  Click on this link to see the clinics, https://tinyurl.com/mmmmj4fx\r\n\r\nInformación en español: <https://tinyurl.com/bfz54743>",
+    "Notes": "(Updated: Apr 17) **Eligibility**: Age 18+ at county sponsored clinics. \r\n\r\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \r\n\r\n**Appointment Information**: To make appointments online, click this website: https://www.yuba.org/coronavirus/register_for_vaccination.php   To make appointments by phone, call (530) 634-7496.\r\n\r\n**Phone numbers**: \r\nYuba Sutter transit is offering free rides for Covid-19 vaccination appointments,\r\nFor Yuba-Sutter Transit service, route, and schedule information, visit http://www.yubasuttertransit.com or call (530) 742-2877.\r\n\r\n**Additional Information** New clinic information is posted on the county website each Wednesday at 9 A.M.  Click on this link to see the clinics, https://tinyurl.com/mmmmj4fx\r\n\r\nInformación en español: <https://tinyurl.com/bfz54743>",
     "Twitter Page": "https://twitter.com/YubaCounty",
     "Facebook Page": "https://www.facebook.com/YubaCounty/",
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
@@ -724,7 +724,7 @@
     "Vaccine locations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Total reports": 14,
     "Yeses": 10,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "reciwvE3uydUJmPr9",
