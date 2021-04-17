@@ -2,7 +2,7 @@
   {
     "id": "recNTl8pzOr57Ql1d",
     "County": "Sutter County",
-    "Notes": "(Updated: Apr 12) **Eligibility**: Age 18+ \r\n\r\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \r\n\r\n**Appointment Information**: To make an appointment for the FIRST or SECOND VACCINE, click on this link:  <https://tinyurl.com/5ban9u3s> New Clinic information is released on Wednesdays at 9am.\r\n\r\n**Phone numbers**: To make appointments by phone calls can only be made to (530) 822-5985 between the hours of 9 am-4 pm M-F\r\n\r\n**Additional Info**: Yuba-Sutter transit is offering free rides for Covid-19 vaccination appointments,\r\nFor Yuba-Sutter Transit service, route, and schedule information, visit http://www.yubasuttertransit.com or call (530) 742-2877.\r\n\r\nIf there are no more appointments available, consider signing up to be wait-listed in the event the clinic has \"no shows\" or cancellations. The waitlist DOES NOT GUARANTEE you a spot for an appointment for the clinic. In the event you do not get called, please register for our next county clinic.\r\n\r\nInformación en español: <https://tinyurl.com/ysyss4mw>",
+    "Notes": "(Updated: Apr 17) **Eligibility**: Age 18+ at county clinics. \r\n\r\n**County restrictions**: Must be residents of, or work in Yuba-Sutter counties. \r\n\r\n**Appointment Information**: To make an appointment for the FIRST or SECOND VACCINE, click on this link:  <https://tinyurl.com/5ban9u3s> New Clinic information is released on Wednesdays at 9am.\r\n\r\n**Phone numbers**: To make appointments by phone calls can only be made to (530) 822-5985 between the hours of 9 am-4 pm M-F\r\n\r\n**Additional Info**: Yuba-Sutter transit is offering free rides for Covid-19 vaccination appointments,\r\nFor Yuba-Sutter Transit service, route, and schedule information, visit http://www.yubasuttertransit.com or call (530) 742-2877.\r\n\r\nIf there are no more appointments available, consider signing up to be wait-listed in the event the clinic has \"no shows\" or cancellations. The waitlist DOES NOT GUARANTEE you a spot for an appointment for the clinic. In the event you do not get called, please register for our next county clinic.\r\n\r\nInformación en español: <https://tinyurl.com/ysyss4mw>",
     "Twitter Page": "https://twitter.com/countyofsutter",
     "Facebook Page": "https://www.facebook.com/SutterCountyPublicHealth/",
     "Official volunteering opportunities": "https://www.surveymonkey.com/r/V98TJZB",
@@ -11,7 +11,7 @@
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Total reports": 26,
     "Yeses": 18,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recFTYWXSD4kd17eo",
@@ -500,13 +500,13 @@
   {
     "id": "recQYGuJuebVYxg7I",
     "County": "Sierra County",
-    "Notes": "(Updated Apr 6) **Eligibility**: All Sierra County Residents 18 years or older regardless of medical conditions, as well as previous tiers of 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers\n\n**County restrictions**: Must be a Sierra county resident\n\n**Additional Information**: Due to the high number of Sierra County residents already vaccinated, and expanded availability of vaccine throughout California, Sierra County Public Health is no longer maintaining an interest/wait list. See options for scheduling vaccinations here: <https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19> \n\n",
+    "Notes": "(Updated Apr 17) **Eligibility**: All Sierra County Residents 18 years or older regardless of medical conditions, as well as previous tiers of 65+, or in Education, Emergency services, Childcare, and Food and Agriculture workers. \r\n\r\n**County restrictions**: Must be a Sierra county resident\r\n\r\n**Additional Information**: Due to the high number of Sierra County residents already vaccinated, and expanded availability of vaccine throughout California, Sierra County Public Health is no longer maintaining an interest/wait list. See options for scheduling vaccinations here: <https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19>",
     "Facebook Page": "https://www.facebook.com/sierracosheriff/",
     "County vaccination reservations URL": "https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19",
     "Vaccine info URL": "https://sierracounty.ca.gov/616/About-Vaccine-for-COVID-19",
     "Total reports": 2,
     "Yeses": 1,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recafMhaFNhRpDlFR",
