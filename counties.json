@@ -344,7 +344,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 211,
-    "Yeses": 151,
+    "Yeses": 150,
     "age_floor_without_restrictions": 16
   },
   {
@@ -494,7 +494,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 52,
+    "Yeses": 51,
     "age_floor_without_restrictions": 16
   },
   {
@@ -594,7 +594,7 @@
     "Vaccine info URL": "https://publichealth.co.modoc.ca.us/covid-19_information/covid-19_vaccine/index.php",
     "Vaccine locations URL": "http://partnershiphp.org/Community/Documents/Modoc/Modoc_COVID-19.pdf",
     "Total reports": 5,
-    "Yeses": 3,
+    "Yeses": 2,
     "age_floor_without_restrictions": 18
   },
   {
