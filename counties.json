@@ -435,7 +435,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 60,
+    "Yeses": 59,
     "age_floor_without_restrictions": 16
   },
   {
@@ -568,7 +568,7 @@
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
     "Total reports": 44,
-    "Yeses": 27,
+    "Yeses": 26,
     "age_floor_without_restrictions": 16
   },
   {
@@ -661,7 +661,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 233,
-    "Yeses": 134,
+    "Yeses": 133,
     "age_floor_without_restrictions": 16
   },
   {
