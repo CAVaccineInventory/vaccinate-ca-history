@@ -210,7 +210,7 @@
   {
     "id": "recxImnEbGNQGidKW",
     "County": "Amador County",
-    "Notes": "(Updated: Apr 12) **Eligibility**: Age 18+ at Amador County Public Health vaccination clinics, but it may be 50+ at other locations in the county, such as pharmacies. Also eligible are Amador residents with chronic health conditions (age 18 & over), health care workers, first responders, educators, community outreach workers, agriculture workers, grocery store workers, restaurant and food service workers, caregivers and childcare providers. \r\n\r\nVaccine appointments for Amador County Public Health vaccination clinics may be scheduled by accessing clinic registration links on the Amador County Vaccine Information webpage: [https://www.amadorgov.org/.../covid-19/vaccine-information](https://www.amadorgov.org/services/public-health/covid-19/vaccine-information?fbclid=IwAR0Mmo8oOJxE_LvDRIe8j4yL2MrW3TwcAVpzJywQOnCL5os6taZ5Z7RMGUM)\r\n\r\n**County restrictions**: Must live or work in Amador County. \r\n\r\n**Appointment Information**: To see upcoming vaccine clinics run by the county as well as other locations, please click this link: <https://tinyurl.com/drwue7k3> \r\nCounty-run vaccine clinics are announced via e-notification as well. To sign up for Amador County e-notification visit the Amador County website: https://www.amadorgov.org/about/e-notifications and choose “Health & Safety” notifications\r\n\r\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\r\n\r\n**Additional Info**:",
+    "Notes": "(Updated: Apr 12) **Eligibility**: Age 18+ at Amador County Public Health vaccination clinics, but it may be 16+ at other locations in the county, such as pharmacies. \r\n\r\nVaccine appointments for Amador County Public Health vaccination clinics may be scheduled by accessing clinic registration links on the Amador County Vaccine Information webpage: [https://www.amadorgov.org/.../covid-19/vaccine-information](https://www.amadorgov.org/services/public-health/covid-19/vaccine-information?fbclid=IwAR0Mmo8oOJxE_LvDRIe8j4yL2MrW3TwcAVpzJywQOnCL5os6taZ5Z7RMGUM)\r\n\r\n**County restrictions**: Must live or work in Amador County. \r\n\r\n**Appointment Information**: To see upcoming vaccine clinics run by the county as well as other locations, please click this link: <https://tinyurl.com/drwue7k3> \r\nCounty-run vaccine clinics are announced via e-notification as well. To sign up for Amador County e-notification visit the Amador County website: https://www.amadorgov.org/about/e-notifications and choose “Health & Safety” notifications\r\n\r\n**Phone numbers**: If you don’t have access to the internet, you can call Amador Dept of Public Health (209) 223-6407\r\n\r\n**Additional Info**:",
     "Twitter Page": "https://twitter.com/amadorhlthdept",
     "Facebook Page": "https://www.facebook.com/AmadorPublicHealthDept",
     "Official volunteering opportunities": "https://californiavolunteers.ca.gov/",
@@ -219,7 +219,7 @@
     "Vaccine locations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Total reports": 10,
     "Yeses": 7,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recgAENHoupyViJxe",
@@ -375,14 +375,14 @@
   {
     "id": "recnWwqVyXQCTDOAJ",
     "County": "Colusa County",
-    "Notes": "(Updated: Apr 13) **Eligibility**: Vaccinating residents 18+\r\n\r\n**Appointment Information**: Information about how and where to schedule a vaccine appointment can be found here: https://www.countyofcolusa.org/771/COVID19",
+    "Notes": "(Updated: Apr 13) **Eligibility**: Vaccinating residents 18+ for clinics run by the County. DHHS (Department of Health and Human Services) does not currently have any allocated vaccine for those 16-17 years old. Those whishing the vaccine in this age group please follow up directly with your primary care physician.\r\n\r\n**Appointment Information**: Information about how and where to schedule a vaccine appointment can be found here: https://www.countyofcolusa.org/771/COVID19",
     "Twitter Page": "https://twitter.com/ColusaDHHS",
     "Facebook Page": "https://www.facebook.com/ColusaCountyPublicHealth/",
     "County vaccination reservations URL": "https://www.countyofcolusa.org/949/Vaccine",
     "Vaccine info URL": "https://www.countyofcolusa.org/771/COVID19",
     "Total reports": 8,
     "Yeses": 5,
-    "age_floor_without_restrictions": 18
+    "age_floor_without_restrictions": 16
   },
   {
     "id": "recAJsHK8yXnzdl6w",
