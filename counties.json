@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 941,
+    "Yeses": 937,
     "age_floor_without_restrictions": 16
   },
   {
@@ -280,7 +280,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 180,
-    "Yeses": 98,
+    "Yeses": 97,
     "age_floor_without_restrictions": 16
   },
   {
@@ -306,7 +306,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 126,
-    "Yeses": 80,
+    "Yeses": 79,
     "age_floor_without_restrictions": 16
   },
   {
@@ -421,7 +421,7 @@
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Total reports": 71,
-    "Yeses": 40,
+    "Yeses": 39,
     "age_floor_without_restrictions": 16
   },
   {
@@ -661,7 +661,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 233,
-    "Yeses": 133,
+    "Yeses": 132,
     "age_floor_without_restrictions": 16
   },
   {
