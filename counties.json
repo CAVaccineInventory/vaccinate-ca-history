@@ -23,7 +23,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 17,
-    "Yeses": 7,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
@@ -73,7 +73,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 96,
-    "Yeses": 61,
+    "Yeses": 60,
     "age_floor_without_restrictions": 16
   },
   {
@@ -177,8 +177,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2327,
-    "Yeses": 943,
+    "Total reports": 2328,
+    "Yeses": 944,
     "age_floor_without_restrictions": 16
   },
   {
@@ -191,7 +191,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 696,
-    "Yeses": 324,
+    "Yeses": 323,
     "age_floor_without_restrictions": 16
   },
   {
@@ -494,7 +494,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 50,
+    "Yeses": 49,
     "age_floor_without_restrictions": 16
   },
   {
