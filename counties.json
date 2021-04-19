@@ -177,8 +177,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2325,
-    "Yeses": 941,
+    "Total reports": 2326,
+    "Yeses": 942,
     "age_floor_without_restrictions": 16
   },
   {
@@ -241,8 +241,8 @@
     "County vaccination reservations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
-    "Total reports": 30,
-    "Yeses": 14,
+    "Total reports": 31,
+    "Yeses": 15,
     "age_floor_without_restrictions": 16
   },
   {
