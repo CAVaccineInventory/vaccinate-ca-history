@@ -494,7 +494,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 49,
+    "Yeses": 48,
     "age_floor_without_restrictions": 16
   },
   {
@@ -556,7 +556,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Total reports": 199,
-    "Yeses": 130,
+    "Yeses": 129,
     "age_floor_without_restrictions": 16
   },
   {
@@ -594,7 +594,7 @@
     "Vaccine info URL": "https://publichealth.co.modoc.ca.us/covid-19_information/covid-19_vaccine/index.php",
     "Vaccine locations URL": "http://partnershiphp.org/Community/Documents/Modoc/Modoc_COVID-19.pdf",
     "Total reports": 5,
-    "Yeses": 2,
+    "Yeses": 1,
     "age_floor_without_restrictions": 16
   },
   {
