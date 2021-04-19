@@ -178,7 +178,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2325,
-    "Yeses": 957,
+    "Yeses": 955,
     "age_floor_without_restrictions": 16
   },
   {
@@ -305,7 +305,7 @@
     "County vaccination reservations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Total reports": 125,
+    "Total reports": 126,
     "Yeses": 82,
     "age_floor_without_restrictions": 16
   },
