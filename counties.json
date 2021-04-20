@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 924,
+    "Yeses": 923,
     "age_floor_without_restrictions": 16
   },
   {
@@ -254,7 +254,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 75,
-    "Yeses": 55,
+    "Yeses": 54,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 250,
-    "Yeses": 148,
+    "Yeses": 147,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 524,
-    "Yeses": 323,
+    "Yeses": 322,
     "age_floor_without_restrictions": 16
   },
   {
@@ -645,8 +645,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 577,
-    "Yeses": 321,
+    "Total reports": 578,
+    "Yeses": 322,
     "age_floor_without_restrictions": 16
   },
   {
