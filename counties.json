@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 181,
-    "Yeses": 114,
+    "Yeses": 113,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 234,
-    "Yeses": 128,
+    "Yeses": 127,
     "age_floor_without_restrictions": 16
   },
   {
