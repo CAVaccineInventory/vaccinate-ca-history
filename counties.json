@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 920,
+    "Yeses": 919,
     "age_floor_without_restrictions": 16
   },
   {
@@ -595,7 +595,7 @@
     "County vaccination reservations URL": "https://www.covid19.dnco.org/vaccines",
     "Vaccine info URL": "https://www.covid19.dnco.org/vaccines",
     "Total reports": 10,
-    "Yeses": 7,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
