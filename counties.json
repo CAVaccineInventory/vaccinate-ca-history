@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 199,
-    "Yeses": 125,
+    "Yeses": 124,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 46,
+    "Yeses": 45,
     "age_floor_without_restrictions": 16
   },
   {
@@ -697,7 +697,7 @@
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
     "Total reports": 58,
-    "Yeses": 34,
+    "Yeses": 33,
     "age_floor_without_restrictions": 16
   },
   {
