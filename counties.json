@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 929,
+    "Yeses": 928,
     "age_floor_without_restrictions": 16
   },
   {
@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Total reports": 199,
-    "Yeses": 128,
+    "Yeses": 127,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 524,
-    "Yeses": 325,
+    "Yeses": 324,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 234,
-    "Yeses": 132,
+    "Yeses": 131,
     "age_floor_without_restrictions": 16
   },
   {
