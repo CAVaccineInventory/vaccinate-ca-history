@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 271,
-    "Yeses": 131,
+    "Yeses": 130,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 923,
+    "Yeses": 921,
     "age_floor_without_restrictions": 16
   },
   {
@@ -102,7 +102,7 @@
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Total reports": 25,
-    "Yeses": 17,
+    "Yeses": 16,
     "age_floor_without_restrictions": 16
   },
   {
@@ -179,7 +179,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 57,
+    "Yeses": 56,
     "age_floor_without_restrictions": 16
   },
   {
@@ -292,7 +292,7 @@
     "County vaccination reservations URL": "https://www.countyofglenn.net/news/press-release-public-health-public-information-public-notice/20210301/covid-19-vaccine-interest",
     "Vaccine info URL": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-vaccine-information",
     "Total reports": 10,
-    "Yeses": 5,
+    "Yeses": 4,
     "age_floor_without_restrictions": 16
   },
   {
@@ -554,8 +554,8 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 180,
-    "Yeses": 113,
+    "Total reports": 181,
+    "Yeses": 114,
     "age_floor_without_restrictions": 16
   },
   {
@@ -646,7 +646,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 578,
-    "Yeses": 322,
+    "Yeses": 321,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 424,
-    "Yeses": 256,
+    "Yeses": 255,
     "age_floor_without_restrictions": 16
   },
   {
@@ -683,7 +683,7 @@
     "County vaccination reservations URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Vaccine info URL": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/covid-19-vaccine-information",
     "Total reports": 37,
-    "Yeses": 27,
+    "Yeses": 26,
     "age_floor_without_restrictions": 16
   },
   {
@@ -696,8 +696,8 @@
     "County vaccination reservations URL": "https://vaccinatemercedcounty.com/registration/",
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
-    "Total reports": 57,
-    "Yeses": 33,
+    "Total reports": 58,
+    "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
   {
