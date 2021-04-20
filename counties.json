@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2330,
-    "Yeses": 930,
+    "Yeses": 929,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 250,
-    "Yeses": 183,
+    "Yeses": 182,
     "age_floor_without_restrictions": 16
   },
   {
@@ -607,8 +607,8 @@
     "County vaccination reservations URL": "https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Vaccine locations URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
-    "Total reports": 11,
-    "Yeses": 9,
+    "Total reports": 13,
+    "Yeses": 11,
     "age_floor_without_restrictions": 16
   },
   {
