@@ -10,7 +10,7 @@
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Total reports": 26,
-    "Yeses": 18,
+    "Yeses": 17,
     "age_floor_without_restrictions": 16
   },
   {
@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 271,
-    "Yeses": 129,
+    "Yeses": 128,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2332,
-    "Yeses": 915,
+    "Yeses": 914,
     "age_floor_without_restrictions": 16
   },
   {
@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 199,
-    "Yeses": 124,
+    "Yeses": 123,
     "age_floor_without_restrictions": 16
   },
   {
@@ -304,7 +304,7 @@
     "County vaccination reservations URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Total reports": 47,
-    "Yeses": 26,
+    "Yeses": 25,
     "age_floor_without_restrictions": 16
   },
   {
@@ -396,7 +396,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 117,
-    "Yeses": 65,
+    "Yeses": 64,
     "age_floor_without_restrictions": 16
   },
   {
@@ -456,7 +456,7 @@
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
     "Total reports": 44,
-    "Yeses": 25,
+    "Yeses": 24,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 101,
-    "Yeses": 49,
+    "Yeses": 47,
     "age_floor_without_restrictions": 16
   },
   {
