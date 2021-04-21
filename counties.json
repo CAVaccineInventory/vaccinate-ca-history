@@ -89,7 +89,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2331,
+    "Total reports": 2332,
     "Yeses": 916,
     "age_floor_without_restrictions": 16
   },
@@ -254,7 +254,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 75,
-    "Yeses": 52,
+    "Yeses": 50,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 234,
-    "Yeses": 128,
+    "Yeses": 127,
     "age_floor_without_restrictions": 16
   },
   {
