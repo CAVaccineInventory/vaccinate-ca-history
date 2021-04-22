@@ -217,8 +217,8 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 201,
-    "Yeses": 125,
+    "Total reports": 202,
+    "Yeses": 126,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 45,
+    "Yeses": 44,
     "age_floor_without_restrictions": 16
   },
   {
