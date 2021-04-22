@@ -9,8 +9,8 @@
     "County vaccination reservations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
-    "Total reports": 26,
-    "Yeses": 17,
+    "Total reports": 27,
+    "Yeses": 18,
     "age_floor_without_restrictions": 16
   },
   {
@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 271,
-    "Yeses": 128,
+    "Yeses": 127,
     "age_floor_without_restrictions": 16
   },
   {
@@ -179,7 +179,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 53,
+    "Yeses": 52,
     "age_floor_without_restrictions": 16
   },
   {
