@@ -443,8 +443,8 @@
     "County vaccination reservations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine info URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
-    "Total reports": 13,
-    "Yeses": 9,
+    "Total reports": 14,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 235,
-    "Yeses": 129,
+    "Yeses": 128,
     "age_floor_without_restrictions": 16
   },
   {
