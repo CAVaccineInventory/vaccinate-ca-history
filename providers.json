@@ -1,285 +1,345 @@
 [
   {
-    "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "id": "recRMqc5LyYA5khcy",
+    "Provider": "Safeway",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Many Safeway Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://mhealthappointments.com/",
+    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "reclvFVOFSJNaQCNK",
+    "Provider": "Raley's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Mar 6: To the best of our knowledge, no Raley's location in California is currently offering the COVID-19 vaccine",
+    "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
-    ],
-    "Provider": "Sam's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Sam's Club is now offering COVID-19 vaccines in California.  For more info, go to https://www.samsclub.com/pharmacy/immunization?imzType=covid\n",
-    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "id": "rec2G6j5wu5gri77g"
+    ]
   },
   {
+    "id": "phz",
+    "Provider": "Martin Luther King, Jr. Community Hospital",
+    "Provider network type": "Hospital",
+    "Vaccine locations URL": "https://www.mlkch.org/covid19",
+    "Phase": []
+  },
+  {
+    "id": "rec4OacL3zjqLaBqY",
+    "Provider": "Kaiser Permanente",
+    "Provider network type": "Health Plan",
+    "Public Notes": "(Last updated Apr 3)\r\n**Northern/Southern California:**\r\n- People 50 years and older are eligible for vaccine\r\n- Starting April 15 — people 16 years and older are eligible for vaccine\r\n- Appointment availability is dependent on supply — We’ve increased our capacity to deliver more vaccine doses at our own facilities as well as in multiple mass vaccination hubs across the state. Our ability to accommodate all who will now be eligible is dependent on our receiving enough vaccine supply. \r\n- Scheduling appointments — We aren’t able to preschedule appointments for newly eligible individuals in advance of April 15.\r\n- [More details here](https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information/covid-vaccine).",
+    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+"
-    ],
-    "Provider": "Kaiser Permanente",
-    "Provider network type": "Health Plan",
-    "Public Notes": "(Last updated Apr 3)\n**Northern/Southern California:**\n- People 50 years and older are eligible for vaccine\n- Starting April 15 — people 16 years and older are eligible for vaccine\n- Appointment availability is dependent on supply — We’ve increased our capacity to deliver more vaccine doses at our own facilities as well as in multiple mass vaccination hubs across the state. Our ability to accommodate all who will now be eligible is dependent on our receiving enough vaccine supply. \n- Scheduling appointments — We aren’t able to preschedule appointments for newly eligible individuals in advance of April 15.\n- [More details here](https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information/covid-vaccine).\n\n",
-    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
-    "id": "rec4OacL3zjqLaBqY"
+    ]
   },
   {
-    "Appointments URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ],
-    "Provider": "Sutter Health",
-    "Provider network type": "Hospital",
-    "Public Notes": "Apr 2 Sutter Health is currently administering vaccines based on government guidance. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine\n",
-    "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
-    "id": "rec5DV4DNGdWDMquu"
-  },
-  {
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ],
+    "id": "recB3eVZ3t6gTZg5n",
     "Provider": "Sav-on Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Sav-on Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "id": "recB3eVZ3t6gTZg5n"
-  },
-  {
-    "Appointments URL": "https://walmart.com/covidvaccine",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ],
-    "Provider": "Walmart",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walmart is now offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine\n",
-    "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
-    "id": "recHdfz54RnV9NckR"
-  },
-  {
+    "Public Notes": "Apr 2: Many Sav-on Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
     "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "Last Updated": "2021-03-06",
     "Phase": [
-      "Vaccinating 65+",
-      "Vaccinating health care workers"
-    ],
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recImxzlTSTVz7meQ",
     "Provider": "Albertson's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>\n",
+    "Public Notes": "Apr 2: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "id": "recImxzlTSTVz7meQ"
-  },
-  {
-    "Appointments URL": "https://www.ucsfhealth.org/vaccination",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 65+"
-    ],
-    "Provider": "UCSF",
-    "Provider network type": "Hospital",
-    "Public Notes": "Apr 2: UCSF is currently vaccinating:\n- Adults age 50 and over, or age 16-64 with co-morbidities\n- Workers in education, formal or informal childcare, libraries, foster care or children’s residential care facilities\n- Workers in food & agriculture, transportation, utilities or disaster services\n- Documented direct caregivers\n- Individuals who are unhoused or live in a high-risk congregate setting\n- Second doses for those who received their first dose at a UCSF vaccination site\n\nFurther information and appointment booking instructions for eligible patients can be found online at: <https://coronavirus.ucsf.edu/vaccines>\n\n",
-    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
-    "id": "recJzaX5zclC6pwTl"
+    ]
   },
   {
+    "id": "pkz",
+    "Provider": "St. John's Well Child & Family Center",
+    "Provider network type": "Hospital",
+    "Vaccine info URL": "https://www.wellchild.org/covid-19-updates/",
+    "Vaccine locations URL": "https://www.wellchild.org/find-a-clinic/",
+    "Last Updated": "2021-04-20",
+    "Phase": []
+  },
+  {
+    "id": "recL6J9nNdt52LGBv",
+    "Provider": "The Medicine Shoppe",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Several Medicine Shoppe locations are vaccinating.",
+    "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
+    "Last Updated": "2021-03-06",
+    "Phase": []
+  },
+  {
+    "id": "rec5DV4DNGdWDMquu",
+    "Provider": "Sutter Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 2 Sutter Health is currently administering vaccines based on government guidance. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
+    "Appointments URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
+    "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
     "Last Updated": "2021-03-06",
     "Phase": [
-      "Vaccinating 65+",
-      "Vaccinating health care workers"
-    ],
-    "Provider": "Walgreens",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19\n",
-    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
-    "id": "recKMdplNPLCwFMua"
+      "Vaccinating 65+"
+    ]
   },
   {
+    "id": "recKNEDBUWM1IXwF9",
+    "Provider": "Save Mart Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Some locations are offering COVID-19 Vaccines. Find more details online at <https://www.savemart.com/covid-19-vaccine>",
     "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/patient/advisory",
+    "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
-    ],
-    "Provider": "Save Mart Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Some locations are offering COVID-19 Vaccines. Find more details online at <https://www.savemart.com/covid-19-vaccine>\n\n",
-    "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
-    "id": "recKNEDBUWM1IXwF9"
+    ]
   },
   {
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      ""
-    ],
-    "Provider": "The Medicine Shoppe",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Several Medicine Shoppe locations are vaccinating.\n",
-    "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
-    "id": "recL6J9nNdt52LGBv"
-  },
-  {
+    "id": "recMuxZ6lf0M4wzI2",
+    "Provider": "El Camino Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 2: El Camino Health is currently vaccinating eligible individuals based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
     "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
+    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+",
       "Vaccinating 65+"
-    ],
-    "Provider": "El Camino Health",
+    ]
+  },
+  {
+    "id": "pmb",
+    "Provider": "SF Health Network",
+    "Provider network type": "Health Plan",
+    "Public Notes": "San Francisco Health Network (SFHN) is the public healthcare system for the City and County of San Francisco.",
+    "Vaccine info URL": "https://sfhealthnetwork.org/covid-19-vaccine/",
+    "Vaccine locations URL": "https://sfhealthnetwork.org/covid-19-vaccine/",
+    "Last Updated": "2021-04-21",
+    "Phase": []
+  },
+  {
+    "id": "pmc",
+    "Provider": "East Valley Community Health Center",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 2: El Camino Health is currently vaccinating eligible individuals based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine\n",
-    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
-    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
-    "id": "recMuxZ6lf0M4wzI2"
+    "Vaccine info URL": "https://www.evchc.org/covid-19",
+    "Vaccine locations URL": "https://www.evchc.org/covid19vaccine",
+    "Last Updated": "2021-04-22",
+    "Phase": []
   },
   {
-    "Appointments URL": "https://www.ralphs.com/rx/guest/get-vaccinated",
+    "id": "recpmxzduDvlnP9qD",
+    "Provider": "John Muir Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "Mar 30: John Muir Health is offering vaccinations to current patients who meet state and county guidelines.  Those in one of the eligible categories, depending on the information in your medical record, we will be contacted via MyChart message, email, text message or phone call.  More info can be found at https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program",
+    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
     "Last Updated": "2021-03-06",
     "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ],
-    "Provider": "Ralph's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Limited quantities available at select locations\nCurrent eligibility varies by county; learn more [here](https://covid19.ca.gov/get-local-information/). _Note:_ _Residents must reside in the county they are receiving vaccines, per local public health regulations_\n[Check appointment availability](https://www.ralphs.com/rx/covid-eligibility)\n_Note: Patients who received their first dose of COVID vaccine from Ralphs will be assigned a second dose appointment._\n\n",
-    "Vaccine info URL": "https://www.ralphs.com/i/coronavirus-update/vaccine",
-    "id": "recN5zutK3efQf1f9"
+      "Vaccinating 75+"
+    ]
   },
   {
-    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+",
-      "Vaccinating health care workers"
-    ],
-    "Provider": "Rite-Aid Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california\n",
-    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
-    "id": "recPPKwiDAPGruO9u"
-  },
-  {
-    "Appointments URL": "https://mhealthappointments.com/",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ],
-    "Provider": "Safeway",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Safeway Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html> \n",
-    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "id": "recRMqc5LyYA5khcy"
-  },
-  {
-    "Appointments URL": "https://mhealthappointments.com/",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ],
-    "Provider": "Von's",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\n\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>\n\n",
-    "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
-    "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
-    "id": "recSnMrHoR5f4eSfE"
-  },
-  {
+    "id": "recaEHL19VRr2MaT1",
+    "Provider": "Blue Cross Blue Shield of CA",
+    "Provider network type": "Health Plan",
+    "Public Notes": "Apr 2: Blue Cross recommends that their members consult this list of vaccination clinic options: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/sites\\_content\\_en/coronavirus/vaccine-locations",
     "Appointments URL": "https://myturn.ca.gov/",
+    "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Unknown"
-    ],
-    "Provider": "Blue Cross Blue Shield of CA",
-    "Provider network type": "Health Plan",
-    "Public Notes": "Apr 2: Blue Cross recommends that their members consult this list of vaccination clinic options: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/sites\\_content\\_en/coronavirus/vaccine-locations\n",
-    "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
-    "id": "recaEHL19VRr2MaT1"
+    ]
   },
   {
-    "Appointments URL": "https://myhealth.stanfordhealthcare.org/#/appointments/apptmake",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ],
-    "Provider": "Stanford Health Care",
+    "id": "phy",
+    "Provider": "Cottage Health Urgent Care",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 1: Currently vaccinating:\n- Health care workers\n- Patients who are aged 50 or older\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\n- Individuals who work or reside in high-risk congregate settings\n- Persons experiencing homelessness who may move to congregate settings at short notice\n- Emergency services workers\n- Food or agriculture workers\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\n- Public transit, airports, and commercial airlines workers\n\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?\n",
-    "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
-    "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
-    "id": "recde0nSOAhIbnOwn"
+    "Public Notes": "Cottage Health is offering COVID-19 vaccine at multiple locations based on available vaccine supply. \r\nAppointments are required. Everyone age 16+ is now eligible to receive vaccine. Minors age 16 or 17 may receive only Pfizer vaccine and must be accompanied by a parent/guardian.",
+    "Appointments URL": "https://myturn.ca.gov/",
+    "Vaccine info URL": "https://www.cottagehealth.org/coronavirus-covid-19/",
+    "Last Updated": "2021-04-17",
+    "Phase": []
   },
   {
+    "id": "reckyDfrqjTM27CgO",
+    "Provider": "One Medical",
+    "Provider network type": "Other",
+    "Public Notes": "Mar 30: _One Medical anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use_ _[MyTurn](http://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere._ Updates can be found online at https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
+    "Vaccine info URL": "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+",
       "Vaccinating 65+"
-    ],
-    "Provider": "One Medical",
-    "Provider network type": "Other",
-    "Public Notes": "Mar 30: _One Medical anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use_ _[MyTurn](http://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere._ Updates can be found online at https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area\n",
-    "Vaccine info URL": "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
-    "id": "reckyDfrqjTM27CgO"
+    ]
   },
   {
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ],
-    "Provider": "Raley's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: To the best of our knowledge, no Raley's location in California is currently offering the COVID-19 vaccine\n",
-    "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
-    "id": "reclvFVOFSJNaQCNK"
-  },
-  {
-    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ],
-    "Provider": "CVS",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine\n",
-    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "id": "recnnxsQHkx4l7V80"
-  },
-  {
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 75+"
-    ],
-    "Provider": "John Muir Health",
+    "id": "pkc",
+    "Provider": "Center for Family Health and Education",
     "Provider network type": "Hospital",
-    "Public Notes": "Mar 30: John Muir Health is offering vaccinations to current patients who meet state and county guidelines.  Those in one of the eligible categories, depending on the information in your medical record, we will be contacted via MyChart message, email, text message or phone call.  More info can be found at https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program\n",
-    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
-    "id": "recpmxzduDvlnP9qD"
+    "Vaccine info URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
+    "Vaccine locations URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
+    "Last Updated": "2021-04-18",
+    "Phase": []
   },
   {
-    "Appointments URL": "https://www.costco.com/covid-vaccine.html",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ],
+    "id": "recsiKWQK5zbpqUj5",
     "Provider": "Costco Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Costco is currently offering COVID-19 vaccines at multiple locations; eligibility is based on county guidelines. Updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html\n",
+    "Public Notes": "Apr 2: Costco is currently offering COVID-19 vaccines at multiple locations; eligibility is based on county guidelines. Updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html",
+    "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
-    "id": "recsiKWQK5zbpqUj5"
-  },
-  {
-    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Not currently vaccinating"
-    ],
+    ]
+  },
+  {
+    "id": "recyq0ZnLhX26FHmr",
     "Provider": "Lucky Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>\n\n",
+    "Public Notes": "Apr 2: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>",
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
     "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
-    "id": "recyq0ZnLhX26FHmr"
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "pkk",
+    "Provider": "Providence",
+    "Provider network type": "Hospital",
+    "Vaccine info URL": "https://coronavirus.providence.org/covid-vaccine",
+    "Last Updated": "2021-04-19",
+    "Phase": []
+  },
+  {
+    "id": "recSnMrHoR5f4eSfE",
+    "Provider": "Von's",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://mhealthappointments.com/",
+    "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
+    "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recPPKwiDAPGruO9u",
+    "Provider": "Rite-Aid Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california",
+    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
+    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recJzaX5zclC6pwTl",
+    "Provider": "UCSF",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 2: UCSF is currently vaccinating:\r\n- Adults age 50 and over, or age 16-64 with co-morbidities\r\n- Workers in education, formal or informal childcare, libraries, foster care or children’s residential care facilities\r\n- Workers in food & agriculture, transportation, utilities or disaster services\r\n- Documented direct caregivers\r\n- Individuals who are unhoused or live in a high-risk congregate setting\r\n- Second doses for those who received their first dose at a UCSF vaccination site\r\n\r\nFurther information and appointment booking instructions for eligible patients can be found online at: <https://coronavirus.ucsf.edu/vaccines>",
+    "Appointments URL": "https://www.ucsfhealth.org/vaccination",
+    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recKMdplNPLCwFMua",
+    "Provider": "Walgreens",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recHdfz54RnV9NckR",
+    "Provider": "Walmart",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Walmart is now offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine",
+    "Appointments URL": "https://walmart.com/covidvaccine",
+    "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "rec2G6j5wu5gri77g",
+    "Provider": "Sam's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Sam's Club is now offering COVID-19 vaccines in California.  For more info, go to https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recde0nSOAhIbnOwn",
+    "Provider": "Stanford Health Care",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 1: Currently vaccinating:\r\n- Health care workers\r\n- Patients who are aged 50 or older\r\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\r\n- Individuals who work or reside in high-risk congregate settings\r\n- Persons experiencing homelessness who may move to congregate settings at short notice\r\n- Emergency services workers\r\n- Food or agriculture workers\r\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\r\n- Public transit, airports, and commercial airlines workers\r\n\r\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?",
+    "Appointments URL": "https://myhealth.stanfordhealthcare.org/#/appointments/apptmake",
+    "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
+    "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recN5zutK3efQf1f9",
+    "Provider": "Ralph's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Limited quantities available at select locations\r\nCurrent eligibility varies by county; learn more [here](https://covid19.ca.gov/get-local-information/). _Note:_ _Residents must reside in the county they are receiving vaccines, per local public health regulations_\r\n[Check appointment availability](https://www.ralphs.com/rx/covid-eligibility)\r\n_Note: Patients who received their first dose of COVID vaccine from Ralphs will be assigned a second dose appointment._",
+    "Appointments URL": "https://www.ralphs.com/rx/guest/get-vaccinated",
+    "Vaccine info URL": "https://www.ralphs.com/i/coronavirus-update/vaccine",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recnnxsQHkx4l7V80",
+    "Provider": "CVS",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
+    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
   }
 ]
