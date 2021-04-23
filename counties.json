@@ -280,7 +280,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 17,
-    "Yeses": 7,
+    "Yeses": 8,
     "age_floor_without_restrictions": 16
   },
   {
@@ -342,8 +342,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 56,
-    "Yeses": 34,
+    "Total reports": 57,
+    "Yeses": 35,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 180,
-    "Yeses": 93,
+    "Yeses": 94,
     "age_floor_without_restrictions": 16
   },
   {
