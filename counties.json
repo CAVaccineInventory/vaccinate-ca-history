@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 271,
-    "Yeses": 124,
+    "Yeses": 126,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2340,
-    "Yeses": 925,
+    "Yeses": 926,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 180,
-    "Yeses": 94,
+    "Yeses": 93,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 43,
+    "Yeses": 45,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 431,
-    "Yeses": 263,
+    "Yeses": 264,
     "age_floor_without_restrictions": 16
   },
   {
