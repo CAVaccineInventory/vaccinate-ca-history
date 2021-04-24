@@ -269,6 +269,14 @@
     ]
   },
   {
+    "id": "pmd",
+    "Provider": "Eastern Los Angeles Regional Center",
+    "Provider network type": "Other",
+    "Vaccine locations URL": "https://www.elarc.org/Home/Components/News/News/3513/17",
+    "Last Updated": "2021-04-23",
+    "Phase": []
+  },
+  {
     "id": "recKMdplNPLCwFMua",
     "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
