@@ -112,11 +112,11 @@
     "id": "recMuxZ6lf0M4wzI2",
     "Provider": "El Camino Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 2: El Camino Health is currently vaccinating eligible individuals based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Details and a screener are available online at https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Public Notes": "Apr 24: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Appointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
     "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
     "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
     "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-24",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+",
@@ -141,17 +141,6 @@
     "Vaccine locations URL": "https://www.evchc.org/covid19vaccine",
     "Last Updated": "2021-04-22",
     "Phase": []
-  },
-  {
-    "id": "recpmxzduDvlnP9qD",
-    "Provider": "John Muir Health",
-    "Provider network type": "Hospital",
-    "Public Notes": "Mar 30: John Muir Health is offering vaccinations to current patients who meet state and county guidelines.  Those in one of the eligible categories, depending on the information in your medical record, we will be contacted via MyChart message, email, text message or phone call.  More info can be found at https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program",
-    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html?x-cq-linkchecker=skip",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 75+"
-    ]
   },
   {
     "id": "recaEHL19VRr2MaT1",
@@ -196,6 +185,17 @@
     "Vaccine locations URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
     "Last Updated": "2021-04-18",
     "Phase": []
+  },
+  {
+    "id": "recpmxzduDvlnP9qD",
+    "Provider": "John Muir Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 24: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart message, email, text message or phone call when appointments become available based on supply from Contra Costa County. For more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
+    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
+    "Last Updated": "2021-04-24",
+    "Phase": [
+      "Vaccinating 75+"
+    ]
   },
   {
     "id": "recsiKWQK5zbpqUj5",
