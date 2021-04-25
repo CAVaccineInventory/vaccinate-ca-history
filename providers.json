@@ -88,10 +88,10 @@
     "id": "rec5DV4DNGdWDMquu",
     "Provider": "Sutter Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 2 Sutter Health is currently administering vaccines based on government guidance. More details are available online https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
+    "Public Notes": "Apr 24: Sutter Health is offering vaccines to patients 16+ based on state guidance. Appointments can be scheduled through My Health Online or by calling (844) 987-6115. More details are available online at https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine\r\n\r\nFor vaccine appointments at Memorial Hospital Los Banos, call (209) 710-6333, or at Sutter Lakeside Hospital, call (707) 262-5088.\r\n\r\nIndividuals 16-17 can receive the Pfizer vaccine if accompanied by a parent or guardian or with a signed consent form found here: https://www.sutterhealth.org/pdf/for-patients/minor-patient-consent-covid-19-vaccine.pdf",
     "Appointments URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
     "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-24",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -112,7 +112,7 @@
     "id": "recMuxZ6lf0M4wzI2",
     "Provider": "El Camino Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 24: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). Appointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Public Notes": "Apr 24: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). \r\n\r\nAppointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
     "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
     "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
     "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
@@ -190,7 +190,7 @@
     "id": "recpmxzduDvlnP9qD",
     "Provider": "John Muir Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 24: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart message, email, text message or phone call when appointments become available based on supply from Contra Costa County. For more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
+    "Public Notes": "Apr 24: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart message, email, text message or phone call when appointments become available based on supply from Contra Costa County. \r\n\r\nFor more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
     "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
     "Last Updated": "2021-04-24",
     "Phase": [
@@ -256,19 +256,6 @@
     ]
   },
   {
-    "id": "recJzaX5zclC6pwTl",
-    "Provider": "UCSF",
-    "Provider network type": "Hospital",
-    "Public Notes": "Apr 2: UCSF is currently vaccinating:\r\n- Adults age 50 and over, or age 16-64 with co-morbidities\r\n- Workers in education, formal or informal childcare, libraries, foster care or children’s residential care facilities\r\n- Workers in food & agriculture, transportation, utilities or disaster services\r\n- Documented direct caregivers\r\n- Individuals who are unhoused or live in a high-risk congregate setting\r\n- Second doses for those who received their first dose at a UCSF vaccination site\r\n\r\nFurther information and appointment booking instructions for eligible patients can be found online at: <https://coronavirus.ucsf.edu/vaccines>",
-    "Appointments URL": "https://www.ucsfhealth.org/vaccination",
-    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "pmd",
     "Provider": "Eastern Los Angeles Regional Center",
     "Provider network type": "Other",
@@ -289,6 +276,19 @@
     ]
   },
   {
+    "id": "recJzaX5zclC6pwTl",
+    "Provider": "UCSF",
+    "Provider network type": "Hospital",
+    "Public Notes": "Apr 24: UCSF is offering vaccines to anyone 16+. Appointments at the William J. Rutter Center can be scheduled via UCSF directly using MyChart or through MyTurn at https://myturn.ca.gov. Vaccines are no longer being offered at the UCSF Parnassus Heights campus. \r\n\r\nMore information can be found online at https://coronavirus.ucsf.edu/vaccines",
+    "Appointments URL": "https://www.ucsfhealth.org/covid/vaccine",
+    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
+    "Last Updated": "2021-04-24",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
     "id": "recHdfz54RnV9NckR",
     "Provider": "Walmart",
     "Provider network type": "Pharmacy",
@@ -299,6 +299,14 @@
     "Phase": [
       "Not currently vaccinating"
     ]
+  },
+  {
+    "id": "pmf",
+    "Provider": "Mercy Pharmacy Group",
+    "Provider network type": "Pharmacy",
+    "Vaccine locations URL": "https://www.socalcovidvaccine.com/",
+    "Last Updated": "2021-04-24",
+    "Phase": []
   },
   {
     "id": "rec2G6j5wu5gri77g",
@@ -316,11 +324,11 @@
     "id": "recde0nSOAhIbnOwn",
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 1: Currently vaccinating:\r\n- Health care workers\r\n- Patients who are aged 50 or older\r\n- Individuals who are aged 18-64 with [severe health conditions](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Provider-Bulletin-2-12-21.aspx)\r\n- Individuals who work or reside in high-risk congregate settings\r\n- Persons experiencing homelessness who may move to congregate settings at short notice\r\n- Emergency services workers\r\n- Food or agriculture workers\r\n- Education or childcare workers (includes staff and any other workers involved in child and/or student care)\r\n- Public transit, airports, and commercial airlines workers\r\n\r\nAppointments can be booked online or by phone. Details are available at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?",
+    "Public Notes": "Apr 24: Stanford Health Care is offering vaccines to all Californians 16+. Individuals 18+ can schedule an appointment online through MyHealth or by calling (650) 498-9000. Individuals 16-17 can schedule through Stanford Children’s Health here: https://www.stanfordchildrens.org/en/landing/covid-vaccine. \r\n\r\nMore information can be found at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html",
     "Appointments URL": "https://myhealth.stanfordhealthcare.org/#/appointments/apptmake",
-    "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates",
+    "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html",
     "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-24",
     "Phase": [
       "Vaccinating 65+"
     ]
