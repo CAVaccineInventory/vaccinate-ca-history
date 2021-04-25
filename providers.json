@@ -309,6 +309,14 @@
     "Phase": []
   },
   {
+    "id": "pmg",
+    "Provider": "Herald Christian Health Center",
+    "Provider network type": "Hospital",
+    "Vaccine info URL": "http://hchcla.org/vaccination-info/",
+    "Last Updated": "2021-04-24",
+    "Phase": []
+  },
+  {
     "id": "rec2G6j5wu5gri77g",
     "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
