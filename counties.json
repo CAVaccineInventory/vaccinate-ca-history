@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2376,
-    "Yeses": 1048,
+    "Total reports": 2378,
+    "Yeses": 1054,
     "age_floor_without_restrictions": 16
   },
   {
@@ -179,7 +179,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 53,
+    "Yeses": 54,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 435,
-    "Yeses": 278,
+    "Yeses": 281,
     "age_floor_without_restrictions": 16
   },
   {
