@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2371,
-    "Yeses": 1039,
+    "Total reports": 2374,
+    "Yeses": 1042,
     "age_floor_without_restrictions": 16
   },
   {
@@ -266,8 +266,8 @@
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Vaccine info URL": "https://www.yuba.org/coronavirus/vaccines.php",
     "Vaccine locations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
-    "Total reports": 14,
-    "Yeses": 10,
+    "Total reports": 15,
+    "Yeses": 11,
     "age_floor_without_restrictions": 16
   },
   {
@@ -329,8 +329,8 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 710,
-    "Yeses": 348,
+    "Total reports": 711,
+    "Yeses": 349,
     "age_floor_without_restrictions": 16
   },
   {
@@ -672,8 +672,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 433,
-    "Yeses": 273,
+    "Total reports": 434,
+    "Yeses": 274,
     "age_floor_without_restrictions": 16
   },
   {
