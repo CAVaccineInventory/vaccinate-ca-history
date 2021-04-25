@@ -54,19 +54,6 @@
     ]
   },
   {
-    "id": "recImxzlTSTVz7meQ",
-    "Provider": "Albertson's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Albertsons  Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "pkz",
     "Provider": "St. John's Well Child & Family Center",
     "Provider network type": "Hospital",
@@ -198,18 +185,6 @@
     ]
   },
   {
-    "id": "recsiKWQK5zbpqUj5",
-    "Provider": "Costco Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Costco is currently offering COVID-19 vaccines at multiple locations; eligibility is based on county guidelines. Updates about Costco's vaccination program online https://www.costco.com/covid-vaccine.html",
-    "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
-    "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
     "id": "recyq0ZnLhX26FHmr",
     "Provider": "Lucky Pharmacy",
     "Provider network type": "Pharmacy",
@@ -228,6 +203,18 @@
     "Vaccine info URL": "https://coronavirus.providence.org/covid-vaccine",
     "Last Updated": "2021-04-19",
     "Phase": []
+  },
+  {
+    "id": "recsiKWQK5zbpqUj5",
+    "Provider": "Costco Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 25: Costco is currently offering vaccines at its US locations based on state guidelines. All individuals age 16+ are eligible in the US, with only the Pfizer vaccine authorized for individuals age 16-17. Schedule an appointment by clicking here: https://book-costcopharmacy.appointment-plus.com/d133yng2/#/\r\n\r\nMore information about appointments can be found at https://www.costco.com/covid-vaccine.html",
+    "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
+    "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
+    "Last Updated": "2021-04-25",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
   },
   {
     "id": "recSnMrHoR5f4eSfE",
@@ -329,6 +316,31 @@
     ]
   },
   {
+    "id": "recImxzlTSTVz7meQ",
+    "Provider": "Albertson's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 25: Albertsons is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nMore information can be found at https://www.albertsons.com/pharmacy/covid-19.html",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-04-25",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recnnxsQHkx4l7V80",
+    "Provider": "CVS",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 25: CVS is offering vaccines in select stores according to state guidelines (individuals 16+ at California locations). Check for availability in your area and schedule an appointment at https://www.cvs.com/immunizations/covid-19-vaccine. Appointments are currently unavailable in New Hampshire.",
+    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
+    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Last Updated": "2021-04-25",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
     "id": "recde0nSOAhIbnOwn",
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
@@ -352,18 +364,6 @@
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 65+"
-    ]
-  },
-  {
-    "id": "recnnxsQHkx4l7V80",
-    "Provider": "CVS",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: CVS appointments can be made online at https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
-    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
     ]
   }
 ]
