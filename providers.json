@@ -364,6 +364,14 @@
     ]
   },
   {
+    "id": "pmk",
+    "Provider": "San Ysidro Health",
+    "Provider network type": "Hospital",
+    "Appointments URL": "https://pss.medfusion.net/?bookmarkurl=eyJ0eXBlIjoibG9naW5sZXNzIiwibGlua0d1aWQiOiJhMzMyMGU5Ni00NTdkLTQ1MTEtODE1Yi1mYTYzYjhhOWYzYWEifQ==#/",
+    "Last Updated": "2021-04-25",
+    "Phase": []
+  },
+  {
     "id": "recN5zutK3efQf1f9",
     "Provider": "Ralph's Pharmacy",
     "Provider network type": "Pharmacy",
