@@ -116,7 +116,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 130,
-    "Yeses": 87,
+    "Yeses": 90,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Vaccine locations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Total reports": 10,
-    "Yeses": 7,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 526,
-    "Yeses": 332,
+    "Yeses": 333,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 251,
-    "Yeses": 188,
+    "Yeses": 189,
     "age_floor_without_restrictions": 16
   },
   {
@@ -672,8 +672,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 437,
-    "Yeses": 284,
+    "Total reports": 439,
+    "Yeses": 285,
     "age_floor_without_restrictions": 16
   },
   {
