@@ -36,7 +36,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 96,
-    "Yeses": 59,
+    "Yeses": 60,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2379,
-    "Yeses": 1069,
+    "Yeses": 1071,
     "age_floor_without_restrictions": 16
   },
   {
@@ -141,7 +141,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 213,
-    "Yeses": 149,
+    "Yeses": 150,
     "age_floor_without_restrictions": 16
   },
   {
@@ -646,7 +646,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 588,
-    "Yeses": 355,
+    "Yeses": 356,
     "age_floor_without_restrictions": 16
   },
   {
