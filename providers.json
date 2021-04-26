@@ -15,9 +15,9 @@
     "id": "reclvFVOFSJNaQCNK",
     "Provider": "Raley's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Mar 6: To the best of our knowledge, no Raley's location in California is currently offering the COVID-19 vaccine",
+    "Public Notes": "Apr 25: Raley's is not currently offering vaccines at any California locations, according to its last update on Feb 22. Select locations in Nevada are offering the vaccine to qualified residents.\r\n\r\nVisit this link for more information: https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
     "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-25",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -185,18 +185,6 @@
     ]
   },
   {
-    "id": "recyq0ZnLhX26FHmr",
-    "Provider": "Lucky Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: COVID-19 vaccines are available at some Lucky Pharmacies across California. You can find county-specific information online at  <https://www.luckysupermarkets.com/keeping-you-safe>",
-    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
-    "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
     "id": "pkk",
     "Provider": "Providence",
     "Provider network type": "Hospital",
@@ -211,6 +199,18 @@
     "Public Notes": "Apr 25: Costco is currently offering vaccines at its US locations based on state guidelines. All individuals age 16+ are eligible in the US, with only the Pfizer vaccine authorized for individuals age 16-17. Schedule an appointment by clicking here: https://book-costcopharmacy.appointment-plus.com/d133yng2/#/\r\n\r\nMore information about appointments can be found at https://www.costco.com/covid-vaccine.html",
     "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
+    "Last Updated": "2021-04-25",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recyq0ZnLhX26FHmr",
+    "Provider": "Lucky Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 25: Lucky is currently offering vaccines at select pharmacies according to county guidelines, most of which limit appointments to those who live or work within the county. Schedule an appointment here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory\r\n\r\nMore information can be found at https://www.luckysupermarkets.com/keeping-you-safe",
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
+    "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
     "Last Updated": "2021-04-25",
     "Phase": [
       "Not currently vaccinating"
