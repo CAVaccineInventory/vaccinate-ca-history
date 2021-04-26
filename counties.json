@@ -76,7 +76,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 51,
-    "Yeses": 27,
+    "Yeses": 26,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2379,
-    "Yeses": 1062,
+    "Yeses": 1064,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 711,
-    "Yeses": 353,
+    "Yeses": 354,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 251,
-    "Yeses": 190,
+    "Yeses": 191,
     "age_floor_without_restrictions": 16
   },
   {
@@ -645,8 +645,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 587,
-    "Yeses": 353,
+    "Total reports": 588,
+    "Yeses": 354,
     "age_floor_without_restrictions": 16
   },
   {
@@ -659,7 +659,7 @@
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
     "Total reports": 50,
-    "Yeses": 34,
+    "Yeses": 35,
     "age_floor_without_restrictions": 16
   },
   {
@@ -722,7 +722,7 @@
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Total reports": 101,
+    "Total reports": 102,
     "Yeses": 49,
     "age_floor_without_restrictions": 16
   },
