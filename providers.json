@@ -341,6 +341,16 @@
     ]
   },
   {
+    "id": "pmh",
+    "Provider": "Sharp",
+    "Provider network type": "Hospital",
+    "Appointments URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
+    "Vaccine info URL": "https://www.sharp.com/coronavirus/vaccines.cfm",
+    "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
+    "Last Updated": "2021-04-25",
+    "Phase": []
+  },
+  {
     "id": "recde0nSOAhIbnOwn",
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
