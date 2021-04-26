@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2379,
-    "Yeses": 1058,
+    "Yeses": 1062,
     "age_floor_without_restrictions": 16
   },
   {
@@ -179,7 +179,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 54,
+    "Yeses": 55,
     "age_floor_without_restrictions": 16
   },
   {
@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 205,
-    "Yeses": 138,
+    "Yeses": 139,
     "age_floor_without_restrictions": 16
   },
   {
@@ -280,7 +280,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 17,
-    "Yeses": 8,
+    "Yeses": 9,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 711,
-    "Yeses": 350,
+    "Yeses": 353,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 251,
-    "Yeses": 157,
+    "Yeses": 159,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 181,
-    "Yeses": 117,
+    "Yeses": 118,
     "age_floor_without_restrictions": 16
   },
   {
@@ -619,7 +619,7 @@
     "County vaccination reservations URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Total reports": 20,
-    "Yeses": 8,
+    "Yeses": 9,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 439,
-    "Yeses": 285,
+    "Yeses": 286,
     "age_floor_without_restrictions": 16
   },
   {
