@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2379,
-    "Yeses": 1116,
+    "Yeses": 1117,
     "age_floor_without_restrictions": 16
   },
   {
@@ -343,7 +343,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 60,
-    "Yeses": 41,
+    "Yeses": 42,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 181,
-    "Yeses": 124,
+    "Yeses": 125,
     "age_floor_without_restrictions": 16
   },
   {
@@ -645,8 +645,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 590,
-    "Yeses": 372,
+    "Total reports": 592,
+    "Yeses": 374,
     "age_floor_without_restrictions": 16
   },
   {
