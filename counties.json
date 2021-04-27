@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2379,
-    "Yeses": 1118,
+    "Total reports": 2380,
+    "Yeses": 1121,
     "age_floor_without_restrictions": 16
   },
   {
@@ -468,8 +468,8 @@
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Total reports": 542,
-    "Yeses": 363,
+    "Total reports": 543,
+    "Yeses": 364,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 237,
-    "Yeses": 148,
+    "Yeses": 149,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 102,
-    "Yeses": 53,
+    "Yeses": 54,
     "age_floor_without_restrictions": 16
   },
   {
