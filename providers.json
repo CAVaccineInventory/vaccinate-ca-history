@@ -329,6 +329,14 @@
     ]
   },
   {
+    "id": "pmq",
+    "Provider": "Chinese Hospital",
+    "Provider network type": "Hospital",
+    "Appointments URL": "https://chinesehospital.iqhealth.com/appointments/search/flex-new",
+    "Vaccine info URL": "https://www.chinesehospital-sf.org/covid19-resources",
+    "Phase": []
+  },
+  {
     "id": "recnnxsQHkx4l7V80",
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
