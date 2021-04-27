@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2380,
-    "Yeses": 1141,
+    "Yeses": 1140,
     "age_floor_without_restrictions": 16
   },
   {
@@ -217,8 +217,8 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 205,
-    "Yeses": 145,
+    "Total reports": 206,
+    "Yeses": 146,
     "age_floor_without_restrictions": 16
   },
   {
@@ -329,8 +329,8 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 712,
-    "Yeses": 387,
+    "Total reports": 713,
+    "Yeses": 388,
     "age_floor_without_restrictions": 16
   },
   {
