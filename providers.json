@@ -3,10 +3,10 @@
     "id": "recRMqc5LyYA5khcy",
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Safeway Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://mhealthappointments.com/",
+    "Public Notes": "Apr 27: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-27",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -15,9 +15,9 @@
     "id": "reclvFVOFSJNaQCNK",
     "Provider": "Raley's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 25: Raley's is not currently offering vaccines at any California locations, according to its last update on Feb 22. Select locations in Nevada are offering the vaccine to qualified residents.\r\n\r\nVisit this link for more information: https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
+    "Public Notes": "Apr 27: Raley's is not currently offering vaccines at any California locations, according to its last update on Feb 22.\r\n\r\nVisit this link for more information: https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
     "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
-    "Last Updated": "2021-04-25",
+    "Last Updated": "2021-04-27",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -50,6 +50,19 @@
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "Last Updated": "2021-03-06",
     "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recPPKwiDAPGruO9u",
+    "Provider": "Rite-Aid Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 27: Rite Aid is offering vaccines to all individuals 18+ in the states and jurisdictions that they service, based on the regional guidelines. If you are 18+, please schedule an appointment online here: https://www.riteaid.com/pharmacy/covid-qualifier. Individuals 16-17 are eligible to schedule an appointment for the Pfizer vaccine by calling select local stores listed here: https://www.riteaid.com/covid-19/scheduling-a-covid-19-vaccine-for-a-16-or-17-year-old\r\n\r\nFor more information, visit https://www.riteaid.com/Covid-19",
+    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
+    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
+    "Last Updated": "2021-04-27",
+    "Phase": [
+      "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
   },
@@ -230,12 +243,11 @@
     ]
   },
   {
-    "id": "recPPKwiDAPGruO9u",
-    "Provider": "Rite-Aid Pharmacy",
+    "id": "recKMdplNPLCwFMua",
+    "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many but not all Rite-Aid locations are offering vaccine to the public in line with local guidelines. Appointments can be booked online at http://ritea.id/california",
-    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
-    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
+    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
     "Last Updated": "2021-03-06",
     "Phase": [
       "Vaccinating health care workers",
@@ -249,18 +261,6 @@
     "Vaccine locations URL": "https://www.elarc.org/Home/Components/News/News/3513/17",
     "Last Updated": "2021-04-23",
     "Phase": []
-  },
-  {
-    "id": "recKMdplNPLCwFMua",
-    "Provider": "Walgreens",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19",
-    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
   },
   {
     "id": "recJzaX5zclC6pwTl",
@@ -332,10 +332,10 @@
     "id": "recnnxsQHkx4l7V80",
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 25: CVS is offering vaccines in select stores according to state guidelines (individuals 16+ at California locations). Check for availability in your area and schedule an appointment at https://www.cvs.com/immunizations/covid-19-vaccine. Appointments are currently unavailable in New Hampshire.",
+    "Public Notes": "Apr 27: CVS is offering vaccines in select stores according to state guidelines (individuals 16+ at California locations). Check for availability in your area and schedule an appointment at https://www.cvs.com/immunizations/covid-19-vaccine.",
     "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Last Updated": "2021-04-25",
+    "Last Updated": "2021-04-27",
     "Phase": [
       "Not currently vaccinating"
     ]
