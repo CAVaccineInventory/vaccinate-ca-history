@@ -30,18 +30,6 @@
     ]
   },
   {
-    "id": "recB3eVZ3t6gTZg5n",
-    "Provider": "Sav-on Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Sav-on Pharmacy locations are currently offering COVID vaccines. Appointments can be booked online at <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "recPPKwiDAPGruO9u",
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
@@ -88,10 +76,10 @@
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Some locations are offering COVID-19 Vaccines. Find more details online at <https://www.savemart.com/covid-19-vaccine>",
+    "Public Notes": "Apr 27: Save Mart is offering vaccines at select pharmacies to individuals at least 16 years of age. Schedule an appointment online here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your location and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.savemart.com/covid-19-vaccine",
     "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/patient/advisory",
     "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-27",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -276,18 +264,6 @@
     ]
   },
   {
-    "id": "recHdfz54RnV9NckR",
-    "Provider": "Walmart",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walmart is now offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine",
-    "Appointments URL": "https://walmart.com/covidvaccine",
-    "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
     "id": "pmf",
     "Provider": "Mercy Pharmacy Group",
     "Provider network type": "Pharmacy",
@@ -302,6 +278,18 @@
     "Vaccine info URL": "http://hchcla.org/vaccination-info/",
     "Last Updated": "2021-04-24",
     "Phase": []
+  },
+  {
+    "id": "recHdfz54RnV9NckR",
+    "Provider": "Walmart",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 2: Walmart is now offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine",
+    "Appointments URL": "https://walmart.com/covidvaccine",
+    "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-03-06",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
   },
   {
     "id": "rec2G6j5wu5gri77g",
@@ -325,6 +313,18 @@
     "Last Updated": "2021-04-25",
     "Phase": [
       "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recB3eVZ3t6gTZg5n",
+    "Provider": "Sav-on Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 27: Sav-on Pharmacy is currently providing vaccines at many locations based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-04-27",
+    "Phase": [
       "Vaccinating 65+"
     ]
   },
