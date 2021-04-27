@@ -1,17 +1,5 @@
 [
   {
-    "id": "recRMqc5LyYA5khcy",
-    "Provider": "Safeway",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 27: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-04-27",
-    "Phase": [
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "reclvFVOFSJNaQCNK",
     "Provider": "Raley's Pharmacy",
     "Provider network type": "Pharmacy",
@@ -263,6 +251,18 @@
     "Phase": []
   },
   {
+    "id": "recRMqc5LyYA5khcy",
+    "Provider": "Safeway",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 27: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-04-27",
+    "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
     "id": "recJzaX5zclC6pwTl",
     "Provider": "UCSF",
     "Provider network type": "Hospital",
@@ -307,10 +307,10 @@
     "id": "rec2G6j5wu5gri77g",
     "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Sam's Club is now offering COVID-19 vaccines in California.  For more info, go to https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Public Notes": "Apr 27: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-27",
     "Phase": [
       "Not currently vaccinating"
     ]
