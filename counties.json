@@ -141,7 +141,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 213,
-    "Yeses": 162,
+    "Yeses": 161,
     "age_floor_without_restrictions": 16
   },
   {
@@ -292,7 +292,7 @@
     "County vaccination reservations URL": "https://www.countyofglenn.net/news/press-release-public-health-public-information-public-notice/20210301/covid-19-vaccine-interest",
     "Vaccine info URL": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-vaccine-information",
     "Total reports": 10,
-    "Yeses": 4,
+    "Yeses": 3,
     "age_floor_without_restrictions": 16
   },
   {
@@ -317,7 +317,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 25,
+    "Yeses": 26,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 715,
-    "Yeses": 406,
+    "Yeses": 403,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 188,
-    "Yeses": 122,
+    "Yeses": 120,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 254,
-    "Yeses": 171,
+    "Yeses": 172,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 546,
-    "Yeses": 374,
+    "Yeses": 372,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 195,
+    "Yeses": 193,
     "age_floor_without_restrictions": 16
   },
   {
@@ -583,7 +583,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 237,
-    "Yeses": 156,
+    "Yeses": 157,
     "age_floor_without_restrictions": 16
   },
   {
@@ -646,7 +646,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 597,
-    "Yeses": 386,
+    "Yeses": 385,
     "age_floor_without_restrictions": 16
   },
   {
@@ -659,7 +659,7 @@
     "Vaccine info URL": "https://www.co.shasta.ca.us/ready/covid-19/vaccinations",
     "Vaccine locations URL": "https://www.co.shasta.ca.us/docs/libraries/shasta-ready-docs/covid-19/vaccine-options.pdf?sfvrsn=a716f589_0",
     "Total reports": 50,
-    "Yeses": 36,
+    "Yeses": 37,
     "age_floor_without_restrictions": 16
   },
   {
