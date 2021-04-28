@@ -18,18 +18,6 @@
     "Phase": []
   },
   {
-    "id": "rec4OacL3zjqLaBqY",
-    "Provider": "Kaiser Permanente",
-    "Provider network type": "Health Plan",
-    "Public Notes": "(Last updated Apr 3)\r\n**Northern/Southern California:**\r\n- People 50 years and older are eligible for vaccine\r\n- Starting April 15 — people 16 years and older are eligible for vaccine\r\n- Appointment availability is dependent on supply — We’ve increased our capacity to deliver more vaccine doses at our own facilities as well as in multiple mass vaccination hubs across the state. Our ability to accommodate all who will now be eligible is dependent on our receiving enough vaccine supply. \r\n- Scheduling appointments — We aren’t able to preschedule appointments for newly eligible individuals in advance of April 15.\r\n- [More details here](https://healthy.kaiserpermanente.org/health-wellness/coronavirus-information/covid-vaccine).",
-    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+"
-    ]
-  },
-  {
     "id": "recPPKwiDAPGruO9u",
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
@@ -71,6 +59,19 @@
     "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
     "Last Updated": "2021-04-27",
     "Phase": []
+  },
+  {
+    "id": "rec4OacL3zjqLaBqY",
+    "Provider": "Kaiser Permanente",
+    "Provider network type": "Health Plan",
+    "Public Notes": "Apr 28: Kaiser Permanente is currently offering vaccines to individuals 16+. Members and nonmembers can check appointment availability here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check\r\n\r\nFor more information, visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and select N. California or S. California, or call 1-866-454-8855 (TTY 711) for appointments.",
+    "Appointments URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check",
+    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
+    "Last Updated": "2021-04-28",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 75+"
+    ]
   },
   {
     "id": "recKNEDBUWM1IXwF9",
@@ -130,18 +131,6 @@
     "Vaccine locations URL": "https://www.evchc.org/covid19vaccine",
     "Last Updated": "2021-04-22",
     "Phase": []
-  },
-  {
-    "id": "recaEHL19VRr2MaT1",
-    "Provider": "Blue Cross Blue Shield of CA",
-    "Provider network type": "Health Plan",
-    "Public Notes": "Apr 2: Blue Cross recommends that their members consult this list of vaccination clinic options: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/sites\\_content\\_en/coronavirus/vaccine-locations",
-    "Appointments URL": "https://myturn.ca.gov/",
-    "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Unknown"
-    ]
   },
   {
     "id": "phy",
@@ -390,6 +379,19 @@
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recaEHL19VRr2MaT1",
+    "Provider": "Blue Cross Blue Shield of CA",
+    "Provider network type": "Health Plan",
+    "Public Notes": "Apr 28: Blue Cross members in California ages 16+ are eligible for the vaccine. Members may view this link to find a vaccine provider: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations. Members who reside in California may also get vaccinated in other states, or sign up for a Kaiser Permanente vaccine clinic.\r\n\r\nMore information on vaccine eligibility and availability for members can be found here: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs#availabilit",
+    "Appointments URL": "https://myturn.ca.gov/",
+    "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
+    "Vaccine locations URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations",
+    "Last Updated": "2021-04-28",
+    "Phase": [
+      "Unknown"
     ]
   }
 ]
