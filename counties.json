@@ -35,7 +35,7 @@
     "County vaccination reservations URL": "https://publichealthsbc.org/vaccine/",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Total reports": 96,
+    "Total reports": 97,
     "Yeses": 65,
     "age_floor_without_restrictions": 16
   },
@@ -50,7 +50,7 @@
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
     "Total reports": 54,
-    "Yeses": 38,
+    "Yeses": 39,
     "age_floor_without_restrictions": 16
   },
   {
@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2382,
-    "Yeses": 1169,
+    "Total reports": 2383,
+    "Yeses": 1171,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 715,
-    "Yeses": 402,
+    "Yeses": 403,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 254,
-    "Yeses": 170,
+    "Yeses": 171,
     "age_floor_without_restrictions": 16
   },
   {
@@ -443,7 +443,7 @@
     "County vaccination reservations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine info URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
     "Vaccine locations URL": "https://www.plumascounty.us/2761/COVID-19-Vaccine",
-    "Total reports": 14,
+    "Total reports": 15,
     "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 546,
-    "Yeses": 375,
+    "Yeses": 374,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 194,
+    "Yeses": 195,
     "age_floor_without_restrictions": 16
   },
   {
@@ -554,8 +554,8 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 183,
-    "Yeses": 134,
+    "Total reports": 184,
+    "Yeses": 135,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 441,
-    "Yeses": 292,
+    "Yeses": 291,
     "age_floor_without_restrictions": 16
   },
   {
