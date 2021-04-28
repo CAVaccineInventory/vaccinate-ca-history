@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 271,
-    "Yeses": 173,
+    "Yeses": 172,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2382,
-    "Yeses": 1167,
+    "Yeses": 1168,
     "age_floor_without_restrictions": 16
   },
   {
@@ -116,7 +116,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 132,
-    "Yeses": 95,
+    "Yeses": 97,
     "age_floor_without_restrictions": 16
   },
   {
@@ -141,7 +141,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 213,
-    "Yeses": 160,
+    "Yeses": 161,
     "age_floor_without_restrictions": 16
   },
   {
@@ -192,7 +192,7 @@
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
     "Total reports": 54,
-    "Yeses": 36,
+    "Yeses": 37,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 715,
-    "Yeses": 400,
+    "Yeses": 402,
     "age_floor_without_restrictions": 16
   },
   {
@@ -382,8 +382,8 @@
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Total reports": 252,
-    "Yeses": 168,
+    "Total reports": 253,
+    "Yeses": 169,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 105,
-    "Yeses": 58,
+    "Yeses": 59,
     "age_floor_without_restrictions": 16
   },
   {
@@ -468,8 +468,8 @@
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Total reports": 544,
-    "Yeses": 373,
+    "Total reports": 545,
+    "Yeses": 374,
     "age_floor_without_restrictions": 16
   },
   {
@@ -554,7 +554,7 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 182,
+    "Total reports": 183,
     "Yeses": 134,
     "age_floor_without_restrictions": 16
   },
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 441,
-    "Yeses": 291,
+    "Yeses": 292,
     "age_floor_without_restrictions": 16
   },
   {
