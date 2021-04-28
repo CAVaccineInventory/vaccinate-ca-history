@@ -52,15 +52,6 @@
     "Phase": []
   },
   {
-    "id": "recL6J9nNdt52LGBv",
-    "Provider": "The Medicine Shoppe",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Several Medicine Shoppe locations are vaccinating.",
-    "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
-    "Last Updated": "2021-03-06",
-    "Phase": []
-  },
-  {
     "id": "rec5DV4DNGdWDMquu",
     "Provider": "Sutter Health",
     "Provider network type": "Hospital",
@@ -71,6 +62,15 @@
     "Phase": [
       "Vaccinating 65+"
     ]
+  },
+  {
+    "id": "recL6J9nNdt52LGBv",
+    "Provider": "The Medicine Shoppe",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 27: The Medicine Shoppe is offering vaccines at many locations according to state guidelines. Please visit the website of your local store listed here https://www.medicineshoppe.com/find-a-pharmacy to view more information on eligibility and schedule an appointment.",
+    "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
+    "Last Updated": "2021-04-27",
+    "Phase": []
   },
   {
     "id": "recKNEDBUWM1IXwF9",
@@ -110,6 +110,19 @@
     "Phase": []
   },
   {
+    "id": "reckyDfrqjTM27CgO",
+    "Provider": "One Medical",
+    "Provider network type": "Other",
+    "Public Notes": "Apr 28: One Medical currently does not have vaccines at its California locations (SF Bay Area, Los Angeles, San Diego). It anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use MyTurn (https://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere. \r\n\r\nFind the latest information for your area by visiting https://onemedical.com/coronavirus/vaccine/",
+    "Vaccine info URL": "https://onemedical.com/coronavirus/vaccine/",
+    "Last Updated": "2021-04-28",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 75+",
+      "Vaccinating 65+"
+    ]
+  },
+  {
     "id": "pmc",
     "Provider": "East Valley Community Health Center",
     "Provider network type": "Hospital",
@@ -139,19 +152,6 @@
     "Vaccine info URL": "https://www.cottagehealth.org/coronavirus-covid-19/",
     "Last Updated": "2021-04-17",
     "Phase": []
-  },
-  {
-    "id": "reckyDfrqjTM27CgO",
-    "Provider": "One Medical",
-    "Provider network type": "Other",
-    "Public Notes": "Mar 30: _One Medical anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use_ _[MyTurn](http://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere._ Updates can be found online at https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
-    "Vaccine info URL": "https://www.onemedical.com/blog/live-well/updates-covid-19-vaccinations-efforts-your-area",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+",
-      "Vaccinating 65+"
-    ]
   },
   {
     "id": "pkc",
@@ -209,24 +209,11 @@
     "id": "recSnMrHoR5f4eSfE",
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Many Vons Pharmacy locations are currently offering COVID vaccines.  Appointments can be booked online at  <https://www.mhealthappointments.com/covidappt>\r\n\r\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://mhealthappointments.com/",
+    "Public Notes": "Apr 27: Vons is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
-    "Vaccine locations URL": "https://www.mhealthappointments.com/covidappt",
-    "Last Updated": "2021-03-06",
+    "Last Updated": "2021-04-27",
     "Phase": [
-      "Vaccinating 65+"
-    ]
-  },
-  {
-    "id": "recKMdplNPLCwFMua",
-    "Provider": "Walgreens",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walgreens appointments can be made online at https://www.walgreens.com/findcare/vaccination/covid-19",
-    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
-    "Last Updated": "2021-03-06",
-    "Phase": [
-      "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
   },
@@ -378,6 +365,19 @@
     "Appointments URL": "https://pss.medfusion.net/?bookmarkurl=eyJ0eXBlIjoibG9naW5sZXNzIiwibGlua0d1aWQiOiJhMzMyMGU5Ni00NTdkLTQ1MTEtODE1Yi1mYTYzYjhhOWYzYWEifQ==#/",
     "Last Updated": "2021-04-25",
     "Phase": []
+  },
+  {
+    "id": "recKMdplNPLCwFMua",
+    "Provider": "Walgreens",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "Apr 27: Walgreens is offering vaccines at select stores to individuals 16+ for Pfizer, 18+ for Moderna and Johnson & Johnson (Janssen) who meet state-specific eligibility criteria. Log into your Walgreens pharmacy account at https://www.walgreens.com/findcare/vaccination/covid-19/location-screening to find available appointments in your area. \r\n\r\nMore information is available here: https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Appointments URL": "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening",
+    "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Last Updated": "2021-04-27",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
   },
   {
     "id": "recN5zutK3efQf1f9",
