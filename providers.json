@@ -61,19 +61,6 @@
     "Phase": []
   },
   {
-    "id": "rec4OacL3zjqLaBqY",
-    "Provider": "Kaiser Permanente",
-    "Provider network type": "Health Plan",
-    "Public Notes": "Apr 28: Kaiser Permanente is currently offering vaccines to individuals 16+. Members and nonmembers can check appointment availability here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check\r\n\r\nFor more information, visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and select N. California or S. California, or call 1-866-454-8855 (TTY 711) for appointments.",
-    "Appointments URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check",
-    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
-    "Last Updated": "2021-04-28",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+"
-    ]
-  },
-  {
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
@@ -256,25 +243,27 @@
     "Phase": []
   },
   {
-    "id": "recHdfz54RnV9NckR",
-    "Provider": "Walmart",
+    "id": "rec2G6j5wu5gri77g",
+    "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 2: Walmart is now offering COVID-19 vaccines in California. You can find the latest information about Walmart's COVID-19 vaccination program at https://corporate.walmart.com/covid-vaccine",
-    "Appointments URL": "https://walmart.com/covidvaccine",
-    "Vaccine info URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-03-06",
+    "Public Notes": "Apr 28: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-04-28",
     "Phase": [
       "Not currently vaccinating"
     ]
   },
   {
-    "id": "rec2G6j5wu5gri77g",
-    "Provider": "Sam's Pharmacy",
+    "id": "recHdfz54RnV9NckR",
+    "Provider": "Walmart",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 27: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Last Updated": "2021-04-27",
+    "Public Notes": "Apr 28: Walmart is now offering vaccines in California according to state and local guidelines. Schedule an appointment at https://www.walmart.com/cp/1228302\r\n\r\nMore information on vaccine availability and eligibility by state can be found at https://corporate.walmart.com/covid-vaccine",
+    "Appointments URL": "https://www.walmart.com/cp/1228302",
+    "Vaccine info URL": "https://www.walmart.com/cp/1228302",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-04-28",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -392,6 +381,19 @@
     "Last Updated": "2021-04-28",
     "Phase": [
       "Unknown"
+    ]
+  },
+  {
+    "id": "rec4OacL3zjqLaBqY",
+    "Provider": "Kaiser Permanente",
+    "Provider network type": "Health Plan",
+    "Public Notes": "Apr 28: Kaiser Permanente is currently offering vaccines to individuals 16+. Members and nonmembers can check appointment availability here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check\r\n\r\nFor more information, visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and select N. California or S. California, or call 1-866-454-8855 (TTY 711) for appointments.",
+    "Appointments URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check",
+    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
+    "Last Updated": "2021-04-28",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 75+"
     ]
   }
 ]
