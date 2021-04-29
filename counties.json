@@ -115,8 +115,8 @@
     "County vaccination reservations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Total reports": 132,
-    "Yeses": 97,
+    "Total reports": 133,
+    "Yeses": 98,
     "age_floor_without_restrictions": 16
   },
   {
@@ -254,7 +254,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 76,
-    "Yeses": 57,
+    "Yeses": 56,
     "age_floor_without_restrictions": 16
   },
   {
@@ -506,7 +506,7 @@
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
-    "Total reports": 64,
+    "Total reports": 65,
     "Yeses": 51,
     "age_floor_without_restrictions": 16
   },
