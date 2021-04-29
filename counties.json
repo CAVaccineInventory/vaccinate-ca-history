@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2385,
-    "Yeses": 1176,
+    "Yeses": 1177,
     "age_floor_without_restrictions": 16
   },
   {
@@ -127,8 +127,8 @@
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Total reports": 54,
-    "Yeses": 35,
+    "Total reports": 55,
+    "Yeses": 36,
     "age_floor_without_restrictions": 16
   },
   {
@@ -342,8 +342,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 60,
-    "Yeses": 42,
+    "Total reports": 63,
+    "Yeses": 45,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 193,
+    "Yeses": 194,
     "age_floor_without_restrictions": 16
   },
   {
