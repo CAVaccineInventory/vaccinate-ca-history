@@ -203,8 +203,8 @@
     "Facebook Page": "https://www.facebook.com/Alpine-County-CA-Government-159423337551197/",
     "County vaccination reservations URL": "https://www.alpinecountyca.gov/DocumentCenter/View/4272/ACPHB-vaccine-eligibility-update-22421",
     "Vaccine info URL": "https://alpinecountyca.gov/516/COVID-19",
-    "Total reports": 1,
-    "Yeses": 1,
+    "Total reports": 2,
+    "Yeses": 2,
     "age_floor_without_restrictions": 16
   },
   {
@@ -342,8 +342,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 64,
-    "Yeses": 46,
+    "Total reports": 66,
+    "Yeses": 48,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 184,
-    "Yeses": 135,
+    "Yeses": 134,
     "age_floor_without_restrictions": 16
   },
   {
