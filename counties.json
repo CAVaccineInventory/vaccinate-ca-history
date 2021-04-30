@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2385,
-    "Yeses": 1216,
+    "Yeses": 1218,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 716,
-    "Yeses": 423,
+    "Yeses": 425,
     "age_floor_without_restrictions": 16
   },
   {
@@ -608,7 +608,7 @@
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Vaccine locations URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Total reports": 13,
-    "Yeses": 11,
+    "Yeses": 7,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 102,
-    "Yeses": 63,
+    "Yeses": 64,
     "age_floor_without_restrictions": 16
   },
   {
