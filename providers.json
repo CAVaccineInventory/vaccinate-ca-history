@@ -194,6 +194,18 @@
     ]
   },
   {
+    "id": "recJzaX5zclC6pwTl",
+    "Provider": "UCSF",
+    "Provider network type": "Hospital",
+    "Appointments URL": "https://www.ucsfhealth.org/covid/vaccine",
+    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
+    "Last Updated": "2021-04-24",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
     "id": "pmd",
     "Provider": "Eastern Los Angeles Regional Center",
     "Provider network type": "Other",
@@ -210,19 +222,6 @@
     "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
     "Last Updated": "2021-04-27",
     "Phase": [
-      "Vaccinating 65+"
-    ]
-  },
-  {
-    "id": "recJzaX5zclC6pwTl",
-    "Provider": "UCSF",
-    "Provider network type": "Hospital",
-    "Public Notes": "Apr 24: UCSF is offering vaccines to anyone 16+. Appointments at the William J. Rutter Center can be scheduled via UCSF directly using MyChart or through MyTurn at https://myturn.ca.gov. Vaccines are no longer being offered at the UCSF Parnassus Heights campus. \r\n\r\nMore information can be found online at https://coronavirus.ucsf.edu/vaccines",
-    "Appointments URL": "https://www.ucsfhealth.org/covid/vaccine",
-    "Vaccine info URL": "https://coronavirus.ucsf.edu/vaccines",
-    "Last Updated": "2021-04-24",
-    "Phase": [
-      "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
   },
