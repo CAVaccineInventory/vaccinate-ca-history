@@ -61,6 +61,14 @@
     "Phase": []
   },
   {
+    "id": "pmx",
+    "Provider": "Gial Health Resources",
+    "Provider network type": "Other",
+    "Appointments URL": "https://z2-rpw.phreesia.net/ApptRequestForm.App/#/form/7106db64-a709-4814-b85e-eb81b2b5f8d8",
+    "Vaccine info URL": "https://www.gilahealth.com/covid-19/covid-19-vaccine/",
+    "Phase": []
+  },
+  {
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
