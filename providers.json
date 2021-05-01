@@ -96,6 +96,17 @@
     ]
   },
   {
+    "id": "pmy",
+    "Provider": "Chiracahua Community Health Centers",
+    "Provider network type": "Other",
+    "Public Notes": "Covers many vaccine sites in Cochise County, AZ.",
+    "Appointments URL": "Appointments are made by calling the phone number 520-364-1429.",
+    "Vaccine info URL": "https://cchci.org/coronavirus-covid-19-updates/",
+    "Vaccine locations URL": "https://cchci.org/coronavirus-covid-19-updates/",
+    "Last Updated": "2021-05-01",
+    "Phase": []
+  },
+  {
     "id": "pmb",
     "Provider": "SF Health Network",
     "Provider network type": "Health Plan",
