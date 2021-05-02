@@ -81,21 +81,6 @@
     ]
   },
   {
-    "id": "recMuxZ6lf0M4wzI2",
-    "Provider": "El Camino Health",
-    "Provider network type": "Hospital",
-    "Public Notes": "Apr 24: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). \r\n\r\nAppointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
-    "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
-    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
-    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
-    "Last Updated": "2021-04-24",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "pmy",
     "Provider": "Chiricahua Community Health Centers",
     "Provider network type": "Other",
@@ -105,6 +90,21 @@
     "Vaccine locations URL": "https://cchci.org/coronavirus-covid-19-updates/",
     "Last Updated": "2021-05-01",
     "Phase": []
+  },
+  {
+    "id": "recMuxZ6lf0M4wzI2",
+    "Provider": "El Camino Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 2: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). \r\n\r\nAppointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
+    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
+    "Last Updated": "2021-05-02",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 75+",
+      "Vaccinating 65+"
+    ]
   },
   {
     "id": "pmb",
@@ -161,9 +161,9 @@
     "id": "recpmxzduDvlnP9qD",
     "Provider": "John Muir Health",
     "Provider network type": "Hospital",
-    "Public Notes": "Apr 24: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart message, email, text message or phone call when appointments become available based on supply from Contra Costa County. \r\n\r\nFor more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
+    "Public Notes": "May 2: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart (https://www.johnmuirhealth.com/patientportal.html), email, text message or phone call when appointments become available based on supply from Contra Costa County. \r\n\r\nFor more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
     "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
-    "Last Updated": "2021-04-24",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Vaccinating 75+"
     ]
@@ -180,10 +180,10 @@
     "id": "recsiKWQK5zbpqUj5",
     "Provider": "Costco Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 25: Costco is currently offering vaccines at its US locations based on state guidelines. All individuals age 16+ are eligible in the US, with only the Pfizer vaccine authorized for individuals age 16-17. Schedule an appointment by clicking here: https://book-costcopharmacy.appointment-plus.com/d133yng2/#/\r\n\r\nMore information about appointments can be found at https://www.costco.com/covid-vaccine.html",
+    "Public Notes": "May 2: Costco is currently offering vaccines at its US locations based on state guidelines. All individuals age 16+ are eligible in the US, with only the Pfizer vaccine authorized for individuals age 16-17. Schedule an appointment by clicking here: https://book-costcopharmacy.appointment-plus.com/d133yng2/#/\r\n\r\nMore information about appointments can be found at https://www.costco.com/covid-vaccine.html",
     "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
-    "Last Updated": "2021-04-25",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -192,10 +192,10 @@
     "id": "recyq0ZnLhX26FHmr",
     "Provider": "Lucky Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 25: Lucky is currently offering vaccines at select pharmacies according to county guidelines, most of which limit appointments to those who live or work within the county. Schedule an appointment here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory\r\n\r\nMore information can be found at https://www.luckysupermarkets.com/keeping-you-safe",
+    "Public Notes": "May 2: Lucky is currently offering vaccines at select pharmacies according to county guidelines, most of which limit appointments to those who live or work within the county. Schedule an appointment here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your zip code and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.luckysupermarkets.com/covid-19-vaccine",
     "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
-    "Vaccine info URL": "https://www.luckysupermarkets.com/keeping-you-safe",
-    "Last Updated": "2021-04-25",
+    "Vaccine info URL": "https://www.luckysupermarkets.com/covid-19-vaccine",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -287,19 +287,6 @@
     ]
   },
   {
-    "id": "recImxzlTSTVz7meQ",
-    "Provider": "Albertson's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 25: Albertsons is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nMore information can be found at https://www.albertsons.com/pharmacy/covid-19.html",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-04-25",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "recB3eVZ3t6gTZg5n",
     "Provider": "Sav-on Pharmacy",
     "Provider network type": "Pharmacy",
@@ -308,6 +295,19 @@
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "Last Updated": "2021-04-27",
     "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recImxzlTSTVz7meQ",
+    "Provider": "Albertson's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 2: Albertsons is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nMore information can be found at https://www.albertsons.com/pharmacy/covid-19.html",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-05-02",
+    "Phase": [
+      "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
   },
@@ -392,11 +392,11 @@
     "id": "recaEHL19VRr2MaT1",
     "Provider": "Blue Cross Blue Shield of CA",
     "Provider network type": "Health Plan",
-    "Public Notes": "Apr 28: Blue Cross members in California ages 16+ are eligible for the vaccine. Members may view this link to find a vaccine provider: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations. Members who reside in California may also get vaccinated in other states, or sign up for a Kaiser Permanente vaccine clinic.\r\n\r\nMore information on vaccine eligibility and availability for members can be found here: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs#availabilit",
+    "Public Notes": "May 2: Blue Cross members in California ages 16+ are eligible for the vaccine. Members may view this link to find a vaccine provider: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations. Members who reside in California may also get vaccinated in other states, or sign up for a Kaiser Permanente vaccine clinic.\r\n\r\nMore information on vaccine eligibility and availability for members can be found here: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs#availability",
     "Appointments URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
     "Vaccine locations URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations",
-    "Last Updated": "2021-04-28",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Unknown"
     ]
@@ -405,10 +405,10 @@
     "id": "rec4OacL3zjqLaBqY",
     "Provider": "Kaiser Permanente",
     "Provider network type": "Health Plan",
-    "Public Notes": "Apr 28: Kaiser Permanente is currently offering vaccines to individuals 16+. Members and nonmembers can check appointment availability here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check\r\n\r\nFor more information, visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and select N. California or S. California, or call 1-866-454-8855 (TTY 711) for appointments.",
+    "Public Notes": "May 2: Kaiser Permanente is currently offering vaccines to individuals ages 16+. Members and nonmembers can schedule an appointment here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check. Appointments for members age 16 or 17 can be booked online using their caregiver account. Nonmembers age 16 or 17 must call for an appointment.\r\n\r\nFind more information about appointments in Northern California at https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and in Southern California at https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information/vaccine-appointments, or call 1-866-454-8855 (TTY 711).",
     "Appointments URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check",
     "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
-    "Last Updated": "2021-04-28",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+"
