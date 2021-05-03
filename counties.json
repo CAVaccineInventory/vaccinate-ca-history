@@ -49,8 +49,8 @@
     "County vaccination reservations URL": "https://www.recoverslo.org/en/vaccine-registration.aspx",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Total reports": 54,
-    "Yeses": 38,
+    "Total reports": 55,
+    "Yeses": 39,
     "age_floor_without_restrictions": 16
   },
   {
@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2385,
-    "Yeses": 1219,
+    "Total reports": 2387,
+    "Yeses": 1221,
     "age_floor_without_restrictions": 16
   },
   {
@@ -408,8 +408,8 @@
     "Official volunteering opportunities": "https://smcgov.knack.com/volunteers#volunteer-home/",
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Total reports": 105,
-    "Yeses": 63,
+    "Total reports": 106,
+    "Yeses": 64,
     "age_floor_without_restrictions": 16
   },
   {
@@ -631,8 +631,8 @@
     "County vaccination reservations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
-    "Total reports": 31,
-    "Yeses": 18,
+    "Total reports": 32,
+    "Yeses": 20,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 441,
-    "Yeses": 293,
+    "Yeses": 291,
     "age_floor_without_restrictions": 16
   },
   {
