@@ -60,10 +60,10 @@
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 27: Save Mart is offering vaccines at select pharmacies to individuals at least 16 years of age. Schedule an appointment online here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your location and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.savemart.com/covid-19-vaccine",
+    "Public Notes": "May 2: Save Mart is offering vaccines at select pharmacies to individuals at least 16 years of age. Schedule an appointment online here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your location and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.savemart.com/covid-19-vaccine",
     "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/patient/advisory",
     "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
-    "Last Updated": "2021-04-27",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -249,10 +249,10 @@
     "id": "recRMqc5LyYA5khcy",
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 27: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
+    "Public Notes": "May 2: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
     "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-04-27",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -290,25 +290,13 @@
     "id": "rec2G6j5wu5gri77g",
     "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 28: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
+    "Public Notes": "May 2: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
     "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-04-28",
+    "Last Updated": "2021-05-02",
     "Phase": [
       "Not currently vaccinating"
-    ]
-  },
-  {
-    "id": "recB3eVZ3t6gTZg5n",
-    "Provider": "Sav-on Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "Apr 27: Sav-on Pharmacy is currently providing vaccines at many locations based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-04-27",
-    "Phase": [
-      "Vaccinating 65+"
     ]
   },
   {
@@ -321,6 +309,18 @@
     "Last Updated": "2021-05-02",
     "Phase": [
       "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recB3eVZ3t6gTZg5n",
+    "Provider": "Sav-on Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 2: Sav-on Pharmacy is currently providing vaccines at many locations based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-05-02",
+    "Phase": [
       "Vaccinating 65+"
     ]
   },
