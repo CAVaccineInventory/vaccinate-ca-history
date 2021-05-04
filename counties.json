@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 273,
-    "Yeses": 201,
+    "Yeses": 200,
     "age_floor_without_restrictions": 16
   },
   {
@@ -76,7 +76,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 51,
-    "Yeses": 31,
+    "Yeses": 30,
     "age_floor_without_restrictions": 16
   },
   {
@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 212,
-    "Yeses": 159,
+    "Yeses": 160,
     "age_floor_without_restrictions": 16
   },
   {
@@ -230,7 +230,7 @@
     "Vaccine info URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information",
     "Vaccine locations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers",
     "Total reports": 28,
-    "Yeses": 22,
+    "Yeses": 21,
     "age_floor_without_restrictions": 16
   },
   {
@@ -317,7 +317,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 26,
+    "Yeses": 25,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 716,
-    "Yeses": 444,
+    "Yeses": 443,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 254,
-    "Yeses": 174,
+    "Yeses": 176,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 106,
-    "Yeses": 65,
+    "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 548,
-    "Yeses": 385,
+    "Yeses": 388,
     "age_floor_without_restrictions": 16
   },
   {
@@ -482,7 +482,7 @@
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Total reports": 35,
-    "Yeses": 25,
+    "Yeses": 24,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 185,
-    "Yeses": 136,
+    "Yeses": 135,
     "age_floor_without_restrictions": 16
   },
   {
@@ -619,7 +619,7 @@
     "County vaccination reservations URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Vaccine info URL": "http://health.co.lake.ca.us/Coronavirus/Vaccines.htm",
     "Total reports": 20,
-    "Yeses": 10,
+    "Yeses": 9,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 102,
-    "Yeses": 69,
+    "Yeses": 70,
     "age_floor_without_restrictions": 16
   },
   {
