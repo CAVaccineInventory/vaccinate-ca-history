@@ -89,8 +89,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2390,
-    "Yeses": 1242,
+    "Total reports": 2391,
+    "Yeses": 1243,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 188,
-    "Yeses": 131,
+    "Yeses": 132,
     "age_floor_without_restrictions": 16
   },
   {
@@ -672,8 +672,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 446,
-    "Yeses": 295,
+    "Total reports": 447,
+    "Yeses": 297,
     "age_floor_without_restrictions": 16
   },
   {
