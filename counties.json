@@ -22,7 +22,7 @@
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
     "Total reports": 7,
-    "Yeses": 3,
+    "Yeses": 4,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2391,
-    "Yeses": 1243,
+    "Yeses": 1244,
     "age_floor_without_restrictions": 16
   },
   {
@@ -179,7 +179,7 @@
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
     "Total reports": 97,
-    "Yeses": 72,
+    "Yeses": 73,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 106,
-    "Yeses": 68,
+    "Yeses": 69,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 548,
-    "Yeses": 389,
+    "Yeses": 388,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 447,
-    "Yeses": 297,
+    "Yeses": 298,
     "age_floor_without_restrictions": 16
   },
   {
