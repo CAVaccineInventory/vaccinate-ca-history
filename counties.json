@@ -50,7 +50,7 @@
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
     "Total reports": 55,
-    "Yeses": 39,
+    "Yeses": 40,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2391,
-    "Yeses": 1225,
+    "Yeses": 1223,
     "age_floor_without_restrictions": 16
   },
   {
@@ -141,7 +141,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 213,
-    "Yeses": 171,
+    "Yeses": 170,
     "age_floor_without_restrictions": 16
   },
   {
@@ -342,8 +342,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 70,
-    "Yeses": 53,
+    "Total reports": 71,
+    "Yeses": 54,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 188,
-    "Yeses": 134,
+    "Yeses": 135,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 548,
-    "Yeses": 390,
+    "Yeses": 389,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 191,
+    "Yeses": 192,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 185,
-    "Yeses": 135,
+    "Yeses": 136,
     "age_floor_without_restrictions": 16
   },
   {
@@ -632,7 +632,7 @@
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Total reports": 33,
-    "Yeses": 22,
+    "Yeses": 23,
     "age_floor_without_restrictions": 16
   },
   {
@@ -722,7 +722,7 @@
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Total reports": 102,
+    "Total reports": 103,
     "Yeses": 70,
     "age_floor_without_restrictions": 16
   },
