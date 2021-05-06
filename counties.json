@@ -63,7 +63,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 274,
-    "Yeses": 208,
+    "Yeses": 209,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2393,
-    "Yeses": 1219,
+    "Yeses": 1218,
     "age_floor_without_restrictions": 16
   },
   {
@@ -116,7 +116,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 133,
-    "Yeses": 93,
+    "Yeses": 92,
     "age_floor_without_restrictions": 16
   },
   {
@@ -141,7 +141,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 213,
-    "Yeses": 168,
+    "Yeses": 167,
     "age_floor_without_restrictions": 16
   },
   {
@@ -280,7 +280,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 18,
-    "Yeses": 11,
+    "Yeses": 12,
     "age_floor_without_restrictions": 16
   },
   {
@@ -317,7 +317,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 23,
+    "Yeses": 24,
     "age_floor_without_restrictions": 16
   },
   {
@@ -383,7 +383,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 254,
-    "Yeses": 175,
+    "Yeses": 174,
     "age_floor_without_restrictions": 16
   },
   {
@@ -409,7 +409,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 106,
-    "Yeses": 72,
+    "Yeses": 71,
     "age_floor_without_restrictions": 16
   },
   {
@@ -495,7 +495,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 191,
+    "Yeses": 192,
     "age_floor_without_restrictions": 16
   },
   {
@@ -646,7 +646,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 597,
-    "Yeses": 408,
+    "Yeses": 407,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 103,
-    "Yeses": 68,
+    "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
   {
