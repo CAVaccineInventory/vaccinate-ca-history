@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2393,
-    "Yeses": 1225,
+    "Yeses": 1224,
     "age_floor_without_restrictions": 16
   },
   {
@@ -165,7 +165,7 @@
     "County vaccination reservations URL": "https://www.countyofcolusa.org/949/Vaccine",
     "Vaccine info URL": "https://www.countyofcolusa.org/771/COVID19",
     "Total reports": 8,
-    "Yeses": 5,
+    "Yeses": 4,
     "age_floor_without_restrictions": 16
   },
   {
@@ -192,7 +192,7 @@
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
     "Total reports": 55,
-    "Yeses": 42,
+    "Yeses": 41,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 718,
-    "Yeses": 447,
+    "Yeses": 446,
     "age_floor_without_restrictions": 16
   },
   {
@@ -555,7 +555,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 186,
-    "Yeses": 136,
+    "Yeses": 137,
     "age_floor_without_restrictions": 16
   },
   {
