@@ -90,7 +90,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2393,
-    "Yeses": 1219,
+    "Yeses": 1218,
     "age_floor_without_restrictions": 16
   },
   {
@@ -218,7 +218,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 212,
-    "Yeses": 162,
+    "Yeses": 161,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 718,
-    "Yeses": 451,
+    "Yeses": 452,
     "age_floor_without_restrictions": 16
   },
   {
@@ -469,7 +469,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 550,
-    "Yeses": 388,
+    "Yeses": 387,
     "age_floor_without_restrictions": 16
   },
   {
@@ -645,7 +645,7 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 597,
+    "Total reports": 598,
     "Yeses": 408,
     "age_floor_without_restrictions": 16
   },
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 447,
-    "Yeses": 301,
+    "Yeses": 302,
     "age_floor_without_restrictions": 16
   },
   {
