@@ -396,7 +396,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 119,
-    "Yeses": 78,
+    "Yeses": 79,
     "age_floor_without_restrictions": 16
   },
   {
@@ -507,7 +507,7 @@
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
     "Total reports": 66,
-    "Yeses": 55,
+    "Yeses": 56,
     "age_floor_without_restrictions": 16
   },
   {
@@ -673,7 +673,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 447,
-    "Yeses": 302,
+    "Yeses": 303,
     "age_floor_without_restrictions": 16
   },
   {
