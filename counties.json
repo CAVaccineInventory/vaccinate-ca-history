@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2400,
-    "Yeses": 1222,
+    "Yeses": 1221,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 449,
-    "Yeses": 302,
+    "Yeses": 301,
     "age_floor_without_restrictions": 16
   },
   {
@@ -412,7 +412,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 274,
-    "Yeses": 206,
+    "Yeses": 207,
     "age_floor_without_restrictions": 16
   },
   {
@@ -512,7 +512,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 24,
+    "Yeses": 25,
     "age_floor_without_restrictions": 16
   },
   {
