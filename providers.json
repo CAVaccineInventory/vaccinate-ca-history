@@ -406,13 +406,8 @@
     "id": "rec4OacL3zjqLaBqY",
     "Provider": "Kaiser Permanente",
     "Provider network type": "Health Plan",
-    "Public Notes": "May 2: Kaiser Permanente is currently offering vaccines to individuals ages 16+. Members and nonmembers can schedule an appointment here: https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check. Appointments for members age 16 or 17 can be booked online using their caregiver account. Nonmembers age 16 or 17 must call for an appointment.\r\n\r\nFind more information about appointments in Northern California at https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments and in Southern California at https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information/vaccine-appointments, or call 1-866-454-8855 (TTY 711).",
-    "Appointments URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments#check",
-    "Vaccine info URL": "https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/covid-vaccine",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+"
-    ]
+    "Public Notes": "May 11: Kaiser Permanente is vaccinating anyone 16 or older. Membership is not required. <br>\r\n<br>\r\nIn Northern California visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments <br>\r\n<br>\r\nIn Southern California visit https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information/vaccine-appointments",
+    "Last Updated": "2021-05-11",
+    "Phase": []
   }
 ]
