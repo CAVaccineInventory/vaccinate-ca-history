@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2400,
-    "Yeses": 1219,
+    "Yeses": 1218,
     "age_floor_without_restrictions": 16
   },
   {
@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 133,
-    "Yeses": 94,
+    "Yeses": 93,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 449,
-    "Yeses": 301,
+    "Yeses": 300,
     "age_floor_without_restrictions": 16
   },
   {
@@ -524,8 +524,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 78,
-    "Yeses": 62,
+    "Total reports": 79,
+    "Yeses": 63,
     "age_floor_without_restrictions": 16
   },
   {
@@ -551,7 +551,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 106,
-    "Yeses": 71,
+    "Yeses": 72,
     "age_floor_without_restrictions": 16
   },
   {
