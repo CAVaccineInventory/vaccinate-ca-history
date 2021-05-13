@@ -36,7 +36,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 99,
-    "Yeses": 72,
+    "Yeses": 73,
     "age_floor_without_restrictions": 16
   },
   {
@@ -89,7 +89,7 @@
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Total reports": 213,
+    "Total reports": 214,
     "Yeses": 169,
     "age_floor_without_restrictions": 16
   },
@@ -115,8 +115,8 @@
     "County vaccination reservations URL": "http://schsa.org/coronavirus/vaccine/public/",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Total reports": 97,
-    "Yeses": 73,
+    "Total reports": 98,
+    "Yeses": 75,
     "age_floor_without_restrictions": 16
   },
   {
@@ -229,8 +229,8 @@
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Total reports": 255,
-    "Yeses": 176,
+    "Total reports": 256,
+    "Yeses": 177,
     "age_floor_without_restrictions": 16
   },
   {
@@ -551,7 +551,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 107,
-    "Yeses": 73,
+    "Yeses": 74,
     "age_floor_without_restrictions": 16
   },
   {
