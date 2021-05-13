@@ -36,7 +36,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 99,
-    "Yeses": 71,
+    "Yeses": 72,
     "age_floor_without_restrictions": 16
   },
   {
@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 133,
-    "Yeses": 94,
+    "Yeses": 95,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 719,
-    "Yeses": 454,
+    "Yeses": 453,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 601,
-    "Yeses": 412,
+    "Yeses": 411,
     "age_floor_without_restrictions": 16
   },
   {
@@ -487,7 +487,7 @@
     "Vaccine info URL": "https://www.tehamacohealthservices.net/covid-19-vaccine-information/",
     "Vaccine locations URL": "https://www.tehamacohealthservices.net/covid-19/covid-vaccine/",
     "Total reports": 18,
-    "Yeses": 11,
+    "Yeses": 12,
     "age_floor_without_restrictions": 16
   },
   {
@@ -538,7 +538,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 189,
-    "Yeses": 135,
+    "Yeses": 136,
     "age_floor_without_restrictions": 16
   },
   {
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 254,
-    "Yeses": 187,
+    "Yeses": 186,
     "age_floor_without_restrictions": 16
   },
   {
