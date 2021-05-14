@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 722,
-    "Yeses": 456,
+    "Yeses": 455,
     "age_floor_without_restrictions": 16
   },
   {
@@ -524,8 +524,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 83,
-    "Yeses": 67,
+    "Total reports": 84,
+    "Yeses": 68,
     "age_floor_without_restrictions": 16
   },
   {
@@ -573,8 +573,8 @@
     "County vaccination reservations URL": "https://www.trinitycounty.org/COVID-19/Vaccine-Registration",
     "Vaccine info URL": "https://www.trinitycounty.org/COVID19-Vaccine",
     "Vaccine locations URL": "https://www.trinitycounty.org/sites/default/files/Public_Health/Documents/Covid/COVID-19_Press_Release_1.11.2021.pdf",
-    "Total reports": 7,
-    "Yeses": 5,
+    "Total reports": 8,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
@@ -598,8 +598,8 @@
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Total reports": 553,
-    "Yeses": 392,
+    "Total reports": 555,
+    "Yeses": 394,
     "age_floor_without_restrictions": 16
   },
   {
