@@ -3,9 +3,9 @@
     "id": "reclvFVOFSJNaQCNK",
     "Provider": "Raley's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Raley's is not currently offering vaccines at any California locations, according to its last update on Feb 22.\r\n\r\nVisit this link for more information: https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
+    "Public Notes": "May 15: Raley's is not currently offering vaccines at any California locations, according to its last update on Feb 22: https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
     "Vaccine info URL": "https://www.raleys.com/pharmacy/services/covid-19-vaccines/",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -44,19 +44,6 @@
     "Phase": []
   },
   {
-    "id": "recPPKwiDAPGruO9u",
-    "Provider": "Rite-Aid Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Rite Aid is offering vaccines to individuals 18+ at all its stores. If you are 18+, you can walk in or schedule an appointment online here: https://www.riteaid.com/pharmacy/covid-qualifier. Individuals 16-17 can schedule an appointment for the Pfizer vaccine by calling select local stores listed here: https://www.riteaid.com/covid-19/scheduling-a-covid-19-vaccine-for-a-16-or-17-year-old\r\n\r\nFor more information, visit https://www.riteaid.com/Covid-19",
-    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
-    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
@@ -80,21 +67,6 @@
     "Phase": []
   },
   {
-    "id": "recMuxZ6lf0M4wzI2",
-    "Provider": "El Camino Health",
-    "Provider network type": "Hospital",
-    "Public Notes": "May 2: El Camino Health is currently vaccinating anyone who is 16 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health, based on guidance from the California Department of Public Health (CDPH) and the Santa Clara County Public Health Department (SCCPHD). \r\n\r\nAppointment information can be found here: https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information and an eligibility screener here: https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
-    "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
-    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
-    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 75+",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "pmb",
     "Provider": "SF Health Network",
     "Provider network type": "Health Plan",
@@ -114,6 +86,18 @@
     "Phase": []
   },
   {
+    "id": "recpmxzduDvlnP9qD",
+    "Provider": "John Muir Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 15: John Muir Health is offering vaccines to any California resident age 16+ (and soon age 12+). Membership is not required. To schedule an appointment, set up or log in to your MyChart account (https://www.johnmuirhealth.com/patientportal.html). \r\n\r\nMore information can be found at https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program/vaccine-appointments.html",
+    "Appointments URL": "https://www.johnmuirhealth.com/patientportal.html",
+    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Vaccinating 75+"
+    ]
+  },
+  {
     "id": "phy",
     "Provider": "Cottage Health Urgent Care",
     "Provider network type": "Hospital",
@@ -131,17 +115,6 @@
     "Vaccine locations URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
     "Last Updated": "2021-04-18",
     "Phase": []
-  },
-  {
-    "id": "recpmxzduDvlnP9qD",
-    "Provider": "John Muir Health",
-    "Provider network type": "Hospital",
-    "Public Notes": "May 2: John Muir Health is offering vaccines to current patients ages 16+ by invitation only. Patients will be contacted via MyChart (https://www.johnmuirhealth.com/patientportal.html), email, text message or phone call when appointments become available based on supply from Contra Costa County. \r\n\r\nFor more information, please call the recorded COVID information line at (925) 952-2300 or visit https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
-    "Vaccine info URL": "https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/covid-vaccine-program.html",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Vaccinating 75+"
-    ]
   },
   {
     "id": "pkk",
@@ -167,22 +140,10 @@
     "id": "recsiKWQK5zbpqUj5",
     "Provider": "Costco Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Costco is currently offering vaccines at its US locations based on state guidelines. All individuals age 16+ are eligible in the US, with only the Pfizer vaccine authorized for individuals age 16-17. Schedule an appointment by clicking here: https://book-costcopharmacy.appointment-plus.com/d133yng2/#/\r\n\r\nMore information about appointments can be found at https://www.costco.com/covid-vaccine.html",
+    "Public Notes": "May 15: Costco is vaccinating all individuals ages 12 and older. Many locations are able to accommodate walk-ins. To schedule an appointment, visit https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
     "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
     "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
-    "id": "recyq0ZnLhX26FHmr",
-    "Provider": "Lucky Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Lucky is currently offering vaccines at select pharmacies according to county guidelines, most of which limit appointments to those who live or work within the county. Schedule an appointment here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your zip code and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.luckysupermarkets.com/covid-19-vaccine",
-    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
-    "Vaccine info URL": "https://www.luckysupermarkets.com/covid-19-vaccine",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -213,12 +174,14 @@
     ]
   },
   {
-    "id": "reckyDfrqjTM27CgO",
-    "Provider": "One Medical",
-    "Provider network type": "Other",
-    "Public Notes": "May 2: One Medical currently does not have vaccines at its California locations (SF Bay Area, Los Angeles, San Diego). It anticipates that it will administer vaccines to eligible members of the general public at select locations in California soon. Once available, individuals will be able to use MyTurn (https://myturn.ca.gov/) to book a vaccine appointment at a designated One Medical location or elsewhere. \r\n\r\nFind the latest information for your area by visiting https://onemedical.com/coronavirus/vaccine/",
-    "Vaccine info URL": "https://onemedical.com/coronavirus/vaccine/",
-    "Last Updated": "2021-05-02",
+    "id": "recMuxZ6lf0M4wzI2",
+    "Provider": "El Camino Health",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 15: El Camino Health is vaccinating anyone who is 12 years of age or older and lives or works in Santa Clara County; or patients who receive their primary care through El Camino Health. Walk-ins are now available at its Sunnyvale vaccination clinic. To schedule an appointment, visit https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Appointments URL": "https://www.elcaminohealth.org/covid-19-resource-center/schedule/vaccine",
+    "Vaccine info URL": "https://www.elcaminohealth.org/covid-19-resource-center/vaccine-information",
+    "Vaccine locations URL": "https://www.elcaminohealth.org/locations",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 75+",
@@ -246,6 +209,18 @@
     "Phase": []
   },
   {
+    "id": "recyq0ZnLhX26FHmr",
+    "Provider": "Lucky Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Lucky is currently offering walk-ins and appointments at all pharmacy locations according to CDC guidelines. To schedule an appointment, visit https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
+    "Vaccine info URL": "https://www.luckysupermarkets.com/covid-19-vaccine",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
     "id": "recRMqc5LyYA5khcy",
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
@@ -258,13 +233,27 @@
     ]
   },
   {
+    "id": "reckyDfrqjTM27CgO",
+    "Provider": "One Medical",
+    "Provider network type": "Other",
+    "Public Notes": "May 15: One Medical is currently vaccinating anyone ages 16+ at its California locations (SF Bay Area, Los Angeles, San Diego). Book an appointment at MyTurn or find more information at https://onemedical.com/coronavirus/vaccine/",
+    "Appointments URL": "https://myturn.ca.gov/",
+    "Vaccine info URL": "https://onemedical.com/coronavirus/vaccine/",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 75+",
+      "Vaccinating 65+"
+    ]
+  },
+  {
     "id": "recN5zutK3efQf1f9",
     "Provider": "Ralph's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Ralphs is offering vaccines to individuals 16+ across select pharmacies, clinics and off-site vaccination events according to state guidelines. Schedule an appointment at https://www.ralphs.com/rx/covid-vaccine\r\n\r\nAdditional information on eligibility in California and other states can be found at https://www.ralphs.com/i/coronavirus-update/vaccine",
-    "Appointments URL": "https://www.ralphs.com/rx/covid-vaccine",
+    "Public Notes": "May 15: Ralphs is offering vaccines to all individuals 12+ according to state guidelines. Schedule an appointment at https://www.ralphs.com/rx/covid-eligibility",
+    "Appointments URL": "https://www.ralphs.com/rx/covid-eligibility",
     "Vaccine info URL": "https://www.ralphs.com/i/coronavirus-update/vaccine",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 65+"
@@ -297,6 +286,19 @@
     "Last Updated": "2021-05-02",
     "Phase": [
       "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recPPKwiDAPGruO9u",
+    "Provider": "Rite-Aid Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Rite Aid is offering walk-ins and appointments to anyone 12+. To schedule an appointment, visit https://www.riteaid.com/pharmacy/covid-qualifier. For individuals ages 12-17, visit https://www.riteaid.com/covid-19/minors",
+    "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
+    "Vaccine info URL": "https://www.riteaid.com/Covid-19",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Vaccinating health care workers",
+      "Vaccinating 65+"
     ]
   },
   {
