@@ -30,7 +30,7 @@
     "id": "recL6J9nNdt52LGBv",
     "Provider": "The Medicine Shoppe",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: The Medicine Shoppe is offering vaccines at many locations according to state guidelines. Please visit the website of your local store listed here https://www.medicineshoppe.com/find-a-pharmacy to view more information on eligibility and schedule an appointment.",
+    "Public Notes": "May 15: The Medicine Shoppe is offering vaccines at many locations according to state guidelines. Please visit the website of your local store listed here https://www.medicineshoppe.com/find-a-pharmacy to view more information on eligibility and schedule an appointment.",
     "Vaccine info URL": "https://www.medicineshoppe.com/coronavirus",
     "Last Updated": "2021-05-02",
     "Phase": []
@@ -47,10 +47,10 @@
     "id": "recKNEDBUWM1IXwF9",
     "Provider": "Save Mart Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Save Mart is offering vaccines at select pharmacies to individuals at least 16 years of age. Schedule an appointment online here: https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory. If you are age 16-17 or require a specific vaccine, please use the link to enter your location and call the phone number listed prior to reserving an appointment.\r\n\r\nMore information can be found at https://www.savemart.com/covid-19-vaccine",
-    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/patient/advisory",
+    "Public Notes": "May 15: Save Mart is currently offering walk-ins and appointments at all pharmacy locations according to CDC guidelines. To schedule an appointment, visit https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
+    "Appointments URL": "https://savemartluckysched.rxtouch.com/smsched/program/covid19/Patient/Advisory",
     "Vaccine info URL": "https://www.savemart.com/covid-19-vaccine",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -128,10 +128,10 @@
     "id": "rec5DV4DNGdWDMquu",
     "Provider": "Sutter Health",
     "Provider network type": "Hospital",
-    "Public Notes": "May 2: Sutter Health is offering vaccines to patients 16+ based on state guidance. To schedule an appointment, sign in to or enroll at My Health Online at https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine, or call (844) 987-6115.\r\n\r\nFor vaccine appointments at Memorial Hospital Los Banos, call (209) 710-6333, or at Sutter Lakeside Hospital, call (707) 262-5088.\r\n\r\nIndividuals 16-17 can receive the Pfizer vaccine if accompanied by a parent or guardian or with a signed consent form found here: https://www.sutterhealth.org/pdf/for-patients/minor-patient-consent-covid-19-vaccine.pdf",
+    "Public Notes": "May 15: Sutter Health is offering appointments to anyone ages 12 and older. To schedule an appointment, sign in or enroll at My Health Online at https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine, or call (844) 987-6115.",
     "Appointments URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
     "Vaccine info URL": "https://www.sutterhealth.org/for-patients/health-alerts/covid-19-vaccine",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -152,25 +152,12 @@
     "id": "recSnMrHoR5f4eSfE",
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Vons is currently providing vaccines at all of its pharmacy locations based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Vons vaccination program at <https://www.vons.com/pharmacy/covid-19.html>",
+    "Public Notes": "May 15: Vons is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
     "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.vons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating 65+"
-    ]
-  },
-  {
-    "id": "recHdfz54RnV9NckR",
-    "Provider": "Walmart",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Walmart is now offering vaccines in California according to state and local guidelines. Schedule an appointment at https://www.walmart.com/cp/1228302\r\n\r\nMore information on vaccine availability and eligibility by state can be found at https://corporate.walmart.com/covid-vaccine",
-    "Appointments URL": "https://www.walmart.com/cp/1228302",
-    "Vaccine info URL": "https://www.walmart.com/cp/1228302",
-    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Not currently vaccinating"
     ]
   },
   {
@@ -224,10 +211,10 @@
     "id": "recRMqc5LyYA5khcy",
     "Provider": "Safeway",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Safeway is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about Safeway's vaccination program at <https://www.safeway.com/pharmacy/covid-19.html>",
+    "Public Notes": "May 15: Safeway is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
     "Appointments URL": "https://www.mhealthappointments.com/covidappt",
     "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -276,19 +263,6 @@
     "Phase": []
   },
   {
-    "id": "rec2G6j5wu5gri77g",
-    "Provider": "Sam's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Sam's Club is now offering vaccines at select locations in California according to state guidelines. Both members and non-members can schedule an appointment or find more information at https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Appointments URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Vaccine info URL": "https://www.samsclub.com/pharmacy/immunization?imzType=covid",
-    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
     "id": "recPPKwiDAPGruO9u",
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
@@ -302,15 +276,16 @@
     ]
   },
   {
-    "id": "recB3eVZ3t6gTZg5n",
-    "Provider": "Sav-on Pharmacy",
+    "id": "rec2G6j5wu5gri77g",
+    "Provider": "Sam's Pharmacy",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Sav-on Pharmacy is currently providing vaccines at many locations based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nYou can find the latest information about the vaccination program at <https://www.albertsons.com/pharmacy/covid-19.html>",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-05-02",
+    "Public Notes": "May 15: Sam's Club is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit samsclub.com/covid",
+    "Appointments URL": "samsclub.com/covid",
+    "Vaccine info URL": "samsclub.com/covid",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-05-15",
     "Phase": [
-      "Vaccinating 65+"
+      "Not currently vaccinating"
     ]
   },
   {
@@ -323,6 +298,18 @@
     "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating health care workers",
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recB3eVZ3t6gTZg5n",
+    "Provider": "Sav-on Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Sav-on Pharmacy is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-05-15",
+    "Phase": [
       "Vaccinating 65+"
     ]
   },
@@ -342,6 +329,19 @@
     "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "Vaccine locations URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recHdfz54RnV9NckR",
+    "Provider": "Walmart",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Walmart is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit walmart.com/COVIDvaccine",
+    "Appointments URL": "http://www.walmart.com/COVIDvaccine",
+    "Vaccine info URL": "http://www.walmart.com/COVIDvaccine",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
     "Last Updated": "2021-05-15",
     "Phase": [
       "Not currently vaccinating"
@@ -369,11 +369,11 @@
     "id": "recde0nSOAhIbnOwn",
     "Provider": "Stanford Health Care",
     "Provider network type": "Hospital",
-    "Public Notes": "May 2: Stanford Health Care is offering vaccines to all Californians 16+. Individuals 18+ can schedule an appointment online through MyHealth or by calling (650) 498-9000. Individuals 16-17 can schedule through Stanford Children’s Health here: https://www.stanfordchildrens.org/en/landing/covid-vaccine. \r\n\r\nMore information on appointments and eligibility at certain clinic locations can be found at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html",
+    "Public Notes": "May 15: Stanford Health Care is offering vaccines to anyone ages 12 and older. Individuals ages 18+ may drop in or book an appointment by calling 650-498-9000 or on MyHealth at https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html\r\n\r\nIndividuals ages 12-17 can schedule an appointment at the Cardinal Hall or Aloha Roller Rink clinic locations or through Stanford Children's Health: https://www.stanfordchildrens.org/en/landing/covid-vaccine",
     "Appointments URL": "https://myhealth.stanfordhealthcare.org/#/appointments/apptmake",
     "Vaccine info URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html",
     "Vaccine locations URL": "https://stanfordhealthcare.org/discover/covid-19-resource-center/patient-care/safety-health-vaccine-planning.html?ecid=ecc-olm-na-na-all-na-Dec20-surl_covid19updates)",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating 65+"
     ]
@@ -382,10 +382,10 @@
     "id": "recKMdplNPLCwFMua",
     "Provider": "Walgreens",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Walgreens is offering vaccines at select stores to individuals 16+ for Pfizer, 18+ for Moderna and Johnson & Johnson (Janssen) who meet state-specific eligibility criteria. Log into your Walgreens pharmacy account at https://www.walgreens.com/findcare/vaccination/covid-19/location-screening to find available appointments in your area. \r\n\r\nMore information is available here: https://www.walgreens.com/findcare/vaccination/covid-19",
+    "Public Notes": "May 15: Walgreens is offering vaccines to anyone ages 12+ based on FDA and CDC recommendations. To schedule an appointment, visit https://www.walgreens.com/findcare/vaccination/covid-19",
     "Appointments URL": "https://www.walgreens.com/findcare/vaccination/covid-19/location-screening",
     "Vaccine info URL": "https://www.walgreens.com/findcare/vaccination/covid-19",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating health care workers",
       "Vaccinating 65+"
