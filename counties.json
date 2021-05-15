@@ -524,8 +524,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 84,
-    "Yeses": 69,
+    "Total reports": 86,
+    "Yeses": 71,
     "age_floor_without_restrictions": 16
   },
   {
@@ -676,8 +676,8 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 244,
-    "Yeses": 185,
+    "Total reports": 245,
+    "Yeses": 186,
     "age_floor_without_restrictions": 16
   },
   {
