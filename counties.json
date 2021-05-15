@@ -9,8 +9,8 @@
     "County vaccination reservations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
-    "Total reports": 27,
-    "Yeses": 18,
+    "Total reports": 28,
+    "Yeses": 19,
     "age_floor_without_restrictions": 16
   },
   {
@@ -662,7 +662,7 @@
     "County vaccination reservations URL": "https://qaz1.az1.qualtrics.com/jfe/form/SV_6MB5PrXgaf6OWrj",
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
-    "Total reports": 28,
+    "Total reports": 29,
     "Yeses": 22,
     "age_floor_without_restrictions": 16
   },
