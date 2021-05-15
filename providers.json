@@ -300,19 +300,6 @@
     ]
   },
   {
-    "id": "recImxzlTSTVz7meQ",
-    "Provider": "Albertson's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: Albertsons is currently providing vaccines based on state and local health department direction. If you are eligible, please schedule an appointment at https://www.mhealthappointments.com/covidappt and bring proof of eligibility to the appointment.\r\n\r\nMore information can be found at https://www.albertsons.com/pharmacy/covid-19.html",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-05-02",
-    "Phase": [
-      "Vaccinating health care workers",
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "recB3eVZ3t6gTZg5n",
     "Provider": "Sav-on Pharmacy",
     "Provider network type": "Pharmacy",
@@ -321,6 +308,19 @@
     "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
     "Last Updated": "2021-05-02",
     "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "recImxzlTSTVz7meQ",
+    "Provider": "Albertson's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Albertsons is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.albertsons.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
   },
@@ -336,11 +336,11 @@
     "id": "recnnxsQHkx4l7V80",
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
-    "Public Notes": "May 2: CVS is offering vaccines to individuals 16+ in select stores according to state guidelines. Appointments for both first and second doses may be scheduled. Check for availability in your area and book an appointment at https://www.cvs.com/immunizations/covid-19-vaccine.",
+    "Public Notes": "May 15: CVS is offering walk-ins and appointments to anyone ages 12 and older. Appointments for both first and second doses may be scheduled. To book an appointment, visit https://www.cvs.com/immunizations/covid-19-vaccine",
     "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
     "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
     "Vaccine locations URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Not currently vaccinating"
     ]
@@ -393,11 +393,11 @@
     "id": "recaEHL19VRr2MaT1",
     "Provider": "Blue Cross Blue Shield of CA",
     "Provider network type": "Health Plan",
-    "Public Notes": "May 2: Blue Cross members in California ages 16+ are eligible for the vaccine. Members may view this link to find a vaccine provider: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations. Members who reside in California may also get vaccinated in other states, or sign up for a Kaiser Permanente vaccine clinic.\r\n\r\nMore information on vaccine eligibility and availability for members can be found here: https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs#availability",
+    "Public Notes": "May 15: Blue Cross members in California ages 12+ are eligible for the vaccine. To find a vaccine provider and availability information, visit https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
     "Appointments URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-faqs",
     "Vaccine locations URL": "https://www.blueshieldca.com/bsca/bsc/wcm/connect/sites/Sites_Content_EN/coronavirus/vaccine-locations",
-    "Last Updated": "2021-05-02",
+    "Last Updated": "2021-05-15",
     "Phase": [
       "Unknown"
     ]
