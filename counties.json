@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2423,
-    "Yeses": 1238,
+    "Yeses": 1235,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 217,
-    "Yeses": 172,
+    "Yeses": 173,
     "age_floor_without_restrictions": 16
   },
   {
@@ -128,8 +128,8 @@
     "County vaccination reservations URL": "https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
-    "Total reports": 57,
-    "Yeses": 42,
+    "Total reports": 58,
+    "Yeses": 43,
     "age_floor_without_restrictions": 16
   },
   {
@@ -165,7 +165,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 81,
-    "Yeses": 67,
+    "Yeses": 68,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 723,
-    "Yeses": 451,
+    "Yeses": 452,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 605,
-    "Yeses": 414,
+    "Yeses": 415,
     "age_floor_without_restrictions": 16
   },
   {
@@ -551,7 +551,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 108,
-    "Yeses": 75,
+    "Yeses": 74,
     "age_floor_without_restrictions": 16
   },
   {
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 256,
-    "Yeses": 186,
+    "Yeses": 185,
     "age_floor_without_restrictions": 16
   },
   {
