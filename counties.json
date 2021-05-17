@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 723,
-    "Yeses": 454,
+    "Yeses": 452,
     "age_floor_without_restrictions": 16
   },
   {
@@ -290,8 +290,8 @@
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
-    "Total reports": 71,
-    "Yeses": 55,
+    "Total reports": 72,
+    "Yeses": 56,
     "age_floor_without_restrictions": 16
   },
   {
@@ -356,8 +356,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 455,
-    "Yeses": 307,
+    "Total reports": 456,
+    "Yeses": 308,
     "age_floor_without_restrictions": 16
   },
   {
@@ -676,8 +676,8 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 245,
-    "Yeses": 186,
+    "Total reports": 247,
+    "Yeses": 189,
     "age_floor_without_restrictions": 16
   },
   {
