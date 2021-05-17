@@ -80,9 +80,11 @@
     "id": "pmc",
     "Provider": "East Valley Community Health Center",
     "Provider network type": "Hospital",
-    "Vaccine info URL": "https://www.evchc.org/covid-19",
+    "Public Notes": "May 16: East Valley Community Health Center is currently offering vaccines to all of its patients. To schedule an appointment, visit https://www.evchc.org/covid19vaccine",
+    "Appointments URL": "https://www.evchc.org/covid19vaccine",
+    "Vaccine info URL": "https://www.evchc.org/covid19vaccine",
     "Vaccine locations URL": "https://www.evchc.org/covid19vaccine",
-    "Last Updated": "2021-04-22",
+    "Last Updated": "2021-05-16",
     "Phase": []
   },
   {
@@ -98,22 +100,23 @@
     ]
   },
   {
-    "id": "phy",
-    "Provider": "Cottage Health Urgent Care",
-    "Provider network type": "Hospital",
-    "Public Notes": "Cottage Health is offering COVID-19 vaccine at multiple locations based on available vaccine supply. \r\nAppointments are required. Everyone age 16+ is now eligible to receive vaccine. Minors age 16 or 17 may receive only Pfizer vaccine and must be accompanied by a parent/guardian.",
-    "Appointments URL": "https://myturn.ca.gov/",
-    "Vaccine info URL": "https://www.cottagehealth.org/coronavirus-covid-19/",
-    "Last Updated": "2021-04-17",
-    "Phase": []
-  },
-  {
     "id": "pkc",
     "Provider": "Center for Family Health and Education",
     "Provider network type": "Hospital",
+    "Public Notes": "May 16: Center for Family Health & Education is currently vaccinating ages 12 and older at its Southern California locations in Panorama City, Paramount, Northridge, El Monte, Walnut, Montebello, Lakewood, and Long Beach. Evening/night hours are available. To schedule an appointment, visit https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
     "Vaccine info URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
     "Vaccine locations URL": "https://www.cffhae.org/patient-guide/covid-19-testing-and-vaccine-locations/",
-    "Last Updated": "2021-04-18",
+    "Last Updated": "2021-05-16",
+    "Phase": []
+  },
+  {
+    "id": "phy",
+    "Provider": "Cottage Health Urgent Care",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 16: Cottage Health is offering vaccines to anyone ages 12+. Appointments are encouraged but not required, and can be scheduled at cottagehealth.org/myvaccine",
+    "Appointments URL": "cottagehealth.org/myvaccine",
+    "Vaccine info URL": "https://www.cottagehealth.org/coronavirus-covid-19/",
+    "Last Updated": "2021-05-16",
     "Phase": []
   },
   {
@@ -314,14 +317,6 @@
     ]
   },
   {
-    "id": "pmq",
-    "Provider": "Chinese Hospital",
-    "Provider network type": "Hospital",
-    "Appointments URL": "https://chinesehospital.iqhealth.com/appointments/search/flex-new",
-    "Vaccine info URL": "https://www.chinesehospital-sf.org/covid19-resources",
-    "Phase": []
-  },
-  {
     "id": "recnnxsQHkx4l7V80",
     "Provider": "CVS",
     "Provider network type": "Pharmacy",
@@ -346,6 +341,17 @@
     "Phase": [
       "Not currently vaccinating"
     ]
+  },
+  {
+    "id": "pmq",
+    "Provider": "Chinese Hospital",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 16: Chinese Hospital is offering vaccines to individuals ages 18 and older at many of its locations. To schedule an appointment, call 1-628-228-2828 or visit https://www.chinesehospital-sf.org/covid-19-vaccine",
+    "Appointments URL": "https://chinesehospital.iqhealth.com/appointments/search/flex-new",
+    "Vaccine info URL": "https://www.chinesehospital-sf.org/covid-19-vaccine",
+    "Vaccine locations URL": "https://www.chinesehospital-sf.org/covid-19-vaccine",
+    "Last Updated": "2021-05-16",
+    "Phase": []
   },
   {
     "id": "pmh",
