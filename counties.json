@@ -10,7 +10,7 @@
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Total reports": 28,
-    "Yeses": 19,
+    "Yeses": 18,
     "age_floor_without_restrictions": 16
   },
   {
@@ -49,7 +49,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 54,
-    "Yeses": 34,
+    "Yeses": 32,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 723,
-    "Yeses": 455,
+    "Yeses": 454,
     "age_floor_without_restrictions": 16
   },
   {
@@ -424,7 +424,7 @@
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Total reports": 26,
-    "Yeses": 16,
+    "Yeses": 15,
     "age_floor_without_restrictions": 16
   },
   {
