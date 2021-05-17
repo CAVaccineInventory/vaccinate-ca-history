@@ -22,7 +22,7 @@
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
     "Total reports": 7,
-    "Yeses": 4,
+    "Yeses": 5,
     "age_floor_without_restrictions": 16
   },
   {
@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2419,
-    "Yeses": 1241,
+    "Yeses": 1240,
     "age_floor_without_restrictions": 16
   },
   {
@@ -202,7 +202,7 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 722,
+    "Total reports": 723,
     "Yeses": 455,
     "age_floor_without_restrictions": 16
   },
@@ -243,7 +243,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 124,
-    "Yeses": 85,
+    "Yeses": 84,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 605,
-    "Yeses": 413,
+    "Yeses": 412,
     "age_floor_without_restrictions": 16
   },
   {
