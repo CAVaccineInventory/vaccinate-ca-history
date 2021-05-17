@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2419,
-    "Yeses": 1240,
+    "Yeses": 1239,
     "age_floor_without_restrictions": 16
   },
   {
@@ -164,7 +164,7 @@
     "Official volunteering opportunities": "https://www.governmentjobs.com/careers/montereycounty/jobs/2786950/health-department-volunteer?keywords=Health%20Department%20volunteer&pagetype=jobOpportunitiesJobs",
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
-    "Total reports": 80,
+    "Total reports": 81,
     "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
