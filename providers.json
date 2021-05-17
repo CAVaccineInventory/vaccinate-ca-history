@@ -258,14 +258,6 @@
     "Phase": []
   },
   {
-    "id": "pmg",
-    "Provider": "Herald Christian Health Center",
-    "Provider network type": "Hospital",
-    "Vaccine info URL": "http://hchcla.org/vaccination-info/",
-    "Last Updated": "2021-04-24",
-    "Phase": []
-  },
-  {
     "id": "recPPKwiDAPGruO9u",
     "Provider": "Rite-Aid Pharmacy",
     "Provider network type": "Pharmacy",
@@ -277,6 +269,17 @@
       "Vaccinating health care workers",
       "Vaccinating 65+"
     ]
+  },
+  {
+    "id": "pmg",
+    "Provider": "Herald Christian Health Center",
+    "Provider network type": "Hospital",
+    "Public Notes": "May 16: Herald Christian Health Center is currently offering vaccines to individuals 18+ at its clinics in the San Gabriel Valley area. To schedule an appointment, visit http://hchcla.org/covid-19-vaccination-avalable/",
+    "Appointments URL": "http://hchcla.org/covid-19-vaccination-avalable/",
+    "Vaccine info URL": "http://hchcla.org/",
+    "Vaccine locations URL": "http://hchcla.org/covid-19-vaccination-avalable/",
+    "Last Updated": "2021-05-16",
+    "Phase": []
   },
   {
     "id": "rec2G6j5wu5gri77g",
