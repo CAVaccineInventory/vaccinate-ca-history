@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 139,
-    "Yeses": 97,
+    "Yeses": 96,
     "age_floor_without_restrictions": 16
   },
   {
@@ -165,7 +165,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 81,
-    "Yeses": 67,
+    "Yeses": 66,
     "age_floor_without_restrictions": 16
   },
   {
@@ -243,7 +243,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 124,
-    "Yeses": 85,
+    "Yeses": 86,
     "age_floor_without_restrictions": 16
   },
   {
@@ -356,8 +356,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 461,
-    "Yeses": 308,
+    "Total reports": 462,
+    "Yeses": 309,
     "age_floor_without_restrictions": 16
   },
   {
@@ -370,7 +370,7 @@
     "County vaccination reservations URL": "https://vaccinatemercedcounty.com/registration/",
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
-    "Total reports": 62,
+    "Total reports": 63,
     "Yeses": 42,
     "age_floor_without_restrictions": 16
   },
