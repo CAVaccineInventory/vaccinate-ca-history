@@ -356,8 +356,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 462,
-    "Yeses": 308,
+    "Total reports": 463,
+    "Yeses": 309,
     "age_floor_without_restrictions": 16
   },
   {
@@ -525,7 +525,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 89,
-    "Yeses": 69,
+    "Yeses": 68,
     "age_floor_without_restrictions": 16
   },
   {
@@ -676,8 +676,8 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 247,
-    "Yeses": 188,
+    "Total reports": 248,
+    "Yeses": 189,
     "age_floor_without_restrictions": 16
   },
   {
