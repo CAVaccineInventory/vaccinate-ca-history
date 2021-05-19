@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2423,
-    "Yeses": 1233,
+    "Yeses": 1232,
     "age_floor_without_restrictions": 16
   },
   {
@@ -165,7 +165,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 81,
-    "Yeses": 66,
+    "Yeses": 65,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 723,
-    "Yeses": 451,
+    "Yeses": 449,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 605,
-    "Yeses": 415,
+    "Yeses": 416,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 462,
-    "Yeses": 309,
+    "Yeses": 308,
     "age_floor_without_restrictions": 16
   },
   {
@@ -371,7 +371,7 @@
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
     "Total reports": 63,
-    "Yeses": 42,
+    "Yeses": 43,
     "age_floor_without_restrictions": 16
   },
   {
@@ -424,7 +424,7 @@
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Total reports": 26,
-    "Yeses": 14,
+    "Yeses": 15,
     "age_floor_without_restrictions": 16
   },
   {
@@ -448,7 +448,7 @@
     "County vaccination reservations URL": "https://www.countyofcolusa.org/949/Vaccine",
     "Vaccine info URL": "https://www.countyofcolusa.org/771/COVID19",
     "Total reports": 8,
-    "Yeses": 3,
+    "Yeses": 4,
     "age_floor_without_restrictions": 16
   },
   {
@@ -524,8 +524,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 87,
-    "Yeses": 69,
+    "Total reports": 88,
+    "Yeses": 68,
     "age_floor_without_restrictions": 16
   },
   {
@@ -612,7 +612,7 @@
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Total reports": 36,
-    "Yeses": 24,
+    "Yeses": 25,
     "age_floor_without_restrictions": 16
   },
   {
