@@ -35,8 +35,8 @@
     "County vaccination reservations URL": "https://publichealthsbc.org/vaccine/",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Total reports": 100,
-    "Yeses": 72,
+    "Total reports": 101,
+    "Yeses": 73,
     "age_floor_without_restrictions": 16
   },
   {
@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2423,
-    "Yeses": 1230,
+    "Total reports": 2424,
+    "Yeses": 1231,
     "age_floor_without_restrictions": 16
   },
   {
@@ -202,8 +202,8 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 723,
-    "Yeses": 450,
+    "Total reports": 725,
+    "Yeses": 452,
     "age_floor_without_restrictions": 16
   },
   {
@@ -277,8 +277,8 @@
     "Facebook Page": "https://www.facebook.com/calaveraspublichealth/",
     "County vaccination reservations URL": "https://covid19.calaverasgov.us/Vaccines",
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
-    "Total reports": 13,
-    "Yeses": 8,
+    "Total reports": 16,
+    "Yeses": 11,
     "age_floor_without_restrictions": 16
   },
   {
@@ -290,8 +290,8 @@
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
-    "Total reports": 72,
-    "Yeses": 56,
+    "Total reports": 73,
+    "Yeses": 57,
     "age_floor_without_restrictions": 16
   },
   {
@@ -423,8 +423,8 @@
     "Facebook Page": "https://www.facebook.com/NevadaCountyCA/",
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
-    "Total reports": 26,
-    "Yeses": 15,
+    "Total reports": 27,
+    "Yeses": 16,
     "age_floor_without_restrictions": 16
   },
   {
