@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2424,
-    "Yeses": 1231,
+    "Yeses": 1230,
     "age_floor_without_restrictions": 16
   },
   {
@@ -242,8 +242,8 @@
     "County vaccination reservations URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
-    "Total reports": 124,
-    "Yeses": 85,
+    "Total reports": 125,
+    "Yeses": 86,
     "age_floor_without_restrictions": 16
   },
   {
