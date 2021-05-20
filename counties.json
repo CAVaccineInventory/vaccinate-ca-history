@@ -89,7 +89,7 @@
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Total reports": 217,
+    "Total reports": 218,
     "Yeses": 172,
     "age_floor_without_restrictions": 16
   },
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 463,
-    "Yeses": 304,
+    "Yeses": 303,
     "age_floor_without_restrictions": 16
   },
   {
