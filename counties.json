@@ -21,8 +21,8 @@
     "Facebook Page": "https://www.facebook.com/MariposaCountyPublicHealth/?ref=bookmarks",
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
-    "Total reports": 10,
-    "Yeses": 8,
+    "Total reports": 12,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
   {
@@ -48,8 +48,8 @@
     "Official volunteering opportunities": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
-    "Total reports": 54,
-    "Yeses": 33,
+    "Total reports": 55,
+    "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
   {
@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2429,
-    "Yeses": 1231,
+    "Total reports": 2431,
+    "Yeses": 1233,
     "age_floor_without_restrictions": 16
   },
   {
@@ -90,7 +90,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 219,
-    "Yeses": 172,
+    "Yeses": 171,
     "age_floor_without_restrictions": 16
   },
   {
@@ -165,7 +165,7 @@
     "County vaccination reservations URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Vaccine info URL": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/vaccination-registration",
     "Total reports": 82,
-    "Yeses": 66,
+    "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
   {
@@ -229,8 +229,8 @@
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Total reports": 266,
-    "Yeses": 189,
+    "Total reports": 267,
+    "Yeses": 190,
     "age_floor_without_restrictions": 16
   },
   {
@@ -243,7 +243,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 125,
-    "Yeses": 86,
+    "Yeses": 85,
     "age_floor_without_restrictions": 16
   },
   {
@@ -255,7 +255,7 @@
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
     "Total reports": 47,
-    "Yeses": 31,
+    "Yeses": 29,
     "age_floor_without_restrictions": 16
   },
   {
@@ -315,8 +315,8 @@
     "County vaccination reservations URL": "https://webapps.mono.ca.gov/covid19/vaccinate-mono-form/",
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Vaccine locations URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
-    "Total reports": 13,
-    "Yeses": 4,
+    "Total reports": 14,
+    "Yeses": 5,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 464,
-    "Yeses": 303,
+    "Yeses": 304,
     "age_floor_without_restrictions": 16
   },
   {
@@ -371,7 +371,7 @@
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
     "Total reports": 64,
-    "Yeses": 44,
+    "Yeses": 45,
     "age_floor_without_restrictions": 16
   },
   {
@@ -436,7 +436,7 @@
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
     "Total reports": 57,
-    "Yeses": 37,
+    "Yeses": 38,
     "age_floor_without_restrictions": 16
   },
   {
@@ -461,7 +461,7 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 216,
+    "Total reports": 217,
     "Yeses": 165,
     "age_floor_without_restrictions": 16
   },
@@ -649,7 +649,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 214,
-    "Yeses": 154,
+    "Yeses": 155,
     "age_floor_without_restrictions": 16
   },
   {
@@ -662,8 +662,8 @@
     "County vaccination reservations URL": "https://qaz1.az1.qualtrics.com/jfe/form/SV_6MB5PrXgaf6OWrj",
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
-    "Total reports": 29,
-    "Yeses": 22,
+    "Total reports": 30,
+    "Yeses": 23,
     "age_floor_without_restrictions": 16
   },
   {
@@ -677,7 +677,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 249,
-    "Yeses": 191,
+    "Yeses": 190,
     "age_floor_without_restrictions": 16
   },
   {
