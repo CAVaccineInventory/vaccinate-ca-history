@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2431,
-    "Yeses": 1234,
+    "Yeses": 1233,
     "age_floor_without_restrictions": 16
   },
   {
@@ -230,7 +230,7 @@
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
     "Total reports": 269,
-    "Yeses": 192,
+    "Yeses": 193,
     "age_floor_without_restrictions": 16
   },
   {
@@ -648,8 +648,8 @@
     "County vaccination reservations URL": "https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3tkgKC3cY0OGJvKwA0OMRRd1QfIVjtpAkM-cYiio35ZUM0hIWVpaOTJHSDBTM0ZLSU5SNUM3NEo0OCQlQCN0PWcu",
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
-    "Total reports": 214,
-    "Yeses": 155,
+    "Total reports": 215,
+    "Yeses": 156,
     "age_floor_without_restrictions": 16
   },
   {
