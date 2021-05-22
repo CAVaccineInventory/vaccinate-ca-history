@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2432,
-    "Yeses": 1232,
+    "Yeses": 1233,
     "age_floor_without_restrictions": 16
   },
   {
@@ -278,7 +278,7 @@
     "County vaccination reservations URL": "https://covid19.calaverasgov.us/Vaccines",
     "Vaccine info URL": "https://covid19.calaverasgov.us/Vaccines",
     "Total reports": 16,
-    "Yeses": 11,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
   {
@@ -512,7 +512,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 36,
-    "Yeses": 30,
+    "Yeses": 29,
     "age_floor_without_restrictions": 16
   },
   {
@@ -663,7 +663,7 @@
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
     "Total reports": 30,
-    "Yeses": 23,
+    "Yeses": 22,
     "age_floor_without_restrictions": 16
   },
   {
