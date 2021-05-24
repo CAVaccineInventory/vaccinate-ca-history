@@ -62,7 +62,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2433,
+    "Total reports": 2434,
     "Yeses": 1239,
     "age_floor_without_restrictions": 16
   },
@@ -550,8 +550,8 @@
     "Official volunteering opportunities": "https://smcgov.knack.com/volunteers#volunteer-home/",
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Total reports": 115,
-    "Yeses": 81,
+    "Total reports": 116,
+    "Yeses": 82,
     "age_floor_without_restrictions": 16
   },
   {
@@ -598,8 +598,8 @@
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Total reports": 558,
-    "Yeses": 385,
+    "Total reports": 559,
+    "Yeses": 386,
     "age_floor_without_restrictions": 16
   },
   {
