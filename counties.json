@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2434,
-    "Yeses": 1238,
+    "Total reports": 2435,
+    "Yeses": 1239,
     "age_floor_without_restrictions": 16
   },
   {
@@ -385,7 +385,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 113,
-    "Yeses": 74,
+    "Yeses": 75,
     "age_floor_without_restrictions": 16
   },
   {
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 259,
-    "Yeses": 186,
+    "Yeses": 185,
     "age_floor_without_restrictions": 16
   },
   {
