@@ -36,7 +36,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 101,
-    "Yeses": 71,
+    "Yeses": 72,
     "age_floor_without_restrictions": 16
   },
   {
@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2435,
-    "Yeses": 1238,
+    "Yeses": 1236,
     "age_floor_without_restrictions": 16
   },
   {
@@ -255,7 +255,7 @@
     "County vaccination reservations URL": "https://docs.google.com/forms/d/e/1FAIpQLSd46hMX-ygUZ9aMz2QOQk3b5f2jJYGkUobZTLMJcVvpsvKLnA/viewform",
     "Vaccine info URL": "https://humboldtgov.org/2872/Vaccine-Info",
     "Total reports": 47,
-    "Yeses": 29,
+    "Yeses": 28,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 610,
-    "Yeses": 421,
+    "Yeses": 422,
     "age_floor_without_restrictions": 16
   },
   {
@@ -462,7 +462,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 218,
-    "Yeses": 166,
+    "Yeses": 167,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://publichealth.co.modoc.ca.us/covid-19_information/covid-19_vaccine/index.php",
     "Vaccine locations URL": "http://partnershiphp.org/Community/Documents/Modoc/Modoc_COVID-19.pdf",
     "Total reports": 5,
-    "Yeses": 3,
+    "Yeses": 2,
     "age_floor_without_restrictions": 16
   },
   {
