@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2435,
-    "Yeses": 1237,
+    "Yeses": 1236,
     "age_floor_without_restrictions": 16
   },
   {
@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 142,
-    "Yeses": 94,
+    "Yeses": 95,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 727,
-    "Yeses": 456,
+    "Yeses": 455,
     "age_floor_without_restrictions": 16
   },
   {
@@ -399,7 +399,7 @@
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
     "Total reports": 57,
-    "Yeses": 44,
+    "Yeses": 45,
     "age_floor_without_restrictions": 16
   },
   {
@@ -538,7 +538,7 @@
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
     "Total reports": 190,
-    "Yeses": 138,
+    "Yeses": 137,
     "age_floor_without_restrictions": 16
   },
   {
