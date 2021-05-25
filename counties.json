@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2435,
-    "Yeses": 1239,
+    "Yeses": 1238,
     "age_floor_without_restrictions": 16
   },
   {
@@ -329,8 +329,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 609,
-    "Yeses": 420,
+    "Total reports": 610,
+    "Yeses": 421,
     "age_floor_without_restrictions": 16
   },
   {
@@ -649,7 +649,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 229,
-    "Yeses": 170,
+    "Yeses": 171,
     "age_floor_without_restrictions": 16
   },
   {
@@ -701,7 +701,7 @@
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Total reports": 38,
-    "Yeses": 22,
+    "Yeses": 23,
     "age_floor_without_restrictions": 16
   },
   {
