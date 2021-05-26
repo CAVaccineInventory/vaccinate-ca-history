@@ -35,8 +35,8 @@
     "County vaccination reservations URL": "https://publichealthsbc.org/vaccine/",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Total reports": 102,
-    "Yeses": 72,
+    "Total reports": 103,
+    "Yeses": 73,
     "age_floor_without_restrictions": 16
   },
   {
@@ -62,7 +62,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2438,
+    "Total reports": 2439,
     "Yeses": 1239,
     "age_floor_without_restrictions": 16
   },
@@ -329,8 +329,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 611,
-    "Yeses": 427,
+    "Total reports": 612,
+    "Yeses": 428,
     "age_floor_without_restrictions": 16
   },
   {
@@ -357,7 +357,7 @@
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 466,
-    "Yeses": 307,
+    "Yeses": 308,
     "age_floor_without_restrictions": 16
   },
   {
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 259,
-    "Yeses": 185,
+    "Yeses": 184,
     "age_floor_without_restrictions": 16
   },
   {
@@ -663,7 +663,7 @@
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
     "Total reports": 30,
-    "Yeses": 22,
+    "Yeses": 23,
     "age_floor_without_restrictions": 16
   },
   {
