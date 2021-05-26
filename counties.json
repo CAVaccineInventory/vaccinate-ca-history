@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2435,
-    "Yeses": 1238,
+    "Total reports": 2436,
+    "Yeses": 1240,
     "age_floor_without_restrictions": 16
   },
   {
@@ -203,7 +203,7 @@
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
     "Total reports": 728,
-    "Yeses": 457,
+    "Yeses": 458,
     "age_floor_without_restrictions": 16
   },
   {
@@ -303,7 +303,7 @@
     "County vaccination reservations URL": "https://www.covid19.dnco.org/vaccines",
     "Vaccine info URL": "https://www.covid19.dnco.org/vaccines",
     "Total reports": 11,
-    "Yeses": 9,
+    "Yeses": 8,
     "age_floor_without_restrictions": 16
   },
   {
@@ -599,7 +599,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 559,
-    "Yeses": 385,
+    "Yeses": 386,
     "age_floor_without_restrictions": 16
   },
   {
