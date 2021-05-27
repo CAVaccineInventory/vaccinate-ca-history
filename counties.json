@@ -21,8 +21,8 @@
     "Facebook Page": "https://www.facebook.com/MariposaCountyPublicHealth/?ref=bookmarks",
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
-    "Total reports": 12,
-    "Yeses": 10,
+    "Total reports": 13,
+    "Yeses": 11,
     "age_floor_without_restrictions": 16
   },
   {
@@ -35,8 +35,8 @@
     "County vaccination reservations URL": "https://publichealthsbc.org/vaccine/",
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
-    "Total reports": 103,
-    "Yeses": 73,
+    "Total reports": 104,
+    "Yeses": 74,
     "age_floor_without_restrictions": 16
   },
   {
@@ -229,8 +229,8 @@
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Total reports": 270,
-    "Yeses": 192,
+    "Total reports": 272,
+    "Yeses": 194,
     "age_floor_without_restrictions": 16
   },
   {
