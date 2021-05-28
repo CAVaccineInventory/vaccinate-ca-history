@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2442,
-    "Yeses": 1242,
+    "Total reports": 2443,
+    "Yeses": 1243,
     "age_floor_without_restrictions": 16
   },
   {
@@ -202,7 +202,7 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 731,
+    "Total reports": 732,
     "Yeses": 461,
     "age_floor_without_restrictions": 16
   },
@@ -384,7 +384,7 @@
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Total reports": 113,
+    "Total reports": 114,
     "Yeses": 74,
     "age_floor_without_restrictions": 16
   },
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 259,
-    "Yeses": 184,
+    "Yeses": 185,
     "age_floor_without_restrictions": 16
   },
   {
