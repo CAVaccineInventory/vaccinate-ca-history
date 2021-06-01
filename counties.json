@@ -90,7 +90,7 @@
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Total reports": 220,
-    "Yeses": 167,
+    "Yeses": 168,
     "age_floor_without_restrictions": 16
   },
   {
@@ -128,8 +128,8 @@
     "County vaccination reservations URL": "https://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccine-providers/",
     "Vaccine info URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/",
     "Vaccine locations URL": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/covid-19-vaccine/vaccination-clinics/",
-    "Total reports": 69,
-    "Yeses": 55,
+    "Total reports": 71,
+    "Yeses": 57,
     "age_floor_without_restrictions": 16
   },
   {
@@ -662,8 +662,8 @@
     "County vaccination reservations URL": "https://qaz1.az1.qualtrics.com/jfe/form/SV_6MB5PrXgaf6OWrj",
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
-    "Total reports": 30,
-    "Yeses": 23,
+    "Total reports": 32,
+    "Yeses": 25,
     "age_floor_without_restrictions": 16
   },
   {
