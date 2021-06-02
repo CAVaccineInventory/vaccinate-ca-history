@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2447,
-    "Yeses": 1249,
+    "Total reports": 2448,
+    "Yeses": 1250,
     "age_floor_without_restrictions": 16
   },
   {
@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 145,
-    "Yeses": 99,
+    "Yeses": 98,
     "age_floor_without_restrictions": 16
   },
   {
@@ -217,7 +217,7 @@
     "Vaccine info URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Vaccine locations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Total reports": 10,
-    "Yeses": 6,
+    "Yeses": 5,
     "age_floor_without_restrictions": 16
   },
   {
@@ -243,7 +243,7 @@
     "Vaccine info URL": "https://sjready.org/events/covid19/vaccines.html",
     "Vaccine locations URL": "https://sjready.org/events/covid19/vaccines.html#clinics",
     "Total reports": 126,
-    "Yeses": 84,
+    "Yeses": 85,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 614,
-    "Yeses": 431,
+    "Yeses": 432,
     "age_floor_without_restrictions": 16
   },
   {
@@ -356,7 +356,7 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 469,
+    "Total reports": 470,
     "Yeses": 308,
     "age_floor_without_restrictions": 16
   },
@@ -412,7 +412,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 279,
-    "Yeses": 208,
+    "Yeses": 209,
     "age_floor_without_restrictions": 16
   },
   {
@@ -424,7 +424,7 @@
     "County vaccination reservations URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Vaccine info URL": "https://www.mynevadacounty.com/3148/Get-Vaccine-Information",
     "Total reports": 28,
-    "Yeses": 16,
+    "Yeses": 17,
     "age_floor_without_restrictions": 16
   },
   {
@@ -599,7 +599,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 559,
-    "Yeses": 386,
+    "Yeses": 385,
     "age_floor_without_restrictions": 16
   },
   {
@@ -612,7 +612,7 @@
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Total reports": 36,
-    "Yeses": 25,
+    "Yeses": 24,
     "age_floor_without_restrictions": 16
   },
   {
@@ -625,7 +625,7 @@
     "Vaccine info URL": "https://kernpublichealth.com/coronavirus-vaccine/",
     "Vaccine locations URL": "https://phweb.kerncounty.com/Html5Viewer/index.html?viewer=COVID19Vaccination#",
     "Total reports": 260,
-    "Yeses": 187,
+    "Yeses": 188,
     "age_floor_without_restrictions": 16
   },
   {
