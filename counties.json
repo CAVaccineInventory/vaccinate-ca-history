@@ -461,7 +461,7 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 227,
+    "Total reports": 228,
     "Yeses": 175,
     "age_floor_without_restrictions": 16
   },
@@ -524,8 +524,8 @@
     "County vaccination reservations URL": "https://marincountyhc.jotform.com/210187732830049",
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
-    "Total reports": 98,
-    "Yeses": 77,
+    "Total reports": 99,
+    "Yeses": 78,
     "age_floor_without_restrictions": 16
   },
   {
