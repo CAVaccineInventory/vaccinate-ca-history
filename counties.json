@@ -411,8 +411,8 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Total reports": 290,
-    "Yeses": 220,
+    "Total reports": 292,
+    "Yeses": 222,
     "age_floor_without_restrictions": 16
   },
   {
@@ -662,7 +662,7 @@
     "County vaccination reservations URL": "https://qaz1.az1.qualtrics.com/jfe/form/SV_6MB5PrXgaf6OWrj",
     "Vaccine info URL": "https://www.maderacounty.com/government/public-health/covid-19/covid-vaccination",
     "Vaccine locations URL": "https://www.maderacounty.com/government/public-health/covid-19/covid19vaxclinicinfo",
-    "Total reports": 44,
+    "Total reports": 46,
     "Yeses": 34,
     "age_floor_without_restrictions": 16
   },
