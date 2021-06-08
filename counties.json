@@ -9,8 +9,8 @@
     "County vaccination reservations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
-    "Total reports": 30,
-    "Yeses": 19,
+    "Total reports": 31,
+    "Yeses": 20,
     "age_floor_without_restrictions": 16
   },
   {
@@ -62,7 +62,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2498,
+    "Total reports": 2499,
     "Yeses": 1299,
     "age_floor_without_restrictions": 16
   },
@@ -461,7 +461,7 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 231,
+    "Total reports": 232,
     "Yeses": 177,
     "age_floor_without_restrictions": 16
   },
@@ -611,8 +611,8 @@
     "County vaccination reservations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
-    "Total reports": 41,
-    "Yeses": 30,
+    "Total reports": 42,
+    "Yeses": 32,
     "age_floor_without_restrictions": 16
   },
   {
