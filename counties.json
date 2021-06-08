@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2494,
-    "Yeses": 1291,
+    "Total reports": 2495,
+    "Yeses": 1292,
     "age_floor_without_restrictions": 16
   },
   {
@@ -435,8 +435,8 @@
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Total reports": 60,
-    "Yeses": 40,
+    "Total reports": 61,
+    "Yeses": 41,
     "age_floor_without_restrictions": 16
   },
   {
@@ -462,7 +462,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 230,
-    "Yeses": 177,
+    "Yeses": 178,
     "age_floor_without_restrictions": 16
   },
   {
@@ -676,8 +676,8 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 267,
-    "Yeses": 207,
+    "Total reports": 268,
+    "Yeses": 208,
     "age_floor_without_restrictions": 16
   },
   {
