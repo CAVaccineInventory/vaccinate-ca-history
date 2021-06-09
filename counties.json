@@ -36,7 +36,7 @@
     "Vaccine info URL": "https://publichealthsbc.org/covid-19-vaccine-appointment-registration/",
     "Vaccine locations URL": "https://countyofsb.org/uploadedFiles/phd/PROGRAMS/Disease_Control/Pharmacy%20Vaccinations%20Provider%20Alert.pdf",
     "Total reports": 106,
-    "Yeses": 76,
+    "Yeses": 75,
     "age_floor_without_restrictions": 16
   },
   {
@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2499,
-    "Yeses": 1299,
+    "Yeses": 1298,
     "age_floor_without_restrictions": 16
   },
   {
@@ -77,7 +77,7 @@
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
     "Total reports": 148,
-    "Yeses": 93,
+    "Yeses": 92,
     "age_floor_without_restrictions": 16
   },
   {
