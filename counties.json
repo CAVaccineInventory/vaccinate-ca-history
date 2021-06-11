@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2502,
-    "Yeses": 1298,
+    "Total reports": 2504,
+    "Yeses": 1299,
     "age_floor_without_restrictions": 16
   },
   {
@@ -115,8 +115,8 @@
     "County vaccination reservations URL": "http://schsa.org/coronavirus/vaccine/public/",
     "Vaccine info URL": "http://schsa.org/coronavirus/vaccine/",
     "Vaccine locations URL": "http://schsa.org/coronavirus/vaccine/pdf/approved-providers.pdf",
-    "Total reports": 107,
-    "Yeses": 84,
+    "Total reports": 108,
+    "Yeses": 85,
     "age_floor_without_restrictions": 16
   },
   {
@@ -202,7 +202,7 @@
     "Official volunteering opportunities": "https://oneoc.org/",
     "County vaccination reservations URL": "https://www.othena.com/",
     "Vaccine info URL": "https://occovid19.ochealthinfo.com/covid-19-vaccine-resources",
-    "Total reports": 757,
+    "Total reports": 758,
     "Yeses": 484,
     "age_floor_without_restrictions": 16
   },
@@ -462,7 +462,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 232,
-    "Yeses": 177,
+    "Yeses": 176,
     "age_floor_without_restrictions": 16
   },
   {
@@ -474,7 +474,7 @@
     "Vaccine info URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information",
     "Vaccine locations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers",
     "Total reports": 31,
-    "Yeses": 22,
+    "Yeses": 21,
     "age_floor_without_restrictions": 16
   },
   {
@@ -701,7 +701,7 @@
     "Vaccine info URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Vaccine locations URL": "https://www.countyofnapa.org/3096/COVID-19-Vaccines",
     "Total reports": 39,
-    "Yeses": 25,
+    "Yeses": 24,
     "age_floor_without_restrictions": 16
   },
   {
