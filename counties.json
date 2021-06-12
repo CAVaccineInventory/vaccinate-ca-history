@@ -102,7 +102,7 @@
     "County vaccination reservations URL": "https://hhsa.cosb.us/vaccine-registration-portal/",
     "Vaccine info URL": "https://hhsa.cosb.us/covid-19-vaccine-info/",
     "Total reports": 14,
-    "Yeses": 11,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   },
   {
@@ -177,7 +177,7 @@
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Vaccine info URL": "https://www.yuba.org/coronavirus/vaccines.php",
     "Vaccine locations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
-    "Total reports": 18,
+    "Total reports": 19,
     "Yeses": 12,
     "age_floor_without_restrictions": 16
   },
@@ -370,8 +370,8 @@
     "County vaccination reservations URL": "https://vaccinatemercedcounty.com/registration/",
     "Vaccine info URL": "https://vaccinatemercedcounty.com/",
     "Vaccine locations URL": "finder.vaccinatemercedcounty.com",
-    "Total reports": 69,
-    "Yeses": 48,
+    "Total reports": 70,
+    "Yeses": 49,
     "age_floor_without_restrictions": 16
   },
   {
@@ -412,7 +412,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 296,
-    "Yeses": 225,
+    "Yeses": 226,
     "age_floor_without_restrictions": 16
   },
   {
@@ -462,7 +462,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 232,
-    "Yeses": 176,
+    "Yeses": 175,
     "age_floor_without_restrictions": 16
   },
   {
