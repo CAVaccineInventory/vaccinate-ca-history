@@ -9,7 +9,7 @@
     "County vaccination reservations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
-    "Total reports": 31,
+    "Total reports": 32,
     "Yeses": 20,
     "age_floor_without_restrictions": 16
   },
@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2505,
-    "Yeses": 1302,
+    "Total reports": 2507,
+    "Yeses": 1305,
     "age_floor_without_restrictions": 16
   },
   {
@@ -89,7 +89,7 @@
     "County vaccination reservations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccine-information",
     "Vaccine info URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
     "Vaccine locations URL": "https://www.co.fresno.ca.us/departments/public-health/covid-19/covid-19-vaccines",
-    "Total reports": 228,
+    "Total reports": 229,
     "Yeses": 179,
     "age_floor_without_restrictions": 16
   },
@@ -217,7 +217,7 @@
     "Vaccine info URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Vaccine locations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Total reports": 11,
-    "Yeses": 6,
+    "Yeses": 7,
     "age_floor_without_restrictions": 16
   },
   {
@@ -330,7 +330,7 @@
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
     "Total reports": 633,
-    "Yeses": 445,
+    "Yeses": 444,
     "age_floor_without_restrictions": 16
   },
   {
@@ -385,7 +385,7 @@
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
     "Total reports": 118,
-    "Yeses": 73,
+    "Yeses": 72,
     "age_floor_without_restrictions": 16
   },
   {
@@ -411,8 +411,8 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Total reports": 295,
-    "Yeses": 224,
+    "Total reports": 296,
+    "Yeses": 225,
     "age_floor_without_restrictions": 16
   },
   {
@@ -512,7 +512,7 @@
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
     "Total reports": 38,
-    "Yeses": 31,
+    "Yeses": 32,
     "age_floor_without_restrictions": 16
   },
   {
@@ -649,7 +649,7 @@
     "Vaccine info URL": "https://www.coronavirus.cchealth.org/vaccine",
     "Vaccine locations URL": "https://www.coronavirus.cchealth.org/vaccine-dashboard",
     "Total reports": 238,
-    "Yeses": 181,
+    "Yeses": 182,
     "age_floor_without_restrictions": 16
   },
   {
@@ -723,7 +723,7 @@
     "Vaccine info URL": "https://publichealth.co.modoc.ca.us/covid-19_information/covid-19_vaccine/index.php",
     "Vaccine locations URL": "http://partnershiphp.org/Community/Documents/Modoc/Modoc_COVID-19.pdf",
     "Total reports": 5,
-    "Yeses": 2,
+    "Yeses": 1,
     "age_floor_without_restrictions": 16
   },
   {
