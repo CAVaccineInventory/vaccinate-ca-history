@@ -329,7 +329,7 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 633,
+    "Total reports": 634,
     "Yeses": 445,
     "age_floor_without_restrictions": 16
   },
@@ -599,7 +599,7 @@
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Total reports": 576,
-    "Yeses": 397,
+    "Yeses": 398,
     "age_floor_without_restrictions": 16
   },
   {
@@ -677,7 +677,7 @@
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
     "Total reports": 269,
-    "Yeses": 208,
+    "Yeses": 209,
     "age_floor_without_restrictions": 16
   },
   {
@@ -735,7 +735,7 @@
     "County vaccination reservations URL": "https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
     "Vaccine info URL": "https://www.tuolumnecounty.ca.gov/1317/COVID-Vaccine",
     "Total reports": 13,
-    "Yeses": 9,
+    "Yeses": 10,
     "age_floor_without_restrictions": 16
   }
 ]
