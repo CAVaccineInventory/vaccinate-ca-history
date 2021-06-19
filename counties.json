@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2508,
-    "Yeses": 1307,
+    "Yeses": 1308,
     "age_floor_without_restrictions": 16
   },
   {
@@ -290,8 +290,8 @@
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
-    "Total reports": 79,
-    "Yeses": 62,
+    "Total reports": 81,
+    "Yeses": 65,
     "age_floor_without_restrictions": 16
   },
   {
