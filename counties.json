@@ -177,8 +177,8 @@
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Vaccine info URL": "https://www.yuba.org/coronavirus/vaccines.php",
     "Vaccine locations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
-    "Total reports": 19,
-    "Yeses": 12,
+    "Total reports": 20,
+    "Yeses": 13,
     "age_floor_without_restrictions": 16
   },
   {
@@ -473,8 +473,8 @@
     "County vaccination reservations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-frequently-asked-questions",
     "Vaccine info URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-vaccine-information",
     "Vaccine locations URL": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-calvax-providers",
-    "Total reports": 36,
-    "Yeses": 27,
+    "Total reports": 38,
+    "Yeses": 30,
     "age_floor_without_restrictions": 16
   },
   {
