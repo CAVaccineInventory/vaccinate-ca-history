@@ -229,8 +229,8 @@
     "County vaccination reservations URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx?fbclid=IwAR2Vmh-6ODYbA7eYZ4Zt2RiWZ8qxcMnn299Ec1UrvXPKOrCesPV0GjIuiiM",
     "Vaccine info URL": "https://www.saccounty.net/COVID-19/Pages/CoronavirusVaccine.aspx",
     "Vaccine locations URL": "https://dhs.saccounty.net/PUB/Pages/Communicable-Disease-Control/Vaccination-Registration-for-Residents-65-and-Older.aspx",
-    "Total reports": 284,
-    "Yeses": 207,
+    "Total reports": 290,
+    "Yeses": 213,
     "age_floor_without_restrictions": 16
   },
   {
@@ -266,8 +266,8 @@
     "Facebook Page": "https://www.facebook.com/SolanoCountyPH/",
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
-    "Total reports": 78,
-    "Yeses": 66,
+    "Total reports": 79,
+    "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
   {
@@ -329,8 +329,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 634,
-    "Yeses": 445,
+    "Total reports": 641,
+    "Yeses": 452,
     "age_floor_without_restrictions": 16
   },
   {
@@ -356,8 +356,8 @@
     "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
     "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
-    "Total reports": 486,
-    "Yeses": 323,
+    "Total reports": 488,
+    "Yeses": 325,
     "age_floor_without_restrictions": 16
   },
   {
@@ -411,8 +411,8 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Total reports": 301,
-    "Yeses": 229,
+    "Total reports": 303,
+    "Yeses": 231,
     "age_floor_without_restrictions": 16
   },
   {
@@ -598,8 +598,8 @@
     "County vaccination reservations URL": "https://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine info URL": "http://www.rivcoph.org/COVID-19-Vaccine",
     "Vaccine locations URL": "http://www.rivcoph.org/COVID-19-Vaccine",
-    "Total reports": 587,
-    "Yeses": 410,
+    "Total reports": 589,
+    "Yeses": 412,
     "age_floor_without_restrictions": 16
   },
   {
