@@ -412,7 +412,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 303,
-    "Yeses": 230,
+    "Yeses": 231,
     "age_floor_without_restrictions": 16
   },
   {
@@ -550,8 +550,8 @@
     "Official volunteering opportunities": "https://smcgov.knack.com/volunteers#volunteer-home/",
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
-    "Total reports": 134,
-    "Yeses": 96,
+    "Total reports": 136,
+    "Yeses": 98,
     "age_floor_without_restrictions": 16
   },
   {
