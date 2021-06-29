@@ -511,8 +511,8 @@
     "County vaccination reservations URL": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx",
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
-    "Total reports": 41,
-    "Yeses": 35,
+    "Total reports": 42,
+    "Yeses": 36,
     "age_floor_without_restrictions": 16
   },
   {
@@ -611,8 +611,8 @@
     "County vaccination reservations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
-    "Total reports": 46,
-    "Yeses": 37,
+    "Total reports": 48,
+    "Yeses": 39,
     "age_floor_without_restrictions": 16
   },
   {
