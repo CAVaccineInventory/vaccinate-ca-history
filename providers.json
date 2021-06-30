@@ -140,18 +140,6 @@
     ]
   },
   {
-    "id": "recsiKWQK5zbpqUj5",
-    "Provider": "Costco Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 15: Costco is vaccinating all individuals ages 12 and older. Many locations are able to accommodate walk-ins. To schedule an appointment, visit https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
-    "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
-    "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
-    "Last Updated": "2021-05-15",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
     "id": "recSnMrHoR5f4eSfE",
     "Provider": "Von's",
     "Provider network type": "Pharmacy",
@@ -211,18 +199,6 @@
     ]
   },
   {
-    "id": "recRMqc5LyYA5khcy",
-    "Provider": "Safeway",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 15: Safeway is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
-    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
-    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
-    "Last Updated": "2021-05-15",
-    "Phase": [
-      "Vaccinating 65+"
-    ]
-  },
-  {
     "id": "reckyDfrqjTM27CgO",
     "Provider": "One Medical",
     "Provider network type": "Other",
@@ -259,7 +235,7 @@
   },
   {
     "id": "recPPKwiDAPGruO9u",
-    "Provider": "Rite-Aid Pharmacy",
+    "Provider": "OBSOLETE Rite-Aid DO NOT USE",
     "Provider network type": "Pharmacy",
     "Public Notes": "May 15: Rite Aid is offering walk-ins and appointments to anyone 12+. To schedule an appointment, visit https://www.riteaid.com/pharmacy/covid-qualifier. For individuals ages 12-17, visit https://www.riteaid.com/covid-19/minors",
     "Appointments URL": "https://www.riteaid.com/pharmacy/covid-qualifier",
@@ -280,19 +256,6 @@
     "Vaccine locations URL": "http://hchcla.org/covid-19-vaccination-avalable/",
     "Last Updated": "2021-05-16",
     "Phase": []
-  },
-  {
-    "id": "rec2G6j5wu5gri77g",
-    "Provider": "Sam's Pharmacy",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 15: Sam's Club is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit samsclub.com/covid",
-    "Appointments URL": "samsclub.com/covid",
-    "Vaccine info URL": "samsclub.com/covid",
-    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-05-15",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
   },
   {
     "id": "recImxzlTSTVz7meQ",
@@ -317,32 +280,6 @@
     "Last Updated": "2021-05-15",
     "Phase": [
       "Vaccinating 65+"
-    ]
-  },
-  {
-    "id": "recnnxsQHkx4l7V80",
-    "Provider": "CVS",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 15: CVS is offering walk-ins and appointments to anyone ages 12 and older. Appointments for both first and second doses may be scheduled. To book an appointment, visit https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
-    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Vaccine locations URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
-    "Last Updated": "2021-05-15",
-    "Phase": [
-      "Not currently vaccinating"
-    ]
-  },
-  {
-    "id": "recHdfz54RnV9NckR",
-    "Provider": "Walmart",
-    "Provider network type": "Pharmacy",
-    "Public Notes": "May 15: Walmart is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit walmart.com/COVIDvaccine",
-    "Appointments URL": "http://www.walmart.com/COVIDvaccine",
-    "Vaccine info URL": "http://www.walmart.com/COVIDvaccine",
-    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
-    "Last Updated": "2021-05-15",
-    "Phase": [
-      "Not currently vaccinating"
     ]
   },
   {
@@ -419,6 +356,82 @@
     "Provider network type": "Health Plan",
     "Public Notes": "June 4: Kaiser Permanente is vaccinating those who are 12 and older. Membership is not required. <br>\r\n<br>\r\nIn Northern California visit https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information/vaccine-appointments <br>\r\n<br>\r\nIn Southern California visit https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information/vaccine-appointments",
     "Last Updated": "2021-05-30",
+    "Phase": []
+  },
+  {
+    "id": "recRMqc5LyYA5khcy",
+    "Provider": "Safeway",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Safeway is offering walk-ins and appointments to anyone ages 12 and older. To schedule an appointment (including same-day), visit https://www.mhealthappointments.com/covidappt",
+    "Appointments URL": "https://www.mhealthappointments.com/covidappt",
+    "Vaccine info URL": "https://www.safeway.com/pharmacy/covid-19.html",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Vaccinating 65+"
+    ]
+  },
+  {
+    "id": "pkd",
+    "Provider": "Health Mart",
+    "Provider network type": "Pharmacy",
+    "Vaccine info URL": "https://www.healthmart.com/covid-19-vaccineinfo.html",
+    "Last Updated": "2021-06-29",
+    "Phase": []
+  },
+  {
+    "id": "rec2G6j5wu5gri77g",
+    "Provider": "Sam's Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Sam's Club is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit samsclub.com/covid",
+    "Appointments URL": "https://samsclub.com/covid",
+    "Vaccine info URL": "https://samsclub.com/covid",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "pmz",
+    "Provider": "Hy-Vee",
+    "Provider network type": "Pharmacy",
+    "Vaccine info URL": "https://www.hy-vee.com/my-pharmacy/covid-vaccine",
+    "Phase": []
+  },
+  {
+    "id": "recsiKWQK5zbpqUj5",
+    "Provider": "Costco Pharmacy",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Costco is vaccinating all individuals ages 12 and older. Many locations are able to accommodate walk-ins. To schedule an appointment, visit https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
+    "Appointments URL": "https://book-costcopharmacy.appointment-plus.com/d133yng2/#/",
+    "Vaccine info URL": "https://www.costco.com/covid-vaccine.html",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recnnxsQHkx4l7V80",
+    "Provider": "CVS",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: CVS is offering walk-ins and appointments to anyone ages 12 and older. Appointments for both first and second doses may be scheduled. To book an appointment, visit https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Appointments URL": "https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=covidvaccine-hb-schedule",
+    "Vaccine info URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Vaccine locations URL": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "Last Updated": "2021-05-15",
+    "Phase": [
+      "Not currently vaccinating"
+    ]
+  },
+  {
+    "id": "recHdfz54RnV9NckR",
+    "Provider": "Walmart",
+    "Provider network type": "Pharmacy",
+    "Public Notes": "May 15: Walmart is now offering vaccines to anyone ages 12+ (membership not required). Appointments and walk-ins are available at all pharmacy locations. To schedule an appointment, visit walmart.com/COVIDvaccine",
+    "Appointments URL": "http://www.walmart.com/COVIDvaccine",
+    "Vaccine info URL": "http://www.walmart.com/COVIDvaccine",
+    "Vaccine locations URL": "https://corporate.walmart.com/covid-vaccine",
+    "Last Updated": "2021-05-15",
     "Phase": []
   }
 ]
