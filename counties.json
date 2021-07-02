@@ -435,8 +435,8 @@
     "Facebook Page": "https://www.facebook.com/buttecountypublichealth",
     "County vaccination reservations URL": "https://myturn.ca.gov/",
     "Vaccine info URL": "https://www.buttecounty.net/ph/COVID19/vaccine",
-    "Total reports": 70,
-    "Yeses": 51,
+    "Total reports": 72,
+    "Yeses": 53,
     "age_floor_without_restrictions": 16
   },
   {
@@ -461,8 +461,8 @@
     "County vaccination reservations URL": "https://sf.gov/get-vaccinated-against-covid-19",
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
-    "Total reports": 234,
-    "Yeses": 178,
+    "Total reports": 235,
+    "Yeses": 179,
     "age_floor_without_restrictions": 16
   },
   {
