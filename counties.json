@@ -63,7 +63,7 @@
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
     "Total reports": 2525,
-    "Yeses": 1326,
+    "Yeses": 1325,
     "age_floor_without_restrictions": 16
   },
   {
@@ -217,7 +217,7 @@
     "Vaccine info URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Vaccine locations URL": "https://www.amadorgov.org/services/public-health/covid-19/vaccine-information",
     "Total reports": 11,
-    "Yeses": 7,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
@@ -267,7 +267,7 @@
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
     "Total reports": 96,
-    "Yeses": 84,
+    "Yeses": 83,
     "age_floor_without_restrictions": 16
   },
   {
