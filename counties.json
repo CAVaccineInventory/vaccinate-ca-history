@@ -10,7 +10,7 @@
     "Vaccine info URL": "https://www.suttercounty.org/vaccine",
     "Vaccine locations URL": "https://www.suttercounty.org/doc/coronavirus/coronavirusVaccine/CoronavirusVaccineRegistration",
     "Total reports": 33,
-    "Yeses": 20,
+    "Yeses": 21,
     "age_floor_without_restrictions": 16
   },
   {
@@ -177,8 +177,8 @@
     "County vaccination reservations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
     "Vaccine info URL": "https://www.yuba.org/coronavirus/vaccines.php",
     "Vaccine locations URL": "https://www.yuba.org/coronavirus/register_for_vaccination.php",
-    "Total reports": 21,
-    "Yeses": 14,
+    "Total reports": 23,
+    "Yeses": 16,
     "age_floor_without_restrictions": 16
   },
   {
