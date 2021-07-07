@@ -22,7 +22,7 @@
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
     "Total reports": 15,
-    "Yeses": 13,
+    "Yeses": 14,
     "age_floor_without_restrictions": 16
   },
   {
@@ -398,8 +398,8 @@
     "County vaccination reservations URL": "https://www.recoverslo.org/en/vaccine-registration.aspx",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Total reports": 63,
-    "Yeses": 50,
+    "Total reports": 65,
+    "Yeses": 52,
     "age_floor_without_restrictions": 16
   },
   {
