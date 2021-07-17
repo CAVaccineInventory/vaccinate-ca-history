@@ -290,8 +290,8 @@
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
-    "Total reports": 81,
-    "Yeses": 65,
+    "Total reports": 83,
+    "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
   {
@@ -398,8 +398,8 @@
     "County vaccination reservations URL": "https://www.recoverslo.org/en/vaccine-registration.aspx",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Total reports": 66,
-    "Yeses": 53,
+    "Total reports": 69,
+    "Yeses": 56,
     "age_floor_without_restrictions": 16
   },
   {
@@ -676,7 +676,7 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 286,
+    "Total reports": 287,
     "Yeses": 226,
     "age_floor_without_restrictions": 16
   },
