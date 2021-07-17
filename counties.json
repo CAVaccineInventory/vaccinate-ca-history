@@ -316,7 +316,7 @@
     "Vaccine info URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Vaccine locations URL": "https://coronavirus.monocounty.ca.gov/pages/vaccinations",
     "Total reports": 14,
-    "Yeses": 5,
+    "Yeses": 6,
     "age_floor_without_restrictions": 16
   },
   {
@@ -611,8 +611,8 @@
     "County vaccination reservations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
     "Vaccine info URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations",
     "Vaccine locations URL": "https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-vaccinations/vaccination-clinics",
-    "Total reports": 55,
-    "Yeses": 46,
+    "Total reports": 56,
+    "Yeses": 47,
     "age_floor_without_restrictions": 16
   },
   {
