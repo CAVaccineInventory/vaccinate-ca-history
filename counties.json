@@ -349,16 +349,14 @@
   {
     "id": "reclZ8DWOEuoluStG",
     "County": "San Bernardino County",
-    "Notes": "(Updated: Apr 13) **Eligibility**: 16+\r\nAlso: Effective immediately, those who accompany an eligible family member to an appointment are eligible, too, even if they don’t fall into an eligible category – but they must have an appointment at the same location and at approximately the same time as their eligible family member. Those accompanying someone 65 or over, a person with a serious underlying health condition or disability, a food worker, or anyone else who is eligible should sign up for an appointment as a member of that eligible cohort, and accompany that eligible person to the appointment.\r\n\r\n**County restrictions**: Must live or work in San Bernardino County\r\n\r\n**Appointment Information**: <https://sbcovid19.com/vaccine/locations/>\r\n\r\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\r\n\r\nOmnitrans offers [free vaccination shuttles](https://omnitrans.org/blog/omnitrans-offers-free-vaccination-shuttle-in-ontario-and-san-bernardino/) in Ontario and San Bernardino. \r\n###",
+    "Notes": "(Updated: July 25) **Eligibility**: 12+\r\nCOVID-19 vaccines are available to people 12 and older who live and work in San Bernardino County.\r\n\r\nWalk-ins are now available at County-operated vaccination sites. Walk-in individuals will not need to bring any additional information to the site, however be prepared to register on site, which will include answering health screening questions.\r\n\r\nWalk-ins may experience longer wait times and availability may vary based on site demand.\r\n\r\n**County restrictions**: Must live or work in San Bernardino County\r\n\r\n**Appointment Information**: <https://sbcovid19.com/vaccine/>\r\n\r\n**Phone number**: For vaccine questions and help, call the county's COVID-19 hotline at (909) 387-3911 from 9 a.m. to 8 p.m. Monday through Friday.\r\n\r\nOmnitrans offers [free vaccination shuttles](https://omnitrans.org/blog/omnitrans-offers-free-vaccination-shuttle-in-ontario-and-san-bernardino/) in Ontario and San Bernardino. \r\n###",
     "Twitter Page": "https://twitter.com/SBCountyPH",
     "Facebook Page": "https://www.facebook.com/SBCPublicHealth",
     "Official volunteering opportunities": "https://hr.sbcounty.gov/volunteerhub/",
-    "County vaccination reservations URL": "https://sbcovid19.com/vaccine/locations/",
     "Vaccine info URL": "https://sbcovid19.com/vaccine/",
-    "Vaccine locations URL": "https://sbcovid19.com/vaccine/locations/#load",
     "Total reports": 500,
-    "Yeses": 335,
-    "age_floor_without_restrictions": 16
+    "Yeses": 329,
+    "age_floor_without_restrictions": 12
   },
   {
     "id": "recl8GEIaG1m1qokG",
