@@ -62,7 +62,7 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2532,
+    "Total reports": 2534,
     "Yeses": 1327,
     "age_floor_without_restrictions": 16
   },
@@ -189,7 +189,7 @@
     "Facebook Page": "https://www.facebook.com/PublicHealthSCC",
     "County vaccination reservations URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
     "Vaccine info URL": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/Vaccine.aspx",
-    "Total reports": 58,
+    "Total reports": 59,
     "Yeses": 46,
     "age_floor_without_restrictions": 16
   },
@@ -290,7 +290,7 @@
     "County vaccination reservations URL": "https://www.placer.ca.gov/vaccineclinics",
     "Vaccine info URL": "https://www.placer.ca.gov/6996/Vaccine",
     "Vaccine locations URL": "https://www.placer.ca.gov/vaccineclinics",
-    "Total reports": 84,
+    "Total reports": 85,
     "Yeses": 67,
     "age_floor_without_restrictions": 16
   },
@@ -384,8 +384,8 @@
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Total reports": 119,
-    "Yeses": 72,
+    "Total reports": 120,
+    "Yeses": 71,
     "age_floor_without_restrictions": 16
   },
   {
@@ -398,8 +398,8 @@
     "County vaccination reservations URL": "https://www.recoverslo.org/en/vaccine-registration.aspx",
     "Vaccine info URL": "https://www.recoverslo.org/en/covid-19-vaccines-in-slo-county.aspx",
     "Vaccine locations URL": "https://www.recoverslo.org/en/when-and-where-can-you-get-vaccinated.aspx#Where-to-Get-the-Vaccine",
-    "Total reports": 74,
-    "Yeses": 61,
+    "Total reports": 75,
+    "Yeses": 62,
     "age_floor_without_restrictions": 16
   },
   {
@@ -411,8 +411,8 @@
     "County vaccination reservations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx#myturn",
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
-    "Total reports": 310,
-    "Yeses": 229,
+    "Total reports": 311,
+    "Yeses": 226,
     "age_floor_without_restrictions": 16
   },
   {
