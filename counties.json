@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2534,
-    "Yeses": 1327,
+    "Total reports": 2535,
+    "Yeses": 1328,
     "age_floor_without_restrictions": 16
   },
   {
@@ -329,8 +329,8 @@
     "County vaccination reservations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine info URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines.html",
     "Vaccine locations URL": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/vaccines/COVID-19-VaxEvents.html",
-    "Total reports": 652,
-    "Yeses": 466,
+    "Total reports": 653,
+    "Yeses": 467,
     "age_floor_without_restrictions": 16
   },
   {
@@ -535,8 +535,8 @@
     "Official volunteering opportunities": "https://www.venturacountyrecovers.org/vaccine-information/subscribe-volunteer-vaccinator/",
     "County vaccination reservations URL": "https://www.venturacountyrecovers.org/vaccine-information/portal/",
     "Vaccine info URL": "https://www.venturacountyrecovers.org/vaccine-information/",
-    "Total reports": 232,
-    "Yeses": 176,
+    "Total reports": 234,
+    "Yeses": 178,
     "age_floor_without_restrictions": 16
   },
   {
@@ -674,8 +674,8 @@
     "County vaccination reservations URL": "https://covid-19.acgov.org/vaccines",
     "Vaccine info URL": "https://covid-19.acgov.org/vaccines.page",
     "Vaccine locations URL": "https://covid-19.acgov.org/vaccines.page?#eligibility-hcp",
-    "Total reports": 293,
-    "Yeses": 222,
+    "Total reports": 294,
+    "Yeses": 223,
     "age_floor_without_restrictions": 16
   },
   {
