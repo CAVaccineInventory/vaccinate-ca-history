@@ -267,7 +267,7 @@
     "County vaccination reservations URL": "https://www.solanocounty.com/depts/ph/coronavirus_links/faq___covid_19_vaccines.asp",
     "Vaccine info URL": "https://solanocounty.com/depts/ph/coronavirus_links/covid_19_vaccines.asp",
     "Total reports": 96,
-    "Yeses": 83,
+    "Yeses": 82,
     "age_floor_without_restrictions": 16
   },
   {
@@ -410,7 +410,7 @@
     "Vaccine info URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Vaccine locations URL": "https://www.sccgov.org/sites/covid19/Pages/COVID19-vaccine-information-for-public.aspx",
     "Total reports": 311,
-    "Yeses": 225,
+    "Yeses": 224,
     "age_floor_without_restrictions": 16
   },
   {
@@ -523,7 +523,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 113,
-    "Yeses": 94,
+    "Yeses": 85,
     "age_floor_without_restrictions": 16
   },
   {
