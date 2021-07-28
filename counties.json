@@ -49,7 +49,7 @@
     "County vaccination reservations URL": "https://www.yolocounty.org/government/general-government-departments/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/coronavirus-vaccine",
     "Vaccine info URL": "https://www.yolocounty.org/coronavirus-vaccine",
     "Total reports": 64,
-    "Yeses": 44,
+    "Yeses": 42,
     "age_floor_without_restrictions": 16
   },
   {
@@ -460,7 +460,7 @@
     "Vaccine info URL": "https://sf.gov/covid-19-vaccine-san-francisco",
     "Vaccine locations URL": "https://sf.gov/vaccine-sites",
     "Total reports": 240,
-    "Yeses": 173,
+    "Yeses": 172,
     "age_floor_without_restrictions": 16
   },
   {
@@ -523,7 +523,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 113,
-    "Yeses": 85,
+    "Yeses": 77,
     "age_floor_without_restrictions": 16
   },
   {
@@ -549,7 +549,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 141,
-    "Yeses": 101,
+    "Yeses": 98,
     "age_floor_without_restrictions": 16
   },
   {
