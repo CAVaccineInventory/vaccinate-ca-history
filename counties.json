@@ -21,8 +21,8 @@
     "Facebook Page": "https://www.facebook.com/MariposaCountyPublicHealth/?ref=bookmarks",
     "County vaccination reservations URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=fCdnJLfxW0qLdexgCSM17lXbsjwkAmVKlpPwkl1gWP5UODdLVTY3RlhLMk5PRk5VVU1VRUxaMEhFQi4u",
     "Vaccine info URL": "http://www.mariposacounty.org/2466/COVID-19-Vaccination",
-    "Total reports": 15,
-    "Yeses": 14,
+    "Total reports": 16,
+    "Yeses": 15,
     "age_floor_without_restrictions": 16
   },
   {
@@ -549,7 +549,7 @@
     "County vaccination reservations URL": "https://www.smchealth.org/post/covid-19-vaccine",
     "Vaccine info URL": "https://www.smchealth.org/covid-19-vaccination",
     "Total reports": 141,
-    "Yeses": 96,
+    "Yeses": 94,
     "age_floor_without_restrictions": 16
   },
   {
