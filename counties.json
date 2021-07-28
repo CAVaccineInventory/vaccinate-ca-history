@@ -382,8 +382,8 @@
     "County vaccination reservations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/clinics/",
     "Vaccine info URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/",
     "Vaccine locations URL": "https://socoemergency.org/emergency/novel-coronavirus/vaccine-information/how-should-i-expect-to-get-my-vaccine/",
-    "Total reports": 120,
-    "Yeses": 71,
+    "Total reports": 121,
+    "Yeses": 70,
     "age_floor_without_restrictions": 16
   },
   {
@@ -523,7 +523,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 113,
-    "Yeses": 65,
+    "Yeses": 62,
     "age_floor_without_restrictions": 16
   },
   {
