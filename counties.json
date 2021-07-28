@@ -62,8 +62,8 @@
     "County vaccination reservations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/",
     "Vaccine info URL": "http://publichealth.lacounty.gov/media/coronavirus/vaccine/",
     "Vaccine locations URL": "http://publichealth.lacounty.gov/acd/ncorona2019/vaccine/hcwsignup/pods/#a93d55e49fd32ffd49714d7cc8a1be83",
-    "Total reports": 2535,
-    "Yeses": 1328,
+    "Total reports": 2536,
+    "Yeses": 1329,
     "age_floor_without_restrictions": 16
   },
   {
@@ -523,7 +523,7 @@
     "Vaccine info URL": "https://coronavirus.marinhhs.org/vaccine",
     "Vaccine locations URL": "https://coronavirus.marinhhs.org/vaccine/status",
     "Total reports": 113,
-    "Yeses": 77,
+    "Yeses": 65,
     "age_floor_without_restrictions": 16
   },
   {
