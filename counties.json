@@ -76,8 +76,8 @@
     "County vaccination reservations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine info URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/",
     "Vaccine locations URL": "https://covid19.tularecounty.ca.gov/covid-19-vaccine/make-a-vaccination-appointment/covid-vaccination-sites-in-tulare-county/",
-    "Total reports": 158,
-    "Yeses": 101,
+    "Total reports": 159,
+    "Yeses": 102,
     "age_floor_without_restrictions": 16
   },
   {
@@ -509,8 +509,8 @@
     "County vaccination reservations URL": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-clinics.aspx",
     "Vaccine info URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-vaccine",
     "Vaccine locations URL": "https://www.edcgov.us/Government/hhsa/edccovid-19-clinics",
-    "Total reports": 44,
-    "Yeses": 38,
+    "Total reports": 45,
+    "Yeses": 39,
     "age_floor_without_restrictions": 16
   },
   {
